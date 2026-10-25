@@ -120,6 +120,19 @@ def _snapshot(data: dict[str, Any], hand_added: bool = False) -> dict[str, Any]:
     return snap
 
 
+def _tombstone(gig: GigFile, venues: VenueIndex, reason: str) -> dict[str, Any]:
+    facts = gig.facts(venues)
+    return {
+        "id": gig.id,
+        "keys": [s["key"] for s in gig.data.get("sources") or [] if isinstance(s, dict) and s.get("key")],
+        "fingerprint": f"{facts.group}|{facts.date}|{norm_act(facts.headliner)}" if facts else "",
+        "date": gig.data.get("date"),
+        "first_seen": gig.data.get("first_seen"),
+        "backfill": bool(gig.data.get("backfill")),
+        "reason": reason,
+    }
+
+
 def _new_slug(gigs_dir: Path, date: str, venue: str, headliner: str, taken: set[str]) -> str:
     base = f"{date}-{venue}-{slugify(headliner, 40)}"
     slug, n = base, 2
@@ -201,7 +214,7 @@ def apply(
         if gid is None:
             gid = str(tomb["id"]) if tomb else str(uuid.uuid4())
             data = {"id": gid, **fields, "first_seen": tomb.get("first_seen", stamp) if tomb else stamp, "updated_at": stamp}
-            if cand.backfill and not tomb:
+            if (tomb.get("backfill") if tomb else cand.backfill):
                 data["backfill"] = True
             if tomb:
                 state.tombstones.remove(tomb)
@@ -235,6 +248,9 @@ def apply(
         if gid in matched or not keys or not keys <= rejected_keys or snap is None or snap.get("_hand_added") or gig.data.get("locked_fields"):
             continue
         changes.reclassified.append(gig.path.stem)
+        # Remembered, so if it's judged a gig again later it returns with its own id and
+        # first_seen instead of showing up as newly announced.
+        state.tombstones.append(_tombstone(gig, venues, "reclassified"))
         del gigs[gid]
         state.seen.pop(gid, None)
         state.snapshots.pop(gid, None)
@@ -251,17 +267,7 @@ def apply(
         entry = state.seen.setdefault(gid, {"last_seen": None, "misses": 0})
         entry["misses"] = entry.get("misses", 0) + 1
         if entry["misses"] >= REMOVE_AFTER_MISSES:
-            facts = gig.facts(venues)
-            state.tombstones.append(
-                {
-                    "id": gid,
-                    "keys": [s["key"] for s in gig.data.get("sources") or [] if s.get("key")],
-                    "fingerprint": f"{facts.group}|{facts.date}|{norm_act(facts.headliner)}" if facts else "",
-                    "date": gig.data.get("date"),
-                    "first_seen": gig.data.get("first_seen"),
-                    "reason": "vanished",
-                }
-            )
+            state.tombstones.append(_tombstone(gig, venues, "vanished"))
             changes.vanished.append(gig.path.stem)
             state.seen.pop(gid, None)
             state.snapshots.pop(gid, None)

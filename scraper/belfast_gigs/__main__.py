@@ -66,7 +66,7 @@ def collect(
     classifier = Classifier(data_dir, today[:7], enabled=use_llm)
     out = Collected(now=now, report=Report(dry_run=dry_run))
     report = out.report
-    pending = []  # (prepared, rules verdict, adapter, first_run, fingerprint)
+    pending = []  # (prepared, rules verdict, adapter, forced music?, first_run, fingerprint)
     listings: dict[str, dict] = {}
 
     own_http = http is None
@@ -113,8 +113,9 @@ def collect(
                 if prepared is None:
                     report.out_of_area[raw.venue_name] += 1
                     continue
-                verdict = classify(prepared, always_music=adapter.always_music)
-                if raw.is_music_hint is False and not adapter.always_music:
+                forced = adapter.always_music or state.overrides.allowed(raw.title)
+                verdict = classify(prepared, always_music=forced)
+                if raw.is_music_hint is False and not forced:
                     report.not_music[verdict.reason] += 1  # the source itself says so: no need to ask Claude
                     out.rejected_keys.add(raw.source_key)
                     continue
@@ -126,14 +127,14 @@ def collect(
                     "date": raw.date,
                     "source_tags": raw.categories,
                 }
-                pending.append((prepared, verdict, adapter, first_run, fp))
+                pending.append((prepared, verdict, adapter, forced, first_run, fp))
     finally:
         if own_http:
             http.__exit__(None, None, None)
 
     llm = classifier.classify(listings, today) if listings else {}
-    for prepared, rules_verdict, adapter, first_run, fp in pending:
-        verdict = with_llm(rules_verdict, llm.get(fp), adapter.always_music)
+    for prepared, rules_verdict, adapter, forced, first_run, fp in pending:
+        verdict = with_llm(rules_verdict, llm.get(fp), forced)
         if not verdict.publish:
             report.not_music[verdict.reason.split(" (")[0]] += 1
             out.rejected_keys.add(prepared.raw.source_key)

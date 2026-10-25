@@ -25,10 +25,14 @@ _FILES = ("seen", "snapshots", "tombstones", "source_health")
 @dataclass
 class Overrides:
     block_titles: list[re.Pattern] = field(default_factory=list)
+    allow_titles: list[re.Pattern] = field(default_factory=list)
     exclude_ticket_urls: set[str] = field(default_factory=set)
 
     def blocked(self, title: str) -> bool:
         return any(p.search(title) for p in self.block_titles)
+
+    def allowed(self, title: str) -> bool:
+        return any(p.search(title) for p in self.allow_titles)
 
 
 @dataclass
@@ -51,6 +55,7 @@ class State:
             raw = yaml.safe_load(ov_path.read_text(encoding="utf-8")) or {}
             state.overrides = Overrides(
                 block_titles=[re.compile(p, re.I) for p in raw.get("block_titles") or []],
+                allow_titles=[re.compile(p, re.I) for p in raw.get("allow_titles") or []],
                 exclude_ticket_urls=set(raw.get("exclude_ticket_urls") or []),
             )
         return state

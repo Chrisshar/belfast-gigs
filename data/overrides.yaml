@@ -4,5 +4,9 @@
 # Example: - "^Bingo Loco"
 block_titles: []
 
+# Regular expressions for listings that are always gigs, whatever the rules or Claude think.
+# Example: - "^Stop Making Sense Live$"
+allow_titles: []
+
 # Ticket links to drop from every gig, e.g. a dead or misleading link a source keeps sending.
 exclude_ticket_urls: []

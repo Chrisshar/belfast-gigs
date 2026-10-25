@@ -152,6 +152,48 @@ def test_gig_newly_judged_not_music_is_removed_unless_a_human_edited_it(site, tm
     assert [p.name for p in site["gigs"].glob("*.md")] == [edited.name]
 
 
+def test_unsure_claude_cant_drop_what_the_source_calls_music(site, tmp_path, monkeypatch, fake_source):
+    fake_source.events = [raw(source="fake", source_key="fake:1", title="Stop Making Sense Live", is_music_hint=True)]
+    doubt = lambda item: {"is_music": False, "confidence": 0.7, "headliner": item["title"], "support": [], "genres": ["Rock"]}  # noqa: E731
+    run_once(site, tmp_path, monkeypatch, doubt)
+    [path] = site["gigs"].glob("*.md")
+    data, _ = frontmatter.read(path)
+    assert data["needs_review"] is True and data["classification"]["confidence"] == 0.5
+
+
+def test_source_and_unsure_claude_agreeing_is_not_flagged(site, tmp_path, monkeypatch, fake_source):
+    fake_source.events = [raw(source="fake", source_key="fake:1", title="Little Known Local Band", is_music_hint=True)]
+    unsure = lambda item: {"is_music": True, "confidence": 0.6, "headliner": item["title"], "support": [], "genres": ["Rock"]}  # noqa: E731
+    run_once(site, tmp_path, monkeypatch, unsure)
+    [path] = site["gigs"].glob("*.md")
+    assert "needs_review" not in frontmatter.read(path)[0]
+
+
+def test_allow_titles_override_beats_claude(site, tmp_path, monkeypatch, fake_source):
+    (site["data"] / "overrides.yaml").write_text('allow_titles: ["^Andre Example"]\n', encoding="utf-8")
+    fake_source.events = [raw(source="fake", source_key="fake:1", title="Andre Example", is_music_hint=None)]
+    no = lambda item: {"is_music": False, "confidence": 0.99, "headliner": item["title"], "support": [], "genres": []}  # noqa: E731
+    run_once(site, tmp_path, monkeypatch, no)
+    assert len(list(site["gigs"].glob("*.md"))) == 1
+
+
+def test_reclassified_gig_that_returns_keeps_first_seen_and_backfill(site, tmp_path, monkeypatch, fake_source):
+    fake_source.events = [raw(source="fake", source_key="fake:1", title="Andre Example", is_music_hint=None)]
+    run_once(site, tmp_path, monkeypatch, gig)  # first run: backfill
+    [path] = site["gigs"].glob("*.md")
+    original = frontmatter.read(path)[0]
+    assert original["backfill"] is True
+    no = lambda item: {"is_music": False, "confidence": 0.95, "headliner": item["title"], "support": [], "genres": []}  # noqa: E731
+    (site["data"] / "classify_cache.json").unlink()
+    run_once(site, tmp_path, monkeypatch, no)
+    assert list(site["gigs"].glob("*.md")) == []
+    (site["data"] / "classify_cache.json").unlink()
+    run_once(site, tmp_path, monkeypatch, gig)
+    [path] = site["gigs"].glob("*.md")
+    back = frontmatter.read(path)[0]
+    assert back["id"] == original["id"] and back["first_seen"] == original["first_seen"] and back["backfill"] is True
+
+
 def test_dry_run_writes_nothing_but_records_spend(site, tmp_path, monkeypatch, fake_source):
     fake_source.events = [raw(source="fake", source_key="fake:1", is_music_hint=None)]
     run_once(site, tmp_path, monkeypatch, gig, dry_run=True)

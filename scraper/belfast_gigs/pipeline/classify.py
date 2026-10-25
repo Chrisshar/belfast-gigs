@@ -86,10 +86,24 @@ def classify(p: Prepared, always_music: bool = False) -> Verdict:
     return v(True, 0.5, "no clear signal")
 
 
+OVERRULE_SOURCE_AT = 0.9
+
+
 def with_llm(rules: Verdict, llm: dict | None, always_music: bool = False) -> Verdict:
-    """Claude's verdict replaces the rules' (it knows the acts), except for music-only sources."""
+    """Claude's verdict replaces the rules' (it knows the acts), except for music-only sources.
+
+    When the source itself listed it as music, Claude needs to be sure to drop it (an orchestra
+    touring an arena); a less certain "no" (a tribute show it mistook for the film) is published
+    and flagged for a human instead. Missing a gig is worse than a stray listing.
+    """
     if llm is None or always_music:
         return rules
     confidence = round(float(llm["confidence"]), 2)
+    source_said_music = rules.classification.is_music and rules.classification.confidence >= 0.9
+    if not llm["is_music"] and source_said_music and confidence < OVERRULE_SOURCE_AT:
+        return Verdict(Classification(is_music=True, confidence=0.5, method="llm"), f"source says music, Claude doubts it ({confidence})")
+    if llm["is_music"] and source_said_music:
+        # Claude often doesn't know local acts; agreeing with the source is enough.
+        confidence = max(confidence, rules.classification.confidence)
     what = "a gig" if llm["is_music"] else "not a gig"
     return Verdict(Classification(is_music=llm["is_music"], confidence=confidence, method="llm"), f"Claude: {what} ({confidence})")
