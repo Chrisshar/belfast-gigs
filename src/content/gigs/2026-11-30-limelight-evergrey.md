@@ -11,6 +11,9 @@ date: "2026-11-30"
 doors_time: "19:00"
 status: "on_sale"
 age_restriction: "18+"
+genres:
+- "Metal"
+- "Rock"
 tickets:
 - source: "Skiddle"
   url: "https://www.skiddle.com/whats-on/Belfast/Limelight-2/Evergrey--TBC-Monday-30th-November-Limelight-2-Belfast/42482490/"
@@ -19,10 +22,10 @@ sources:
   key: "limelight:11101"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T17:32:54Z"
+updated_at: "2026-10-25T22:11:16Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
-  method: "rules"
+  confidence: 0.97
+  method: "llm"
 ---

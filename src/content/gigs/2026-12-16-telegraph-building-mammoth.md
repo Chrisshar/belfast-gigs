@@ -9,6 +9,9 @@ date: "2026-12-16"
 doors_time: "19:00"
 status: "on_sale"
 age_restriction: "18+"
+genres:
+- "Rock"
+- "Metal"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/mammoth-belfast-16-12-2026/event/3800642FA7A91BAA"
@@ -17,10 +20,10 @@ sources:
   key: "limelight:10353"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T17:32:54Z"
+updated_at: "2026-10-25T22:11:16Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
-  method: "rules"
+  confidence: 0.85
+  method: "llm"
 ---

@@ -8,6 +8,9 @@ date: "2026-11-24"
 doors_time: "18:30"
 status: "on_sale"
 age_restriction: "18+"
+genres:
+- "Electronic"
+- "Pop"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/l1nkn-p4rk-the-linkin-park-experience-belfast-24-11-2026/event/38006462E55A1C9A"
@@ -16,10 +19,10 @@ sources:
   key: "limelight:10518"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T17:32:54Z"
+updated_at: "2026-10-25T22:11:16Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
-  method: "rules"
+  confidence: 0.8
+  method: "llm"
 ---

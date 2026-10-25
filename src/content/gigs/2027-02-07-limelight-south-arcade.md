@@ -8,6 +8,9 @@ date: "2027-02-07"
 doors_time: "19:00"
 status: "on_sale"
 age_restriction: "18+"
+genres:
+- "Rock"
+- "Indie/Alternative"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/south-arcade-belfast-07-02-2027/event/380064C3B330266A"
@@ -16,10 +19,10 @@ sources:
   key: "limelight:11128"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T17:32:54Z"
+updated_at: "2026-10-25T22:11:16Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
-  method: "rules"
+  confidence: 0.95
+  method: "llm"
 ---

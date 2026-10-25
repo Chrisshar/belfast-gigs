@@ -5,7 +5,9 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop"
+  ],
   "headliner": "Chesney Hawkes",
   "needs_review": null,
   "price_max": null,
@@ -36,8 +38,11 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Belsonic 2027",
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Amble",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -69,7 +74,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Razorlight",
   "needs_review": null,
   "price_max": null,
@@ -102,7 +110,10 @@
   "doors_time": "19:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
   "headliner": "The Style Councillors",
   "needs_review": null,
   "price_max": null,
@@ -133,7 +144,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
   "headliner": "Evergrey",
   "needs_review": null,
   "price_max": null,
@@ -167,7 +181,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
   "headliner": "Xentrix",
   "needs_review": null,
   "price_max": null,
@@ -201,9 +218,12 @@
   "doors_time": "15:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "DAY FEVER",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -232,7 +252,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
   "headliner": "Hail The Sun",
   "needs_review": null,
   "price_max": null,
@@ -265,7 +288,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Country/Americana",
+   "Pop"
+  ],
   "headliner": "Ashley Cooke",
   "needs_review": null,
   "price_max": null,
@@ -298,7 +324,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Pearl Scam",
   "needs_review": null,
   "price_max": null,
@@ -329,8 +358,11 @@
   "doors_time": "17:30",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Winter in the Sun",
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Cardinals",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -365,8 +397,11 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Belsonic 2027",
+  "genres": [
+   "Pop",
+   "Indie/Alternative"
+  ],
+  "headliner": "Sombr",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -398,7 +433,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Indie/Alternative"
+  ],
   "headliner": "Basement",
   "needs_review": null,
   "price_max": null,
@@ -433,9 +471,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -467,7 +505,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
   "headliner": "Big Ass Truck",
   "needs_review": null,
   "price_max": null,
@@ -501,7 +542,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Hip-Hop/Rap"
+  ],
   "headliner": "Skindred",
   "needs_review": null,
   "price_max": null,
@@ -535,8 +579,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "The Wanted 2.0",
+  "genres": [
+   "Pop",
+   "Tribute/Covers"
+  ],
+  "headliner": "The Wanted",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -566,7 +613,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Texas",
   "needs_review": null,
   "price_max": null,
@@ -594,7 +644,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
   "headliner": "Scouting For Girls",
   "needs_review": null,
   "price_max": null,
@@ -625,7 +678,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
   "headliner": "The Script",
   "needs_review": null,
   "price_max": null,
@@ -658,9 +714,12 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "The Summer Series 2027",
-  "needs_review": true,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Slash",
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -692,9 +751,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
   "headliner": "Jamie McIntyre",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -723,7 +785,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
   "headliner": "Wrong Jovi",
   "needs_review": null,
   "price_max": null,
@@ -755,9 +820,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -789,7 +854,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Country/Americana",
+   "Tribute/Covers"
+  ],
   "headliner": "One Night In Nashville",
   "needs_review": null,
   "price_max": null,
@@ -824,7 +892,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
   "headliner": "Bleech 9:3",
   "needs_review": null,
   "price_max": null,
@@ -855,7 +926,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Indie/Alternative"
+  ],
   "headliner": "Harakiri for the Sky",
   "needs_review": null,
   "price_max": null,
@@ -888,7 +962,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
   "headliner": "Callum Beattie",
   "needs_review": null,
   "price_max": null,
@@ -919,8 +996,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "SAXON",
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Saxon",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -950,7 +1030,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Electronic",
+   "Hip-Hop/Rap"
+  ],
   "headliner": "Slipknowt",
   "needs_review": null,
   "price_max": null,
@@ -982,6 +1065,7 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Rock",
    "Metal"
   ],
   "headliner": "Eagles of Death Metal",
@@ -1016,7 +1100,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Aslan",
   "needs_review": null,
   "price_max": null,
@@ -1049,8 +1136,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "SKERRYVORE",
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Skerryvore",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1080,7 +1170,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Jazz/Blues",
+   "Singer-Songwriter"
+  ],
   "headliner": "Anthony Gomes",
   "needs_review": null,
   "price_max": null,
@@ -1111,8 +1204,11 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "SEVENDUST",
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Sevendust",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1144,9 +1240,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
   "headliner": "Dexy's Midnight Runners",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -1171,44 +1270,16 @@
   "title": "Dexy's Midnight Runners",
   "venue": "ulster-hall"
  },
- "46bf80aa-fd89-4ea3-987d-d49652238a4b": {
-  "age_restriction": "18+",
-  "date": "2026-11-27",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": null,
-  "headliner": "Stop Making Sense Live",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11396",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/stop-making-sense-live-belfast-27-11-2026/event/380064EABBF10F24"
-   }
-  ],
-  "title": "Stop Making Sense Live",
-  "venue": "limelight"
- },
  "482ca376-f442-4a46-a1ec-080410f17b25": {
   "age_restriction": "18+",
   "date": "2026-11-26",
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
   "headliner": "Picture This",
   "needs_review": null,
   "price_max": null,
@@ -1239,7 +1310,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Electronic"
+  ],
   "headliner": "Huey Morgan",
   "needs_review": null,
   "price_max": null,
@@ -1271,9 +1345,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1305,7 +1379,9 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop"
+  ],
   "headliner": "Niall Horan",
   "needs_review": null,
   "price_max": null,
@@ -1333,7 +1409,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
   "headliner": "The Rapparees",
   "needs_review": null,
   "price_max": null,
@@ -1358,44 +1437,16 @@
   "title": "The Rapparees",
   "venue": "limelight"
  },
- "4bf66406-2021-4243-8eab-4dce581df414": {
-  "age_restriction": "18+",
-  "date": "2026-11-01",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": null,
-  "headliner": "Joshua Idehen",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11477",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5409793?venueId=461484"
-   }
-  ],
-  "title": "Joshua Idehen",
-  "venue": "limelight"
- },
  "4c2f430c-7804-45f3-918a-7565d427922b": {
   "age_restriction": "18+",
   "date": "2027-03-05",
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
   "headliner": "Fionn Regan",
   "needs_review": null,
   "price_max": null,
@@ -1426,7 +1477,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Rock"
+  ],
   "headliner": "Aaron Rowe",
   "needs_review": null,
   "price_max": null,
@@ -1459,7 +1513,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
   "headliner": "The 9075",
   "needs_review": null,
   "price_max": null,
@@ -1490,7 +1547,9 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Country/Americana"
+  ],
   "headliner": "Cody Johnson",
   "needs_review": null,
   "price_max": null,
@@ -1521,7 +1580,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
   "headliner": "Transvision Vamp",
   "needs_review": null,
   "price_max": null,
@@ -1554,7 +1616,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
   "headliner": "Divides Unfold",
   "needs_review": null,
   "price_max": null,
@@ -1588,7 +1653,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Hip-Hop/Rap"
+  ],
   "headliner": "The Eminem Experience",
   "needs_review": null,
   "price_max": null,
@@ -1619,7 +1687,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
   "headliner": "The Total Stone Roses & Oaysis Live",
   "needs_review": null,
   "price_max": null,
@@ -1650,7 +1721,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
   "headliner": "Mammoth",
   "needs_review": null,
   "price_max": null,
@@ -1683,8 +1757,11 @@
   "doors_time": "18:15",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "AVATAR",
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Avatar",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1716,9 +1793,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
   "headliner": "Late Night Thoughts",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -1747,7 +1826,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Electronic",
+   "Rock",
+   "Punk/Hardcore"
+  ],
   "headliner": "Enter Shikari",
   "needs_review": null,
   "price_max": null,
@@ -1778,7 +1861,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Folk/Trad",
+   "Electronic"
+  ],
   "headliner": "Elephant Sessions",
   "needs_review": null,
   "price_max": null,
@@ -1809,7 +1895,10 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
   "headliner": "The Menzingers",
   "needs_review": null,
   "price_max": null,
@@ -1842,7 +1931,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
   "headliner": "Craic Sabbath & Ozzified",
   "needs_review": null,
   "price_max": null,
@@ -1873,7 +1965,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
   "headliner": "Drew Baldridge",
   "needs_review": null,
   "price_max": null,
@@ -1904,7 +1999,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
   "headliner": "Darren Kiely",
   "needs_review": null,
   "price_max": null,
@@ -1935,7 +2033,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
   "headliner": "Sweet Savage",
   "needs_review": null,
   "price_max": null,
@@ -1968,7 +2069,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
   "headliner": "Fat Dog",
   "needs_review": null,
   "price_max": null,
@@ -2001,8 +2105,11 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Belsonic 2027",
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "Kingfishr",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2032,7 +2139,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Country/Americana"
+  ],
   "headliner": "Ricky Warwick & The Fighting Hearts",
   "needs_review": null,
   "price_max": null,
@@ -2065,7 +2175,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
   "headliner": "Haken",
   "needs_review": null,
   "price_max": null,
@@ -2099,8 +2212,11 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Kings of Lyon & The UK Strokes",
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Kings of Lyon",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2114,7 +2230,9 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "The UK Strokes"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -2124,44 +2242,15 @@
   "title": "Kings of Lyon & The UK Strokes",
   "venue": "limelight"
  },
- "7dae3a78-f53a-452b-b04e-4793c147dff8": {
-  "age_restriction": "18+",
-  "date": "2026-11-21",
-  "doors_time": "17:00",
-  "end_date": null,
-  "free": null,
-  "genres": null,
-  "headliner": "Girl Code",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11718",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "locomotivelive.com",
-    "url": "https://www.locomotivelive.com/girl-code/belfast"
-   }
-  ],
-  "title": "Girl Code",
-  "venue": "limelight"
- },
  "7e92e771-fbf1-4525-96e2-018885c98110": {
   "age_restriction": null,
   "date": "2026-11-16",
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop"
+  ],
   "headliner": "Niall Horan",
   "needs_review": null,
   "price_max": null,
@@ -2194,7 +2283,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
   "headliner": "Martin Stephenson & The Daintees",
   "needs_review": null,
   "price_max": null,
@@ -2225,7 +2317,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Rock"
+  ],
   "headliner": "St. Paul & The Broken Bones",
   "needs_review": null,
   "price_max": null,
@@ -2258,9 +2353,12 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Pork Pie",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 2",
@@ -2289,7 +2387,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Cardinal Black",
   "needs_review": null,
   "price_max": null,
@@ -2320,7 +2421,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Electronic",
+   "Pop"
+  ],
   "headliner": "L1NKN P4RK",
   "needs_review": null,
   "price_max": null,
@@ -2351,7 +2455,10 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
   "headliner": "Rod Stewart",
   "needs_review": null,
   "price_max": null,
@@ -2384,7 +2491,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
   "headliner": "Signs of The Swarm",
   "needs_review": null,
   "price_max": null,
@@ -2419,7 +2529,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk",
+   "Electronic"
+  ],
   "headliner": "Nubiyan Twist",
   "needs_review": null,
   "price_max": null,
@@ -2450,7 +2564,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
   "headliner": "Picture This",
   "needs_review": null,
   "price_max": null,
@@ -2481,7 +2598,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
   "headliner": "Scott Bennett",
   "needs_review": null,
   "price_max": null,
@@ -2512,8 +2632,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Luke Combs UK",
+  "genres": [
+   "Country/Americana",
+   "Pop"
+  ],
+  "headliner": "Luke Combs",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2545,7 +2668,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "The Frank & The Walters",
   "needs_review": null,
   "price_max": null,
@@ -2577,9 +2703,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2611,7 +2737,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Melrose Avenue",
   "needs_review": null,
   "price_max": null,
@@ -2639,50 +2768,16 @@
   "title": "Melrose Avenue",
   "venue": "limelight"
  },
- "9a79021b-03aa-4989-a30a-b5b29f7c5e58": {
-  "age_restriction": "18+",
-  "date": "2026-11-21",
-  "doors_time": "18:00",
-  "end_date": null,
-  "free": null,
-  "genres": null,
-  "headliner": "CIRCUS CIRCUS REUNION",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11081",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Rob Tissera",
-   "Computer",
-   "Gleave",
-   "Jacko",
-   "Robbie Nelson"
-  ],
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/circus-circus-reunion-3090-122"
-   }
-  ],
-  "title": "CIRCUS CIRCUS REUNION",
-  "venue": "limelight"
- },
  "9ad813b6-9d03-4f07-95a4-4a0000c20090": {
   "age_restriction": "18+",
   "date": "2026-12-01",
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
   "headliner": "Dylan John Thomas",
   "needs_review": null,
   "price_max": null,
@@ -2713,7 +2808,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
   "headliner": "MORETALLICA",
   "needs_review": null,
   "price_max": null,
@@ -2744,7 +2842,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "South Arcade",
   "needs_review": null,
   "price_max": null,
@@ -2775,9 +2876,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
   "headliner": "Garron Noone",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -2807,7 +2911,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers"
+   "Tribute/Covers",
+   "Metal"
   ],
   "headliner": "B.Y.O.B",
   "needs_review": null,
@@ -2841,7 +2946,9 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop"
+  ],
   "headliner": "Delta Goodrem",
   "needs_review": null,
   "price_max": null,
@@ -2873,9 +2980,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2907,9 +3014,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
   "headliner": "KhakiKid",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 2",
@@ -2938,7 +3048,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
   "headliner": "Holly Humberstone",
   "needs_review": null,
   "price_max": null,
@@ -2971,7 +3084,10 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
   "headliner": "The Undertones",
   "needs_review": null,
   "price_max": null,
@@ -3005,7 +3121,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
   "headliner": "Pa Sheehy",
   "needs_review": null,
   "price_max": null,
@@ -3036,7 +3155,9 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Pop"
+  ],
   "headliner": "Hear'say",
   "needs_review": null,
   "price_max": null,
@@ -3069,7 +3190,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
   "headliner": "Electric Six",
   "needs_review": null,
   "price_max": null,
@@ -3100,7 +3224,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
   "headliner": "Madra Salach",
   "needs_review": null,
   "price_max": null,
@@ -3131,7 +3258,9 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Folk/Trad"
+  ],
   "headliner": "The Shamrocks",
   "needs_review": null,
   "price_max": null,
@@ -3166,7 +3295,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
   "headliner": "Erasured",
   "needs_review": null,
   "price_max": null,
@@ -3197,7 +3329,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
   "headliner": "Tyler Braden",
   "needs_review": null,
   "price_max": null,
@@ -3230,7 +3365,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "The Chop Sueys",
   "needs_review": null,
   "price_max": null,
@@ -3263,7 +3401,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
   "headliner": "James Blunt",
   "needs_review": null,
   "price_max": null,
@@ -3294,9 +3435,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
   "headliner": "Garron Noone",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -3325,8 +3469,10 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Belsonic 2027",
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Take That",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3356,9 +3502,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
   "headliner": "Casper Walsh",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3388,10 +3536,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Punk/Hardcore"
+   "Punk/Hardcore",
+   "Rock"
   ],
   "headliner": "EMO FEST",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3420,7 +3569,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Little Angels",
   "needs_review": null,
   "price_max": null,
@@ -3445,45 +3597,17 @@
   "title": "Little Angels",
   "venue": "limelight"
  },
- "c3a0037f-fa25-4339-a4d7-79186e1561b3": {
-  "age_restriction": null,
-  "date": "2027-09-09",
-  "doors_time": "18:00",
-  "end_date": null,
-  "free": null,
-  "genres": null,
-  "headliner": "André Rieu",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:316260:2027-09-09",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/andré-rieu-and-his-johann-strauss-orchestra"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/773280?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_AndreRieu2027Web&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "André Rieu",
-  "venue": "the-o2-belfast"
- },
  "c61893a3-6e20-43b9-a0ce-67235aa9a1b1": {
   "age_restriction": null,
   "date": "2027-06-26",
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Belsonic 2027",
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Dermot Kennedy",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3513,7 +3637,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Deacon Blue",
   "needs_review": null,
   "price_max": null,
@@ -3544,9 +3671,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
   "headliner": "Roll With It",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3575,7 +3705,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
   "headliner": "The Molotovs",
   "needs_review": null,
   "price_max": null,
@@ -3609,7 +3742,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Country/Americana"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "Big Country",
   "needs_review": null,
@@ -3641,7 +3775,9 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock"
+  ],
   "headliner": "Dirty Honey",
   "needs_review": null,
   "price_max": null,
@@ -3672,7 +3808,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Tribute/Covers"
+  ],
   "headliner": "Marky Ramone's Blitzkrieg",
   "needs_review": null,
   "price_max": null,
@@ -3703,7 +3842,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Folk/Trad",
+   "Punk/Hardcore"
+  ],
   "headliner": "The Pogues",
   "needs_review": null,
   "price_max": null,
@@ -3738,10 +3880,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Soul/R&B/Funk"
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
   ],
   "headliner": "THE R&B ORCHESTRA",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3770,7 +3913,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "The Fillers",
   "needs_review": null,
   "price_max": null,
@@ -3801,7 +3947,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
   "headliner": "Black Stone Cherry",
   "needs_review": null,
   "price_max": null,
@@ -3832,7 +3981,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
   "headliner": "The Snuts",
   "needs_review": null,
   "price_max": null,
@@ -3863,7 +4015,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
   "headliner": "Swervedriver",
   "needs_review": null,
   "price_max": null,
@@ -3894,7 +4049,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
   "headliner": "DMA's",
   "needs_review": null,
   "price_max": null,
@@ -3925,8 +4083,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Bat Out of Hell 50th Anniversary Concert",
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Bat Out of Hell",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3956,9 +4117,12 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Electronic",
+   "Pop"
+  ],
   "headliner": "KEO",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3987,7 +4151,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
   "headliner": "FM",
   "needs_review": null,
   "price_max": null,
@@ -4018,8 +4185,11 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
-  "headliner": "Belsonic 2027",
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Alex Warren",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -4049,7 +4219,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
   "headliner": "The Darkness",
   "needs_review": null,
   "price_max": null,
@@ -4082,7 +4255,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
   "headliner": "Two Door Cinema Club",
   "needs_review": null,
   "price_max": null,
@@ -4114,9 +4290,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -4148,7 +4324,10 @@
   "doors_time": "18:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
   "headliner": "Paul Heaton",
   "needs_review": null,
   "price_max": null,
@@ -4182,7 +4361,9 @@
   "doors_time": "20:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Electronic"
+  ],
   "headliner": "Orbital",
   "needs_review": null,
   "price_max": null,
@@ -4213,7 +4394,10 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
   "headliner": "The Undertones",
   "needs_review": null,
   "price_max": null,
@@ -4247,9 +4431,11 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Rock"
+  ],
   "headliner": "ICE AGE",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -4278,7 +4464,9 @@
   "doors_time": "18:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Metal"
+  ],
   "headliner": "Megadeth",
   "needs_review": null,
   "price_max": null,
@@ -4312,9 +4500,12 @@
   "doors_time": "22:30",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
   "headliner": "Will Atkinson Vs The Rocketman",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -4344,9 +4535,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World"
+   "Pop"
   ],
-  "headliner": "Westlife 25",
+  "headliner": "Westlife",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -4378,7 +4569,10 @@
   "doors_time": "19:00",
   "end_date": null,
   "free": null,
-  "genres": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
   "headliner": "OLE 60",
   "needs_review": null,
   "price_max": null,

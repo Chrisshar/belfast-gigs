@@ -8,6 +8,9 @@ date: "2026-12-04"
 doors_time: "19:30"
 status: "on_sale"
 age_restriction: "18+"
+genres:
+- "Pop"
+- "Soul/R&B/Funk"
 tickets:
 - source: "See Tickets"
   url: "https://www.seetickets.com/event/the-style-councillors/limelight/3387367"
@@ -16,10 +19,10 @@ sources:
   key: "limelight:10428"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T17:32:54Z"
+updated_at: "2026-10-25T22:11:16Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
-  method: "rules"
+  confidence: 0.95
+  method: "llm"
 ---

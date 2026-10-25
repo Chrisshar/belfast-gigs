@@ -10,6 +10,7 @@ status: "on_sale"
 age_restriction: "18+"
 genres:
 - "Soul/R&B/Funk"
+- "Tribute/Covers"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/event/38006523E7942D35"
@@ -18,11 +19,10 @@ sources:
   key: "limelight:11581"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T17:32:54Z"
+updated_at: "2026-10-25T22:11:16Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
-  method: "rules"
-needs_review: true
+  confidence: 0.8
+  method: "llm"
 ---
