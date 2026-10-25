@@ -1,0 +1,10 @@
+{
+  // Static-assets-only Worker: Cloudflare serves ./dist directly, no Worker script runs.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "belfast-gigs",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

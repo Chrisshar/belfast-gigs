@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import GigCard from '../components/GigCard.astro';
+import { formatMonth } from '../lib/dates';
+import { getUpcomingGigs, groupByMonth, recentlyAdded } from '../lib/gigs';
+
+const upcoming = await getUpcomingGigs();
+const recent = recentlyAdded(upcoming);
+const byMonth = groupByMonth(upcoming);
+---
+
+<Base>
+  <section>
+    <h2>Recently added</h2>
+    {recent.length > 0 ? recent.map((gig) => <GigCard gig={gig} />) : <p class="muted">Nothing new in the last two weeks.</p>}
+  </section>
+
+  <section>
+    <h2>Upcoming</h2>
+    {
+      [...byMonth].map(([month, gigs]) => (
+        <section>
+          <h3 class="month">{formatMonth(month)}</h3>
+          {gigs.map((gig) => <GigCard gig={gig} />)}
+        </section>
+      ))
+    }
+    {upcoming.length === 0 && <p class="muted">No upcoming gigs listed yet.</p>}
+  </section>
+</Base>
+
+<style>
+  h2 { font-size: 2.5rem; text-transform: uppercase; margin-block: 2rem 0.5rem; }
+  .month { color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; margin-block: 1.5rem 0.25rem; }
+</style>

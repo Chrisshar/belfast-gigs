@@ -1,0 +1,60 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { formatDate } from '../../lib/dates';
+import { STATUS_LABELS, formatPrice } from '../../lib/gigs';
+
+export async function getStaticPaths() {
+  const gigs = await getCollection('gigs');
+  return gigs.map((gig) => ({ params: { slug: gig.id }, props: { gig } }));
+}
+
+const { gig } = Astro.props;
+const { data } = gig;
+const venue = await getEntry(data.venue);
+const { Content } = await render(gig);
+const price = formatPrice(data);
+const mapQuery = venue && encodeURIComponent([venue.data.name, venue.data.address, venue.data.postcode].filter(Boolean).join(', '));
+---
+
+<Base title={`${data.headliner}, ${formatDate(data.date)}`} description={`${data.headliner} at ${venue?.data.name}, ${formatDate(data.date)}.`}>
+  <article>
+    <p class="date">{formatDate(data.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</p>
+    <h1>{data.headliner}</h1>
+    {data.support.length > 0 && <p class="support">with {data.support.join(', ')}</p>}
+    {data.status !== 'on_sale' && <p class="status">{STATUS_LABELS[data.status]}</p>}
+
+    <dl>
+      <dt>Venue</dt>
+      <dd>
+        {venue?.data.name}{data.room && ` (${data.room})`}
+        {venue?.data.address && <br />}{venue?.data.address}
+        {mapQuery && <><br /><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`}>Map</a></>}
+      </dd>
+      {data.doors_time && <><dt>Doors</dt><dd>{data.doors_time}</dd></>}
+      {data.start_time && <><dt>Starts</dt><dd>{data.start_time}</dd></>}
+      {price && <><dt>Price</dt><dd>{price}</dd></>}
+      {data.age_restriction && <><dt>Age</dt><dd>{data.age_restriction}</dd></>}
+      {data.genres.length > 0 && <><dt>Genre</dt><dd>{data.genres.join(' / ')}</dd></>}
+    </dl>
+
+    {
+      data.tickets.length > 0 && (
+        <ul class="tickets">
+          {data.tickets.map((t) => (
+            <li><a href={t.url} rel="noopener">Tickets: {t.source}</a></li>
+          ))}
+        </ul>
+      )
+    }
+    <Content />
+  </article>
+</Base>
+
+<style>
+  h1 { font-size: clamp(2.5rem, 8vw, 5rem); text-transform: uppercase; line-height: 1; margin: 0.25rem 0; }
+  .date, .status { color: var(--accent); font-weight: 700; }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.25rem 1rem; }
+  dt { color: var(--muted); }
+  dd { margin: 0; }
+</style>

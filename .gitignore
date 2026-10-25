@@ -1,0 +1,26 @@
+# Node / Astro
+node_modules/
+dist/
+.astro/
+.wrangler/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Local-only scraper state (CI writes the committed versions in data/)
+data/*.local.json
+
+# Weekly coverage check: pages you save from your own browser, never committed
+benchmark/inbox/*
+!benchmark/inbox/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+.dev.vars

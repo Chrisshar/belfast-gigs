@@ -1,0 +1,2 @@
+# The scraper (Linux CI) and the CMS write LF; keep every checkout LF so files don't churn.
+* text=auto eol=lf

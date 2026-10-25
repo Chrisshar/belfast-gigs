@@ -1,0 +1,40 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { WEEKDAYS } from '../content.config';
+
+const residencies = await getCollection('residencies');
+const nights = (
+  await Promise.all(
+    residencies.map(async (r) => {
+      const venue = await getEntry(r.data.venue);
+      return r.data.nights.map((night) => ({ ...night, venue: venue?.data.name ?? r.data.venue.id }));
+    }),
+  )
+).flat();
+const byDay = WEEKDAYS.map((day) => ({ day, nights: nights.filter((n) => n.weekday === day) })).filter((d) => d.nights.length > 0);
+---
+
+<Base title="Regular nights" description="Weekly sessions, open mics and residencies around Belfast.">
+  <h1>Regular nights</h1>
+  <p class="muted">Weekly sessions and open mics. Check with the venue before you go; these change without much notice.</p>
+  {
+    byDay.map(({ day, nights }) => (
+      <section>
+        <h2>{day}</h2>
+        <ul>
+          {nights.map((n) => (
+            <li>
+              <strong>{n.title}</strong> at {n.venue}
+              {n.start_time && ` · ${n.start_time}`}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</Base>
+
+<style>
+  h2 { text-transform: capitalize; }
+</style>

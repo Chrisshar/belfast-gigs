@@ -1,0 +1,35 @@
+---
+import { getEntry } from 'astro:content';
+import { formatDate } from '../lib/dates';
+import { STATUS_LABELS, formatPrice, type Gig } from '../lib/gigs';
+
+interface Props {
+  gig: Gig;
+}
+const { gig } = Astro.props;
+const { data } = gig;
+const venue = await getEntry(data.venue);
+const price = formatPrice(data);
+---
+
+<article class="gig-card">
+  <p class="date">{formatDate(data.date)}{data.start_time && ` · ${data.start_time}`}</p>
+  <h3><a href={`/gigs/${gig.id}/`}>{data.headliner}</a></h3>
+  {data.support.length > 0 && <p class="support">+ {data.support.join(', ')}</p>}
+  <p class="meta">
+    {venue?.data.name}{data.room && ` (${data.room})`}
+    {price && <span> · {price}</span>}
+    {data.status !== 'on_sale' && <strong class="status"> · {STATUS_LABELS[data.status]}</strong>}
+  </p>
+  {data.genres.length > 0 && <p class="muted genres">{data.genres.join(' / ')}</p>}
+</article>
+
+<style>
+  .gig-card { border-top: 2px solid var(--fg); padding-block: 0.75rem; }
+  .gig-card p { margin: 0; }
+  h3 { margin: 0.25rem 0; font-size: 1.5rem; text-transform: uppercase; line-height: 1.1; }
+  h3 a { color: var(--fg); text-decoration: none; }
+  .date { color: var(--accent); font-weight: 700; }
+  .status { color: var(--accent); }
+  .genres { font-size: 0.875rem; }
+</style>
