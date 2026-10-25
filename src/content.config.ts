@@ -98,7 +98,8 @@ const residencies = defineCollection({
     venue: reference('venues'),
     nights: z.array(
       z.object({
-        weekday: z.enum(WEEKDAYS),
+        weekday: z.enum(WEEKDAYS).optional(), // missing when the venue doesn't say
+
         title: z.string(),
         start_time: localTime.optional(),
         genres: z.array(z.enum(GENRES)).default([]),

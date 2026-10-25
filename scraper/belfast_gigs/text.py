@@ -31,6 +31,7 @@ _PROVIDERS = {
     "skiddle": "Skiddle",
     "seetickets": "See Tickets",
     "ticketsolve": "Ticketsolve",
+    "ticketsource": "TicketSource",
     "citizenticket": "Citizen Ticket",
     "wegottickets": "WeGotTickets",
     "dice.fm": "DICE",

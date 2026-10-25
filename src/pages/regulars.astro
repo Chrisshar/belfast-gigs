@@ -12,7 +12,10 @@ const nights = (
     }),
   )
 ).flat();
-const byDay = WEEKDAYS.map((day) => ({ day, nights: nights.filter((n) => n.weekday === day) })).filter((d) => d.nights.length > 0);
+const byDay = [
+  ...WEEKDAYS.map((day) => ({ day: day as string, nights: nights.filter((n) => n.weekday === day) })),
+  { day: 'Day to be confirmed', nights: nights.filter((n) => !n.weekday) },
+].filter((d) => d.nights.length > 0);
 ---
 
 <Base title="Regular nights" description="Weekly sessions, open mics and residencies around Belfast.">
@@ -27,6 +30,7 @@ const byDay = WEEKDAYS.map((day) => ({ day, nights: nights.filter((n) => n.weekd
             <li>
               <strong>{n.title}</strong> at {n.venue}
               {n.start_time && ` · ${n.start_time}`}
+              {n.notes && <span class="muted"> · {n.notes}</span>}
             </li>
           ))}
         </ul>

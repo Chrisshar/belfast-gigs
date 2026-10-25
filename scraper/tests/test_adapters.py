@@ -1,6 +1,6 @@
 from conftest import load_json, load_text
 
-from belfast_gigs.adapters import limelight, o2belfast, ticketmaster
+from belfast_gigs.adapters import citizenticket, harrison, limelight, o2belfast, ticketmaster
 
 
 class TestLimelight:
@@ -51,6 +51,54 @@ class TestO2Belfast:
     def test_falls_back_to_listing_dates_without_detail(self):
         [ev] = o2belfast.parse_event(self.listing, "")
         assert ev.date == "2026-10-27" and ev.end_date == "2026-11-06"
+
+
+class TestHarrison:
+    items = harrison.parse_listing(load_text("harrison", "music.html"))
+
+    def item(self, path):
+        return next(i for i in self.items if i["path"] == path)
+
+    def test_listing(self):
+        assert len(self.items) == 44 and len({i["path"] for i in self.items}) == 44
+        assert self.items[0]["title"] == "Angeline Ball" and self.items[0]["ends_ms"] == 1793226600654
+
+    def test_event_uses_local_clock_time_and_ticket_link(self):
+        ev = harrison.parse_event(self.item("/unified-calendar/liney-hamilton-trio"), load_text("harrison", "liney-hamilton-trio.html"))
+        assert ev.title == "Linley Hamilton Trio" and ev.date == "2026-11-02" and ev.start_time == "20:00"
+        assert ev.tickets == [("TicketSource", "https://www.ticketsource.com/monday-club-events/linley-hamilton-trio/e-ljkvjr")]
+        assert ev.venue_name == "The Harrison Chambers of Distinction" and ev.source_key == "harrison:liney-hamilton-trio"
+
+    def test_late_finish_is_not_a_second_day(self):
+        ev = harrison.parse_event(self.item("/unified-calendar/mckowski-dj-night-sound-of-belfast-2026"), load_text("harrison", "mckowski-dj-night.html"))
+        assert ev.date == "2026-11-11" and ev.start_time == "22:00" and ev.end_date is None
+
+    def test_blue_room_series_prefix_is_not_the_headliner(self):
+        item = {"path": "/unified-calendar/x", "title": "Blue Room Sessions: Joe Krown", "excerpt": "", "ends_ms": None}
+        ev = harrison.parse_event(item, load_text("harrison", "liney-hamilton-trio.html"))
+        assert ev.headliner == "Joe Krown" and ev.room == "Blue Room"
+
+
+class TestCitizenTicket:
+    def test_sitemap_keeps_only_chosen_organisers(self):
+        urls = citizenticket.event_urls(load_text("citizenticket", "sitemap.xml"))
+        assert urls and all("/events/dock-street-jazz-club/" in u for u in urls)
+
+    def test_event_page(self):
+        url = "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam/"
+        ev = citizenticket.parse_event(url, load_text("citizenticket", "dock-street-jazz-jam.html"))
+        assert (ev.title, ev.date, ev.start_time, ev.price_min) == ("Dock Street Jazz Jam", "2026-11-01", "20:30", 8.0)
+        assert ev.venue_name == "The American Bar" and ev.address.endswith("BT15 1LF")
+        assert ev.source_key == "citizenticket:dock-street-jazz-club/dock-street-jazz-jam"
+
+    def test_finished_event_redirects_to_organiser_page_and_is_skipped(self):
+        url = "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-john-stowell-us/"
+        assert citizenticket.parse_event(url, load_text("citizenticket", "dock-street-jazz-club-john-stowell-us.html")) is None
+
+    def test_headliner_drops_club_prefix_and_country(self):
+        html = load_text("citizenticket", "dock-street-jazz-jam.html").replace("<title>Dock Street Jazz Jam", "<title>Dock Street Jazz Club: Kirk MacDonald (CA)")
+        ev = citizenticket.parse_event("https://www.citizenticket.com/events/dock-street-jazz-club/x/", html)
+        assert ev.headliner == "Kirk MacDonald"
 
 
 class TestTicketmaster:
