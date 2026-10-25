@@ -26,7 +26,6 @@ jobs:
     timeout-minutes: 30
     env:
       GITHUB_TOKEN: ${{ github.token }}
-      RUN_FILE: ${{ runner.temp }}/run.pkl
     steps:
       - uses: actions/checkout@v5
 
@@ -55,7 +54,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set -o pipefail
-          python -m belfast_gigs run --save "$RUN_FILE" ${{ inputs.dry_run && '--dry-run' || '' }} | tee "$RUNNER_TEMP/report.md"
+          python -m belfast_gigs run --save "$RUNNER_TEMP/run.pkl" ${{ inputs.dry_run && '--dry-run' || '' }} | tee "$RUNNER_TEMP/report.md"
 
       - name: Check the site builds, then commit and push
         if: ${{ !inputs.dry_run }}
@@ -87,7 +86,7 @@ jobs:
             echo "Push rejected (attempt $attempt); re-applying onto the latest main."
             git fetch origin main
             git reset --hard origin/main
-            python -m belfast_gigs apply "$RUN_FILE" > /dev/null
+            python -m belfast_gigs apply "$RUNNER_TEMP/run.pkl" > /dev/null
           done
           exit 1
 
