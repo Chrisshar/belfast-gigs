@@ -95,6 +95,11 @@ class TestCitizenTicket:
         url = "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-john-stowell-us/"
         assert citizenticket.parse_event(url, load_text("citizenticket", "dock-street-jazz-club-john-stowell-us.html")) is None
 
+    def test_time_range_with_a_decoded_hyphen(self):
+        html = load_text("citizenticket", "dock-street-jazz-jam.html").replace("&hyphen;", "‐")
+        ev = citizenticket.parse_event("https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam/", html)
+        assert ev is not None and ev.start_time == "20:30"
+
     def test_headliner_drops_club_prefix_and_country(self):
         html = load_text("citizenticket", "dock-street-jazz-jam.html").replace("<title>Dock Street Jazz Jam", "<title>Dock Street Jazz Club: Kirk MacDonald (CA)")
         ev = citizenticket.parse_event("https://www.citizenticket.com/events/dock-street-jazz-club/x/", html)

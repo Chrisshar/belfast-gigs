@@ -22,7 +22,8 @@ ORGANISERS = {
 }
 _DATE = re.compile(
     r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*\|\s*"
-    r"(\d{1,2}(?::\d{2})?\s*[ap]m)(?:\s*(?:&hyphen;|-|–)\s*(\d{1,2}(?::\d{2})?\s*[ap]m))?\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|",
+    # The time range uses "&hyphen;", which some libxml2 builds decode to U+2010 and others leave as text.
+    r"(\d{1,2}(?::\d{2})?\s*[ap]m)(?:\s*(?:&hyphen;|[-‐-―])\s*(\d{1,2}(?::\d{2})?\s*[ap]m))?\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|",
     re.I,
 )
 _PRICE = re.compile(r"£(\d+(?:\.\d{2})?)\s*\+\s*£[\d.]+\s*booking fee", re.I)
