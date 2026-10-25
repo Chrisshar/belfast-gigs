@@ -2,7 +2,21 @@
 
 Upcoming live music in Belfast and greater Belfast. A static [Astro](https://astro.build) site on Cloudflare, fed by a Python scraper that runs twice a day on GitHub Actions. Every gig is a Markdown file in `src/content/gigs/`.
 
-> Status: **Phase 1**. The scraper core runs locally with the Limelight and O2 Belfast sources, and Ticketmaster is ready for a key. Phase 2 adds the twice-daily GitHub Actions run and Claude Haiku classification. `PLAN-PROMPT.md` is the original brief.
+> Status: **Phase 2**. The scraper runs twice a day on GitHub Actions (`.github/workflows/scrape.yml`) with Claude Haiku checking new listings. Sources so far: Limelight and The O2 Belfast; Ticketmaster is ready for a key. `PLAN-PROMPT.md` is the original brief.
+
+## Automation
+
+- **Scrape** (`.github/workflows/scrape.yml`): runs at 06:17 and 17:17 UTC, or by hand under **Actions → Scrape → Run workflow** (tick *Dry run* to see the report without changing anything).
+  - Each run builds the site before pushing, so bad data never reaches Cloudflare.
+  - If a CMS edit lands mid-run, it re-applies the run on top of the edit.
+  - It opens GitHub issues when something needs you: **Source broken: …**, **Review queue**, **Scrape produced invalid data**.
+  - The run report appears on each run's summary page.
+- **CI** (`.github/workflows/ci.yml`): tests and builds every human push and pull request, including CMS commits.
+- **Claude Haiku** checks each listing once, and the result is cached in `data/classify_cache.json`:
+  - It decides whether the listing is a gig, cleans up the headliner and support acts, and picks genres.
+  - Listings the source already marks as non-music (club nights, comedy) are never sent.
+  - Limits: 150 calls per run and $5 per month, tracked in `data/llm_usage.json`. Past either limit, the rules decide alone, and anything uncertain is flagged for review.
+- **Repository secrets:** `ANTHROPIC_API_KEY` (needed for Claude) and `TICKETMASTER_KEY` (optional). `CF_DEPLOY_HOOK` is only needed if Cloudflare stops building from the scraper's pushes.
 
 ## Layout
 

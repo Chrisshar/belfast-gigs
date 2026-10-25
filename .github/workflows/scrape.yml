@@ -1,0 +1,104 @@
+name: Scrape
+
+on:
+  schedule:
+    # 06:17 and 17:17 UTC (07:17 / 18:17 in summer). Off the hour: top-of-hour cron runs are often delayed.
+    - cron: "17 6,17 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: fetch and report, change nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # commit gig files
+  issues: write # "Source broken" and "Review queue" issues
+  actions: write # keep this schedule enabled
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+      RUN_FILE: ${{ runner.temp }}/run.pkl
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/pyproject.toml
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install
+        run: |
+          pip install -e "./scraper[llm]"
+          npm ci
+
+      - name: Make sure the issue label exists
+        run: gh label create scraper --color B60205 --description "Opened by the scraper" 2>/dev/null || true
+
+      - name: Scrape
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -o pipefail
+          python -m belfast_gigs run --save "$RUN_FILE" ${{ inputs.dry_run && '--dry-run' || '' }} | tee "$RUNNER_TEMP/report.md"
+
+      - name: Check the site builds, then commit and push
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          message="$(head -n 1 "$RUNNER_TEMP/report.md" | sed 's/^## Scrape: /scrape: /')"
+
+          for attempt in 1 2 3; do
+            if [ -z "$(git status --porcelain -- src/content data)" ]; then
+              echo "No changes to commit."
+              exit 0
+            fi
+            if ! npm run build; then
+              title="Scrape produced invalid data"
+              gh issue list --label scraper --state open --json title --jq '.[].title' | grep -qxF "$title" ||
+                gh issue create --label scraper --title "$title" \
+                  --body "The scraper's changes failed the site build, so nothing was pushed. See $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+              exit 1
+            fi
+            git add -A -- src/content data
+            git commit -q -m "$message"
+            if git push origin HEAD:main; then
+              echo "PUSHED=true" >> "$GITHUB_ENV"
+              exit 0
+            fi
+            # Someone (usually the CMS) pushed while we were scraping. Start again from their
+            # version and re-apply this run's results; nothing is re-scraped or re-classified.
+            echo "Push rejected (attempt $attempt); re-applying onto the latest main."
+            git fetch origin main
+            git reset --hard origin/main
+            python -m belfast_gigs apply "$RUN_FILE" > /dev/null
+          done
+          exit 1
+
+      - name: Ask Cloudflare to deploy (only if a deploy hook is configured)
+        if: ${{ env.PUSHED == 'true' }}
+        env:
+          CF_DEPLOY_HOOK: ${{ secrets.CF_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$CF_DEPLOY_HOOK" ]; then curl -fsS -X POST "$CF_DEPLOY_HOOK" > /dev/null && echo "Deploy hook called."; fi
+
+      - name: Keep the schedule enabled
+        # GitHub disables scheduled workflows after 60 days without repository activity.
+        if: ${{ always() }}
+        run: gh api -X PUT "repos/$GITHUB_REPOSITORY/actions/workflows/scrape.yml/enable" || true

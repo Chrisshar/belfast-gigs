@@ -28,12 +28,15 @@ class Report:
     not_music: Counter = field(default_factory=Counter)
     candidates: int = 0
     changes: Changes | None = None
+    llm: dict = field(default_factory=dict)
+    llm_errors: list[str] = field(default_factory=list)
+    issue_problems: list[str] = field(default_factory=list)
 
     def summary(self) -> str:
         c = self.changes or Changes()
         head = "Dry run, nothing written" if self.dry_run else "Scrape"
         lines = [
-            f"## {head}: +{len(c.created)} new, {len(c.updated)} updated, {len(c.pruned) + len(c.vanished)} removed",
+            f"## {head}: +{len(c.created)} new, {len(c.updated)} updated, {len(c.pruned) + len(c.vanished) + len(c.reclassified)} removed",
             "",
             "| Source | Status | Listings | Detail |",
             "|---|---|---|---|",
@@ -43,12 +46,20 @@ class Report:
             f"- Dropped: {self.dropped_past} past, {self.dropped_blocked} blocked by overrides, "
             f"{sum(self.not_music.values())} not music, {sum(self.out_of_area.values())} outside greater Belfast",
         ]
+        if self.llm:
+            line = f"- Claude: {self.llm['calls']} call(s) for {self.llm['checked']} listing(s) not in the cache; ${self.llm['month_cost']:.4f} spent this month"
+            if self.llm.get("skipped"):
+                line += f" (stopped asking: {self.llm['skipped']})"
+            lines.append(line)
+        for problem in [*self.llm_errors, *self.issue_problems]:
+            lines.append(f"- **Problem:** {problem}")
         if c.deletion_valve_tripped:
             lines.append("- **Safety valve:** too many gig files disappeared at once, so no deletions were recorded. Check the checkout.")
         sections = [
             ("New", c.created),
             ("Removed (past)", c.pruned),
             ("Removed (no source lists them any more)", c.vanished),
+            ("Removed (now judged not to be a gig)", c.reclassified),
             ("Flagged: missing from sources", c.flagged_missing),
             ("Deleted by a human (won't be re-added)", c.human_deleted),
             ("Not re-added (deleted earlier)", c.suppressed),

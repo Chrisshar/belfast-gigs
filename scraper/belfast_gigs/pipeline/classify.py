@@ -84,3 +84,12 @@ def classify(p: Prepared, always_music: bool = False) -> Verdict:
         return v(True, 0.75, f"title says '{weak.group(0)}'")
     # Can't tell: publish (missing a gig is worse than a stray listing) but flag it.
     return v(True, 0.5, "no clear signal")
+
+
+def with_llm(rules: Verdict, llm: dict | None, always_music: bool = False) -> Verdict:
+    """Claude's verdict replaces the rules' (it knows the acts), except for music-only sources."""
+    if llm is None or always_music:
+        return rules
+    confidence = round(float(llm["confidence"]), 2)
+    what = "a gig" if llm["is_music"] else "not a gig"
+    return Verdict(Classification(is_music=llm["is_music"], confidence=confidence, method="llm"), f"Claude: {what} ({confidence})")

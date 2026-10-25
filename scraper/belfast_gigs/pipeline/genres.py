@@ -25,12 +25,23 @@ _TAG_MAP: list[tuple[re.Pattern, str]] = [
 ]
 
 
-def genres_for(tags: list[str], title: str) -> list[str]:
+def _mapped(texts: list[str]) -> list[str]:
     found: list[str] = []
-    for text in [*tags, title]:
+    for text in texts:
         t = text.lower()
         for pattern, genre in _TAG_MAP:
             if pattern.search(t) and genre not in found:
                 found.append(genre)
-    assert all(g in GENRES for g in found)
+    return found
+
+
+def genres_for(tags: list[str], title: str, llm_genres: list[str] = ()) -> list[str]:
+    """Source tags first (the venue or ticket seller said so), then Claude's view of the act.
+    Title keywords are only a fallback: a title says "Tribute" far more reliably than "Rock"."""
+    found = _mapped(tags)
+    for g in llm_genres:
+        if g in GENRES and g not in found:
+            found.append(g)
+    if not found:
+        found = _mapped([title])
     return found[:3]

@@ -96,12 +96,13 @@ class VenueIndex:
         venue = self._names.get(key)
         return (venue, room) if venue else None
 
-    def create_stub(self, name: str, address: str | None, write: bool) -> Venue:
+    def create_stub(self, name: str, address: str | None, write: bool, slug: str | None = None) -> Venue:
         """A venue we've never seen, inside greater Belfast: add it, flagged for a human to check."""
-        slug = slugify(re.sub(r",.*$", "", name))
-        base, n = slug, 2
-        while slug in self.by_slug:
-            slug, n = f"{base}-{n}", n + 1
+        if slug is None:
+            slug = slugify(re.sub(r",.*$", "", name))
+            base, n = slug, 2
+            while slug in self.by_slug:
+                slug, n = f"{base}-{n}", n + 1
         venue = Venue(slug=slug, name=name.split(",")[0].strip(), needs_review=True)
         self.by_slug[slug] = venue
         self._index(venue)

@@ -64,6 +64,7 @@ class Changes:
     unchanged: int = 0
     pruned: list[str] = field(default_factory=list)
     vanished: list[str] = field(default_factory=list)
+    reclassified: list[str] = field(default_factory=list)  # removed: now judged not to be a gig
     flagged_missing: list[str] = field(default_factory=list)
     human_deleted: list[str] = field(default_factory=list)
     suppressed: list[str] = field(default_factory=list)  # tombstoned, so not re-added
@@ -137,6 +138,7 @@ def apply(
     now,
     healthy_adapters: set[str],
     dry_run: bool,
+    rejected_keys: set[str] = frozenset(),
 ) -> Changes:
     changes = Changes()
     today = london_today(now)
@@ -225,7 +227,21 @@ def apply(
         if not dry_run:
             frontmatter.write(gig.path, gig.data, gig.body)
 
-    # 4. Gigs every one of their (healthy) sources stopped listing: flag, then remove.
+    # 4a. Gigs the scraper added that its sources (or Claude) now say aren't gigs. A human who
+    #     edited the gig, or added it, has the final say, so those stay.
+    for gid, gig in list(gigs.items()):
+        keys = {s.get("key") for s in gig.data.get("sources") or [] if isinstance(s, dict)}
+        snap = state.snapshots.get(gid)
+        if gid in matched or not keys or not keys <= rejected_keys or snap is None or snap.get("_hand_added") or gig.data.get("locked_fields"):
+            continue
+        changes.reclassified.append(gig.path.stem)
+        del gigs[gid]
+        state.seen.pop(gid, None)
+        state.snapshots.pop(gid, None)
+        if not dry_run:
+            gig.path.unlink()
+
+    # 4b. Gigs every one of their (healthy) sources stopped listing: flag, then remove.
     for gid, gig in list(gigs.items()):
         if gid in matched:
             continue

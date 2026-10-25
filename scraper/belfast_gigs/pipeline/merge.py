@@ -19,6 +19,7 @@ class Scored:
     verdict: Verdict
     authority: int
     backfill: bool  # from a source's first-ever run
+    genres: list[str] = field(default_factory=list)  # from Claude, when it checked this listing
 
     @property
     def facts(self) -> Facts:
@@ -103,7 +104,7 @@ class Candidate:
             "free": any(p.raw.free for p in evs),
             "status": status,
             "age_restriction": first("age_restriction"),
-            "genres": genres_for([c for p in evs for c in p.raw.categories], main.title),
+            "genres": genres_for([c for p in evs for c in p.raw.categories], main.title, [g for e in self.events for g in e.genres]),
             "tickets": tickets,
             # No `url: null`: Zod's .optional() accepts a missing key but not null.
             "sources": [
