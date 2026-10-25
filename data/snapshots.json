@@ -104,6 +104,39 @@
   "title": "Razorlight",
   "venue": "telegraph-building"
  },
+ "03242114-131d-4505-889b-e04a45cebfa4": {
+  "age_restriction": null,
+  "date": "2026-12-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Dock Street Jazz Jam",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 8.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-jam-1",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam-1/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam-1/"
+   }
+  ],
+  "title": "Dock Street Jazz Jam",
+  "venue": "american-bar"
+ },
  "0558cad4-e464-4e4c-9e34-3c2a3fc13ba9": {
   "age_restriction": "18+",
   "date": "2026-12-04",
@@ -175,6 +208,39 @@
   "title": "Evergrey",
   "venue": "limelight"
  },
+ "06acd4b9-2908-48c5-8e77-b2d5a1637aa3": {
+  "age_restriction": null,
+  "date": "2026-11-12",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Ed Cosens",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:ed-cosens",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/ed-cosens"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.sg/e/ed-cosens-tickets-1992858623790?aff=ebdsoporgprofile"
+   }
+  ],
+  "title": "Ed Cosens",
+  "venue": "the-harrison"
+ },
  "06bfcd12-524e-41bf-a08a-8c1a4f74285c": {
   "age_restriction": null,
   "date": "2026-11-22",
@@ -212,6 +278,39 @@
   "title": "Xentrix: Cross-Atlantic Carnage",
   "venue": "limelight"
  },
+ "074d3ac3-fbaf-4dd5-8bef-246cd37ff5de": {
+  "age_restriction": null,
+  "date": "2026-11-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Tom Remon",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 14.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-club-tom-remon-uk",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-tom-remon-uk/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-tom-remon-uk/"
+   }
+  ],
+  "title": "Dock Street Jazz Club: Tom Remon (UK)",
+  "venue": "american-bar"
+ },
  "0878d20b-9b33-4831-a4a5-a22e4b32cc9a": {
   "age_restriction": null,
   "date": "2026-11-14",
@@ -223,7 +322,7 @@
    "Indie/Alternative"
   ],
   "headliner": "DAY FEVER",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -391,6 +490,40 @@
   "title": "Winter in the Sun: Cardinals",
   "venue": "limelight"
  },
+ "102ef509-ad23-49d7-82e1-61f266690e3a": {
+  "age_restriction": null,
+  "date": "2026-11-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Joe Krown",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Blue Room",
+  "sources": [
+   {
+    "key": "harrison:blue-room-sessions-joe-krown",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/blue-room-sessions-joe-krown"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/monday-club-events/joe-krown/e-evrezv"
+   }
+  ],
+  "title": "Blue Room Sessions: Joe Krown",
+  "venue": "the-harrison"
+ },
  "1202907b-a712-431d-b58d-b95a8635e6ad": {
   "age_restriction": null,
   "date": "2027-06-17",
@@ -426,6 +559,40 @@
   ],
   "title": "Belsonic 2027 - Sombr",
   "venue": "ormeau-park"
+ },
+ "126c1b6b-9520-41a2-b162-ed7b6312afe3": {
+  "age_restriction": null,
+  "date": "2026-12-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Tribute/Covers"
+  ],
+  "headliner": "A Timeless Christmas",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:a-timeless-christmas-from-judy-garland-to-joni-mitchell",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/a-timeless-christmas-from-judy-garland-to-joni-mitchell"
+   }
+  ],
+  "start_time": "15:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/a-timeless-christmas-from-judy-garland-to-joni-mitchell-tickets-2003742794638"
+   }
+  ],
+  "title": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
+  "venue": "the-harrison"
  },
  "1314cbfa-fde0-494f-af79-3a44214608c4": {
   "age_restriction": "18+",
@@ -535,6 +702,39 @@
   ],
   "title": "Big Ass Truck",
   "venue": "limelight"
+ },
+ "18a638cd-89d3-47cb-9a02-109051942916": {
+  "age_restriction": null,
+  "date": "2026-12-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Jean Toussaint",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 14.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-club-jean-toussaint-us",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-jean-toussaint-us/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-jean-toussaint-us/"
+   }
+  ],
+  "title": "Dock Street Jazz Club: Jean Toussaint (US)",
+  "venue": "american-bar"
  },
  "1bc702e9-1277-4d2f-a737-687fd3727f56": {
   "age_restriction": "18+",
@@ -708,6 +908,39 @@
   "title": "The Script - The Man in the Arena Tour",
   "venue": "the-o2-belfast"
  },
+ "21984ab2-5e79-424b-8c32-64ae7cab5c98": {
+  "age_restriction": null,
+  "date": "2026-11-26",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Malojian",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:malojian",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/malojian"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.sg/e/malojian-tickets-2001659818400"
+   }
+  ],
+  "title": "Malojian",
+  "venue": "the-harrison"
+ },
  "22a04532-4914-42de-b8f8-6bd48d68ed26": {
   "age_restriction": null,
   "date": "2027-07-04",
@@ -756,7 +989,7 @@
    "Pop"
   ],
   "headliner": "Jamie McIntyre",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -778,6 +1011,40 @@
   ],
   "title": "Jamie McIntyre",
   "venue": "limelight"
+ },
+ "2b300e65-44ca-445e-8080-dff831497be5": {
+  "age_restriction": null,
+  "date": "2026-12-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Alison Cotton",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:alison-cotton",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/alison-cotton"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.sg/e/alison-cotton-tickets-2001402342282"
+   }
+  ],
+  "title": "Alison Cotton",
+  "venue": "the-harrison"
  },
  "3004bed5-86c8-448a-9ce2-8ea3031971ca": {
   "age_restriction": "18+",
@@ -812,6 +1079,39 @@
   ],
   "title": "Wrong Jovi",
   "venue": "limelight"
+ },
+ "335609a3-ba96-40a6-8385-8a09e9ada159": {
+  "age_restriction": null,
+  "date": "2026-11-01",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Dock Street Jazz Jam",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 8.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-jam",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam/"
+   }
+  ],
+  "title": "Dock Street Jazz Jam",
+  "venue": "american-bar"
  },
  "35b13a5a-d401-4979-a54b-0306add687a5": {
   "age_restriction": null,
@@ -1270,6 +1570,39 @@
   "title": "Dexy's Midnight Runners",
   "venue": "ulster-hall"
  },
+ "46bf80aa-fd89-4ea3-987d-d49652238a4b": {
+  "age_restriction": "18+",
+  "date": "2026-11-27",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Stop Making Sense Live",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11396",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/stop-making-sense-live-belfast-27-11-2026/event/380064EABBF10F24"
+   }
+  ],
+  "title": "Stop Making Sense Live",
+  "venue": "limelight"
+ },
  "482ca376-f442-4a46-a1ec-080410f17b25": {
   "age_restriction": "18+",
   "date": "2026-11-26",
@@ -1435,6 +1768,37 @@
    }
   ],
   "title": "The Rapparees",
+  "venue": "limelight"
+ },
+ "4bf66406-2021-4243-8eab-4dce581df414": {
+  "age_restriction": "18+",
+  "date": "2026-11-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Joshua Idehen",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11477",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5409793?venueId=461484"
+   }
+  ],
+  "title": "Joshua Idehen",
   "venue": "limelight"
  },
  "4c2f430c-7804-45f3-918a-7565d427922b": {
@@ -1715,6 +2079,72 @@
   "title": "The Total Stone Roses & Oaysis Live",
   "venue": "limelight"
  },
+ "5ef00783-cfe8-47af-ab94-75d499001ae2": {
+  "age_restriction": null,
+  "date": "2026-11-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Jobi Riccio",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:k9azqs4ex1huvg4gguthgmbg4fo86l",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/k9azqs4ex1huvg4gguthgmbg4fo86l"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.sg/e/jobi-riccio-tickets-2001634840691"
+   }
+  ],
+  "title": "Jobi Riccio",
+  "venue": "the-harrison"
+ },
+ "600c0e77-60d0-4199-baec-02307af84c3a": {
+  "age_restriction": null,
+  "date": "2026-10-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Angeline Ball",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:angeline-ball",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/angeline-ball"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.sg/e/angeline-ball-tickets-2002247230365"
+   }
+  ],
+  "title": "Angeline Ball",
+  "venue": "the-harrison"
+ },
  "60234327-9a0e-4197-a647-aaff35d31229": {
   "age_restriction": "18+",
   "date": "2026-12-16",
@@ -1797,7 +2227,7 @@
    "Indie/Alternative"
   ],
   "headliner": "Late Night Thoughts",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -2242,6 +2672,39 @@
   "title": "Kings of Lyon & The UK Strokes",
   "venue": "limelight"
  },
+ "7dae3a78-f53a-452b-b04e-4793c147dff8": {
+  "age_restriction": "18+",
+  "date": "2026-11-21",
+  "doors_time": "17:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Girl Code",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11718",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "locomotivelive.com",
+    "url": "https://www.locomotivelive.com/girl-code/belfast"
+   }
+  ],
+  "title": "Girl Code",
+  "venue": "limelight"
+ },
  "7e92e771-fbf1-4525-96e2-018885c98110": {
   "age_restriction": null,
   "date": "2026-11-16",
@@ -2358,7 +2821,7 @@
    "Indie/Alternative"
   ],
   "headliner": "Pork Pie",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 2",
@@ -2485,6 +2948,73 @@
   "title": "Rod Stewart - The Final Encore",
   "venue": "the-o2-belfast"
  },
+ "8545ec84-58f3-4eab-9a79-f6cba9de5dea": {
+  "age_restriction": null,
+  "date": "2026-11-15",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Rick Margitza & Miles Davis Centenary",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 14.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary/"
+   }
+  ],
+  "title": "Dock Street Jazz Club: Rick Margitza (US) & Miles Davis Centenary",
+  "venue": "american-bar"
+ },
+ "8621f02a-a0cb-4353-8a95-59a510e28df4": {
+  "age_restriction": null,
+  "date": "2026-11-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Cleveland Watkiss",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 14.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/cleveland-watkiss-uk",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/cleveland-watkiss-uk/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/cleveland-watkiss-uk/"
+   }
+  ],
+  "title": "Dock Street Jazz Club: Cleveland Watkiss (UK)",
+  "venue": "american-bar"
+ },
  "87548151-0b9a-4f91-83aa-92bcf29d5527": {
   "age_restriction": "18+",
   "date": "2027-03-01",
@@ -2522,6 +3052,42 @@
   ],
   "title": "Signs of The Swarm",
   "venue": "limelight"
+ },
+ "8839ec89-551d-418c-a4be-a26bd94fdfac": {
+  "age_restriction": null,
+  "date": "2026-12-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Jazz/Blues"
+  ],
+  "headliner": "Ruth McGinley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:let-it-snow-from-bing-to-bubl-with-ruth-mcginley-patrick-smyth",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/let-it-snow-from-bing-to-bubl-with-ruth-mcginley-patrick-smyth"
+   }
+  ],
+  "start_time": "15:00",
+  "status": "on_sale",
+  "support": [
+   "Patrick Smyth"
+  ],
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/let-it-snow-from-bing-to-buble-with-ruth-mcginley-patrick-smyth-tickets-2003778482381"
+   }
+  ],
+  "title": "Let It Snow: From Bing to Bublé with Ruth McGinley & Patrick Smyth",
+  "venue": "the-harrison"
  },
  "89850cf1-2beb-4078-a0eb-9667129b35d3": {
   "age_restriction": "18+",
@@ -2768,6 +3334,78 @@
   "title": "Melrose Avenue",
   "venue": "limelight"
  },
+ "99fdc991-9ea1-4862-b6e9-bfa61d057bd6": {
+  "age_restriction": null,
+  "date": "2026-12-07",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Lee Hedley Trio",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Blue Room",
+  "sources": [
+   {
+    "key": "harrison:blue-room-sessions-lee-hedley-trio",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/blue-room-sessions-lee-hedley-trio"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/monday-club-events/lee-hedley-trio/e-mvokvz"
+   }
+  ],
+  "title": "Blue Room Sessions: Lee Hedley Trio",
+  "venue": "the-harrison"
+ },
+ "9a79021b-03aa-4989-a30a-b5b29f7c5e58": {
+  "age_restriction": "18+",
+  "date": "2026-11-21",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Circus Circus Reunion",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11081",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Rob Tissera",
+   "Computer",
+   "Gleave",
+   "Jacko",
+   "Robbie Nelson"
+  ],
+  "tickets": [
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/circus-circus-reunion-3090-122"
+   }
+  ],
+  "title": "CIRCUS CIRCUS REUNION",
+  "venue": "limelight"
+ },
  "9ad813b6-9d03-4f07-95a4-4a0000c20090": {
   "age_restriction": "18+",
   "date": "2026-12-01",
@@ -2881,7 +3519,7 @@
    "Folk/Trad"
   ],
   "headliner": "Garron Noone",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -3019,7 +3657,7 @@
    "Pop"
   ],
   "headliner": "KhakiKid",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 2",
@@ -3289,6 +3927,39 @@
   "title": "The Shamrocks",
   "venue": "the-o2-belfast"
  },
+ "b85fbe44-a8a2-49d1-b737-37ea2fb3ea07": {
+  "age_restriction": null,
+  "date": "2026-11-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Kirk MacDonald",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 14.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca",
+    "name": "citizenticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca/"
+   }
+  ],
+  "title": "Dock Street Jazz Club: Kirk MacDonald (CA)",
+  "venue": "american-bar"
+ },
  "b86475ce-3c5b-4bef-8c7b-8eff19c814ee": {
   "age_restriction": "18+",
   "date": "2027-04-30",
@@ -3440,7 +4111,7 @@
    "Folk/Trad"
   ],
   "headliner": "Garron Noone",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -3506,7 +4177,7 @@
    "Singer-Songwriter"
   ],
   "headliner": "Casper Walsh",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3540,7 +4211,7 @@
    "Rock"
   ],
   "headliner": "EMO FEST",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3676,7 +4347,7 @@
    "Rock"
   ],
   "headliner": "Roll With It",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -3734,6 +4405,39 @@
   ],
   "title": "The Molotovs",
   "venue": "limelight"
+ },
+ "cd6c3c80-422d-4628-b6f9-a99a9f21e730": {
+  "age_restriction": null,
+  "date": "2026-11-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Liv Monaghan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:liv-monaghan",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/liv-monaghan"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.sg/e/liv-monaghan-tickets-2002923204221"
+   }
+  ],
+  "title": "Liv Monaghan",
+  "venue": "the-harrison"
  },
  "cd9193b1-2338-4171-976f-8532e6d73988": {
   "age_restriction": "18+",
@@ -3975,6 +4679,39 @@
   "title": "Black Stone Cherry",
   "venue": "telegraph-building"
  },
+ "df81ce59-8c5b-4679-91b3-eb2eed687050": {
+  "age_restriction": null,
+  "date": "2026-11-02",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Linley Hamilton Trio",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:liney-hamilton-trio",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/liney-hamilton-trio"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/monday-club-events/linley-hamilton-trio/e-ljkvjr"
+   }
+  ],
+  "title": "Linley Hamilton Trio",
+  "venue": "the-harrison"
+ },
  "e22a76a5-7986-4bbe-971e-b0d6025ca3fb": {
   "age_restriction": "18+",
   "date": "2027-01-26",
@@ -4077,6 +4814,42 @@
   "title": "DMA's",
   "venue": "limelight"
  },
+ "e5d8fb80-70b8-4ebc-ad26-bf8ca8da4690": {
+  "age_restriction": null,
+  "date": "2026-12-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Tribute/Covers"
+  ],
+  "headliner": "Ruth McGinley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:christmas-at-the-movies-with-ruth-mcginley-special-guest-jordan-arnold",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/christmas-at-the-movies-with-ruth-mcginley-special-guest-jordan-arnold"
+   }
+  ],
+  "start_time": "15:00",
+  "status": "on_sale",
+  "support": [
+   "Jordan Arnold"
+  ],
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/christmas-at-the-movies-with-ruth-mcginley-special-guest-jordan-arnold-tickets-2003778275763"
+   }
+  ],
+  "title": "Christmas at the Movies with Ruth McGinley & special guest Jordan Arnold",
+  "venue": "the-harrison"
+ },
  "e64ce910-1ed3-47a9-862f-c5062b656065": {
   "age_restriction": null,
   "date": "2027-10-22",
@@ -4111,6 +4884,39 @@
   "title": "Bat Out of Hell 50th Anniversary Concert",
   "venue": "the-o2-belfast"
  },
+ "eacd40b2-b371-4708-b55a-82eeb806d0f0": {
+  "age_restriction": null,
+  "date": "2026-11-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Kyron Bourke & Michael Mormecha",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Blue Room",
+  "sources": [
+   {
+    "key": "harrison:blue-room-sessions-kyron-bourke-michael-mormecha-6wk6y",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/blue-room-sessions-kyron-bourke-michael-mormecha-6wk6y"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/monday-club-events/kyron-bourke-amp-michael-mormecha/e-zpevzb"
+   }
+  ],
+  "title": "Blue Room Sessions: Kyron Bourke & Michael Mormecha",
+  "venue": "the-harrison"
+ },
  "ed95186a-bb9d-48ae-8542-fc07d009bfd3": {
   "age_restriction": "18+",
   "date": "2027-03-15",
@@ -4122,7 +4928,7 @@
    "Pop"
   ],
   "headliner": "KEO",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -4248,6 +5054,39 @@
   ],
   "title": "The Darkness",
   "venue": "telegraph-building"
+ },
+ "f02f130c-101f-4888-8a85-cadaf7cf0a63": {
+  "age_restriction": null,
+  "date": "2026-12-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Kyron Bourke & Michael Mormecha",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Blue Room",
+  "sources": [
+   {
+    "key": "harrison:blue-room-sessions-kyron-bourke-michael-mormecha",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/blue-room-sessions-kyron-bourke-michael-mormecha"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/monday-club-events/kyron-bourke-amp-michael-mormecha/e-kkzoak"
+   }
+  ],
+  "title": "Blue Room Sessions: Kyron Bourke & Michael Mormecha",
+  "venue": "the-harrison"
  },
  "f0eb52c1-203c-47fa-a245-20779c57a439": {
   "age_restriction": null,
@@ -4435,7 +5274,7 @@
    "Rock"
   ],
   "headliner": "ICE AGE",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -4505,7 +5344,7 @@
    "Rock"
   ],
   "headliner": "Will Atkinson Vs The Rocketman",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",

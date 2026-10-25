@@ -1,15 +1,27 @@
 {
+ "citizenticket": {
+  "consecutive_failures": 0,
+  "last_count": 7,
+  "last_run": "2026-10-25T22:50:12Z",
+  "runs_ok": 1
+ },
+ "harrison": {
+  "consecutive_failures": 0,
+  "last_count": 15,
+  "last_run": "2026-10-25T22:50:12Z",
+  "runs_ok": 1
+ },
  "limelight": {
   "consecutive_failures": 0,
   "last_count": 331,
-  "last_run": "2026-10-25T22:11:16Z",
-  "runs_ok": 3
+  "last_run": "2026-10-25T22:50:12Z",
+  "runs_ok": 4
  },
  "o2belfast": {
   "consecutive_failures": 0,
   "last_count": 22,
-  "last_run": "2026-10-25T22:11:16Z",
-  "runs_ok": 3
+  "last_run": "2026-10-25T22:50:12Z",
+  "runs_ok": 4
  },
  "ticketmaster": {
   "consecutive_failures": 0,
