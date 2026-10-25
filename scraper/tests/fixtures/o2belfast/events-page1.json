@@ -1,0 +1,611 @@
+{
+ "data": [
+  {
+   "id": 260525,
+   "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+   "url": "https://theo2belfast.com/events/westlife-25-years",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2026-10-27 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2026-11-06 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": "Ana Sky",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/westlife-25-the-anniversary-world-tour-the-O2-belfast.jpg",
+    "alt": "Westlife promotional image for event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    }
+   ]
+  },
+  {
+   "id": 301624,
+   "title": "The Script - The Man in the Arena Tour",
+   "url": "https://theo2belfast.com/events/the-script",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2026-11-02 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2026-11-02 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": "James Morrison",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/the_script_the_man_in_the_arena_tour_the_O2_belfast.png",
+    "alt": "Promotional image for The Script: The Man in the Arena Tour - The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "heineken-lounge"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    }
+   ]
+  },
+  {
+   "id": 295125,
+   "title": "Cody Johnson",
+   "url": "https://theo2belfast.com/events/cody-johnson",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2026-11-04 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2026-11-04 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": null,
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/cody-johnson-the-O2-belfast.png",
+    "alt": "Promotional image for event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "heineken-lounge"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 298884,
+   "title": "Niall Horan: Dinner Party Live on Tour",
+   "url": "https://theo2belfast.com/events/niall-horan-dinner-party-live-on-tour",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2026-11-15 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2026-11-16 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": "Hot Right Now",
+   "supportingAct": "Flowerovlove",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/niall_horan_the_o2_belfast.jpg",
+    "alt": "Promotional image for Niall Horan event at The O2 Belfast.",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 264177,
+   "title": "The Shamrocks",
+   "url": "https://theo2belfast.com/events/the-shamrocks",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2026-11-20 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2026-11-20 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": "Talisk, Keith Harkin and Niall McNamee",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/the_shamrocks_the_o2_belfast.jpg",
+    "alt": "Promotional image for The Shamrocks event at The O2 Belfast.",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "heineken-lounge"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    }
+   ]
+  },
+  {
+   "id": 303091,
+   "title": "Two Door Cinema Club",
+   "url": "https://theo2belfast.com/events/two-door-cinema-club",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-01-24 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-01-24 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": "Don't Miss Out",
+   "supportingAct": null,
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/two_door_cinema_club_the_o2_belfast.png",
+    "alt": "Promotional image for Two Door Cinema Club event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "heineken-lounge"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 309212,
+   "title": "Megadeth",
+   "url": "https://theo2belfast.com/events/megadeth",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-03-09 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-03-09 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": "Black Label Society & Testament",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/megadeth-the-o2-belfast_2026-07-29-102011_tadd.jpg",
+    "alt": "Promotional image for Megadeth at The O2 Belfast.",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 310472,
+   "title": "James Blunt",
+   "url": "https://theo2belfast.com/events/james-blunt-2",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-03-31 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-03-31 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": null,
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/james_blunt_the_o2_belfast.png",
+    "alt": "Promotional image for James Blunt event at The O2 Belfast.",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 314526,
+   "title": "Hear'say + Liberty X",
+   "url": "https://theo2belfast.com/events/hearsay-liberty-x",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-04-18 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-04-18 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": null,
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/hearsay__liberty_x_the_o2_belfast.png",
+    "alt": "Promotional image for HEAR'SAY + LIBERTY X event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 312838,
+   "title": "Rod Stewart - The Final Encore",
+   "url": "https://theo2belfast.com/events/rod-stewart-2027",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-04-27 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-04-27 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": "Howard Jones",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/rod_stewart_the_o2_belfast.jpg",
+    "alt": "Promotional Image for Rod Stewart event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    }
+   ]
+  },
+  {
+   "id": 310425,
+   "title": "Paul Heaton",
+   "url": "https://theo2belfast.com/events/paul-heaton-2",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-06-04 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-06-04 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": "Rianne Downey & Lightning Seeds",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/paul_heaton_the_o2_belfast.png",
+    "alt": "Promotional image for Paul Heaton event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 316260,
+   "title": "André Rieu",
+   "url": "https://theo2belfast.com/events/andré-rieu-and-his-johann-strauss-orchestra",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-09-09 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-09-09 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": null,
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/anré_rieu_2027_the_o2_belfast.jpg",
+    "alt": "Promotional image for André Rieu event at The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 311311,
+   "title": "Deacon Blue: Raintown 40th Anniversary",
+   "url": "https://theo2belfast.com/events/deacon-blue-raintown-40th-anniversary-2",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-10-06 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-10-06 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": null,
+   "supportingAct": null,
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/Deacon-Blue-The-O2-Belfast.jpg",
+    "alt": "Promotional image for Deacon Blue at The O2 Belfast.",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "shared-suites"
+    },
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  },
+  {
+   "id": 314444,
+   "title": "Texas: 30th Anniversary of White on Blonde + the hits",
+   "url": "https://theo2belfast.com/events/texas-30th-anniversary-of-white-on-blonde-the-hits",
+   "eventType": "event",
+   "eventStartDate": {
+    "date": "2027-10-18 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "eventEndDate": {
+    "date": "2027-10-18 00:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/London"
+   },
+   "comingUpTitleBadge": "O2 Priority tickets live from 28 Oct 10AM",
+   "supportingAct": "Del Amitri",
+   "supportingActLabel": null,
+   "supportingActHideLabel": false,
+   "mainImage": {
+    "url": "https://the-o2-belfast.s3-assets.com/_1114x628_crop_center-center_90_none/Texas-The-O2-Belfast.jpg",
+    "alt": "Texas The O2 Belfast",
+    "width": 800,
+    "height": 450
+   },
+   "homeTeam": null,
+   "awayTeam": null,
+   "genre": [
+    {
+     "slug": "music"
+    }
+   ],
+   "premium": [
+    {
+     "slug": "lounge-access-upgrades"
+    },
+    {
+     "slug": "suite-for-a-night"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "pagination": {
+   "total": 15,
+   "count": 14,
+   "per_page": 14,
+   "current_page": 1,
+   "total_pages": 2,
+   "links": {
+    "next": "https://theo2belfast.com/events.json?page=2&genres%5B0%5D=music"
+   }
+  }
+ }
+}

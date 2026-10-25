@@ -1,0 +1,30 @@
+[project]
+name = "belfast-gigs"
+version = "0.1.0"
+description = "Scraper that keeps the Belfast Gigs listings up to date"
+requires-python = ">=3.12"
+dependencies = [
+  # Only belfast_gigs/http.py imports Scrapling; 0.5 had breaking changes, so stay on 0.5.x.
+  "scrapling[fetchers]>=0.5,<0.6",
+  "rapidfuzz>=3.14,<4",
+  "pydantic>=2.14,<3",
+  "pyyaml>=6.0,<7",
+  "tzdata>=2026.1",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic>=2.3,<3"]
+dev = ["pytest>=9.1,<10"]
+
+[project.scripts]
+belfast-gigs = "belfast_gigs.__main__:main"
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["belfast_gigs*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

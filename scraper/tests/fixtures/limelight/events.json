@@ -1,0 +1,5314 @@
+{
+ "error": "",
+ "totalCount": 331,
+ "events": [
+  {
+   "id": 10764,
+   "title": "St. Paul & The Broken Bones",
+   "subTitle": "+ Melina Malone",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-10-25 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/st-paul-and-the-broken-bones-belfast-25-10-2026/event/3800646B582F093C",
+   "websiteImage": "uploads/accounts/10/events/10764_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-10-26 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-10-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11750,
+   "title": "Eerieland - Terror Talks",
+   "subTitle": "+ Andrew Johnston",
+   "startDate": {
+    "date": "2026-10-29 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6.30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5757312?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11750_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-10-29 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10661,
+   "title": "William Thompson",
+   "subTitle": "Touch Grass",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-10-30 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/william-thompson-touch-grass-belfast-30-10-2026/event/3800645BEB952E0E?_gl=1*hfiako*_gcl_au*MTQ5OTI3MjcyOC4xNzcyMTA0NDYy",
+   "websiteImage": "uploads/accounts/10/events/10661_website.jpg",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11059,
+   "title": "Craic Sabbath & Ozzified - Halloween Special",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-10-30 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/event/380064BBCA7424A1",
+   "websiteImage": "uploads/accounts/10/events/11059_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11753,
+   "title": "BABBA 21+ | HALLOWEEN SPECIAL",
+   "startDate": {
+    "date": "2026-10-30 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 21+",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11753_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11427,
+   "title": "SHINE -- Takuya Nakamura",
+   "subTitle": "+ Crilli DnB residents",
+   "startDate": {
+    "date": "2026-10-30 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5520/takuya-nakamura-limelight",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11427_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11604,
+   "title": "Bingo Loco Pres. Juke Box Jam",
+   "subTitle": "Halloween Special",
+   "startDate": {
+    "date": "2026-10-31 16:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "4:30pm | 18+",
+   "ticketsUrl": "https://www.bingoloco.com/all-events?search[name]=Belfast",
+   "websiteImage": "uploads/accounts/10/events/11604_website.png",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 10886,
+   "title": "Huey Morgan",
+   "subTitle": "The Fun Lovin' Criminal, Celebrating 30 Years of Come Find Yourself",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-10-31 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/2224604?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10886_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11728,
+   "title": "HALLOWEEN NIGHT AT THE LIMELIGHT",
+   "startDate": {
+    "date": "2026-10-31 21:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "9.30pm / 18+",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11728_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11477,
+   "title": "Joshua Idehen",
+   "startDate": {
+    "date": "2026-11-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5409793?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11477_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10497,
+   "title": "Transvision Vamp",
+   "subTitle": "+ Susi Pagel",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1176880?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10497_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-11-02 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11422,
+   "title": "Hail The Sun",
+   "subTitle": "+ Blight Town",
+   "startDate": {
+    "date": "2026-11-03 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1777787?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11422_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11433,
+   "title": "Swervedriver",
+   "startDate": {
+    "date": "2026-11-04 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/742146?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11433_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-11-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11452,
+   "title": "Dexy's Midnight Runners",
+   "subTitle": "+ David Holmes DJ SET",
+   "startDate": {
+    "date": "2026-11-05 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://secure.waterfront.co.uk/25852/25853?_ga=2.175621218.1924238906.1785341888-1589044335.1785341888&queueittoken=e_safetynetalwayson~q_8c228461-67b7-4b91-b32f-766d0a05af7b~ts_1785342067~ce_true~rt_safetynet~h_65d77c6a228f6296c6a1e09d3af2999985c878d4ea0",
+   "websiteImage": "uploads/accounts/10/events/11452_website.jpg",
+   "venue": "Ulster Hall"
+  },
+  {
+   "id": 11032,
+   "title": "Kim Blythe",
+   "subTitle": "Puzzle",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-05 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/kim-blythe-puzzle-belfast-05-11-2026/event/380064B6A8C91813",
+   "websiteImage": "uploads/accounts/10/events/11032_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-11-05 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10894,
+   "title": "Elephant Sessions",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-06 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5249836?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10894_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11513,
+   "title": "Casper Walsh",
+   "subTitle": "Hustler Boogie Tour",
+   "startDate": {
+    "date": "2026-11-06 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5464329?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11513_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11631,
+   "title": "Latino Fest",
+   "subTitle": "The UK's biggest Latin Music celebration.",
+   "startDate": {
+    "date": "2026-11-06 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30pm | 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5601/latino-fest-limelight",
+   "websiteImage": "uploads/accounts/10/events/11631_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11039,
+   "title": "The 30+ Club",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-07 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm / 30+",
+   "ticketsUrl": "https://tickets.the30plus.club/events/the30plusclub/1459580",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11039_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10777,
+   "title": "Skindred",
+   "subTitle": "+ Alien Ant Farm & Survivalist",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-07 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/skindred-you-got-this-tour-belfast-07-11-2026/event/38006478DA0A1D6F",
+   "websiteImage": "uploads/accounts/10/events/10777_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 10251,
+   "title": "The Total Stone Roses & Oaysis Live",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-07 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://wegottickets.com/event/686099/",
+   "websiteImage": "uploads/accounts/10/events/10251_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11681,
+   "title": "Will Atkinson Vs The Rocketman",
+   "startDate": {
+    "date": "2026-11-07 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10.30pm / 18+",
+   "ticketsUrl": "https://www.glistrr.com/events/e/notorious-presents-will-atkinson-vs-the-rocketman-3090-129",
+   "websiteImage": "uploads/accounts/10/events/11681_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11800,
+   "title": "ADORED -- A STONE ROSES CLUB NIGHT",
+   "startDate": {
+    "date": "2026-11-07 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5636/adored-a-stone-roses-club-night-limelight",
+   "websiteImage": "uploads/accounts/10/events/11800_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10685,
+   "title": "Moving Pictures - Rush Tribute",
+   "subTitle": "Celebrating 50 Years",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-08 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5402/moving-pictures-limelight",
+   "websiteImage": "uploads/accounts/10/events/10685_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10968,
+   "title": "Ricky Warwick & The Fighting Hearts",
+   "subTitle": "+ Trucker Diablo",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-08 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/946853?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10968_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11754,
+   "title": "Jazz Emu",
+   "subTitle": "+ Ross McCarney",
+   "startDate": {
+    "date": "2026-11-09 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/jazz-emu-the-pleasure-is-all-belfast-09-11-2026/event/380064538FFE1936?_gl=1*17qlqy*_gcl_au*MTQ5OTI3MjcyOC4xNzcyMTA0NDYy",
+   "websiteImage": "uploads/accounts/10/events/11754_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-11-09 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10506,
+   "title": "Little Angels",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/little-angels-belfast-10-11-2026/event/38006458A3BE18F6",
+   "websiteImage": "uploads/accounts/10/events/10506_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11566,
+   "title": "Anesti Danelis",
+   "startDate": {
+    "date": "2026-11-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/anesti-danelis-tickets/artist/5749142",
+   "websiteImage": "uploads/accounts/10/events/11566_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-11-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11784,
+   "title": "Titt Roasted - The Roast of Titti Von Tramp",
+   "startDate": {
+    "date": "2026-11-12 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.trudyscrumptious.co.uk/event-details-1/trudy-scrumptious-presents-titt-roasted-the-roast-of-titti-von-tramp",
+   "websiteImage": "uploads/accounts/10/events/11784_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-11-12 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11745,
+   "title": "Bingo Loco Pres. Juke Box Jam",
+   "startDate": {
+    "date": "2026-11-13 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.bingoloco.com/all-events?search%5Bname%5D=Belfast",
+   "websiteImage": "uploads/accounts/10/events/11745_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11582,
+   "title": "Divides Unfold",
+   "subTitle": "+ Saffron Gorman & The Black Eagle Band",
+   "startDate": {
+    "date": "2026-11-13 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.skiddle.com/e/42704842",
+   "websiteImage": "uploads/accounts/10/events/11582_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11781,
+   "title": "Just Like Heaven: Alt 80’s Night",
+   "startDate": {
+    "date": "2026-11-13 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5631/just-like-heaven-limelight",
+   "websiteImage": "uploads/accounts/10/events/11781_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11699,
+   "title": "Partiboi69",
+   "startDate": {
+    "date": "2026-11-13 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5611/shine-partiboi69-limelight",
+   "websiteImage": "uploads/accounts/10/events/11699_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11603,
+   "title": "DAY FEVER",
+   "subTitle": "The UK's biggest daytime disco!",
+   "startDate": {
+    "date": "2026-11-14 15:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "3pm | 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5450069?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11603_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10401,
+   "title": "Pork Pie",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-14 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6.30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5332462?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10401_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11204,
+   "title": "KhakiKid",
+   "startDate": {
+    "date": "2026-11-15 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5322189?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11204_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11002,
+   "title": "OLE 60",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-15 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5446293?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11002_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-11-16 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10890,
+   "title": "The Wanted 2.0",
+   "subTitle": "(We're) Glad You Came",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-18 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/the-wanted-20-belfast-18-11-2026/event/3800648DD759250C",
+   "websiteImage": "uploads/accounts/10/events/10890_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-11-18 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11188,
+   "title": "Jamie McIntyre",
+   "startDate": {
+    "date": "2026-11-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5585254?venueId=459772",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11188_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10987,
+   "title": "Pa Sheehy",
+   "subTitle": "The Magic We Found Tour",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5355204?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10987_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-11-19 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11173,
+   "title": "Fat Dog",
+   "subTitle": "+ Stratford Rise",
+   "startDate": {
+    "date": "2026-11-20 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5426139?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11173_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10472,
+   "title": "Wrong Jovi",
+   "subTitle": "Bon Jovi Tribute Band",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-20 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5158759?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10472_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11599,
+   "title": "TELETECH X SHINE -- ALI JAMES",
+   "subTitle": "+ NYZERO & YARIS",
+   "startDate": {
+    "date": "2026-11-20 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30pm | 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5584/teletech-x-shine-ali-james-limelight",
+   "websiteImage": "uploads/accounts/10/events/11599_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11718,
+   "title": "Girl Code",
+   "subTitle": "GIRLS ONLY EVENT",
+   "startDate": {
+    "date": "2026-11-21 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm / 18+",
+   "ticketsUrl": "https://www.locomotivelive.com/girl-code/belfast",
+   "websiteImage": "uploads/accounts/10/events/11718_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11081,
+   "title": "CIRCUS CIRCUS REUNION",
+   "subTitle": "+ Rob Tissera & Computer & Gleave & Jacko & Robbie Nelson",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-21 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.glistrr.com/events/e/circus-circus-reunion-3090-122",
+   "websiteImage": "uploads/accounts/10/events/11081_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11469,
+   "title": "Twenty One Pilots Appreciation Party",
+   "startDate": {
+    "date": "2026-11-21 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5539/twenty-one-pilots-appreciation-party-limelight",
+   "websiteImage": "uploads/accounts/10/events/11469_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11190,
+   "title": "Xentrix: Cross-Atlantic Carnage",
+   "subTitle": "+ Nervosa & Tortured Demon",
+   "startDate": {
+    "date": "2026-11-22 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6:30pm | 18+",
+   "ticketsUrl": "https://www.skiddle.com/whats-on/Belfast/Limelight-2/Xentrix--Nervosa--TBC-Limelight-2-Sunday-22nd-November/42560658/",
+   "websiteImage": "uploads/accounts/10/events/11190_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10922,
+   "title": "Paddy Young",
+   "subTitle": "WILL SIR BE LAUGHING ALONE?",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-23 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/paddy-young-will-sir-be-laughing-belfast-26-10-2026/event/38006490E7C82C25",
+   "websiteImage": "uploads/accounts/10/events/10922_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-11-23 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10518,
+   "title": "L1NKN P4RK",
+   "subTitle": "The Linkin Park Experience",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-24 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6:30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/l1nkn-p4rk-the-linkin-park-experience-belfast-24-11-2026/event/38006462E55A1C9A",
+   "websiteImage": "uploads/accounts/10/events/10518_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11024,
+   "title": "AVATAR",
+   "subTitle": "+ Neckbreakker",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-25 18:15:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6.15pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/avatar-25-11-2026/event/380064B2E1621BD3",
+   "websiteImage": "uploads/accounts/10/events/11024_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11191,
+   "title": "Harakiri for the Sky",
+   "subTitle": "+ Sunken",
+   "startDate": {
+    "date": "2026-11-25 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/harakiri-for-the-sky-tickets/artist/5281601",
+   "websiteImage": "uploads/accounts/10/events/11191_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10911,
+   "title": "Picture This",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-25 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/picture-this-25-11-2026/event/380064967F790BD0?_gl=1*14p2f07*_gcl_au*MTQ5OTI3MjcyOC4xNzcyMTA0NDYy",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/10911_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-11-25 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10761,
+   "title": "Eagles of Death Metal",
+   "subTitle": "+ Yächtley Crëw",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-26 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/eagles-of-death-metal-belfast-26-11-2026/event/38006477CFD4186B",
+   "websiteImage": "uploads/accounts/10/events/10761_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10929,
+   "title": "Picture This",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-26 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/picture-this-26-11-2026/event/380064967F7B0BD2?_gl=1*14p2f07*_gcl_au*MTQ5OTI3MjcyOC4xNzcyMTA0NDYy",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/10929_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 10495,
+   "title": "FM",
+   "subTitle": "Indiscreet 40th Anniversary Tour",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-26 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/740901?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10495_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-11-26 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11396,
+   "title": "Stop Making Sense Live",
+   "startDate": {
+    "date": "2026-11-27 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/stop-making-sense-live-belfast-27-11-2026/event/380064EABBF10F24",
+   "websiteImage": "uploads/accounts/10/events/11396_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10498,
+   "title": "Electric Six",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-27 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/electric-six-belfast-27-11-2026/event/38006457861E13AA",
+   "websiteImage": "uploads/accounts/10/events/10498_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11593,
+   "title": "Hoa-Hoa-Hoa Rave",
+   "subTitle": "Twilight Themed Rave",
+   "startDate": {
+    "date": "2026-11-27 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5581/twilight-rave-club-limelight",
+   "websiteImage": "uploads/accounts/10/events/11593_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11673,
+   "title": "SHINE -- SAM ALFRED",
+   "subTitle": "+ MK BEST & KACPER",
+   "startDate": {
+    "date": "2026-11-27 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5599/shine-sam-alfred-the-limelight-1",
+   "websiteImage": "uploads/accounts/10/events/11673_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11040,
+   "title": "The 30+ Club",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-28 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm / 30+",
+   "ticketsUrl": "https://tickets.the30plus.club/events/the30plusclub/1459580",
+   "websiteImage": "uploads/accounts/10/events/11040_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11701,
+   "title": "SHINE -- SASHA",
+   "subTitle": "+ Stephen Porter",
+   "startDate": {
+    "date": "2026-11-28 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5613/shine-sasha-limelight",
+   "websiteImage": "uploads/accounts/10/events/11701_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11236,
+   "title": "Aaron Rowe",
+   "subTitle": "+ Scarlett Loran",
+   "startDate": {
+    "date": "2026-11-29 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5545499?venueId=459772",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11236_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11101,
+   "title": "Evergrey",
+   "subTitle": "+ IGNEA & STELLAR CIRCUITS",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-11-30 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.skiddle.com/whats-on/Belfast/Limelight-2/Evergrey--TBC-Monday-30th-November-Limelight-2-Belfast/42482490/",
+   "websiteImage": "uploads/accounts/10/events/11101_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-11-30 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11147,
+   "title": "Dylan John Thomas",
+   "startDate": {
+    "date": "2026-12-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5266536?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11147_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11439,
+   "title": "The Darkness",
+   "subTitle": "+ Florentenes",
+   "startDate": {
+    "date": "2026-12-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/the-darkness-belfast-01-12-2026/event/380064F7D6F917CA?_gl=1*b6yvbn*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "websiteImage": "uploads/accounts/10/events/11439_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 11167,
+   "title": "Enter Shikari",
+   "subTitle": "LOSE YOUR SELF TOUR 2026",
+   "startDate": {
+    "date": "2026-12-02 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1120821?venueId=461708",
+   "websiteImage": "uploads/accounts/10/events/11167_website.png",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-12-02 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9855,
+   "title": "Hannah East",
+   "subTitle": "Express Yourself",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-03 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6.30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5577649?venueId=459772",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/9855_website.png",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-12-03 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11746,
+   "title": "Bingo Loco Pres. Juke Box Jam",
+   "subTitle": "Christmas Special 🎄",
+   "startDate": {
+    "date": "2026-12-04 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.bingoloco.com/all-events?search%5Bname%5D=Belfast",
+   "websiteImage": "uploads/accounts/10/events/11746_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10428,
+   "title": "The Style Councillors",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-04 19:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7.30pm / 18+",
+   "ticketsUrl": "https://www.seetickets.com/event/the-style-councillors/limelight/3387367",
+   "websiteImage": "uploads/accounts/10/events/10428_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11738,
+   "title": "The 30+ Club",
+   "startDate": {
+    "date": "2026-12-05 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm | 30+",
+   "ticketsUrl": "https://the30plus.club/",
+   "websiteImage": "uploads/accounts/10/events/11738_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10463,
+   "title": "One Night In Nashville",
+   "subTitle": "+ Maria Jordan & Robbie McMinn & DJ Chris Armstrong",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-05 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5210525?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10463_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10738,
+   "title": "Larry Dean",
+   "subTitle": "Hellbent",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-07 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1888447?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10738_website.jpg",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-12-07 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10855,
+   "title": "SEVENDUST",
+   "subTitle": "+ Overgrown",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-08 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6:30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/783708?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10855_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-12-09 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10513,
+   "title": "The Frank & The Walters",
+   "subTitle": "30th Anniversary Tour",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/the-frank-and-walters-belfast-10-12-2026/event/3800645AD1F72ACF",
+   "websiteImage": "uploads/accounts/10/events/10513_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10830,
+   "title": "The Pogues",
+   "subTitle": "+ The Wran & Maicín",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1002526?venueId=461708",
+   "websiteImage": "uploads/accounts/10/events/10830_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 11178,
+   "title": "SKERRYVORE",
+   "subTitle": "Beautiful Mistakes",
+   "startDate": {
+    "date": "2026-12-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1624050?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11178_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-12-10 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10964,
+   "title": "EMO FEST",
+   "subTitle": "The Greatest Emo Tribute Night",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-11 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/event/380064A5B4F213D5",
+   "websiteImage": "uploads/accounts/10/events/10964_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10735,
+   "title": "The Molotovs",
+   "subTitle": "+ The Marra",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-11 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18 +",
+   "ticketsUrl": "https://www.ticketmaster.ie/the-molotovs-belfast-11-12-2026/event/3800643EDB9A2BE5?_gl=1*1jewwr3*_gcl_au*MTgwNzcxNjMwNy4xNzg3NjU3NjUz",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/10735_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11626,
+   "title": "The 30+ Club",
+   "startDate": {
+    "date": "2026-12-12 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm | 30+",
+   "ticketsUrl": "https://the30plus.club/",
+   "websiteImage": "uploads/accounts/10/events/11626_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11748,
+   "title": "Bingo Loco Pres. Juke Box Jam",
+   "subTitle": "Christmas Special 🎄",
+   "startDate": {
+    "date": "2026-12-12 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.bingoloco.com/all-events?search[name]=Belfast",
+   "websiteImage": "uploads/accounts/10/events/11748_website.png",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 11786,
+   "title": "SHINE x PRTY -- CADZOW [MAKINA SET]",
+   "startDate": {
+    "date": "2026-12-12 22:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10:30PM / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5633/shine-x-prty-cadzow-limelight",
+   "websiteImage": "uploads/accounts/10/events/11786_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10808,
+   "title": "The Fillers",
+   "subTitle": "A Tribute to The Killers",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-13 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/the-fillers-belfast-13-12-2026/event/3800647ED6C81FB8",
+   "websiteImage": "uploads/accounts/10/events/10808_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11121,
+   "title": "Razorlight",
+   "subTitle": "+ The Molotovs",
+   "startDate": {
+    "date": "2026-12-13 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/razorlight-america-20th-anniversary-tour-belfast-13-12-2026/event/380064CAD3C62E48",
+   "websiteImage": "uploads/accounts/10/events/11121_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-12-14 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10353,
+   "title": "Mammoth",
+   "subTitle": "+ Florence Black",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-16 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/mammoth-belfast-16-12-2026/event/3800642FA7A91BAA",
+   "websiteImage": "uploads/accounts/10/events/10353_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-12-16 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11479,
+   "title": "Aslan",
+   "subTitle": "+ Wolfhound",
+   "startDate": {
+    "date": "2026-12-17 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/749316?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11479_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-12-17 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11424,
+   "title": "Garron Noone",
+   "startDate": {
+    "date": "2026-12-18 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5448487?venueId=461708",
+   "websiteImage": "uploads/accounts/10/events/11424_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 10782,
+   "title": "The Sensational David Bowie Tribute",
+   "subTitle": "BOWIE CHRISTMAS SPECIAL",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-18 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1834024?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/10782_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11446,
+   "title": "The Rapparees",
+   "subTitle": "A Tribute To Pogues",
+   "startDate": {
+    "date": "2026-12-18 19:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.co.uk/the-rapparees-tickets/artist/2198814",
+   "websiteImage": "uploads/accounts/10/events/11446_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11406,
+   "title": "The Undertones",
+   "subTitle": "+ The Outcasts & The Marra",
+   "startDate": {
+    "date": "2026-12-19 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/959984?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11406_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 8959,
+   "title": "Garron Noone",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/garron-noone-belfast-12-12-2025/event/3800623689BD08CB",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/8959_website.jpeg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 11181,
+   "title": "Sweet Savage",
+   "subTitle": "+ Special guests",
+   "startDate": {
+    "date": "2026-12-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/sweet-savage-19-12-2026/event/380064D9E137470E?_gl=1*1uvq0uv*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "websiteImage": "uploads/accounts/10/events/11181_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11407,
+   "title": "The Undertones",
+   "subTitle": "+ The Moondogs & Esmeralda Road",
+   "startDate": {
+    "date": "2026-12-20 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/959984?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11407_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-12-21 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-12-23 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-12-24 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11042,
+   "title": "The 30+ Club",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2026-12-26 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm / 30+",
+   "ticketsUrl": "https://tickets.the30plus.club/events/the30plusclub/1459580",
+   "websiteImage": "uploads/accounts/10/events/11042_website.jpg",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11783,
+   "title": "SUPERSHINE -- DAVE CLARKE & PHIL KIERAN",
+   "subTitle": "+ Conor Schmtz b2b Sophie",
+   "startDate": {
+    "date": "2026-12-26 21:45:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "9.45pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5630/supershine-dave-clarke-limelight",
+   "websiteImage": "uploads/accounts/10/events/11783_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11454,
+   "title": "Roll With It",
+   "subTitle": "The Ultimate Oasis Experience",
+   "startDate": {
+    "date": "2026-12-27 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/roll-with-it-the-ultimate-oasis-belfast-27-12-2026/event/380064FBD554172C?_gl=1*chp4ym*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "websiteImage": "uploads/accounts/10/events/11454_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2026-12-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11747,
+   "title": "Bingo Loco Pres. Juke Box Jam",
+   "subTitle": "Christmas Special 🎄",
+   "startDate": {
+    "date": "2026-12-29 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.bingoloco.com/all-events?search%5Bname%5D=Belfast",
+   "websiteImage": "uploads/accounts/10/events/11747_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2026-12-30 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2026-12-31 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-01-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-01-06 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-01-07 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-01-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-01-13 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-01-14 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-01-18 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11544,
+   "title": "Holly Humberstone",
+   "subTitle": "+ Chloe Qisha",
+   "startDate": {
+    "date": "2027-01-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5313863?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11544_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-01-20 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11705,
+   "title": "Nubiyan Twist",
+   "startDate": {
+    "date": "2027-01-21 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/2126153?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11705_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-01-21 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10985,
+   "title": "Ashley Cooke",
+   "subTitle": "+ Niamh McCrystal",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-01-22 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5351588?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10985_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11682,
+   "title": "Anthony Gomes",
+   "subTitle": "PRAISE THE LOUD",
+   "startDate": {
+    "date": "2027-01-23 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/838950?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11682_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11516,
+   "title": "The Chop Sueys",
+   "subTitle": "+ Hard Bizkit",
+   "startDate": {
+    "date": "2027-01-23 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5428246?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11516_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-01-25 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11434,
+   "title": "The Snuts",
+   "startDate": {
+    "date": "2027-01-26 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5235234?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11434_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-01-27 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11117,
+   "title": "Melrose Avenue",
+   "subTitle": "+ Arankai & Call Me Amour",
+   "startDate": {
+    "date": "2027-01-28 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5550884?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11117_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11552,
+   "title": "Scouting For Girls",
+   "subTitle": "20th Anniversary Warm Up Shows",
+   "startDate": {
+    "date": "2027-01-28 19:10:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1262752?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11552_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-01-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11502,
+   "title": "Haken",
+   "subTitle": "+ IHLO & Black Orchid Empire",
+   "startDate": {
+    "date": "2027-02-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1731300?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11502_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-02-01 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11556,
+   "title": "Big Ass Truck",
+   "subTitle": "+ PINTGLASS & IFITBLEEDS",
+   "startDate": {
+    "date": "2027-02-03 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/777262?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11556_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11060,
+   "title": "Tyler Braden",
+   "subTitle": "+ Chanel Yates",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-02-03 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5316856?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11060_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-02-03 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-02-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11128,
+   "title": "South Arcade",
+   "startDate": {
+    "date": "2027-02-07 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/south-arcade-belfast-07-02-2027/event/380064C3B330266A?_gl=1*wcrf0m*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "websiteImage": "uploads/accounts/10/events/11128_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-02-08 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11618,
+   "title": "Marky Ramone's Blitzkrieg",
+   "subTitle": "Playing Ramones Classics!",
+   "startDate": {
+    "date": "2027-02-09 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/771379?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11618_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-02-10 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11756,
+   "title": "Abi Clarke",
+   "subTitle": "Just Tell Me When It's Over",
+   "startDate": {
+    "date": "2027-02-11 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5494399?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11756_website.jpg",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11111,
+   "title": "Black Stone Cherry",
+   "subTitle": "The Celebrate Tour",
+   "startDate": {
+    "date": "2027-02-11 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/black-stone-cherry-belfast-11-02-2027/event/380063817EDF1C47?_gl=1*12g5tqx*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "websiteImage": "uploads/accounts/10/events/11111_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-02-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11558,
+   "title": "The BIG Indie Tribute Festival",
+   "subTitle": "A NIGHT OF HUGE INDIE ROCK ANTHEMS!",
+   "startDate": {
+    "date": "2027-02-12 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5572/the-big-indie-fest-limelight",
+   "websiteImage": "uploads/accounts/10/events/11558_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11692,
+   "title": "Peter Antoniou",
+   "subTitle": "Brain Teaser",
+   "startDate": {
+    "date": "2027-02-12 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5371139?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11692_website.png",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-02-15 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11146,
+   "title": "SAXON",
+   "subTitle": "God of Thunder Tour",
+   "startDate": {
+    "date": "2027-02-16 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/saxon-belfast-16-02-2027/event/380064D27F981547",
+   "websiteImage": "uploads/accounts/10/events/11146_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-02-17 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-02-18 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11087,
+   "title": "DMA's",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-02-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/dmas-19-02-2027/event/380064BCBAF41B1F?_gl=1*njbfan*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11087_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11804,
+   "title": "Colum Tyrrell",
+   "startDate": {
+    "date": "2027-02-19 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5421818?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11804_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11549,
+   "title": "David McSavage",
+   "subTitle": "Pig Ignorant",
+   "startDate": {
+    "date": "2027-02-20 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1410110?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11549_website.png",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11200,
+   "title": "Dan Tiernan",
+   "subTitle": "QUARTZ AND ALL",
+   "startDate": {
+    "date": "2027-02-20 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5472364?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11200_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11183,
+   "title": "ICE AGE",
+   "subTitle": "For Love of Grace & The Hereafter",
+   "startDate": {
+    "date": "2027-02-20 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1611202?venueId=461726",
+   "websiteImage": "uploads/accounts/10/events/11183_website.jpg",
+   "venue": "Ulster Sports Club"
+  },
+  {
+   "id": 11535,
+   "title": "Basement",
+   "subTitle": "+ Fleshwater & Béton Armé",
+   "startDate": {
+    "date": "2027-02-21 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1965287?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11535_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-02-22 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11664,
+   "title": "Red Richardson",
+   "subTitle": "Premium Economy",
+   "startDate": {
+    "date": "2027-02-23 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5440552?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11664_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11737,
+   "title": "Drew Baldridge",
+   "subTitle": "Farm Faith Family Tour",
+   "startDate": {
+    "date": "2027-02-24 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1881367?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11737_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-02-24 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-02-25 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11415,
+   "title": "Delta Goodrem",
+   "startDate": {
+    "date": "2027-03-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1247882?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11415_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11592,
+   "title": "Signs of The Swarm",
+   "subTitle": "+ Ten56 & Oceans Ate Alaska & Face Yourself",
+   "startDate": {
+    "date": "2027-03-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5273414?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11592_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-03-01 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-03-03 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-03-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11736,
+   "title": "Fionn Regan",
+   "startDate": {
+    "date": "2027-03-05 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1138023?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11736_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10753,
+   "title": "Scott Bennett",
+   "subTitle": "Stuff",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-03-07 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6.30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5241872?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10753_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-03-08 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11557,
+   "title": "The Menzingers",
+   "subTitle": "+ The Flatliners",
+   "startDate": {
+    "date": "2027-03-09 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1243377?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11557_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11691,
+   "title": "Late Night Thoughts",
+   "subTitle": "Days Like These Tour",
+   "startDate": {
+    "date": "2027-03-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5646410?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11691_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-03-10 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11657,
+   "title": "Dirty Honey",
+   "startDate": {
+    "date": "2027-03-11 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5276720?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11657_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-03-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11648,
+   "title": "Callum Beattie",
+   "startDate": {
+    "date": "2027-03-12 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5222637?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11648_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11627,
+   "title": "Limewired",
+   "subTitle": "A Nostalgic Party For The MP3 Generation",
+   "startDate": {
+    "date": "2027-03-12 20:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "8pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5587/limewired-a-2000s-nostalgia-party-limelight-pt2",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11627_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11686,
+   "title": "Limewired",
+   "subTitle": "A Nostalgic Party For The MP3 Generation",
+   "startDate": {
+    "date": "2027-03-13 17:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/show/5600/limewired-a-2000s-nostalgia-party-extra-date-added-limelight",
+   "websiteImage": "uploads/accounts/10/events/11686_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11164,
+   "title": "Big Country",
+   "startDate": {
+    "date": "2027-03-14 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/956353?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11164_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11734,
+   "title": "KEO",
+   "subTitle": "Put A Smile On For Me Tour",
+   "startDate": {
+    "date": "2027-03-15 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5462498?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11734_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-03-15 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-03-17 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-03-18 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11105,
+   "title": "Pearl Scam",
+   "subTitle": "Generation Grunge UK Tour",
+   "startDate": {
+    "date": "2027-03-20 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5509244?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11105_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-03-22 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-03-24 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11771,
+   "title": "Chesney Hawkes",
+   "startDate": {
+    "date": "2027-03-25 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/chesney-hawkes-25-03-2027/event/380065467E850B0D?_gl=1*1pxlclz*_gcl_au*MTgwNzcxNjMwNy4xNzg3NjU3NjUz",
+   "websiteImage": "uploads/accounts/10/events/11771_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-03-25 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10871,
+   "title": "Martin Stephenson & The Daintees",
+   "subTitle": "Gladsome, Humour & Blue",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-03-27 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/event/3800648AD9B92A58",
+   "websiteImage": "uploads/accounts/10/events/10871_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 10431,
+   "title": "Lucy Beaumont",
+   "subTitle": "Bad At Quiz Shows, Good With Weirdos",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-03-28 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/2073320?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/10431_website.png",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-03-29 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-03-31 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-04-01 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11798,
+   "title": "Cardinal Black",
+   "startDate": {
+    "date": "2027-04-02 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5365094?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11798_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 10092,
+   "title": "Kings of Lyon & The UK Strokes",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-04-03 18:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6.30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/kings-of-lyon-the-uk-strokes-belfast-25-07-2026/event/3800636AB3E12066",
+   "websiteImage": "uploads/accounts/10/events/10092_website.png",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-04-05 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-04-07 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-04-08 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11476,
+   "title": "Slipknowt",
+   "startDate": {
+    "date": "2027-04-09 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5187464?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11476_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 9280,
+   "title": "B.Y.O.B - Tribute to System of a Down",
+   "subTitle": "+ UNTIL 9",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-04-10 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/byob-tribute-to-system-of-a-belfast-01-08-2026/event/380062917BEF0EA4",
+   "websiteImage": "uploads/accounts/10/events/9280_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11795,
+   "title": "Orbital",
+   "startDate": {
+    "date": "2027-04-10 20:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "8pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/807220?venueId=459772",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11795_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11801,
+   "title": "Madra Salach",
+   "startDate": {
+    "date": "2027-04-11 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5582249?venueId=461708",
+   "websiteImage": "uploads/accounts/10/events/11801_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-04-12 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10881,
+   "title": "Darren Kiely",
+   "subTitle": "The Space Between Dreams Tour",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-04-13 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/darren-kiely-belfast-13-04-2027/event/3800646460040917",
+   "websiteImage": "uploads/accounts/10/events/10881_website.jpg",
+   "venue": "The Telegraph Building"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-04-14 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-04-15 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11199,
+   "title": "MORETALLICA",
+   "startDate": {
+    "date": "2027-04-17 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5531464?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11199_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-04-19 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-04-21 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-04-22 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11793,
+   "title": "Bess Atwell",
+   "subTitle": "Cut A Figure Tour 2027",
+   "startDate": {
+    "date": "2027-04-25 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/bess-atwell-25-04-2027/event/38006548A85015D8",
+   "websiteImage": "uploads/accounts/10/events/11793_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11725,
+   "title": "Bleech 9:3",
+   "startDate": {
+    "date": "2027-04-26 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5624103?venueId=461484",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11725_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-04-26 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-04-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-04-29 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11449,
+   "title": "Erasured",
+   "subTitle": "The Ultimate Erasure Tribute",
+   "startDate": {
+    "date": "2027-04-30 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5503204?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11449_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11534,
+   "title": "Winter in the Sun: Cardinals",
+   "subTitle": "+ Theatre, Croíthe, Madams Last Discovery & special guest TBC",
+   "startDate": {
+    "date": "2027-05-01 17:30:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "5.30pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/1249045?venueId=459772",
+   "websiteImage": "uploads/accounts/10/events/11534_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11730,
+   "title": "The 9075",
+   "subTitle": "A night dedicated to the music of The 1975",
+   "startDate": {
+    "date": "2027-05-01 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5468941?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11730_website.jpg",
+   "venue": "Limelight 2"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-05-03 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-05-05 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-05-06 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11158,
+   "title": "Shane Daniel Byrne",
+   "subTitle": "Baby This Time",
+   "startDate": {
+    "date": "2027-05-08 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5307221?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11158_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-05-10 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-05-12 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-05-13 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-05-17 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-05-19 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-05-20 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11577,
+   "title": "Luke Combs UK",
+   "subTitle": "+ DJ Chris Armstrong",
+   "startDate": {
+    "date": "2027-05-21 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/luke-combs-uk-21-05-2027/event/380065227AAC095A",
+   "websiteImage": "uploads/accounts/10/events/11577_website.png",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-05-24 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-05-26 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-05-27 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11716,
+   "title": "Sean Hegarty",
+   "subTitle": "Guess Who?",
+   "startDate": {
+    "date": "2027-05-28 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5324831?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11716_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11581,
+   "title": "THE R&B ORCHESTRA",
+   "startDate": {
+    "date": "2027-05-29 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/event/38006523E7942D35",
+   "websiteImage": "uploads/accounts/10/events/11581_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-05-31 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-06-02 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 10994,
+   "title": "MC Hammersmith",
+   "subTitle": "ICE ICE NEPO BABY",
+   "recurringDayOfWeek": [
+    "7"
+   ],
+   "startDate": {
+    "date": "2027-06-03 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5414390?venueId=461484",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/10994_website.jpg",
+   "venue": "Limelight 1",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-06-03 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-06-07 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-06-09 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-06-10 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11139,
+   "title": "Belsonic 2027 - Kingfishr",
+   "startDate": {
+    "date": "2027-06-11 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/kingfishr-belfast-11-06-2027/event/380064C87A4D11FF?referrer=https%3A%2F%2Fwww.ticketmaster.ie%2Fsearch%3Fq%3Dkingfishr",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11139_website.jpg",
+   "venue": "Ormeau Park, Belfast"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-06-14 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-06-16 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11559,
+   "title": "Belsonic 2027 - Sombr",
+   "subTitle": "+ Suki Waterhouse",
+   "startDate": {
+    "date": "2027-06-17 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/sombr-you-are-the-reason-tour-belfast-17-06-2027/event/3800651894A412CB?_gl=1*wg02zv*_gcl_au*MTgwNzcxNjMwNy4xNzg3NjU3NjUz",
+   "websiteImage": "uploads/accounts/10/events/11559_website.jpg",
+   "venue": "Ormeau Park, Belfast"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-06-17 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11676,
+   "title": "Belsonic 2027 - Alex Warren",
+   "startDate": {
+    "date": "2027-06-21 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/alex-warren-finding-more-family-on-belfast-21-06-2027/event/3800652383E10B82",
+   "websiteImage": "uploads/accounts/10/events/11676_website.jpg",
+   "venue": "Ormeau Park, Belfast"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-06-21 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11519,
+   "title": "Belsonic 2027 - Amble",
+   "subTitle": "+ Dylan Gossett",
+   "startDate": {
+    "date": "2027-06-23 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/amble-23-06-2027/event/380064F682FC0AE1?_gl=1*fcpt1r*_gcl_au*MTE4NTA5MDgyOS4xNzc5ODgxNTc3",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11519_website.jpg",
+   "venue": "Ormeau Park, Belfast"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-06-23 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-06-24 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11770,
+   "title": "Belsonic 2027 - Dermot Kennedy",
+   "startDate": {
+    "date": "2027-06-26 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/dermot-kennedy-belfast-26-06-2027/event/38006546A6DA13BE",
+   "isSoldOut": true,
+   "websiteImage": "uploads/accounts/10/events/11770_website.jpg",
+   "venue": "Ormeau Park, Belfast"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-06-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11550,
+   "title": "Belsonic 2027 - Take That",
+   "startDate": {
+    "date": "2027-06-30 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.ticketmaster.ie/take-that-dreamers-tour-belfast-30-06-2027/event/38006519DE4E2EE1",
+   "websiteImage": "uploads/accounts/10/events/11550_website.jpg",
+   "venue": "Ormeau Park, Belfast"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-06-30 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-07-01 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11726,
+   "title": "The Summer Series 2027 - Slash",
+   "subTitle": "+ Myles Kennedy & The Conspirators",
+   "startDate": {
+    "date": "2027-07-04 18:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "6pm",
+   "ticketsUrl": "https://www.venuecloud.net/s/f/35/256",
+   "websiteImage": "uploads/accounts/10/events/11726_website.jpg",
+   "venue": "Custom House Square"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-07-05 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-07-07 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-07-08 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-07-12 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-07-14 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-07-15 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-07-19 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-07-21 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-07-22 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-07-26 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-07-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-07-29 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-08-02 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-08-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-08-05 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-08-09 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-08-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-08-12 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-08-16 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-08-18 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-08-19 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-08-23 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-08-25 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-08-26 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-08-30 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-09-01 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-09-02 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-09-06 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-09-08 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-09-09 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-09-13 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-09-15 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-09-16 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11650,
+   "title": "The Eminem Experience",
+   "startDate": {
+    "date": "2027-09-18 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/the-eminem-experience-belfast-18-09-2027/event/3800650492430EF2",
+   "websiteImage": "uploads/accounts/10/events/11650_website.jpg",
+   "venue": "Limelight 1"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-09-20 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-09-22 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-09-23 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-09-27 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-09-29 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-09-30 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-10-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-10-06 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-10-07 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-10-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-10-13 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-10-14 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-10-18 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-10-20 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-10-21 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-10-25 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-10-27 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-10-28 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-11-01 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-11-03 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-11-04 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11621,
+   "title": "MOOD MONDAYS",
+   "subTitle": "Every Monday Night",
+   "recurringDayOfWeek": [
+    "1"
+   ],
+   "startDate": {
+    "date": "2027-11-08 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/11621_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 9810,
+   "title": "UFO",
+   "subTitle": "Every Wednesday Night",
+   "recurringDayOfWeek": [
+    "3"
+   ],
+   "startDate": {
+    "date": "2027-11-10 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/9810_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 8880,
+   "title": "BABBA",
+   "subTitle": "Every Thursday Night",
+   "recurringDayOfWeek": [
+    "4"
+   ],
+   "startDate": {
+    "date": "2027-11-11 22:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "10pm / 18+",
+   "ticketsUrl": "https://shine.tickets/events/list#Limelight%20Club%20Nights",
+   "websiteImage": "uploads/accounts/10/events/8880_website.png",
+   "venue": "Limelight"
+  },
+  {
+   "id": 11609,
+   "title": "Micky Overman",
+   "startDate": {
+    "date": "2027-11-13 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5461974?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11609_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  },
+  {
+   "id": 11608,
+   "title": "Patrick Spicer",
+   "startDate": {
+    "date": "2027-11-14 19:00:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Dublin"
+   },
+   "doors": "7pm / 18+",
+   "ticketsUrl": "https://www.ticketmaster.ie/artist/5597894?venueId=461484",
+   "websiteImage": "uploads/accounts/10/events/11608_website.jpg",
+   "venue": "Limelight 2",
+   "categories": [
+    "Comedy"
+   ]
+  }
+ ]
+}

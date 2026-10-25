@@ -1,0 +1,4406 @@
+{
+ "009a43fb-5e1b-4d39-af07-2844ee97e701": {
+  "age_restriction": "18+",
+  "date": "2027-03-25",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Chesney Hawkes",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11771",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/chesney-hawkes-25-03-2027/event/380065467E850B0D"
+   }
+  ],
+  "title": "Chesney Hawkes",
+  "venue": "limelight"
+ },
+ "010c6b8d-755c-428c-8b81-bf63ab055a7b": {
+  "age_restriction": null,
+  "date": "2027-06-23",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Belsonic 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11519",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": [
+   "Dylan Gossett"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/amble-23-06-2027/event/380064F682FC0AE1"
+   }
+  ],
+  "title": "Belsonic 2027 - Amble",
+  "venue": "ormeau-park"
+ },
+ "02ea207b-8d31-491f-90f5-0d5cb38cb2e1": {
+  "age_restriction": "18+",
+  "date": "2026-12-13",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Razorlight",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11121",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "The Molotovs"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/razorlight-america-20th-anniversary-tour-belfast-13-12-2026/event/380064CAD3C62E48"
+   }
+  ],
+  "title": "Razorlight",
+  "venue": "telegraph-building"
+ },
+ "0558cad4-e464-4e4c-9e34-3c2a3fc13ba9": {
+  "age_restriction": "18+",
+  "date": "2026-12-04",
+  "doors_time": "19:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Style Councillors",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10428",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "See Tickets",
+    "url": "https://www.seetickets.com/event/the-style-councillors/limelight/3387367"
+   }
+  ],
+  "title": "The Style Councillors",
+  "venue": "limelight"
+ },
+ "0684da6e-2f6e-4dd0-bbac-596d75ddec15": {
+  "age_restriction": "18+",
+  "date": "2026-11-30",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Evergrey",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11101",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "IGNEA",
+   "STELLAR CIRCUITS"
+  ],
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Limelight-2/Evergrey--TBC-Monday-30th-November-Limelight-2-Belfast/42482490/"
+   }
+  ],
+  "title": "Evergrey",
+  "venue": "limelight"
+ },
+ "06bfcd12-524e-41bf-a08a-8c1a4f74285c": {
+  "age_restriction": null,
+  "date": "2026-11-22",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Xentrix",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11190",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Nervosa",
+   "Tortured Demon"
+  ],
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Limelight-2/Xentrix--Nervosa--TBC-Limelight-2-Sunday-22nd-November/42560658/"
+   }
+  ],
+  "title": "Xentrix: Cross-Atlantic Carnage",
+  "venue": "limelight"
+ },
+ "0878d20b-9b33-4831-a4a5-a22e4b32cc9a": {
+  "age_restriction": null,
+  "date": "2026-11-14",
+  "doors_time": "15:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "DAY FEVER",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11603",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5450069?venueId=459772"
+   }
+  ],
+  "title": "DAY FEVER",
+  "venue": "limelight"
+ },
+ "08d1a295-c3e7-483f-9715-0d3e150caf63": {
+  "age_restriction": "18+",
+  "date": "2026-11-03",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Hail The Sun",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11422",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Blight Town"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1777787?venueId=461484"
+   }
+  ],
+  "title": "Hail The Sun",
+  "venue": "limelight"
+ },
+ "0bae8aca-32d0-41d0-a0ed-58c202eb641c": {
+  "age_restriction": "18+",
+  "date": "2027-01-22",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Ashley Cooke",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10985",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Niamh McCrystal"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5351588?venueId=459772"
+   }
+  ],
+  "title": "Ashley Cooke",
+  "venue": "limelight"
+ },
+ "0c1e48ef-f338-4033-a9e5-023396387142": {
+  "age_restriction": "18+",
+  "date": "2027-03-20",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Pearl Scam",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11105",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5509244?venueId=461484"
+   }
+  ],
+  "title": "Pearl Scam",
+  "venue": "limelight"
+ },
+ "0eb017f4-04be-47fd-8cda-26d58d944c7b": {
+  "age_restriction": "18+",
+  "date": "2027-05-01",
+  "doors_time": "17:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Winter in the Sun",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11534",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Theatre",
+   "Croíthe",
+   "Madams Last Discovery",
+   "special guest TBC"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1249045?venueId=459772"
+   }
+  ],
+  "title": "Winter in the Sun: Cardinals",
+  "venue": "limelight"
+ },
+ "1202907b-a712-431d-b58d-b95a8635e6ad": {
+  "age_restriction": null,
+  "date": "2027-06-17",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Belsonic 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11559",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Suki Waterhouse"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/sombr-you-are-the-reason-tour-belfast-17-06-2027/event/3800651894A412CB"
+   }
+  ],
+  "title": "Belsonic 2027 - Sombr",
+  "venue": "ormeau-park"
+ },
+ "1314cbfa-fde0-494f-af79-3a44214608c4": {
+  "age_restriction": "18+",
+  "date": "2027-02-21",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Basement",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11535",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Fleshwater",
+   "Béton Armé"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1965287?venueId=459772"
+   }
+  ],
+  "title": "Basement",
+  "venue": "limelight"
+ },
+ "16ebcb12-9c75-4f4d-aa62-7317dd68c3c8": {
+  "age_restriction": null,
+  "date": "2026-10-31",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-10-31",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-31-10-2026/event/3800634FF69328B9?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "18743777-e6bc-4597-8eac-5a2c5728c2a5": {
+  "age_restriction": "18+",
+  "date": "2027-02-03",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Big Ass Truck",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11556",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "PINTGLASS",
+   "IFITBLEEDS"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/777262?venueId=461484"
+   }
+  ],
+  "title": "Big Ass Truck",
+  "venue": "limelight"
+ },
+ "1bc702e9-1277-4d2f-a737-687fd3727f56": {
+  "age_restriction": "18+",
+  "date": "2026-11-07",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Skindred",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:10777",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Alien Ant Farm",
+   "Survivalist"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/skindred-you-got-this-tour-belfast-07-11-2026/event/38006478DA0A1D6F"
+   }
+  ],
+  "title": "Skindred",
+  "venue": "telegraph-building"
+ },
+ "1d1a409d-fffb-4bec-80d9-470b19349efb": {
+  "age_restriction": "18+",
+  "date": "2026-11-18",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Wanted 2.0",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10890",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-wanted-20-belfast-18-11-2026/event/3800648DD759250C"
+   }
+  ],
+  "title": "The Wanted 2.0",
+  "venue": "limelight"
+ },
+ "1d555c52-90d5-48d7-9288-1f4881948624": {
+  "age_restriction": null,
+  "date": "2027-10-18",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Texas",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:314444:2027-10-18",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/texas-30th-anniversary-of-white-on-blonde-the-hits"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Del Amitri"
+  ],
+  "tickets": null,
+  "title": "Texas: 30th Anniversary of White on Blonde + the hits",
+  "venue": "the-o2-belfast"
+ },
+ "1eb1ccc8-c16b-42c2-9acf-44f71df415d0": {
+  "age_restriction": "18+",
+  "date": "2027-01-28",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Scouting For Girls",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11552",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": "19:10",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1262752?venueId=459772"
+   }
+  ],
+  "title": "Scouting For Girls",
+  "venue": "limelight"
+ },
+ "203adb23-0672-47d6-a142-e156732c2bd4": {
+  "age_restriction": null,
+  "date": "2026-11-02",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Script",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:301624:2026-11-02",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/the-script"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "James Morrison"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-script-the-man-in-the-belfast-02-11-2026/event/380064AEC95E177C?camefrom=CFC_IE_CLI_THEO2BELFAST_TheScriptWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "The Script - The Man in the Arena Tour",
+  "venue": "the-o2-belfast"
+ },
+ "22a04532-4914-42de-b8f8-6bd48d68ed26": {
+  "age_restriction": null,
+  "date": "2027-07-04",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Summer Series 2027",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11726",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Myles Kennedy",
+   "The Conspirators"
+  ],
+  "tickets": [
+   {
+    "source": "venuecloud.net",
+    "url": "https://www.venuecloud.net/s/f/35/256"
+   }
+  ],
+  "title": "The Summer Series 2027 - Slash",
+  "venue": "custom-house-square"
+ },
+ "24a2fbe3-26f3-47e5-810c-58125b2258ee": {
+  "age_restriction": "18+",
+  "date": "2026-11-19",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Jamie McIntyre",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11188",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5585254?venueId=459772"
+   }
+  ],
+  "title": "Jamie McIntyre",
+  "venue": "limelight"
+ },
+ "3004bed5-86c8-448a-9ce2-8ea3031971ca": {
+  "age_restriction": "18+",
+  "date": "2026-11-20",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Wrong Jovi",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10472",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5158759?venueId=461484"
+   }
+  ],
+  "title": "Wrong Jovi",
+  "venue": "limelight"
+ },
+ "35b13a5a-d401-4979-a54b-0306add687a5": {
+  "age_restriction": null,
+  "date": "2026-10-30",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-10-30",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-30-10-2026/event/3800634FF5F7289E?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "3868bfad-818f-42ba-bf76-3e4f7a85dc1e": {
+  "age_restriction": "18+",
+  "date": "2026-12-05",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "One Night In Nashville",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10463",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Maria Jordan",
+   "Robbie McMinn",
+   "DJ Chris Armstrong"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5210525?venueId=459772"
+   }
+  ],
+  "title": "One Night In Nashville",
+  "venue": "limelight"
+ },
+ "3b51b9f9-ad58-461a-bc83-3fab02ef4f89": {
+  "age_restriction": "18+",
+  "date": "2027-04-26",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Bleech 9:3",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11725",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5624103?venueId=461484"
+   }
+  ],
+  "title": "Bleech 9:3",
+  "venue": "limelight"
+ },
+ "3bc3ebb5-b2a6-4f4d-9cc5-88c03afea4b8": {
+  "age_restriction": "18+",
+  "date": "2026-11-25",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Harakiri for the Sky",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11191",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Sunken"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/harakiri-for-the-sky-tickets/artist/5281601"
+   }
+  ],
+  "title": "Harakiri for the Sky",
+  "venue": "limelight"
+ },
+ "3cec2722-e431-48f3-a913-fdbfa694ef5b": {
+  "age_restriction": "18+",
+  "date": "2027-03-12",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Callum Beattie",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11648",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5222637?venueId=461484"
+   }
+  ],
+  "title": "Callum Beattie",
+  "venue": "limelight"
+ },
+ "3d3ad14d-8d1c-45f3-895b-81efe94741a5": {
+  "age_restriction": "18+",
+  "date": "2027-02-16",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "SAXON",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11146",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/saxon-belfast-16-02-2027/event/380064D27F981547"
+   }
+  ],
+  "title": "SAXON",
+  "venue": "telegraph-building"
+ },
+ "409923e0-c40b-4931-a9bc-cbf9f5c54282": {
+  "age_restriction": "18+",
+  "date": "2027-04-09",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Slipknowt",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11476",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5187464?venueId=461484"
+   }
+  ],
+  "title": "Slipknowt",
+  "venue": "limelight"
+ },
+ "417b84d1-7985-43b3-a4ca-f72c05a02e21": {
+  "age_restriction": "18+",
+  "date": "2026-11-26",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "Eagles of Death Metal",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10761",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Yächtley Crëw"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/eagles-of-death-metal-belfast-26-11-2026/event/38006477CFD4186B"
+   }
+  ],
+  "title": "Eagles of Death Metal",
+  "venue": "limelight"
+ },
+ "420d5838-3d58-40e3-af97-42d91cbf96fc": {
+  "age_restriction": "18+",
+  "date": "2026-12-17",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Aslan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11479",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Wolfhound"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/749316?venueId=461484"
+   }
+  ],
+  "title": "Aslan",
+  "venue": "limelight"
+ },
+ "4292d383-4457-4fd4-b172-ba8adf4dad50": {
+  "age_restriction": "18+",
+  "date": "2026-12-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "SKERRYVORE",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11178",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1624050?venueId=459772"
+   }
+  ],
+  "title": "SKERRYVORE",
+  "venue": "limelight"
+ },
+ "43b64a0d-cf2c-4598-8ab3-0fae4e90f71f": {
+  "age_restriction": "18+",
+  "date": "2027-01-23",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Anthony Gomes",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11682",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/838950?venueId=459772"
+   }
+  ],
+  "title": "Anthony Gomes",
+  "venue": "limelight"
+ },
+ "45e317fd-aeb9-4baf-89ba-7c968aabe97a": {
+  "age_restriction": "18+",
+  "date": "2026-12-08",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "SEVENDUST",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10855",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Overgrown"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/783708?venueId=459772"
+   }
+  ],
+  "title": "SEVENDUST",
+  "venue": "limelight"
+ },
+ "462622ad-1e91-4ecf-acb8-ab95ab486faf": {
+  "age_restriction": "18+",
+  "date": "2026-11-05",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Dexy's Midnight Runners",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11452",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "David Holmes DJ SET"
+  ],
+  "tickets": [
+   {
+    "source": "Waterfront box office",
+    "url": "https://secure.waterfront.co.uk/25852/25853"
+   }
+  ],
+  "title": "Dexy's Midnight Runners",
+  "venue": "ulster-hall"
+ },
+ "46bf80aa-fd89-4ea3-987d-d49652238a4b": {
+  "age_restriction": "18+",
+  "date": "2026-11-27",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Stop Making Sense Live",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11396",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/stop-making-sense-live-belfast-27-11-2026/event/380064EABBF10F24"
+   }
+  ],
+  "title": "Stop Making Sense Live",
+  "venue": "limelight"
+ },
+ "482ca376-f442-4a46-a1ec-080410f17b25": {
+  "age_restriction": "18+",
+  "date": "2026-11-26",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Picture This",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:10929",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/picture-this-26-11-2026/event/380064967F7B0BD2"
+   }
+  ],
+  "title": "Picture This",
+  "venue": "telegraph-building"
+ },
+ "491eaad0-ac4c-4153-9c20-c9d40ab0fbe3": {
+  "age_restriction": "18+",
+  "date": "2026-10-31",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Huey Morgan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10886",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/2224604?venueId=461484"
+   }
+  ],
+  "title": "Huey Morgan",
+  "venue": "limelight"
+ },
+ "4a37876b-3db5-4a44-940f-956cbc085809": {
+  "age_restriction": null,
+  "date": "2026-11-05",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-11-05",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-05-11-2026/event/38006357DF6841DA?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "4a6eda1a-a9d8-4fbf-8308-c0b4d05f4115": {
+  "age_restriction": null,
+  "date": "2026-11-15",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Niall Horan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:298884:2026-11-15",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/niall-horan-dinner-party-live-on-tour"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": [
+   "Flowerovlove"
+  ],
+  "tickets": null,
+  "title": "Niall Horan: Dinner Party Live on Tour",
+  "venue": "the-o2-belfast"
+ },
+ "4b7f9a0b-da7e-4430-a1fc-a557343294c4": {
+  "age_restriction": "18+",
+  "date": "2026-12-18",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Rapparees",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11446",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.co.uk/the-rapparees-tickets/artist/2198814"
+   }
+  ],
+  "title": "The Rapparees",
+  "venue": "limelight"
+ },
+ "4bf66406-2021-4243-8eab-4dce581df414": {
+  "age_restriction": "18+",
+  "date": "2026-11-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Joshua Idehen",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11477",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5409793?venueId=461484"
+   }
+  ],
+  "title": "Joshua Idehen",
+  "venue": "limelight"
+ },
+ "4c2f430c-7804-45f3-918a-7565d427922b": {
+  "age_restriction": "18+",
+  "date": "2027-03-05",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Fionn Regan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11736",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1138023?venueId=459772"
+   }
+  ],
+  "title": "Fionn Regan",
+  "venue": "limelight"
+ },
+ "4cc17cb3-1217-4ba7-ab66-0da50d72c85b": {
+  "age_restriction": "18+",
+  "date": "2026-11-29",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Aaron Rowe",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11236",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": [
+   "Scarlett Loran"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5545499?venueId=459772"
+   }
+  ],
+  "title": "Aaron Rowe",
+  "venue": "limelight"
+ },
+ "4e7934ba-f962-4e20-8801-61bc2aed35cc": {
+  "age_restriction": "18+",
+  "date": "2027-05-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The 9075",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11730",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5468941?venueId=461484"
+   }
+  ],
+  "title": "The 9075",
+  "venue": "limelight"
+ },
+ "4fe66732-3c16-47b8-b2e0-8becb23bc5fe": {
+  "age_restriction": null,
+  "date": "2026-11-04",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Cody Johnson",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:295125:2026-11-04",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/cody-johnson"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/cody-johnson-04-11-2026/event/38006443FABA2604?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_CodyJohnsonWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Cody Johnson",
+  "venue": "the-o2-belfast"
+ },
+ "5279395c-ab86-4cc3-993a-5ef016b50e06": {
+  "age_restriction": "18+",
+  "date": "2026-11-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Transvision Vamp",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10497",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Susi Pagel"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1176880?venueId=459772"
+   }
+  ],
+  "title": "Transvision Vamp",
+  "venue": "limelight"
+ },
+ "5594c6f2-100a-46c6-bd3f-8e9bedc83f7d": {
+  "age_restriction": "18+",
+  "date": "2026-11-13",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Divides Unfold",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11582",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Saffron Gorman",
+   "The Black Eagle Band"
+  ],
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/e/42704842"
+   }
+  ],
+  "title": "Divides Unfold",
+  "venue": "limelight"
+ },
+ "59c99168-4149-4adb-ba46-f2dbfa23af98": {
+  "age_restriction": "18+",
+  "date": "2027-09-18",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Eminem Experience",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11650",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-eminem-experience-belfast-18-09-2027/event/3800650492430EF2"
+   }
+  ],
+  "title": "The Eminem Experience",
+  "venue": "limelight"
+ },
+ "5cdf7b8d-5f12-4cad-93ad-ee188909c3bc": {
+  "age_restriction": "18+",
+  "date": "2026-11-07",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Total Stone Roses & Oaysis Live",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10251",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "WeGotTickets",
+    "url": "https://wegottickets.com/event/686099/"
+   }
+  ],
+  "title": "The Total Stone Roses & Oaysis Live",
+  "venue": "limelight"
+ },
+ "60234327-9a0e-4197-a647-aaff35d31229": {
+  "age_restriction": "18+",
+  "date": "2026-12-16",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Mammoth",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:10353",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Florence Black"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/mammoth-belfast-16-12-2026/event/3800642FA7A91BAA"
+   }
+  ],
+  "title": "Mammoth",
+  "venue": "telegraph-building"
+ },
+ "6182fdae-2e8c-4f33-8d08-598f7baff4a4": {
+  "age_restriction": "18+",
+  "date": "2026-11-25",
+  "doors_time": "18:15",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "AVATAR",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11024",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Neckbreakker"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/avatar-25-11-2026/event/380064B2E1621BD3"
+   }
+  ],
+  "title": "AVATAR",
+  "venue": "limelight"
+ },
+ "62bbc6aa-1336-4c66-82f4-3a7bbfe3edc9": {
+  "age_restriction": "18+",
+  "date": "2027-03-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Late Night Thoughts",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11691",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5646410?venueId=461484"
+   }
+  ],
+  "title": "Late Night Thoughts",
+  "venue": "limelight"
+ },
+ "6436ce3f-cf9b-46fd-a41a-e68d7b01075a": {
+  "age_restriction": "18+",
+  "date": "2026-12-02",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Enter Shikari",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11167",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1120821?venueId=461708"
+   }
+  ],
+  "title": "Enter Shikari",
+  "venue": "telegraph-building"
+ },
+ "692623f4-1411-4a7a-8dc8-cd10e2edb602": {
+  "age_restriction": "18+",
+  "date": "2026-11-06",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Elephant Sessions",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10894",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5249836?venueId=461484"
+   }
+  ],
+  "title": "Elephant Sessions",
+  "venue": "limelight"
+ },
+ "6aeea6d8-29ba-430e-ad6b-ab28e9de79b9": {
+  "age_restriction": "18+",
+  "date": "2027-03-09",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Menzingers",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11557",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "The Flatliners"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1243377?venueId=461484"
+   }
+  ],
+  "title": "The Menzingers",
+  "venue": "limelight"
+ },
+ "6dad064f-53c9-4e11-824e-bc8acc3fff9c": {
+  "age_restriction": "18+",
+  "date": "2026-10-30",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Craic Sabbath & Ozzified",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11059",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/380064BBCA7424A1"
+   }
+  ],
+  "title": "Craic Sabbath & Ozzified - Halloween Special",
+  "venue": "limelight"
+ },
+ "709ee4b0-e1ee-4b42-bc71-b40510d14fb3": {
+  "age_restriction": "18+",
+  "date": "2027-02-24",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Drew Baldridge",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11737",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1881367?venueId=461484"
+   }
+  ],
+  "title": "Drew Baldridge",
+  "venue": "limelight"
+ },
+ "73d1c340-58db-42dd-be9f-62a6de727e09": {
+  "age_restriction": "18+",
+  "date": "2027-04-13",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Darren Kiely",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:10881",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/darren-kiely-belfast-13-04-2027/event/3800646460040917"
+   }
+  ],
+  "title": "Darren Kiely",
+  "venue": "telegraph-building"
+ },
+ "769f261d-faaa-4ca4-84cc-88d1d87f4050": {
+  "age_restriction": "18+",
+  "date": "2026-12-19",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Sweet Savage",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11181",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Special guests"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/sweet-savage-19-12-2026/event/380064D9E137470E"
+   }
+  ],
+  "title": "Sweet Savage",
+  "venue": "limelight"
+ },
+ "76eb2424-e2ad-4e5a-b2ea-ad3233ec7ca5": {
+  "age_restriction": "18+",
+  "date": "2026-11-20",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Fat Dog",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11173",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Stratford Rise"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5426139?venueId=459772"
+   }
+  ],
+  "title": "Fat Dog",
+  "venue": "limelight"
+ },
+ "771ff68e-ea72-4be1-829c-7f86abdf6c5d": {
+  "age_restriction": null,
+  "date": "2027-06-11",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Belsonic 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11139",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/kingfishr-belfast-11-06-2027/event/380064C87A4D11FF?referrer=https%3A%2F%2Fwww.ticketmaster.ie%2Fsearch%3Fq%3Dkingfishr"
+   }
+  ],
+  "title": "Belsonic 2027 - Kingfishr",
+  "venue": "ormeau-park"
+ },
+ "798e98e3-88eb-4059-9c1b-3ca722f14626": {
+  "age_restriction": "18+",
+  "date": "2026-11-08",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Ricky Warwick & The Fighting Hearts",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10968",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Trucker Diablo"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/946853?venueId=461484"
+   }
+  ],
+  "title": "Ricky Warwick & The Fighting Hearts",
+  "venue": "limelight"
+ },
+ "7a1d4ef0-79d6-4f44-9085-b83ba556eac0": {
+  "age_restriction": "18+",
+  "date": "2027-02-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Haken",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11502",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "IHLO",
+   "Black Orchid Empire"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1731300?venueId=461484"
+   }
+  ],
+  "title": "Haken",
+  "venue": "limelight"
+ },
+ "7c1bb331-874f-429c-a9fb-1d0d8eb0ec76": {
+  "age_restriction": "18+",
+  "date": "2027-04-03",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Kings of Lyon & The UK Strokes",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10092",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/kings-of-lyon-the-uk-strokes-belfast-25-07-2026/event/3800636AB3E12066"
+   }
+  ],
+  "title": "Kings of Lyon & The UK Strokes",
+  "venue": "limelight"
+ },
+ "7dae3a78-f53a-452b-b04e-4793c147dff8": {
+  "age_restriction": "18+",
+  "date": "2026-11-21",
+  "doors_time": "17:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Girl Code",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11718",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "locomotivelive.com",
+    "url": "https://www.locomotivelive.com/girl-code/belfast"
+   }
+  ],
+  "title": "Girl Code",
+  "venue": "limelight"
+ },
+ "7e92e771-fbf1-4525-96e2-018885c98110": {
+  "age_restriction": null,
+  "date": "2026-11-16",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Niall Horan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:298884:2026-11-16",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/niall-horan-dinner-party-live-on-tour"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Flowerovlove"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/niall-horan-tickets/artist/2297125?camefrom=CFC_IE_CLI_THEO2BELFAST_NiallHoranWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Niall Horan: Dinner Party Live on Tour",
+  "venue": "the-o2-belfast"
+ },
+ "7f50a05f-46c4-4708-b518-f3e8e093dd4f": {
+  "age_restriction": "18+",
+  "date": "2027-03-27",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Martin Stephenson & The Daintees",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10871",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/3800648AD9B92A58"
+   }
+  ],
+  "title": "Martin Stephenson & The Daintees",
+  "venue": "limelight"
+ },
+ "7ff85cf8-6475-42e8-87bf-1c8b72f10c3d": {
+  "age_restriction": "18+",
+  "date": "2026-10-25",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "St. Paul & The Broken Bones",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10764",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Melina Malone"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/st-paul-and-the-broken-bones-belfast-25-10-2026/event/3800646B582F093C"
+   }
+  ],
+  "title": "St. Paul & The Broken Bones",
+  "venue": "limelight"
+ },
+ "80713d57-1515-451e-ac44-b54742b6c291": {
+  "age_restriction": "18+",
+  "date": "2026-11-14",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Pork Pie",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10401",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5332462?venueId=459772"
+   }
+  ],
+  "title": "Pork Pie",
+  "venue": "limelight"
+ },
+ "81c462f7-654c-4149-af80-c9c431e81961": {
+  "age_restriction": "18+",
+  "date": "2027-04-02",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Cardinal Black",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11798",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5365094?venueId=459772"
+   }
+  ],
+  "title": "Cardinal Black",
+  "venue": "limelight"
+ },
+ "81d08c89-42ec-4c09-a556-52beeb9db54c": {
+  "age_restriction": "18+",
+  "date": "2026-11-24",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "L1NKN P4RK",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10518",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/l1nkn-p4rk-the-linkin-park-experience-belfast-24-11-2026/event/38006462E55A1C9A"
+   }
+  ],
+  "title": "L1NKN P4RK",
+  "venue": "limelight"
+ },
+ "83748e1c-14e3-4cba-a23d-2bd3f0b0aefb": {
+  "age_restriction": null,
+  "date": "2027-04-27",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Rod Stewart",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:312838:2027-04-27",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/rod-stewart-2027"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Howard Jones"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/rod-stewart-belfast-27-04-2027/event/38006536CA2D1468?camefrom=CFC_IE_CLI_THEO2BELFAST_RodStewartWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Rod Stewart - The Final Encore",
+  "venue": "the-o2-belfast"
+ },
+ "87548151-0b9a-4f91-83aa-92bcf29d5527": {
+  "age_restriction": "18+",
+  "date": "2027-03-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Signs of The Swarm",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11592",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ten56",
+   "Oceans Ate Alaska",
+   "Face Yourself"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5273414?venueId=461484"
+   }
+  ],
+  "title": "Signs of The Swarm",
+  "venue": "limelight"
+ },
+ "89850cf1-2beb-4078-a0eb-9667129b35d3": {
+  "age_restriction": "18+",
+  "date": "2027-01-21",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Nubiyan Twist",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11705",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/2126153?venueId=461484"
+   }
+  ],
+  "title": "Nubiyan Twist",
+  "venue": "limelight"
+ },
+ "8d445589-30e6-423b-8a52-d8b5665b79d7": {
+  "age_restriction": "18+",
+  "date": "2026-11-25",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Picture This",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:10911",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/picture-this-25-11-2026/event/380064967F790BD0"
+   }
+  ],
+  "title": "Picture This",
+  "venue": "telegraph-building"
+ },
+ "908c5fc9-a6d0-4bf2-820f-fd46c6c4ba0a": {
+  "age_restriction": "18+",
+  "date": "2027-03-07",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Scott Bennett",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10753",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5241872?venueId=459772"
+   }
+  ],
+  "title": "Scott Bennett",
+  "venue": "limelight"
+ },
+ "919ab001-959f-4313-8c3f-a7fb67cdbbaa": {
+  "age_restriction": "18+",
+  "date": "2027-05-21",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Luke Combs UK",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11577",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "DJ Chris Armstrong"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/luke-combs-uk-21-05-2027/event/380065227AAC095A"
+   }
+  ],
+  "title": "Luke Combs UK",
+  "venue": "limelight"
+ },
+ "9491b792-4514-4602-88f7-b3f698fcefbc": {
+  "age_restriction": "18+",
+  "date": "2026-12-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Frank & The Walters",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10513",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-frank-and-walters-belfast-10-12-2026/event/3800645AD1F72ACF"
+   }
+  ],
+  "title": "The Frank & The Walters",
+  "venue": "limelight"
+ },
+ "95eb8543-2f4d-4e7f-8d07-efec0d2ddc06": {
+  "age_restriction": null,
+  "date": "2026-10-29",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-10-29",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-29-10-2026/event/38006348E25E292E?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "973da1da-4e2a-49d9-8338-5566a147569b": {
+  "age_restriction": "18+",
+  "date": "2027-01-28",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Melrose Avenue",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11117",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Arankai",
+   "Call Me Amour"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5550884?venueId=461484"
+   }
+  ],
+  "title": "Melrose Avenue",
+  "venue": "limelight"
+ },
+ "9a79021b-03aa-4989-a30a-b5b29f7c5e58": {
+  "age_restriction": "18+",
+  "date": "2026-11-21",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "CIRCUS CIRCUS REUNION",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11081",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Rob Tissera",
+   "Computer",
+   "Gleave",
+   "Jacko",
+   "Robbie Nelson"
+  ],
+  "tickets": [
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/circus-circus-reunion-3090-122"
+   }
+  ],
+  "title": "CIRCUS CIRCUS REUNION",
+  "venue": "limelight"
+ },
+ "9ad813b6-9d03-4f07-95a4-4a0000c20090": {
+  "age_restriction": "18+",
+  "date": "2026-12-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Dylan John Thomas",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11147",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5266536?venueId=459772"
+   }
+  ],
+  "title": "Dylan John Thomas",
+  "venue": "limelight"
+ },
+ "9be9ef01-2827-4950-b44c-d1c20f9063a6": {
+  "age_restriction": "18+",
+  "date": "2027-04-17",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "MORETALLICA",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11199",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5531464?venueId=461484"
+   }
+  ],
+  "title": "MORETALLICA",
+  "venue": "limelight"
+ },
+ "9c4d43f8-40dc-441d-94fc-380f0284a74b": {
+  "age_restriction": "18+",
+  "date": "2027-02-07",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "South Arcade",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11128",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/south-arcade-belfast-07-02-2027/event/380064C3B330266A"
+   }
+  ],
+  "title": "South Arcade",
+  "venue": "limelight"
+ },
+ "9e4a2cb7-f909-4a40-8731-85f2bfa3ce7c": {
+  "age_restriction": "18+",
+  "date": "2026-12-19",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Garron Noone",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:8959",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/garron-noone-belfast-12-12-2025/event/3800623689BD08CB"
+   }
+  ],
+  "title": "Garron Noone",
+  "venue": "telegraph-building"
+ },
+ "9e9ef09d-2282-4d1f-b136-9d0daa80faaa": {
+  "age_restriction": "18+",
+  "date": "2027-04-10",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers"
+  ],
+  "headliner": "B.Y.O.B",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:9280",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": [
+   "UNTIL 9"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/byob-tribute-to-system-of-a-belfast-01-08-2026/event/380062917BEF0EA4"
+   }
+  ],
+  "title": "B.Y.O.B - Tribute to System of a Down",
+  "venue": "limelight"
+ },
+ "9f6efb21-2490-43e0-9b03-97db27f27581": {
+  "age_restriction": "18+",
+  "date": "2027-03-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Delta Goodrem",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11415",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1247882?venueId=459772"
+   }
+  ],
+  "title": "Delta Goodrem",
+  "venue": "limelight"
+ },
+ "a434fb8e-0160-49e8-b5f0-b9e9e94add44": {
+  "age_restriction": null,
+  "date": "2026-10-28",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-10-28",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-28-10-2026/event/38006348EDAA2AE0?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "a4d8b53a-5c79-4db7-a66d-d59572604034": {
+  "age_restriction": "18+",
+  "date": "2026-11-15",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "KhakiKid",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11204",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5322189?venueId=461484"
+   }
+  ],
+  "title": "KhakiKid",
+  "venue": "limelight"
+ },
+ "a5f53eee-9b36-4386-8d2e-d31d4c8891c2": {
+  "age_restriction": "18+",
+  "date": "2027-01-19",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Holly Humberstone",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11544",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Chloe Qisha"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5313863?venueId=459772"
+   }
+  ],
+  "title": "Holly Humberstone",
+  "venue": "limelight"
+ },
+ "a69f6146-1d13-4c6a-8d4e-090023ce1dd8": {
+  "age_restriction": "18+",
+  "date": "2026-12-19",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Undertones",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11406",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "The Outcasts",
+   "The Marra"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/959984?venueId=459772"
+   }
+  ],
+  "title": "The Undertones",
+  "venue": "limelight"
+ },
+ "a7669152-2d17-4e7c-a89f-94396bdf7c20": {
+  "age_restriction": "18+",
+  "date": "2026-11-19",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Pa Sheehy",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10987",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5355204?venueId=461484"
+   }
+  ],
+  "title": "Pa Sheehy",
+  "venue": "limelight"
+ },
+ "a768e39d-5e96-47fb-a62e-8ee7b7862e0b": {
+  "age_restriction": null,
+  "date": "2027-04-18",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Hear'say",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:314526:2027-04-18",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/hearsay-liberty-x"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Liberty X"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/hearsay-liberty-x-popstars-the-originals-belfast-18-04-2027/event/38006547E3462254?brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Hear'say + Liberty X",
+  "venue": "the-o2-belfast"
+ },
+ "a7da323b-206a-4fc9-b8c1-4c1b3e2c1b7b": {
+  "age_restriction": "18+",
+  "date": "2026-11-27",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Electric Six",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10498",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/electric-six-belfast-27-11-2026/event/38006457861E13AA"
+   }
+  ],
+  "title": "Electric Six",
+  "venue": "limelight"
+ },
+ "ab4616b5-17ca-448b-a99b-b5581901fabe": {
+  "age_restriction": "18+",
+  "date": "2027-04-11",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Madra Salach",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11801",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5582249?venueId=461708"
+   }
+  ],
+  "title": "Madra Salach",
+  "venue": "telegraph-building"
+ },
+ "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
+  "age_restriction": null,
+  "date": "2026-11-20",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Shamrocks",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:264177:2026-11-20",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/the-shamrocks"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Talisk",
+   "Keith Harkin",
+   "Niall McNamee"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-shamrocks-belfast-20-11-2026/event/38006365D3C42143?camefrom=CFC_IE_CLI_THEO2BELFAST_TheShamrocksWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "The Shamrocks",
+  "venue": "the-o2-belfast"
+ },
+ "b86475ce-3c5b-4bef-8c7b-8eff19c814ee": {
+  "age_restriction": "18+",
+  "date": "2027-04-30",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Erasured",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11449",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5503204?venueId=459772"
+   }
+  ],
+  "title": "Erasured",
+  "venue": "limelight"
+ },
+ "bb4d6cb8-2d19-48a8-a775-4f3ceafd8cc8": {
+  "age_restriction": "18+",
+  "date": "2027-02-03",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Tyler Braden",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11060",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Chanel Yates"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5316856?venueId=459772"
+   }
+  ],
+  "title": "Tyler Braden",
+  "venue": "limelight"
+ },
+ "bc838e07-66f9-4d63-8b07-7f76130922e1": {
+  "age_restriction": "18+",
+  "date": "2027-01-23",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Chop Sueys",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11516",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Hard Bizkit"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5428246?venueId=461484"
+   }
+  ],
+  "title": "The Chop Sueys",
+  "venue": "limelight"
+ },
+ "bc88b54c-d9dd-4b63-86d4-328e8482441b": {
+  "age_restriction": null,
+  "date": "2027-03-31",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "James Blunt",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:310472:2027-03-31",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/james-blunt-2"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/james-blunt-tickets/artist/980710?camefrom=CFC_IE_CLI_THEO2BELFAST_JameBluntWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "James Blunt",
+  "venue": "the-o2-belfast"
+ },
+ "bddbb6f0-5f11-4938-9174-74e014fe35b4": {
+  "age_restriction": "18+",
+  "date": "2026-12-18",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Garron Noone",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11424",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5448487?venueId=461708"
+   }
+  ],
+  "title": "Garron Noone",
+  "venue": "telegraph-building"
+ },
+ "be6fb35e-d204-48cd-80ca-7a0ef7219ba3": {
+  "age_restriction": null,
+  "date": "2027-06-30",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Belsonic 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11550",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/take-that-dreamers-tour-belfast-30-06-2027/event/38006519DE4E2EE1"
+   }
+  ],
+  "title": "Belsonic 2027 - Take That",
+  "venue": "ormeau-park"
+ },
+ "bf089856-426f-4917-92a5-4654cc1df2a1": {
+  "age_restriction": "18+",
+  "date": "2026-11-06",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Casper Walsh",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11513",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5464329?venueId=459772"
+   }
+  ],
+  "title": "Casper Walsh",
+  "venue": "limelight"
+ },
+ "c035d02f-1abf-41d3-93c5-293745922bf5": {
+  "age_restriction": "18+",
+  "date": "2026-12-11",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore"
+  ],
+  "headliner": "EMO FEST",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10964",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/380064A5B4F213D5"
+   }
+  ],
+  "title": "EMO FEST",
+  "venue": "limelight"
+ },
+ "c37ccb2d-063f-4124-aab0-e44ed7b0107b": {
+  "age_restriction": "18+",
+  "date": "2026-11-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Little Angels",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:10506",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/little-angels-belfast-10-11-2026/event/38006458A3BE18F6"
+   }
+  ],
+  "title": "Little Angels",
+  "venue": "limelight"
+ },
+ "c3a0037f-fa25-4339-a4d7-79186e1561b3": {
+  "age_restriction": null,
+  "date": "2027-09-09",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "André Rieu",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:316260:2027-09-09",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/andré-rieu-and-his-johann-strauss-orchestra"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/773280?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_AndreRieu2027Web&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "André Rieu",
+  "venue": "the-o2-belfast"
+ },
+ "c61893a3-6e20-43b9-a0ce-67235aa9a1b1": {
+  "age_restriction": null,
+  "date": "2027-06-26",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Belsonic 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11770",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/dermot-kennedy-belfast-26-06-2027/event/38006546A6DA13BE"
+   }
+  ],
+  "title": "Belsonic 2027 - Dermot Kennedy",
+  "venue": "ormeau-park"
+ },
+ "c8311837-0fc1-46c4-a805-344db51e22a0": {
+  "age_restriction": null,
+  "date": "2027-10-06",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Deacon Blue",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:311311:2027-10-06",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/deacon-blue-raintown-40th-anniversary-2"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/27434?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_DeaconBlueWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Deacon Blue: Raintown 40th Anniversary",
+  "venue": "the-o2-belfast"
+ },
+ "ca2a5fc7-c1eb-4573-80e4-908000c26dcd": {
+  "age_restriction": "18+",
+  "date": "2026-12-27",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Roll With It",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11454",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/roll-with-it-the-ultimate-oasis-belfast-27-12-2026/event/380064FBD554172C"
+   }
+  ],
+  "title": "Roll With It",
+  "venue": "limelight"
+ },
+ "cd52e56a-76cb-42d2-b825-222a10f43412": {
+  "age_restriction": "18 +",
+  "date": "2026-12-11",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Molotovs",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10735",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": [
+   "The Marra"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-molotovs-belfast-11-12-2026/event/3800643EDB9A2BE5"
+   }
+  ],
+  "title": "The Molotovs",
+  "venue": "limelight"
+ },
+ "cd9193b1-2338-4171-976f-8532e6d73988": {
+  "age_restriction": "18+",
+  "date": "2027-03-14",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Country/Americana"
+  ],
+  "headliner": "Big Country",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11164",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/956353?venueId=461484"
+   }
+  ],
+  "title": "Big Country",
+  "venue": "limelight"
+ },
+ "cf45e1f3-9f5d-4d16-b304-d71e29b52015": {
+  "age_restriction": "18+",
+  "date": "2027-03-11",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Dirty Honey",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11657",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5276720?venueId=461484"
+   }
+  ],
+  "title": "Dirty Honey",
+  "venue": "limelight"
+ },
+ "d12096c1-deb1-47bc-8dc1-a4e1267fa656": {
+  "age_restriction": "18+",
+  "date": "2027-02-09",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Marky Ramone's Blitzkrieg",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11618",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/771379?venueId=461484"
+   }
+  ],
+  "title": "Marky Ramone's Blitzkrieg",
+  "venue": "limelight"
+ },
+ "d260fb96-bd95-4894-8ee0-a0fe5ca25c20": {
+  "age_restriction": "18+",
+  "date": "2026-12-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Pogues",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:10830",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "The Wran",
+   "Maicín"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1002526?venueId=461708"
+   }
+  ],
+  "title": "The Pogues",
+  "venue": "telegraph-building"
+ },
+ "d679363e-dccc-42e6-9ef9-1010bdc058df": {
+  "age_restriction": "18+",
+  "date": "2027-05-29",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "THE R&B ORCHESTRA",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11581",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/38006523E7942D35"
+   }
+  ],
+  "title": "THE R&B ORCHESTRA",
+  "venue": "limelight"
+ },
+ "d6b84a2c-1072-4b45-a303-d4b4ab912a3e": {
+  "age_restriction": "18+",
+  "date": "2026-12-13",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Fillers",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10808",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": "18:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-fillers-belfast-13-12-2026/event/3800647ED6C81FB8"
+   }
+  ],
+  "title": "The Fillers",
+  "venue": "limelight"
+ },
+ "da9fd4fc-247c-46ef-8bda-c7bf920644ec": {
+  "age_restriction": "18+",
+  "date": "2027-02-11",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Black Stone Cherry",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11111",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/black-stone-cherry-belfast-11-02-2027/event/380063817EDF1C47"
+   }
+  ],
+  "title": "Black Stone Cherry",
+  "venue": "telegraph-building"
+ },
+ "e22a76a5-7986-4bbe-971e-b0d6025ca3fb": {
+  "age_restriction": "18+",
+  "date": "2027-01-26",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Snuts",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11434",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5235234?venueId=461484"
+   }
+  ],
+  "title": "The Snuts",
+  "venue": "limelight"
+ },
+ "e3733c56-3f00-4218-94b0-5b64dcd187b7": {
+  "age_restriction": "18+",
+  "date": "2026-11-04",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Swervedriver",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11433",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/742146?venueId=461484"
+   }
+  ],
+  "title": "Swervedriver",
+  "venue": "limelight"
+ },
+ "e59d10fc-e481-4d4a-80cc-7ddabd995b84": {
+  "age_restriction": "18+",
+  "date": "2027-02-19",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "DMA's",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11087",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/dmas-19-02-2027/event/380064BCBAF41B1F"
+   }
+  ],
+  "title": "DMA's",
+  "venue": "limelight"
+ },
+ "e64ce910-1ed3-47a9-862f-c5062b656065": {
+  "age_restriction": null,
+  "date": "2027-10-22",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Bat Out of Hell 50th Anniversary Concert",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:296975:2027-10-22",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/fuel_injected_magic_50_anniversary_concert"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/steve-steinmans-bat-bat-out-of-belfast-22-10-2027/event/3800645BCAFF27B3?camefrom=CFC_IE_CLI_THEO2BELFAST_FuelInjectedMagicWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Bat Out of Hell 50th Anniversary Concert",
+  "venue": "the-o2-belfast"
+ },
+ "ed95186a-bb9d-48ae-8542-fc07d009bfd3": {
+  "age_restriction": "18+",
+  "date": "2027-03-15",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "KEO",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11734",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5462498?venueId=459772"
+   }
+  ],
+  "title": "KEO",
+  "venue": "limelight"
+ },
+ "eea00633-312a-4e1a-973e-ed602ded146a": {
+  "age_restriction": "18+",
+  "date": "2026-11-26",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "FM",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:10495",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/740901?venueId=461484"
+   }
+  ],
+  "title": "FM",
+  "venue": "limelight"
+ },
+ "ef190cf8-8b35-45ba-814b-b4bb1bec4f31": {
+  "age_restriction": null,
+  "date": "2027-06-21",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Belsonic 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11676",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/alex-warren-finding-more-family-on-belfast-21-06-2027/event/3800652383E10B82"
+   }
+  ],
+  "title": "Belsonic 2027 - Alex Warren",
+  "venue": "ormeau-park"
+ },
+ "efbde0cf-b3c7-4dfc-96da-bac65e2736c5": {
+  "age_restriction": "18+",
+  "date": "2026-12-01",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Darkness",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11439",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Florentenes"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-darkness-belfast-01-12-2026/event/380064F7D6F917CA"
+   }
+  ],
+  "title": "The Darkness",
+  "venue": "telegraph-building"
+ },
+ "f0eb52c1-203c-47fa-a245-20779c57a439": {
+  "age_restriction": null,
+  "date": "2027-01-24",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Two Door Cinema Club",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:303091:2027-01-24",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/two-door-cinema-club"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/two-door-cinema-club-belfast-24-01-2027/event/380064B5E6921E15?camefrom=CFC_IE_CLI_THEO2BELFAST_TwoDoorCinemaClubWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Two Door Cinema Club",
+  "venue": "the-o2-belfast"
+ },
+ "f21cf01b-2fd5-4c88-b0dd-5da236b5efd2": {
+  "age_restriction": null,
+  "date": "2026-11-06",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-11-06",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-06-11-2026/event/380063571E705EF3?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "f25b002f-8821-4c46-8497-a88a165967e4": {
+  "age_restriction": null,
+  "date": "2027-06-04",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Paul Heaton",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:310425:2027-06-04",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/paul-heaton-2"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Rianne Downey",
+   "Lightning Seeds"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/paul-heaton-tickets/artist/35771?camefrom=CFC_IE_CLI_THEO2BELFAST_PaulHeatonWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Paul Heaton",
+  "venue": "the-o2-belfast"
+ },
+ "f2ea501d-9d41-4f19-b1f3-d3c3e409305b": {
+  "age_restriction": "18+",
+  "date": "2027-04-10",
+  "doors_time": "20:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Orbital",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11795",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/807220?venueId=459772"
+   }
+  ],
+  "title": "Orbital",
+  "venue": "limelight"
+ },
+ "f4c7d0b7-0736-4e0f-90ba-d65db3152ce8": {
+  "age_restriction": "18+",
+  "date": "2026-12-20",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "The Undertones",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11407",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "The Moondogs",
+   "Esmeralda Road"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/959984?venueId=459772"
+   }
+  ],
+  "title": "The Undertones",
+  "venue": "limelight"
+ },
+ "f8533e7f-8acb-46d9-a71e-101279c33e78": {
+  "age_restriction": "18+",
+  "date": "2027-02-20",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "ICE AGE",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11183",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1611202?venueId=461726"
+   }
+  ],
+  "title": "ICE AGE",
+  "venue": "ulster-sports-club"
+ },
+ "f90f99b3-c01d-4d46-8fdd-2e30e359e084": {
+  "age_restriction": null,
+  "date": "2027-03-09",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Megadeth",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:309212:2027-03-09",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/megadeth"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Black Label Society",
+   "Testament"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/megadeth-breakout-hibernation-of-the-nations-belfast-09-03-2027/event/380064F5B47C10D0?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2Belfast_Megadeth_Web&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Megadeth",
+  "venue": "the-o2-belfast"
+ },
+ "fad28f13-e817-4eba-aaea-5adcfe3c9f69": {
+  "age_restriction": "18+",
+  "date": "2026-11-07",
+  "doors_time": "22:30",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "Will Atkinson Vs The Rocketman",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11681",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/notorious-presents-will-atkinson-vs-the-rocketman-3090-129"
+   }
+  ],
+  "title": "Will Atkinson Vs The Rocketman",
+  "venue": "limelight"
+ },
+ "fca2d074-9c98-4819-950b-c370471a6719": {
+  "age_restriction": null,
+  "date": "2026-10-27",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Westlife 25",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:260525:2026-10-27",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Ana Sky"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-27-10-2026/event/38006348D93F2812?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
+  "venue": "the-o2-belfast"
+ },
+ "fec5b13a-48fe-412f-8e98-92dc4ea8bb29": {
+  "age_restriction": "18+",
+  "date": "2026-11-15",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "OLE 60",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11002",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5446293?venueId=459772"
+   }
+  ],
+  "title": "OLE 60",
+  "venue": "limelight"
+ }
+}

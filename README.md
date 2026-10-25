@@ -2,7 +2,7 @@
 
 Upcoming live music in Belfast and greater Belfast. A static [Astro](https://astro.build) site on Cloudflare, fed by a Python scraper that runs twice a day on GitHub Actions. Every gig is a Markdown file in `src/content/gigs/`.
 
-> Status: **Phase 0** (site skeleton with sample data). The scraper arrives in Phase 1. The full plan lives outside the repo; `PLAN-PROMPT.md` is the original brief.
+> Status: **Phase 1**. The scraper core runs locally with the Limelight and O2 Belfast sources, and Ticketmaster is ready for a key. Phase 2 adds the twice-daily GitHub Actions run and Claude Haiku classification. `PLAN-PROMPT.md` is the original brief.
 
 ## Layout
 
@@ -13,8 +13,8 @@ Upcoming live music in Belfast and greater Belfast. A static [Astro](https://ast
 | `src/content/residencies/` | Weekly regular nights (open mics, trad sessions). |
 | `src/content.config.ts` | Schemas for all three. Keep the genre and status lists in sync with the scraper. |
 | `src/pages/` | Home (Recently added + Upcoming), gig detail pages, Regular nights, 404. |
-| `scraper/` | *(Phase 1)* Python scraper. |
-| `data/` | *(Phase 1)* Scraper state: overrides, tombstones, caches. Not part of the site build. |
+| `scraper/` | Python scraper (`belfast_gigs` package, tests in `scraper/tests`). |
+| `data/` | Scraper state (see below). Not part of the site build. |
 
 ## Local development (Windows)
 
@@ -26,6 +26,26 @@ npm.cmd run check    # type-check .astro and .ts files
 ```
 
 All dates and times in gig files are **Europe/London local time**, written as quoted strings (`date: "2026-11-06"`, `start_time: "20:00"`).
+
+## Scraper (Python 3.12+)
+
+```powershell
+python -m venv scraper/.venv
+scraper/.venv/Scripts/python.exe -m pip install -e "./scraper[dev]"
+scraper/.venv/Scripts/python.exe -m belfast_gigs run --dry-run       # fetch and report, write nothing
+scraper/.venv/Scripts/python.exe -m belfast_gigs run                 # update src/content/gigs and data/
+scraper/.venv/Scripts/python.exe -m belfast_gigs run --only limelight
+scraper/.venv/Scripts/python.exe -m pytest scraper/tests
+```
+
+For local Ticketmaster runs, set the key for the current PowerShell session: `$env:TICKETMASTER_KEY = "..."`. Without it, that source is skipped.
+
+How it treats your edits:
+- **Edit a gig** (in the CMS or by hand): the scraper locks every field you changed (`locked_fields`) and never overwrites it.
+- **Delete a future gig**: it's tombstoned in `data/tombstones.json` and never re-added.
+- **Add a gig by hand**: the scraper only fills in fields you left empty.
+- **Gigs from a source's first run** are marked `backfill: true` and stay out of "Recently added", because they weren't necessarily announced recently.
+- **Block a listing for good**: add a title pattern to `data/overrides.yaml`.
 
 ## One-time setup (only you can do these)
 

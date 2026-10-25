@@ -1,0 +1,8 @@
+# Hand-maintained rules the scraper applies on every run.
+
+# Regular expressions (case-insensitive) matched against listing titles. Matching listings are never added.
+# Example: - "^Bingo Loco"
+block_titles: []
+
+# Ticket links to drop from every gig, e.g. a dead or misleading link a source keeps sending.
+exclude_ticket_urls: []

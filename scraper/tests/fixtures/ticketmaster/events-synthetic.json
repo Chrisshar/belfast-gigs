@@ -1,0 +1,67 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Example Rock Band",
+        "id": "G5vYZ9example1",
+        "url": "https://www.ticketmaster.ie/example-rock-band-belfast-06-11-2026/event/3800EXAMPLE1",
+        "dates": {
+          "start": {"localDate": "2026-11-06", "localTime": "19:00:00", "dateTime": "2026-11-06T19:00:00Z", "timeTBA": false, "noSpecificTime": false},
+          "status": {"code": "onsale"}
+        },
+        "classifications": [{"segment": {"name": "Music"}, "genre": {"name": "Rock"}, "subGenre": {"name": "Alternative Rock"}}],
+        "priceRanges": [{"type": "standard", "currency": "GBP", "min": 25.0, "max": 32.5}],
+        "_embedded": {
+          "venues": [{"name": "Limelight 1", "postalCode": "BT2 8HD", "city": {"name": "Belfast"}, "address": {"line1": "17 Ormeau Avenue"}, "location": {"longitude": "-5.9311", "latitude": "54.5925"}}],
+          "attractions": [{"name": "Example Rock Band", "id": "K8vZexampleA1"}, {"name": "Sample Support", "id": "K8vZexampleA2"}]
+        }
+      },
+      {
+        "name": "Example Rock Band - VIP Package",
+        "id": "G5vYZ9example2",
+        "url": "https://www.ticketmaster.ie/example-rock-band-vip/event/3800EXAMPLE2",
+        "dates": {"start": {"localDate": "2026-11-06", "localTime": "17:30:00"}, "status": {"code": "onsale"}},
+        "_embedded": {"venues": [{"name": "Limelight 1"}], "attractions": [{"name": "Example Rock Band", "id": "K8vZexampleA1"}]}
+      },
+      {
+        "name": "Example Rock Band (Seated)",
+        "id": "G5vYZ9example3",
+        "url": "https://www.ticketmaster.ie/example-rock-band-seated/event/3800EXAMPLE3",
+        "dates": {"start": {"localDate": "2026-11-06", "localTime": "19:00:00"}, "status": {"code": "onsale"}},
+        "_embedded": {"venues": [{"name": "Limelight 1"}], "attractions": [{"name": "Example Rock Band", "id": "K8vZexampleA1"}]}
+      },
+      {
+        "name": "Example Folk Singer",
+        "id": "G5vYZ9example4",
+        "url": "https://www.ticketmaster.ie/example-folk-singer/event/3800EXAMPLE4",
+        "dates": {"start": {"localDate": "2026-12-01", "timeTBA": true, "dateTime": "2026-12-01T00:00:00Z"}, "status": {"code": "canceled"}},
+        "classifications": [{"segment": {"name": "Music"}, "genre": {"name": "Folk"}, "subGenre": {"name": "Undefined"}}],
+        "priceRanges": [{"type": "standard", "currency": "EUR", "min": 30.0, "max": 30.0}],
+        "_embedded": {"venues": [{"name": "Ulster Hall", "location": {"longitude": "-5.9333", "latitude": "54.5944"}}], "attractions": [{"name": "Example Folk Singer", "id": "K8vZexampleB1"}]}
+      },
+      {
+        "name": "Example Arena Act",
+        "id": "G5vYZ9example5",
+        "url": "https://www.ticketmaster.ie/example-arena-act/event/3800EXAMPLE5",
+        "dates": {"start": {"localDate": "2027-03-28", "localTime": "19:30:00"}, "status": {"code": "onsale"}},
+        "classifications": [{"segment": {"name": "Music"}, "genre": {"name": "Pop"}}],
+        "_embedded": {"venues": [{"name": "Some New Bar", "address": {"line1": "1 Example Street"}, "city": {"name": "Belfast"}, "postalCode": "BT1 1AA", "location": {"longitude": "-5.92", "latitude": "54.60"}}], "attractions": [{"name": "Example Arena Act", "id": "K8vZexampleC1"}]}
+      },
+      {
+        "name": "Example Act Far Away",
+        "id": "G5vYZ9example6",
+        "url": "https://www.ticketmaster.ie/example-far/event/3800EXAMPLE6",
+        "dates": {"start": {"localDate": "2026-11-20", "localTime": "20:00:00"}, "status": {"code": "onsale"}},
+        "_embedded": {"venues": [{"name": "Millennium Forum", "city": {"name": "Derry"}, "location": {"longitude": "-7.3220", "latitude": "54.9966"}}], "attractions": [{"name": "Example Act Far Away", "id": "K8vZexampleD1"}]}
+      },
+      {
+        "name": "Parking: Example Arena Act",
+        "id": "G5vYZ9example7",
+        "url": "https://www.ticketmaster.ie/parking/event/3800EXAMPLE7",
+        "dates": {"start": {"localDate": "2027-03-28", "localTime": "17:00:00"}, "status": {"code": "onsale"}},
+        "_embedded": {"venues": [{"name": "Some New Bar"}]}
+      }
+    ]
+  },
+  "page": {"size": 200, "totalElements": 7, "totalPages": 1, "number": 0}
+}
