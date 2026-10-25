@@ -20,7 +20,14 @@ jobs:
           cache: pip
           cache-dependency-path: scraper/pyproject.toml
       - run: pip install -e "./scraper[dev,llm]"
-      - run: python -m pytest scraper/tests -q
+      - name: Tests
+        run: |
+          set -o pipefail
+          # Failures also become annotations, so they show on the run page and in the API.
+          python -m pytest scraper/tests -q -rfE --tb=line 2>&1 | tee "$RUNNER_TEMP/pytest.txt" || {
+            grep -E "^(FAILED|ERROR) |^/.*:[0-9]+: " "$RUNNER_TEMP/pytest.txt" | head -n 20 | sed 's/^/::error::/'
+            exit 1
+          }
 
   site:
     runs-on: ubuntu-latest
