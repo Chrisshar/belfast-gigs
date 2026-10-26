@@ -48,3 +48,11 @@ def test_check_sorts_events_into_verdicts(tmp_path):
     assert results["Andre Rieu"].verdict == "removed"
     text = benchmark.report(list(results.values()))
     assert "## Missing at venues we know (1)" in text and "### Mandela Hall (1)" in text
+
+
+def test_songkick_event_names_lose_their_at_venue_suffix():
+    page = (
+        '<script type="application/ld+json">{"@type": "MusicEvent", "name": "Ash @ Ulster Hall", "startDate": "2026-12-10T19:00:00",'
+        ' "location": {"name": "Ulster Hall"}}</script>'
+    )
+    assert benchmark.extract(page)[0].name == "Ash"

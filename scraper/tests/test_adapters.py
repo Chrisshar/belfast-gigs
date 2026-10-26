@@ -407,3 +407,14 @@ class TestCrescent:
         assert by["Late Night Art at The Crescent"].is_music_hint is False
         assert by["Dani Larkin"].status == "on_sale"
         assert by["The Songs of Glen Hansard: In Support of Simon Community"].status == "sold_out"
+
+
+class TestEmpireHiddenGigs:
+    def test_ids_behind_load_more(self):
+        ids = empire.hidden_ids(load_text("empire", "music-hall.html"))
+        assert len(ids) == 34 and "7545" in ids
+
+    def test_gig_page(self):
+        ev = empire.parse_gig_page(load_text("empire", "hidden-gig.html"), "2026-10-26")
+        assert ev and (ev.title, ev.date, ev.start_time, ev.price_min) == ("DAVID KITT and THE BIG ROMANCE BAND", "2026-12-16", "19:30", 27.5)
+        assert ev.source_key == "empire:david-kitt-and-the-big-romance-band" and ev.is_music_hint is True

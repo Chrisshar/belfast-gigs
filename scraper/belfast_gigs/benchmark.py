@@ -79,6 +79,9 @@ def extract(html: str, file: str = "") -> list[Listed]:
             if not (name and date):
                 continue
             venue = htmllib.unescape(_venue_name(ev.get("location")))
+            # Songkick names its events "Act @ Venue".
+            if venue and name.lower().endswith(f" @ {venue.lower()}"):
+                name = name[: -len(venue) - 3].strip() or name
             time = parse_time(start[11:16]) if len(start) >= 16 else None
             out.setdefault((name.lower(), date, venue.lower()), Listed(name, date, venue, time, ev.get("url"), file))
     return list(out.values())
