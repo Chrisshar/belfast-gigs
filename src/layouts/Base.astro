@@ -10,7 +10,7 @@ interface Props {
   description?: string;
   ogType?: 'website' | 'article';
 }
-const { title, description = 'Upcoming live music in Belfast, from the Ulster Hall to the back room of the American Bar. Updated twice a day.', ogType = 'website' } = Astro.props;
+const { title, description = 'Upcoming live music in Belfast, all in one place.', ogType = 'website' } = Astro.props;
 const fullTitle = title ? `${title} · Belfast Gigs` : 'Belfast Gigs · Live music in Belfast';
 const path = Astro.url.pathname;
 const current = (href: string) => (href === '/' ? path === '/' || path.startsWith('/gigs/') : path.startsWith(href)) ? 'page' : undefined;
