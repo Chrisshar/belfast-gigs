@@ -18,6 +18,25 @@ def squash(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", fold(s).replace("'", "")).strip()
 
 
+_SMALL = {"a", "an", "and", "at", "by", "for", "in", "of", "on", "or", "the", "to", "vs", "with"}
+
+
+def recase(title: str) -> str:
+    """Title-case a listing typed in capitals ("THE STRANGER - A TRIBUTE TO BILLY JOEL").
+
+    Short one-word names stay as written, since they're often initials (SOFY, MGMT).
+    """
+    if not title.isupper() or (" " not in title.strip() and len(title.strip()) <= 4):
+        return title
+    words = re.split(r"(\s+)", title.lower())
+    out = []
+    for i, w in enumerate(words):
+        before = [x for x in words[:i] if x.strip()]
+        first = not before or before[-1] in {"-", "–", ":"} or before[-1].endswith(":")
+        out.append(w if (w in _SMALL and not first) else re.sub(r"(^|[-'(/&.])([a-z])", lambda m: m[1] + m[2].upper(), w))
+    return "".join(out)
+
+
 def slugify(s: str, max_len: int = 60) -> str:
     slug = squash(s).replace(" ", "-")
     return slug[:max_len].rstrip("-") or "untitled"

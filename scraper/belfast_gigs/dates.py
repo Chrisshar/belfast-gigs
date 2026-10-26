@@ -58,3 +58,30 @@ def parse_time(text: str | None) -> str | None:
     if hour > 23 or minute > 59:
         return None
     return f"{hour:02d}:{minute:02d}"
+
+
+_MONTHS = {m: i for i, m in enumerate(("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), 1)}
+GRACE_DAYS = 14
+_WEEKDAYS = ("mon", "tue", "wed", "thu", "fri", "sat", "sun")
+
+
+def infer_date(day: int, month: str, today: str, weekday: str | None = None) -> str | None:
+    """A listing date with no year ("Thu 19 Nov", "28th October"): the next one on or after
+    today, with two weeks' grace for listings not yet taken down. A weekday, when given, picks the year."""
+    m = _MONTHS.get(month[:3].lower())
+    if not m:
+        return None
+    t = date.fromisoformat(today)
+    candidates = []
+    for year in (t.year - 1, t.year, t.year + 1, t.year + 2):
+        try:
+            candidates.append(date(year, m, day))
+        except ValueError:
+            continue
+    if weekday:
+        wd = _WEEKDAYS.index(weekday[:3].lower()) if weekday[:3].lower() in _WEEKDAYS else None
+        matching = [d for d in candidates if d.weekday() == wd and (t - d).days <= GRACE_DAYS]
+        if matching:
+            return min(matching, key=lambda d: abs((d - t).days)).isoformat()
+    upcoming = [d for d in candidates if (t - d).days <= GRACE_DAYS]
+    return min(upcoming).isoformat() if upcoming else None

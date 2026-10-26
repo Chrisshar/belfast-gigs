@@ -1,6 +1,22 @@
 from conftest import load_json, load_text
 
-from belfast_gigs.adapters import citizenticket, harrison, limelight, o2belfast, ticketmaster
+from belfast_gigs.adapters import (
+    blackbox,
+    citizenticket,
+    deershead,
+    duncairn,
+    empire,
+    harrison,
+    limelight,
+    mandela,
+    movingon,
+    o2belfast,
+    ohyeah,
+    ticketmaster,
+    ulsterhall,
+    usc,
+    voodoo,
+)
 
 
 class TestLimelight:
@@ -138,3 +154,151 @@ class TestTicketmaster:
             pass
         else:
             raise AssertionError("expected MissingCredentials")
+
+
+class TestUlsterHall:
+    events = ulsterhall.parse_page(load_text("ulsterhall", "page1.html"))
+
+    def test_both_halls_and_rooms(self):
+        assert len(self.events) == 12
+        kj = next(e for e in self.events if e.title == "Katherine Jenkins")
+        assert (kj.venue_name, kj.room, kj.date, kj.status) == ("Waterfront Hall", "Main Auditorium", "2026-10-27", "sold_out")
+        gurriers = next(e for e in self.events if e.title == "Gurriers")
+        assert gurriers.venue_name == "Ulster Hall" and gurriers.room is None and gurriers.status == "on_sale"
+
+    def test_genre_class_sets_the_music_hint(self):
+        hints = {e.title: e.is_music_hint for e in self.events}
+        assert hints["Proud Mary"] is True
+        assert hints["Gary Meikle: Yer Maw"] is False and hints["The Addams Family"] is False
+        assert hints["Richard Ayoade"] is False
+
+
+class TestEmpire:
+    events = empire.parse_listing(load_text("empire", "music-hall.html"))
+
+    def test_listing(self):
+        assert len(self.events) == 24
+        ev = self.events[0]
+        assert (ev.title, ev.date, ev.start_time) == ("Panchiko", "2026-10-30", "19:00")
+        assert ev.source_key == "empire:panchiko"
+        assert any(e.title == "The Stranger - A Tribute to Billy Joel" for e in self.events)
+
+    def test_detail_adds_price_and_ticketmaster(self):
+        ev = empire.with_detail(empire.parse_listing(load_text("empire", "music-hall.html"))[0], load_text("empire", "detail.html"))
+        assert ev.price_min == 31.75
+        assert ev.tickets and ev.tickets[0][0] == "Ticketmaster"
+
+
+class TestUlsterSportsClub:
+    events = usc.parse(load_json("usc", "calendar.json"), "2026-10-26")
+
+    def test_only_future_events(self):
+        assert len(self.events) == 17 and all(e.date >= "2026-10-26" for e in self.events)
+
+    def test_fields(self):
+        ev = next(e for e in self.events if e.title == "Discharge")
+        assert (ev.date, ev.start_time, ev.venue_name) == ("2027-03-05", "19:00", "Ulster Sports Club")
+        assert ev.tickets[0][0] == "Eventbrite" and ev.is_music_hint is None
+
+
+class TestVoodoo:
+    def test_most_recently_edited_pages_first(self):
+        urls = voodoo.recent_event_urls(load_text("voodoo", "events-sitemap.xml"))
+        assert len(urls) == 30 and all("/events/" in u for u in urls)
+
+    def test_event_page(self):
+        ev = voodoo.parse_event("https://www.voodoobelfast.com/events/emo-club", load_text("voodoo", "event1.html"))
+        assert ev and (ev.title, ev.date, ev.start_time, ev.price_min) == ("Emo Club", "2026-10-30", "22:00", 10.0)
+        assert ev.source_key == "voodoo:emo-club" and ev.tickets[0][0] == "Skiddle"
+
+
+class TestMandelaHall:
+    events = mandela.parse(load_text("mandela", "glistrr.html"))
+
+    def test_reads_the_embedded_events(self):
+        assert len(self.events) == 12
+        ev = next(e for e in self.events if e.title == "Bell X1")
+        assert (ev.date, ev.start_time, ev.venue_name, ev.price_min) == ("2026-12-12", "19:00", "Mandela Hall", 35.0)
+        assert ev.age_restriction == "18+" and ev.is_music_hint is True and ev.tickets[0][0] == "Glistrr"
+
+    def test_sold_out_comedy_and_club_nights(self):
+        duke = next(e for e in self.events if e.title.startswith("Duke Special"))
+        assert duke.status == "sold_out" and duke.price_min is None
+        riot = next(e for e in self.events if "Club night" in e.title)
+        assert riot.venue_name == "The Union Bar" and riot.is_music_hint is False
+        assert all(e.is_music_hint is False for e in self.events if "comedy" in e.categories)
+
+
+class TestBlackBox:
+    events = {e.source_key: e for e in blackbox.parse_page(load_text("blackbox", "live-music.html"))}
+
+    def test_featured_strip_is_deduplicated(self):
+        assert len(blackbox.parse_page(load_text("blackbox", "live-music.html"))) == 27 and len(self.events) == 24
+
+    def test_categories_and_fields(self):
+        andy = next(e for e in self.events.values() if e.title == "Andy Irvine & Quilty")
+        assert (andy.date, andy.start_time, andy.price_min, andy.is_music_hint) == ("2026-11-04", "19:30", 25.0, True)
+        slip = next(e for e in self.events.values() if e.title == "The First Slip")
+        assert slip.room == "Green Room" and slip.free
+        open_mic = next(e for e in self.events.values() if e.title == "Black Box Open Mic")
+        assert open_mic.is_music_hint is None  # left to the rules, which know open mics count
+        assert all(e.is_music_hint is False for e in self.events.values() if "comedy" in e.categories)
+
+
+class TestOhYeah:
+    events = ohyeah.parse(load_text("ohyeah", "events.html"))
+
+    def test_upcoming_only(self):
+        assert len(self.events) == 58
+
+    def test_fields(self):
+        ev = next(e for e in self.events if e.title.startswith("Classic Album Night: Snow Patrol"))
+        assert (ev.date, ev.start_time, ev.venue_name, ev.is_music_hint) == ("2026-11-06", "19:30", "Oh Yeah Music Centre", True)
+
+    def test_late_finish_is_not_multi_day(self):
+        ev = next(e for e in self.events if "New Éire" in e.title)
+        assert ev.date == "2026-11-07" and ev.end_date is None
+
+    def test_mixed_and_off_site_events(self):
+        tour = next(e for e in self.events if e.title.startswith("Belfast Music Walking Tour"))
+        assert tour.venue_name == "Ulster Hall" and tour.is_music_hint is None
+        assert next(e for e in self.events if e.title.startswith("PULSE#2")).is_music_hint is False
+
+
+class TestDeersHead:
+    events = deershead.parse(load_text("deershead", "music-hall.html"), "2026-10-26")
+
+    def test_listing_with_inferred_years(self):
+        assert len(self.events) == 22
+        glaspy = self.events[0]
+        assert (glaspy.title, glaspy.date, glaspy.start_time, glaspy.price_min) == ("Margaret Glaspy", "2026-10-28", "19:30", 15.0)
+        assert glaspy.tickets[0][0] == "Eventbrite"
+        assert next(e for e in self.events if e.title == "Ariel Posen").date == "2027-02-10"
+
+
+class TestDuncairn:
+    events = duncairn.parse_listing(load_text("duncairn", "live-music.html"))
+
+    def test_listing(self):
+        assert len(self.events) == 9
+        assert self.events[0].date == "2026-11-07" and self.events[0].source_url.endswith("/events/friel-sisters")
+
+    def test_detail_adds_time_tickets_and_age(self):
+        ev = duncairn.with_detail(next(e for e in self.events if e.title == "John Spillane"), load_text("duncairn", "detail.html"))
+        assert ev.start_time == "19:00" and ev.age_restriction == "18+"
+        assert ev.tickets == [("Ticketsolve", "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173650591")]
+
+
+class TestMovingOnMusic:
+    def parse(self, slug):
+        return movingon.parse_page(f"https://www.movingonmusic.com/whats-on/{slug}/", load_text("movingon", f"{slug}.html"), "2026-10-26")
+
+    def test_promoter_line(self):
+        ev = self.parse("arborist-looking-for-love-album-launch")
+        assert (ev.date, ev.start_time, ev.venue_name, ev.price_min) == ("2026-11-19", "19:30", "The Empire", 17.5)
+        assert ev.tickets[0][0] == "Citizen Ticket" and ev.is_music_hint is True
+
+    def test_room_and_venue(self):
+        ev = self.parse("chamber-choir-ireland")
+        assert (ev.venue_name, ev.room, ev.price_min, ev.price_max) == ("Titanic Hotel", "Drawing Office One", 10.0, 15.0)
+        assert "Belfast" in (ev.address or "")

@@ -89,3 +89,35 @@ def test_frontmatter_quotes_dates_and_times(tmp_path):
     assert "price_min: 18\n" in text and "price_max: 28.5\n" in text
     data, _ = frontmatter.read(path)
     assert data["date"] == "2026-11-06" and data["start_time"] == "19:30"
+
+
+@pytest.mark.parametrize(
+    ("raw", "expected"),
+    [
+        ("PANCHIKO", "Panchiko"),
+        ("THE STRANGER - A TRIBUTE TO BILLY JOEL", "The Stranger - A Tribute to Billy Joel"),
+        ("GUNS N' ROSES EXPERIENCE", "Guns N' Roses Experience"),
+        ("SOFY", "SOFY"),
+        ("Proud Mary", "Proud Mary"),
+    ],
+)
+def test_recase_titles_in_capitals(raw, expected):
+    from belfast_gigs.text import recase
+
+    assert recase(raw) == expected
+
+
+@pytest.mark.parametrize(
+    ("day", "month", "weekday", "expected"),
+    [
+        (19, "NOV", "THU", "2026-11-19"),
+        (28, "October", None, "2026-10-28"),
+        (20, "Oct", None, "2026-10-20"),  # within the grace window: a past listing, dropped later
+        (5, "Jan", None, "2027-01-05"),
+        (1, "Sep", None, "2027-09-01"),
+    ],
+)
+def test_infer_date_without_a_year(day, month, weekday, expected):
+    from belfast_gigs.dates import infer_date
+
+    assert infer_date(day, month, "2026-10-26", weekday) == expected
