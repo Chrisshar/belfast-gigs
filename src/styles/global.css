@@ -147,12 +147,12 @@ main:focus { outline: none; }
 [data-layout='grid'] .row .art { width: 100%; height: auto; aspect-ratio: 2 / 1; flex: none; border-radius: 0; }
 [data-layout='grid'] .row .text { flex: 1 1 0; min-height: 0; overflow: hidden; padding: 10px 14px 0; }
 [data-layout='grid'] .row { position: relative; }
-[data-layout='grid'] .row .tag { display: block; position: absolute; top: 10px; left: 10px; max-width: calc(100% - 20px); padding: 2px 9px; border-radius: 999px; background: rgba(255, 255, 255, .88); color: var(--ink); font-size: .72rem; font-weight: 500; line-height: 1.5; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-[data-layout='grid'] .row .when { display: block; color: var(--red-text); font-weight: 500; font-size: .8rem; }
-[data-layout='grid'] .row h3 { font-size: 1rem; line-height: 1.2; height: 2.4em; margin: 2px 0 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+[data-layout='grid'] .row .tag { display: block; margin-top: 3px; color: var(--slate); font-size: .68rem; font-weight: 500; letter-spacing: .07em; text-transform: uppercase; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+[data-layout='grid'] .row .when { display: block; color: var(--red-text); font-weight: 500; font-size: .8rem; line-height: 1.3; }
+[data-layout='grid'] .row h3 { font-size: 1rem; line-height: 1.15; height: 2.3em; margin: 2px 0 3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 [data-layout='grid'] .row .support, [data-layout='grid'] .row .meta { display: none; }
 [data-layout='grid'] .row .side { display: none; }
-[data-layout='grid'] .row .venue { display: block; color: var(--soft); font-size: .85rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+[data-layout='grid'] .row .venue { display: block; color: var(--soft); font-size: .85rem; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 /* Gig page */
 .back { display: inline-block; margin: 28px 0 14px; color: var(--soft); text-decoration: none; font-size: .95rem; }
@@ -195,7 +195,8 @@ main:focus { outline: none; }
   [data-layout='grid'] .row .text { padding: 8px 10px 0; }
   [data-layout='grid'] .row h3 { font-size: .88rem; margin: 1px 0 3px; }
   [data-layout='grid'] .row .when { font-size: .75rem; }
-  [data-layout='grid'] .row .venue { font-size: .78rem; }
+  [data-layout='grid'] .row .venue, [data-layout='grid'] .row .tag { display: block; margin-top: 3px; color: var(--slate); font-size: .68rem; font-weight: 500; letter-spacing: .07em; text-transform: uppercase; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  [data-layout='grid'] .row .art { aspect-ratio: 5 / 2; }
 }
 
 @media (max-width: 760px) {
