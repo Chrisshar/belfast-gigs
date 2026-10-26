@@ -1,0 +1,175 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms@0.252.0/schema/sveltia-cms.json
+# Sveltia CMS for Belfast Gigs. Edits here are commits to the repo; Cloudflare rebuilds the site.
+# The scraper respects them: a field you change is added to "Locked fields" and never overwritten,
+# a future gig you delete is never re-added, and a gig you add by hand only has its gaps filled.
+
+backend:
+  name: github
+  repo: Chrisshar/belfast-gigs
+  branch: main
+  # The sign-in Worker (sveltia-cms-auth). Replace with your Worker's URL once it's deployed.
+  base_url: https://sveltia-cms-auth.christopher-sharvin.workers.dev
+
+media_folder: public/media
+public_folder: /media
+
+slug:
+  encoding: ascii
+  clean_accents: true
+
+output:
+  omit_empty_optional_fields: true
+  yaml:
+    # Quote every string, as the scraper does. Unquoted, 2026-11-06 would be read as a Date
+    # and 19:30 as a number, and the site build would reject them.
+    quote: double
+
+collections:
+  - name: gigs
+    label: Gigs
+    label_singular: Gig
+    folder: src/content/gigs
+    extension: md
+    format: frontmatter
+    identifier_field: headliner
+    slug: "{{date}}-{{venue}}-{{headliner}}"
+    summary: "{{date}} · {{headliner}} · {{venue}}"
+    sortable_fields:
+      fields: [date, headliner, first_seen]
+      default: { field: date, direction: ascending }
+    view_filters:
+      filters:
+        - { name: review, label: Needs review, field: needs_review, eq: true }
+        - { name: cancelled, label: Cancelled or postponed, field: status, pattern: "cancelled|postponed" }
+    fields:
+      - { name: id, label: ID, widget: uuid, hint: "Generated automatically." }
+      - { name: headliner, label: Headliner, widget: string }
+      - { name: title, label: Full title, widget: string, hint: "As the venue lists it, e.g. 'Blue Room Sessions: Joe Krown'." }
+      - { name: support, label: Support acts, widget: list, required: false }
+      - name: venue
+        label: Venue
+        widget: relation
+        collection: venues
+        value_field: "{{slug}}"
+        display_fields: [name]
+        search_fields: [name, aliases]
+      - { name: room, label: Room, widget: string, required: false, hint: "e.g. Limelight 2, Blue Room" }
+      - { name: date, label: Date, widget: datetime, type: date, format: YYYY-MM-DD }
+      - { name: end_date, label: Last date (multi-day events only), widget: datetime, type: date, format: YYYY-MM-DD, required: false }
+      - { name: doors_time, label: Doors, widget: datetime, type: time, format: HH:mm, required: false }
+      - { name: start_time, label: Starts, widget: datetime, type: time, format: HH:mm, required: false }
+      - { name: price_min, label: Price from (£), widget: number, value_type: float, min: 0, required: false }
+      - { name: price_max, label: Price to (£), widget: number, value_type: float, min: 0, required: false }
+      - { name: free, label: Free entry, widget: boolean, default: false, required: false }
+      - name: status
+        label: Status
+        widget: select
+        default: on_sale
+        options:
+          - { label: On sale, value: on_sale }
+          - { label: Sold out, value: sold_out }
+          - { label: Cancelled, value: cancelled }
+          - { label: Postponed, value: postponed }
+          - { label: Rescheduled, value: rescheduled }
+      - { name: age_restriction, label: Age restriction, widget: string, required: false, hint: "e.g. 18+, 14+ (under 16s with an adult)" }
+      - name: genres
+        label: Genres
+        widget: select
+        multiple: true
+        required: false
+        max: 3
+        hint: "The first genre picks the drawing. Tribute/Covers always shows the record."
+        options: [Rock, Indie/Alternative, Punk/Hardcore, Metal, Pop, Hip-Hop/Rap, Electronic, Folk/Trad, Country/Americana, Jazz/Blues, Soul/R&B/Funk, Singer-Songwriter, Tribute/Covers, World, Contemporary/New Music]
+      - name: tickets
+        label: Ticket links
+        label_singular: Ticket link
+        widget: list
+        required: false
+        summary: "{{source}}"
+        fields:
+          - { name: source, label: Seller, widget: string, hint: "e.g. Ticketmaster" }
+          - { name: url, label: Link, widget: string, type: url }
+      - { name: needs_review, label: Needs review, widget: boolean, default: false, required: false, hint: "Untick once you've checked this gig. The scraper won't flag it again." }
+      - name: locked_fields
+        label: Locked fields
+        widget: list
+        required: false
+        hint: "Fields the scraper won't change. Filled in automatically when you edit a field; remove one to let the scraper update it again."
+      - { name: first_seen, label: First listed, widget: datetime, default: "{{now}}", output_utc: true, readonly: true, hint: "When the gig was first found. Drives 'Just announced'." }
+      # Scraper bookkeeping: kept on save, never shown.
+      - { name: sources, widget: hidden }
+      - { name: classification, widget: hidden }
+      - { name: updated_at, widget: hidden }
+      - { name: backfill, widget: hidden }
+      - { name: currency, widget: hidden, default: GBP }
+      - { name: body, label: Notes, widget: markdown, required: false, hint: "Optional description, shown on the gig page." }
+
+  - name: venues
+    label: Venues
+    label_singular: Venue
+    folder: src/content/venues
+    extension: md
+    format: frontmatter
+    identifier_field: name
+    slug: "{{name}}"
+    summary: "{{name}}"
+    sortable_fields:
+      fields: [name]
+      default: { field: name }
+    view_filters:
+      filters:
+        - { name: review, label: Needs review, field: needs_review, eq: true }
+    fields:
+      - { name: name, label: Name, widget: string }
+      - { name: aliases, label: Other names, widget: list, required: false, hint: "Other spellings sources use. The scraper matches on these." }
+      - { name: group, label: Group, widget: string, required: false, hint: "Venues in one building share a group, e.g. qub-su." }
+      - { name: rooms, label: Rooms, widget: list, required: false }
+      - { name: area, label: Area, widget: string, default: Belfast }
+      - { name: address, label: Street address, widget: string, required: false }
+      - { name: postcode, label: Postcode, widget: string, required: false }
+      - { name: lat, label: Latitude, widget: number, value_type: float, required: false }
+      - { name: lng, label: Longitude, widget: number, value_type: float, required: false }
+      - { name: website, label: Website, widget: string, type: url, required: false }
+      - { name: music_only, label: Music-only venue, widget: boolean, default: false, required: false, hint: "Everything listed here counts as a gig." }
+      - { name: needs_review, label: Needs review, widget: boolean, default: false, required: false }
+      - { name: body, label: Notes, widget: markdown, required: false }
+
+  - name: residencies
+    label: Regular nights
+    label_singular: Venue's regular nights
+    folder: src/content/residencies
+    extension: md
+    format: frontmatter
+    slug: "{{venue}}"
+    summary: "{{venue}}"
+    fields:
+      - name: venue
+        label: Venue
+        widget: relation
+        collection: venues
+        value_field: "{{slug}}"
+        display_fields: [name]
+        search_fields: [name, aliases]
+      - name: nights
+        label: Nights
+        label_singular: Night
+        widget: list
+        summary: "{{weekday}} · {{title}}"
+        fields:
+          - name: weekday
+            label: Day
+            widget: select
+            required: false
+            hint: "Leave empty if the venue doesn't say."
+            options: [monday, tuesday, wednesday, thursday, friday, saturday, sunday]
+          - { name: title, label: What, widget: string }
+          - { name: start_time, label: Starts, widget: datetime, type: time, format: HH:mm, required: false }
+          - name: genres
+            label: Genres
+            widget: select
+            multiple: true
+            required: false
+            options: [Rock, Indie/Alternative, Punk/Hardcore, Metal, Pop, Hip-Hop/Rap, Electronic, Folk/Trad, Country/Americana, Jazz/Blues, Soul/R&B/Funk, Singer-Songwriter, Tribute/Covers, World, Contemporary/New Music]
+          - { name: free, label: Free, widget: boolean, required: false }
+          - { name: notes, label: Notes, widget: string, required: false }
+      - { name: needs_review, label: Needs review, widget: boolean, default: false, required: false }
