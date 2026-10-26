@@ -1,0 +1,18 @@
+{
+  // Backup timer for the Scrape workflow. Deploy from this folder: npx wrangler deploy
+  "$schema": "../../node_modules/wrangler/config-schema.json",
+  "name": "belfast-gigs-scrape-backup",
+  "main": "index.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": false,
+  "triggers": {
+    // About 50 minutes after GitHub's own 06:17 and 17:17 UTC slots.
+    "crons": ["7 7,18 * * *"]
+  },
+  "vars": {
+    "REPO": "Chrisshar/belfast-gigs",
+    "WORKFLOW": "scrape.yml",
+    "BRANCH": "main"
+  },
+  "observability": { "enabled": true }
+}
