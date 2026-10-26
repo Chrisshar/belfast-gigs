@@ -6,6 +6,12 @@
       "runtimeExecutable": "npm.cmd",
       "runtimeArgs": ["run", "dev"],
       "port": 4321
+    },
+    {
+      "name": "prototypes",
+      "runtimeExecutable": "scraper/.venv/Scripts/python.exe",
+      "runtimeArgs": ["-m", "http.server", "4400", "--bind", "127.0.0.1", "--directory", "prototypes"],
+      "port": 4400
     }
   ]
 }

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Genre instruments</title>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: #f6f4ef; color: #161616; font: 400 14px/1.4 Jost, sans-serif; }
+  .wrap { max-width: 75rem; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-weight: 500; font-size: 1.4rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); gap: 18px; }
+  .spec { background: #fff; border: 1px solid #e4e0d6; border-radius: 16px; padding: 12px; display: grid; grid-template-columns: 7rem 1fr; gap: 12px; align-items: center; }
+  .spec .sq { width: 7rem; height: 7rem; border-radius: 10px; overflow: hidden; }
+  .spec .small { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+  .spec .small span { width: 3.5rem; height: 3.5rem; border-radius: 8px; overflow: hidden; display: block; }
+  .spec .banner { grid-column: 1 / -1; aspect-ratio: 2 / 1; border-radius: 10px; overflow: hidden; }
+  svg { display: block; width: 100%; height: 100%; }
+  .name { font-weight: 500; font-size: 1rem; }
+  .note { color: #6a6760; font-size: .82rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Genre instruments</h1>
+  <div class="grid" id="grid"></div>
+</div>
+<script src="instruments.js"></script>
+<script>
+const NOTES = {
+  rock: "Les Paul", metal: "Flying V", indie: "Jazzmaster", punk: "Mohawk, in profile", pop: "Handheld microphone",
+  hiphop: "Turntable", electronic: "Synthesiser", folk: "Fiddle and bow", country: "Five-string banjo", jazz: "Tenor saxophone",
+  soul: "Trumpet", songwriter: "Dreadnought acoustic", tribute: "Record and sleeve", world: "Djembe", contemporary: "Grand piano, from above",
+  default: "No genre yet: speaker cabinet",
+};
+document.querySelector("#grid").innerHTML = Object.keys(INSTRUMENTS).map((k) => `
+  <div class="spec">
+    <div class="sq">${instrument([], { key: k })}</div>
+    <div><div class="name">${k}</div><div class="note">${NOTES[k]}</div><div class="small"><span>${instrument([], { key: k })}</span><span style="width:2.5rem;height:2.5rem">${instrument([], { key: k })}</span></div></div>
+    <div class="banner">${instrument([], { key: k, shape: "banner" })}</div>
+  </div>`).join("");
+</script>
+</body>
+</html>

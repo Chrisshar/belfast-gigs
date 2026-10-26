@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>3 · Gallery</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* 3 · Gallery. After Dawid Ryski: each gig is a quiet poster. Cream mount, charcoal panel,
+     one centred geometric motif in a single muted colour, small letter-spaced caps beneath,
+     details on one slash-separated line, three dots. The page is a wall of them. */
+  :root {
+    --wall: #ebe4d3; --mount: #f6f1e4; --panel: #262422; --ink: #262422; --soft: #77705f; --line: #d8cfba;
+    --ochre: #c79a35; --sage: #8d9b84; --clay: #b4664e; --dusk: #6c86a1;
+    --font: Jost, "Futura", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--wall); color: var(--ink); font: 400 15px/1.5 var(--font); }
+  .wrap { max-width: 76rem; margin: 0 auto; padding: 0 16px; }
+  .caps { text-transform: uppercase; letter-spacing: .16em; font-weight: 600; }
+  .dots { letter-spacing: .3em; color: var(--soft); font-size: .7rem; }
+
+  header { text-align: center; padding: 44px 0 22px; }
+  .mark { margin: 0; font-size: 1.05rem; }
+  .tag { color: var(--soft); font-size: .85rem; margin: 8px 0 0; }
+  nav { display: flex; justify-content: center; gap: 28px; margin-top: 18px; font-size: .78rem; }
+  nav a { color: var(--ink); text-decoration: none; padding-bottom: 3px; }
+  nav a[aria-current] { border-bottom: 1px solid var(--ink); }
+
+  #filters { display: grid; gap: 14px; justify-items: center; padding: 18px 0 4px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  .quick, .genres { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 18px; align-items: center; }
+  .chip, .more { font: 500 .78rem var(--font); text-transform: uppercase; letter-spacing: .12em; color: var(--soft); background: none; border: 0; border-bottom: 1px solid transparent; padding: 4px 0; cursor: pointer; }
+  .chip:hover { color: var(--ink); }
+  .chip.on { color: var(--ink); border-bottom-color: var(--ink); }
+  .chip.genre { text-transform: none; letter-spacing: .02em; font-weight: 400; font-size: .85rem; }
+  .more { display: none; color: var(--ink); }
+  .filters-body { display: grid; gap: 12px; justify-items: center; }
+  .selects { display: flex; flex-wrap: wrap; justify-content: center; gap: 22px; }
+  .selects label { display: flex; align-items: baseline; gap: 8px; font-size: .75rem; text-transform: uppercase; letter-spacing: .12em; color: var(--soft); }
+  select { font: 400 .9rem var(--font); color: var(--ink); background: transparent; border: 0; border-bottom: 1px solid var(--ink); padding: 3px 16px 3px 0; border-radius: 0; text-transform: none; letter-spacing: 0; }
+  .chip:focus-visible, .more:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; }
+  #count { text-align: center; font-size: .78rem; color: var(--soft); margin: 10px 0 0; }
+
+  .sec { display: flex; align-items: center; gap: 16px; margin: 54px 0 22px; font-size: .78rem; }
+  .sec::before, .sec::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+  .wall { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 26px 22px; }
+  .wall.big { grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); }
+  .poster { display: block; background: var(--mount); padding: 10px 10px 16px; text-decoration: none; color: var(--ink); text-align: center; }
+  .poster .art { aspect-ratio: 3 / 4; background: var(--panel); }
+  .poster .art svg { width: 100%; height: 100%; display: block; }
+  .poster .name { margin: 14px 4px 4px; font-size: .82rem; line-height: 1.35; }
+  .poster .line { font-size: .7rem; color: var(--soft); margin: 0 4px 6px; }
+  .poster .flag { font-size: .66rem; color: var(--clay); letter-spacing: .14em; text-transform: uppercase; }
+  .poster:hover .art { outline: 1px solid var(--ink); outline-offset: 3px; }
+  .day { display: contents; }
+  .month { grid-column: 1 / -1; display: flex; align-items: center; gap: 16px; font-size: .72rem; color: var(--soft); margin: 18px 0 -6px; }
+  .month::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+  .empty { grid-column: 1 / -1; text-align: center; color: var(--soft); }
+
+  .detail { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 44px; align-items: center; }
+  .detail .poster { padding: 14px 14px 22px; }
+  .detail .info { max-width: 30rem; }
+  .detail .when { font-size: .78rem; color: var(--soft); }
+  .detail h2 { font-size: 1.6rem; margin: 10px 0 6px; }
+  .detail .line { color: var(--soft); font-size: .85rem; }
+  .detail dl { display: grid; grid-template-columns: 7rem 1fr; gap: 10px 14px; margin: 26px 0; padding: 18px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-size: .92rem; }
+  .detail dt { font-size: .72rem; color: var(--soft); text-transform: uppercase; letter-spacing: .12em; padding-top: 2px; }
+  .detail dd { margin: 0; }
+  .btns { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn { font: 600 .75rem var(--font); text-transform: uppercase; letter-spacing: .14em; padding: 13px 20px; text-decoration: none; border: 1px solid var(--ink); color: var(--ink); }
+  .btn.primary { background: var(--panel); color: var(--mount); }
+  footer { text-align: center; color: var(--soft); font-size: .75rem; padding: 56px 0; }
+
+  @media (max-width: 640px) {
+    .more { display: inline-block; }
+    .filters-body { display: none; }
+    #filters.open .filters-body { display: grid; }
+    .wall, .wall.big { grid-template-columns: 1fr 1fr; gap: 14px 12px; }
+    .poster { padding: 7px 7px 12px; }
+    .poster .name { font-size: .72rem; letter-spacing: .1em; }
+    .detail { grid-template-columns: 1fr; gap: 20px; }
+    .detail .poster { max-width: 20rem; margin: 0 auto; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 class="mark caps">Belfast Gigs</h1>
+    <p class="tag">Live music in Belfast, gathered twice a day</p>
+    <div class="dots">• • •</div>
+    <nav class="caps"><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+  </header>
+  <section aria-label="Filters"><div id="filters"></div><p id="count"></p></section>
+
+  <div class="sec caps">Just announced</div>
+  <div id="recent" class="wall big"></div>
+
+  <div class="sec caps">Upcoming</div>
+  <div id="upcoming" class="wall"></div>
+
+  <div class="sec caps">A gig page</div>
+  <div id="detail"></div>
+  <footer><div class="dots">• • •</div>Prototype 3 · Gallery</footer>
+</div>
+<script src="gigs.js"></script>
+<script src="geo.js"></script>
+<script src="proto.js"></script>
+<script>
+const ACCENTS = ["#c79a35", "#8d9b84", "#b4664e", "#6c86a1"];
+const PANEL = "#262422", CREAM = "#efe6d0";
+// One idea per poster, drawn with a main shape and one supporting shape, centred on a charcoal
+// panel in one muted colour plus cream: the Ryski move. The genre picks the idea.
+const COMPOSITIONS = {
+  circle: (a) => `<circle cx="150" cy="175" r="78" fill="${a}"/><circle cx="182" cy="150" r="64" fill="${PANEL}"/><circle cx="96" cy="250" r="6" fill="${CREAM}"/>`, // crescent
+  ring: (a) => `<circle cx="150" cy="175" r="82" fill="${a}"/><circle cx="150" cy="175" r="30" fill="${PANEL}"/><circle cx="150" cy="175" r="7" fill="${CREAM}"/>`, // record
+  vinyl: (a) => `<circle cx="150" cy="175" r="84" fill="${a}"/>${[70, 58, 46].map((rr) => `<circle cx="150" cy="175" r="${rr}" fill="none" stroke="${PANEL}" stroke-width="2.5"/>`).join("")}<circle cx="150" cy="175" r="22" fill="${CREAM}"/><circle cx="150" cy="175" r="3" fill="${PANEL}"/>`,
+  half: (a) => `<path d="M70 200 A80 80 0 0 1 230 200 Z" fill="${a}"/><rect x="70" y="214" width="160" height="10" fill="${CREAM}"/><rect x="110" y="236" width="80" height="10" fill="${CREAM}" opacity=".55"/>`, // sunset
+  arch: (a) => `<path d="M100 260 V175 A50 50 0 0 1 200 175 V260 Z" fill="${a}"/><circle cx="150" cy="105" r="16" fill="${CREAM}"/>`, // doorway and moon
+  quarter: (a) => `<path d="M80 100 H220 A140 140 0 0 1 80 240 Z" fill="${a}"/><rect x="170" y="190" width="50" height="50" fill="${CREAM}"/>`,
+  diag: (a) => `<path d="M76 250 L224 102 L224 250 Z" fill="${a}"/><circle cx="118" cy="140" r="26" fill="${CREAM}"/>`,
+  bars: (a) => [0, 1, 2, 3].map((i) => `<rect x="${78 + i * 40}" y="${110 + (i % 2) * 24}" width="20" height="${130 - (i % 2) * 24}" fill="${i === 2 ? CREAM : a}"/>`).join(""),
+  dot: (a) => [0, 1, 2].flatMap((j) => [0, 1, 2].map((i) => `<circle cx="${102 + i * 48}" cy="${127 + j * 48}" r="16" fill="${i === 1 && j === 1 ? CREAM : a}"/>`)).join(""),
+};
+function posterArt(g) {
+  const r = rng(hash(g.slug));
+  const accent = ACCENTS[Math.floor(r() * ACCENTS.length)];
+  const motifs = motifSet(g.genres);
+  const m = motifs[Math.floor(r() * motifs.length)];
+  return `<svg viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="300" height="400" fill="${PANEL}"/>${COMPOSITIONS[m](accent)}<rect x="110" y="318" width="80" height="1" fill="${accent}" opacity=".7"/></svg>`;
+}
+const line = (g) => { const p = parts(g.date); return [`${String(p.day).padStart(2, "0")}.${String(MON.indexOf(p.mon) + 1).padStart(2, "0")}`, g.venue, g.time, price(g)].filter(Boolean).map(esc).join(" / "); };
+const poster = (g) => `<a class="poster" href="#"><div class="art">${posterArt(g)}</div><div class="name caps">${esc(g.headliner)}</div><div class="line">${line(g)}</div>${STATUS[g.status] ? `<div class="flag">${STATUS[g.status]}</div>` : `<div class="dots">• • •</div>`}</a>`;
+const DESIGN = {
+  recent: poster,
+  card: poster,
+  day: (p, cards) => `<div class="day">${cards}</div>`,
+  month: (p, days) => `<h3 class="month caps">${p.monLong} ${p.year}</h3>${days}`,
+  detail: (g) => { const p = parts(g.date); return `<article class="detail"><div class="poster"><div class="art">${posterArt(g)}</div><div class="name caps">${esc(g.headliner)}</div><div class="dots">• • •</div></div><div class="info"><div class="when caps">${p.dowLong} ${p.day} ${p.monLong}</div><h2 class="caps">${esc(g.headliner)}</h2><div class="line">${line(g)}</div><dl><dt>Venue</dt><dd>${esc(g.venue)}, 65 Dock Street</dd><dt>Starts</dt><dd>${g.time ?? "To be confirmed"}</dd><dt>Tickets</dt><dd>${price(g) || "To be confirmed"}</dd><dt>Genre</dt><dd>${g.genres.map(esc).join(", ")}</dd></dl><div class="btns"><a class="btn primary" href="#">Get tickets</a><a class="btn" href="#">Add to calendar</a></div></div></article>`; },
+};
+</script>
+</body>
+</html>

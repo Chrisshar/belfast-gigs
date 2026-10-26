@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1 · Print shop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500&display=swap" rel="stylesheet">
+<style>
+  /* 1 · Print shop. Every gig is a small framed print, after the Retrodrome series:
+     serif title, double hairline, a square of Bauhaus geometry, a quiet sans footer. */
+  :root {
+    --page: #efebe1; --sheet: #faf8f2; --ink: #1c2840; --soft: #5d6577; --line: #d9d3c4;
+    --red: #cf4a2f; --steel: #5a8ca4; --cream: #f1e7d2; --navy: #1c2840;
+    --serif: "Source Serif 4", Georgia, serif; --sans: "DM Sans", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--page); color: var(--ink); font: 400 15px/1.5 var(--sans); }
+  .wrap { max-width: 75rem; margin: 0 auto; padding: 0 16px; }
+  .rule2 { height: 4px; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
+
+  header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px 24px; padding: 32px 0 14px; }
+  .mark { font: 500 1.9rem/1 var(--serif); margin: 0; letter-spacing: -.01em; }
+  .mark small { display: block; font: 400 .8rem/1.4 var(--sans); color: var(--soft); margin-top: 6px; letter-spacing: 0; }
+  nav { display: flex; gap: 22px; font-size: .9rem; }
+  nav a { color: var(--ink); text-decoration: none; padding-bottom: 2px; }
+  nav a[aria-current] { border-bottom: 1px solid var(--ink); }
+
+  #filters { padding: 18px 0 6px; display: grid; gap: 14px; }
+  .quick { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .chip, .more { font: 500 .85rem var(--sans); color: var(--ink); background: transparent; border: 1px solid var(--ink); padding: 6px 12px; cursor: pointer; border-radius: 0; }
+  .chip.genre { border-color: var(--line); font-weight: 400; }
+  .chip.on { background: var(--ink); color: var(--sheet); border-color: var(--ink); }
+  .more { display: none; margin-left: auto; border-color: var(--line); }
+  .filters-body { display: grid; gap: 12px; }
+  .selects { display: flex; flex-wrap: wrap; gap: 20px; }
+  .selects label { display: flex; align-items: baseline; gap: 8px; font-size: .85rem; color: var(--soft); }
+  select { font: 400 .95rem var(--sans); color: var(--ink); background: transparent; border: 0; border-bottom: 1px solid var(--ink); padding: 4px 18px 4px 0; border-radius: 0; }
+  .genres { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip:focus-visible, .more:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+  #count { font-size: .85rem; color: var(--soft); margin: 4px 0 0; }
+
+  .sec { display: flex; flex-wrap: wrap; gap: 4px 16px; justify-content: space-between; align-items: baseline; margin: 52px 0 18px; padding-bottom: 10px; border-bottom: 1px solid var(--ink); }
+  .sec h2 { font: 400 1.75rem/1.1 var(--serif); margin: 0; }
+  .sec span { font-size: .85rem; color: var(--soft); }
+
+  .prints { display: grid; grid-template-columns: repeat(auto-fill, minmax(15.5rem, 1fr)); gap: 22px; }
+  .print { background: var(--sheet); border: 1px solid var(--line); padding: 18px 18px 14px; display: flex; flex-direction: column; text-decoration: none; color: var(--ink); }
+  .print:hover { border-color: var(--ink); }
+  .print h3 { font: 400 1.2rem/1.2 var(--serif); margin: 0 0 10px; min-height: 2.4em; }
+  .print .art { aspect-ratio: 1; margin: 12px 0 12px; }
+  .print .art svg { display: block; width: 100%; height: 100%; }
+  .print .foot { display: flex; justify-content: space-between; gap: 10px; font-size: .78rem; color: var(--soft); }
+  .print .foot b { color: var(--ink); font-weight: 500; }
+  .print .status { font-size: .72rem; color: var(--red); margin-top: 4px; }
+  .day { display: contents; }
+  .month { grid-column: 1 / -1; font: 400 1.25rem var(--serif); margin: 28px 0 0; color: var(--soft); }
+  .month:first-child { margin-top: 0; }
+  .empty { color: var(--soft); }
+
+  .detail { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 40px; background: var(--sheet); border: 1px solid var(--line); padding: 32px; }
+  .detail .art { aspect-ratio: 1; }
+  .detail .art svg { width: 100%; height: 100%; display: block; }
+  .detail .when { font-size: .9rem; color: var(--soft); }
+  .detail h2 { font: 400 clamp(2rem, 4vw, 2.8rem)/1.1 var(--serif); margin: 6px 0 14px; }
+  .detail dl { display: grid; grid-template-columns: 6rem 1fr; gap: 10px 16px; margin: 22px 0; font-size: .95rem; }
+  .detail dt { color: var(--soft); }
+  .detail dd { margin: 0; }
+  .btns { display: flex; flex-wrap: wrap; gap: 10px; }
+  .btn { font: 500 .9rem var(--sans); padding: 11px 18px; text-decoration: none; border: 1px solid var(--ink); color: var(--ink); }
+  .btn.primary { background: var(--ink); color: var(--sheet); }
+  footer { color: var(--soft); font-size: .8rem; padding: 48px 0; }
+
+  @media (max-width: 640px) {
+    .more { display: inline-block; }
+    .filters-body { display: none; }
+    #filters.open .filters-body { display: grid; }
+    .prints { grid-template-columns: 1fr 1fr; gap: 12px; }
+    .print { padding: 12px 12px 10px; }
+    .print h3 { font-size: 1rem; }
+    .print .foot { flex-direction: column; gap: 0; }
+    .detail { grid-template-columns: 1fr; padding: 18px; gap: 18px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1 class="mark">Belfast Gigs<small>Live music in Belfast, gathered twice a day</small></h1>
+    <nav><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+  </header>
+  <div class="rule2"></div>
+  <section aria-label="Filters"><div id="filters"></div><p id="count"></p></section>
+
+  <div class="sec"><h2>Just announced</h2><span>Added in the last fortnight</span></div>
+  <div id="recent" class="prints"></div>
+
+  <div class="sec"><h2>Upcoming</h2><span>Soonest first</span></div>
+  <div id="upcoming" class="prints"></div>
+
+  <div class="sec"><h2>A gig page</h2></div>
+  <div id="detail"></div>
+  <footer>Prototype 1 · Print shop</footer>
+</div>
+<script src="gigs.js"></script>
+<script src="geo.js"></script>
+<script src="proto.js"></script>
+<script>
+const PAL = ["#1c2840", "#cf4a2f", "#5a8ca4", "#f1e7d2"];
+const art = (g, n) => tile(g.slug, { palette: PAL, cols: n, rows: n, genres: g.genres });
+const print = (g, n) => { const p = parts(g.date); return `<a class="print" href="#"><h3>${esc(g.headliner)}</h3><div class="rule2"></div><div class="art">${art(g, n)}</div><div class="foot"><span><b>${p.dow} ${p.day} ${p.mon}</b>${g.time ? " · " + g.time : ""}</span><span>${esc(g.venue)}</span></div>${STATUS[g.status] ? `<div class="status">${STATUS[g.status]}</div>` : ""}</a>`; };
+const DESIGN = {
+  recent: (g) => print(g, 2),
+  card: (g) => print(g, 2),
+  day: (p, cards) => `<div class="day">${cards}</div>`,
+  month: (p, days) => `<h3 class="month">${p.monLong} ${p.year}</h3>${days}`,
+  detail: (g) => { const p = parts(g.date); return `<article class="detail"><div class="art">${tile(g.slug, { palette: PAL, cols: 2, rows: 2, genres: g.genres })}</div><div><div class="when">${p.dowLong} ${p.day} ${p.monLong} ${p.year}</div><h2>${esc(g.headliner)}</h2><div class="rule2"></div><dl><dt>Venue</dt><dd>${esc(g.venue)}<br><a href="#" style="color:var(--ink)">Directions</a></dd><dt>Starts</dt><dd>${g.time ?? "To be confirmed"}</dd><dt>Tickets</dt><dd>${price(g) || "Price to be confirmed"}</dd><dt>Genre</dt><dd>${g.genres.map(esc).join(", ")}</dd></dl><div class="btns"><a class="btn primary" href="#">Buy tickets from Citizen Ticket</a><a class="btn" href="#">Add to calendar</a></div></div></article>`; },
+};
+</script>
+</body>
+</html>

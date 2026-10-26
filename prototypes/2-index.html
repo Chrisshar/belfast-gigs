@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2 · Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* 2 · Index. Eventbrite's structure (linen canvas, white cards, one typeface, pill filter bar,
+     comfortable list) with Bauhaus primaries and a geometric tile in place of a photo. */
+  :root {
+    --canvas: #f6f4ef; --card: #ffffff; --ink: #161616; --soft: #6a6760; --line: #e4e0d6;
+    --red: #c8452f; --yellow: #d9a441; --blue: #2f4a6d; --bone: #efe9dc;
+    --font: Jost, "Futura", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--canvas); color: var(--ink); font: 400 16px/1.5 var(--font); }
+  .wrap { max-width: 75rem; margin: 0 auto; padding: 0 16px; }
+
+  header { position: sticky; top: 0; z-index: 2; background: var(--card); border-bottom: 1px solid var(--line); }
+  header .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 64px; }
+  .logo { display: flex; align-items: center; gap: 10px; font-weight: 500; font-size: 1.15rem; color: var(--ink); text-decoration: none; }
+  .logo #mark { display: block; width: 30px; height: 30px; }
+  .logo #mark svg { display: block; width: 100%; height: 100%; }
+  nav { display: flex; gap: 24px; font-size: .95rem; font-weight: 500; }
+  nav a { color: var(--ink); text-decoration: none; }
+  nav a[aria-current] { box-shadow: inset 0 -2px 0 var(--red); }
+
+  .intro { padding: 44px 0 20px; }
+  .intro h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.15; font-weight: 500; margin: 0; max-width: 24ch; text-wrap: balance; }
+  .intro p { color: var(--soft); margin: 8px 0 0; }
+
+  #filters { background: var(--card); border: 1px solid var(--line); border-radius: 28px; padding: 10px; display: grid; gap: 10px; }
+  .quick { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .chip, .more { font: 500 .9rem var(--font); color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 7px 14px; cursor: pointer; }
+  .chip:hover { border-color: var(--ink); }
+  .chip.on { background: var(--ink); color: #fff; border-color: var(--ink); }
+  .quick .chip.on { background: var(--blue); border-color: var(--blue); }
+  .more { display: none; margin-left: auto; }
+  .filters-body { display: grid; gap: 10px; padding: 0 4px 4px; }
+  .selects { display: flex; flex-wrap: wrap; gap: 10px; }
+  .selects label { display: flex; align-items: center; gap: 8px; font-size: .85rem; color: var(--soft); }
+  select { font: 500 .9rem var(--font); color: var(--ink); background: var(--canvas); border: 1px solid var(--line); border-radius: 999px; padding: 7px 12px; }
+  .genres { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip.genre { font-weight: 400; background: var(--canvas); border-color: transparent; }
+  .chip.genre.on { background: var(--ink); }
+  .chip:focus-visible, .more:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+  #count { font-size: .85rem; color: var(--soft); margin: 10px 4px 0; }
+
+  .sec { display: flex; justify-content: space-between; align-items: baseline; margin: 48px 0 16px; }
+  .sec h2 { font-size: 1.5rem; font-weight: 500; margin: 0; }
+  .sec span { color: var(--soft); font-size: .9rem; }
+
+  #recent { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 18px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; overflow: hidden; text-decoration: none; color: var(--ink); display: block; }
+  .card:hover { border-color: var(--ink); }
+  .card .art { aspect-ratio: 2 / 1; }
+  .card .art svg { width: 100%; height: 100%; display: block; }
+  .card .body { padding: 14px 16px 16px; }
+  .card .d { color: var(--red); font-weight: 500; font-size: .85rem; }
+  .card h3 { font-size: 1.1rem; font-weight: 600; margin: 2px 0 2px; line-height: 1.25; }
+  .card .v { color: var(--soft); font-size: .9rem; }
+
+  .month { font-size: 1.25rem; font-weight: 500; margin: 36px 0 6px; }
+  .day { display: grid; grid-template-columns: 4.5rem 1fr; gap: 16px; padding: 16px 0; border-top: 1px solid var(--line); }
+  .date { text-align: center; }
+  .date .n { font-size: 2rem; font-weight: 500; line-height: 1; }
+  .date .w { font-size: .8rem; color: var(--soft); text-transform: uppercase; letter-spacing: .08em; }
+  .row { display: grid; grid-template-columns: 4.5rem 1fr auto; gap: 16px; align-items: center; text-decoration: none; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 10px; }
+  .row + .row { margin-top: 8px; }
+  .row:hover { border-color: var(--ink); }
+  .row .art { width: 4.5rem; height: 4.5rem; border-radius: 8px; overflow: hidden; }
+  .row .art svg { width: 100%; height: 100%; display: block; }
+  .row h3 { font-size: 1.1rem; font-weight: 600; margin: 0; line-height: 1.25; }
+  .row .sup { color: var(--soft); font-size: .9rem; }
+  .row .meta { font-size: .9rem; color: var(--soft); margin-top: 2px; }
+  .row .meta b { color: var(--ink); font-weight: 500; }
+  .row .price { font-weight: 600; text-align: right; white-space: nowrap; padding-right: 6px; }
+  .row .price small { display: block; font-weight: 500; color: var(--red); font-size: .8rem; }
+  .empty { color: var(--soft); }
+
+  .detail { background: var(--card); border: 1px solid var(--line); border-radius: 24px; overflow: hidden; }
+  .detail .art { aspect-ratio: 4 / 1; }
+  .detail .art svg { width: 100%; height: 100%; display: block; }
+  .detail .body { padding: 28px; display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 32px; }
+  .detail .d { color: var(--red); font-weight: 500; }
+  .detail h2 { font-size: clamp(1.8rem, 4vw, 2.4rem); font-weight: 500; margin: 4px 0 8px; line-height: 1.15; }
+  .detail dl { margin: 0; display: grid; gap: 14px; }
+  .detail dt { font-size: .85rem; color: var(--soft); }
+  .detail dd { margin: 0; font-weight: 500; }
+  .btns { display: flex; flex-direction: column; gap: 10px; }
+  .btn { text-align: center; font: 500 .95rem var(--font); padding: 12px 18px; border-radius: 999px; text-decoration: none; border: 1.5px solid var(--blue); color: var(--blue); }
+  .btn.primary { background: var(--blue); color: #fff; }
+  footer { color: var(--soft); font-size: .85rem; padding: 48px 0; }
+
+  @media (max-width: 640px) {
+    .more { display: inline-block; }
+    .filters-body { display: none; }
+    #filters.open .filters-body { display: grid; }
+    #filters { border-radius: 22px; }
+    .day { grid-template-columns: 1fr; gap: 8px; }
+    .date { display: flex; gap: 8px; align-items: baseline; text-align: left; }
+    .date .n { font-size: 1.3rem; }
+    .row { grid-template-columns: 3.5rem 1fr; }
+    .row .art { width: 3.5rem; height: 3.5rem; }
+    .row .price { grid-column: 2; text-align: left; padding: 0; }
+    .detail .body { grid-template-columns: 1fr; padding: 18px; }
+    .detail .art { aspect-ratio: 2 / 1; }
+  }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="#"><span id="mark"></span>Belfast Gigs</a>
+  <nav><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+</div></header>
+<div class="wrap">
+  <div class="intro"><h1>Live music in Belfast, all in one place</h1><p>From the Ulster Hall to the back room of the American Bar. Updated twice a day.</p></div>
+  <section aria-label="Filters"><div id="filters"></div><p id="count"></p></section>
+
+  <div class="sec"><h2>Just announced</h2><span>Added in the last fortnight</span></div>
+  <div id="recent"></div>
+
+  <div class="sec"><h2>Upcoming</h2></div>
+  <div id="upcoming"></div>
+
+  <div class="sec"><h2>A gig page</h2></div>
+  <div id="detail"></div>
+  <footer>Prototype 2 · Index</footer>
+</div>
+<script src="gigs.js"></script>
+<script src="instruments.js"></script>
+<script src="logo.js"></script>
+<script src="proto.js"></script>
+<script>
+document.querySelector("#mark").innerHTML = logoMark("cranes");
+const DESIGN = {
+  recent: (g) => { const p = parts(g.date); return `<a class="card" href="#"><div class="art">${instrument(g.genres, { shape: "banner" })}</div><div class="body"><div class="d">${p.dow} ${p.day} ${p.mon}${g.time ? ", " + g.time : ""}</div><h3>${esc(g.headliner)}</h3><div class="v">${esc(g.venue)}</div></div></a>`; },
+  card: (g) => `<a class="row" href="#"><div class="art">${instrument(g.genres)}</div><div><h3>${esc(g.headliner)}</h3>${g.support.length ? `<div class="sup">with ${esc(g.support.join(", "))}</div>` : ""}<div class="meta"><b>${esc(g.venue)}</b>${g.room ? " · " + esc(g.room) : ""}${g.time ? " · " + g.time : ""}${g.genres.length ? " · " + g.genres.map(esc).join(", ") : ""}</div></div><div class="price">${price(g)}${STATUS[g.status] ? `<small>${STATUS[g.status]}</small>` : ""}</div></a>`,
+  day: (p, cards) => `<div class="day"><div class="date"><div class="n">${p.day}</div><div class="w">${p.dow}</div></div><div>${cards}</div></div>`,
+  month: (p, days) => `<h3 class="month">${p.monLong} ${p.year}</h3>${days}`,
+  detail: (g) => { const p = parts(g.date); return `<article class="detail"><div class="art">${instrument(g.genres, { shape: "wide" })}</div><div class="body"><div><div class="d">${p.dowLong} ${p.day} ${p.monLong}</div><h2>${esc(g.headliner)}</h2><p style="color:var(--soft);margin:0">${esc(g.venue)}, 65 Dock Street, Belfast</p></div><div><dl><div><dt>Starts</dt><dd>${g.time ?? "To be confirmed"}</dd></div><div><dt>Tickets from</dt><dd>${price(g) || "To be confirmed"}</dd></div><div><dt>Genre</dt><dd>${g.genres.map(esc).join(", ")}</dd></div></dl><div class="btns" style="margin-top:20px"><a class="btn primary" href="#">Get tickets</a><a class="btn" href="#">Add to calendar</a></div></div></div></article>`; },
+};
+</script>
+</body>
+</html>
