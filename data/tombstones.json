@@ -9,5 +9,14 @@
   "first_seen": "2026-10-25T17:32:54Z",
   "backfill": true,
   "reason": "reclassified"
+ },
+ {
+  "id": "ca2a5fc7-c1eb-4573-80e4-908000c26dcd",
+  "keys": [
+   "limelight:11454"
+  ],
+  "fingerprint": "limelight|2026-12-27|roll with it",
+  "date": "2026-12-27",
+  "reason": "deleted"
  }
 ]
