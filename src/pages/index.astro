@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import FilterBar from '../components/FilterBar.astro';
 import GigCard from '../components/GigCard.astro';
 import GigRow from '../components/GigRow.astro';
+import Hero from '../components/Hero.astro';
 import { GENRES } from '../content.config';
 import { dayParts, formatMonth } from '../lib/dates';
 import { getUpcomingGigs, groupByMonthAndDay, recentlyAdded, toViews } from '../lib/gigs';
@@ -20,9 +21,8 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
 ---
 
 <Base>
-  <div class="intro">
-    <h1>Live music in Belfast, all in one place</h1>
-  </div>
+  <Hero views={views} />
+  <div class="hero-rule"></div>
 
   <FilterBar venues={venues} months={[...byMonth.keys()]} genres={genres} areas={areas} />
 

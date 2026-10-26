@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hero 1 · Skyline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index-base.css">
+<style>
+  /* Hero 1: headline and search over a hairline panorama of Belfast. */
+  .hero { background: var(--card); border-bottom: 1px solid var(--line); }
+  .hero .wrap { padding-top: 64px; }
+  .hero h1 { font-size: clamp(2.2rem, 5.5vw, 3.6rem); line-height: 1.05; font-weight: 500; letter-spacing: -.015em; margin: 0; max-width: 16ch; text-wrap: balance; }
+  .hero .stats { color: var(--soft); margin: 14px 0 0; font-size: 1.05rem; }
+  .hero .stats b { color: var(--ink); font-weight: 500; }
+  .search { margin-top: 28px; display: flex; align-items: center; gap: 6px; max-width: 40rem; background: var(--card); border: 1px solid var(--ink); border-radius: 999px; padding: 6px 6px 6px 20px; }
+  .search input { flex: 1; min-width: 0; border: 0; font: 400 1rem var(--font); background: transparent; color: var(--ink); padding: 8px 0; }
+  .search input:focus { outline: none; }
+  .search select { border: 0; border-left: 1px solid var(--line); font: 500 .95rem var(--font); background: transparent; padding: 8px 10px; color: var(--ink); }
+  .search button { font: 500 .95rem var(--font); background: var(--blue); color: #fff; border: 0; border-radius: 999px; padding: 11px 20px; cursor: pointer; }
+  .skyline { margin-top: 36px; }
+  .skyline svg { display: block; width: 100%; height: auto; }
+  .skyline svg :is(path, circle, rect, line, ellipse) { vector-effect: non-scaling-stroke; stroke-width: 1.15px; stroke-linecap: round; stroke-linejoin: round; }
+  .page { padding-top: 28px; }
+  @media (max-width: 640px) {
+    .hero .wrap { padding-top: 36px; }
+    .search { flex-wrap: wrap; border-radius: 22px; padding: 10px; }
+    .search input { flex-basis: 100%; padding: 6px 8px; }
+    .search select { border-left: 0; padding-left: 8px; }
+    .search button { margin-left: auto; }
+    .skyline { margin-top: 24px; overflow: hidden; }
+    .skyline svg { width: 175%; margin-left: -4%; }
+  }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="#"><span id="mark"></span>Belfast Gigs</a>
+  <nav><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+</div></header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Live music in Belfast, all in one place</h1>
+    <p class="stats" id="stats"></p>
+    <form class="search" role="search" onsubmit="return false">
+      <input type="search" placeholder="Search acts, bands or venues" aria-label="Search">
+      <select aria-label="When"><option>Any time</option><option>Tonight</option><option>This weekend</option><option>Next 7 days</option></select>
+      <button type="submit">Find gigs</button>
+    </form>
+  </div>
+  <div class="skyline" id="skyline"></div>
+</section>
+
+<div class="wrap page">
+  <section aria-label="Filters"><div id="filters"></div><p id="count"></p></section>
+  <div class="sec"><h2>Just announced</h2><span>Added in the last fortnight</span></div>
+  <div id="recent"></div>
+  <div class="sec"><h2>Upcoming</h2></div>
+  <div id="upcoming"></div>
+  <div id="detail" hidden></div>
+  <footer>Hero 1 · Skyline</footer>
+</div>
+<script src="gigs.js"></script>
+<script src="instruments.js"></script>
+<script src="logo.js"></script>
+<script src="proto.js"></script>
+<script src="hero-base.js"></script>
+<script>
+const SKY_INK = "#1f1f1d", SKY_RED = "#c8452f";
+// Belfast from the Lagan, left to right: Goliath and Samson (the sun setting between Goliath's legs),
+// Titanic Belfast's four hulls, the Albert Clock (leaning), City Hall, the Obel Tower, the Waterfront Hall.
+function skyline() {
+  const G = 214; // ground
+  const p = (d) => `<path d="${d}" fill="none" stroke="${SKY_INK}"/>`;
+  const crane = (x0, x1, top) => p(`M${x0} ${top} H${x1} V${top + 12} H${x0} Z`) + p(`M${x0 + 18} ${top + 12} L${x0 + 26} ${G} M${x0 + 38} ${top + 12} L${x0 + 34} ${G} M${x1 - 18} ${top + 12} L${x1 - 26} ${G} M${x1 - 38} ${top + 12} L${x1 - 34} ${G}`) + `<rect x="${(x0 + x1) / 2 - 7}" y="${top + 12}" width="14" height="5" fill="${SKY_INK}"/>` + p(`M${(x0 + x1) / 2} ${top + 17} V${top + 48}`);
+  const hull = (x, h) => p(`M${x} ${G} L${x + 7} ${G - h + 10} L${x + 40} ${G - h} L${x + 36} ${G}`);
+  return `<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" aria-label="Belfast skyline: the shipyard cranes, Titanic Belfast, the Albert Clock, City Hall, the Obel Tower and the Waterfront Hall">
+    <path d="M152 ${G} A44 44 0 0 1 240 ${G} Z" fill="${SKY_RED}"/>
+    ${crane(96, 296, 84)}
+    ${crane(318, 520, 66)}
+    ${hull(574, 96)}${hull(608, 106)}${hull(642, 112)}${hull(676, 100)}
+    <g transform="rotate(1.6 770 ${G})">${p(`M762 ${G} V96 H778 V${G} M762 112 H778 M760 96 L770 66 L780 96`)}<circle cx="770" cy="104" r="4.5" fill="none" stroke="${SKY_INK}"/></g>
+    ${p(`M846 ${G} V162 H1004 V${G} M846 172 H1004 M904 162 V132 H946 V162 M902 132 A23 23 0 0 1 948 132 M921 109 V98 H929 V109 M925 98 V90 M854 162 V142 H872 V162 M851 142 A12 12 0 0 1 875 142 M978 162 V142 H996 V162 M975 142 A12 12 0 0 1 999 142`)}
+    ${[860, 880, 900, 950, 970, 990].map((x) => p(`M${x} 178 V${G}`)).join("")}
+    ${p(`M1040 ${G} V44 L1070 30 V${G} M1048 60 V${G - 8} M1062 52 V${G - 8}`)}
+    ${p(`M1096 ${G} V160 H1178 V${G} M1092 160 A45 32 0 0 1 1182 160`)}
+    ${p(`M0 ${G} H1200`)}
+    ${[[40, 224], [130, 230], [260, 225], [420, 231], [560, 226], [700, 230], [860, 225], [1010, 231], [1130, 226]].map(([x, y]) => p(`M${x} ${y} h${36 + (x % 3) * 10}`)).join("")}
+  </svg>`;
+}
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelector("#skyline").innerHTML = skyline();
+  const week = upcomingWithin(7).length;
+  document.querySelector("#stats").innerHTML = `<b>${GIGS.length} gigs</b> coming up, <b>${week}</b> in the next seven days`;
+});
+</script>
+</body>
+</html>

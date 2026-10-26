@@ -1,0 +1,70 @@
+---
+// "This week" hero (approved: prototypes/hero-2-this-week.html). The date line, the seven-day
+// count and the Coming up panel are refreshed in the browser, because the site only rebuilds
+// twice a day.
+import Art from './Art.astro';
+import { dayParts, londonToday } from '../lib/dates';
+import type { GigView } from '../lib/gigs';
+
+interface Props {
+  views: GigView[];
+}
+const { views } = Astro.props;
+const today = londonToday();
+const t = dayParts(today);
+const weekEnd = new Date(`${today}T12:00:00Z`);
+weekEnd.setUTCDate(weekEnd.getUTCDate() + 6);
+const inWeek = views.filter((v) => v.gig.data.date <= weekEnd.toISOString().slice(0, 10)).length;
+
+// More candidates than are shown, so the panel stays full as gigs pass between builds and runs
+// (the same act at the same venue on several nights) collapse to their first night.
+const candidates = views.slice(0, 30);
+const runKey = (v: GigView) => `${v.gig.data.headliner}|${v.gig.data.venue.id}`.toLowerCase();
+// The same pick the browser makes, so the panel is right before (or without) any script.
+const initiallyShown = new Set<GigView>();
+const seenRuns = new Set<string>();
+for (const v of candidates) {
+  if (initiallyShown.size >= 6 || seenRuns.has(runKey(v))) continue;
+  initiallyShown.add(v);
+  seenRuns.add(runKey(v));
+}
+const byDay = new Map<string, GigView[]>();
+for (const v of candidates) byDay.set(v.gig.data.date, [...(byDay.get(v.gig.data.date) ?? []), v]);
+---
+
+<section class="hero">
+  <div>
+    <p class="eyebrow" data-today>{t.dowLong} {t.day} {t.monLong}</p>
+    <h1>Live music in Belfast, all in one place</h1>
+    <p class="lede">
+      <b>{views.length} gigs</b> listed from venues across the city, <b data-week-count>{inWeek}</b> of them in the next seven days.
+    </p>
+    <div class="jump">
+      <a class="primary" href="?when=tonight#upcoming-h" data-jump="tonight">Tonight</a>
+      <a href="?when=weekend#upcoming-h" data-jump="weekend">This weekend</a>
+      <a href="?when=week#upcoming-h" data-jump="week">Next 7 days</a>
+    </div>
+  </div>
+  {
+    candidates.length > 0 && (
+      <aside class="coming" aria-labelledby="coming-h" data-coming>
+        <h2 id="coming-h">Coming up <a href="#upcoming-h">See all</a></h2>
+        {[...byDay].map(([date, dayViews]) => {
+          const p = dayParts(date);
+          return (
+            <div data-coming-day hidden={!dayViews.some((v) => initiallyShown.has(v))}>
+              <p class="cday">{p.dowLong} {p.day} {p.mon}</p>
+              {dayViews.map((v) => (
+                <a class="mini" href={`/gigs/${v.slug}/`} data-end={v.gig.data.end_date ?? v.gig.data.date} data-run={runKey(v)} hidden={!initiallyShown.has(v)}>
+                  <Art genres={v.gig.data.genres} />
+                  <span><b>{v.gig.data.headliner}</b><span>{v.venueName}</span></span>
+                  <span class="t">{v.gig.data.start_time ?? v.gig.data.doors_time}</span>
+                </a>
+              ))}
+            </div>
+          );
+        })}
+      </aside>
+    )
+  }
+</section>

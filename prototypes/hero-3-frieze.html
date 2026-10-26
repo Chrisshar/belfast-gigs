@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hero 3 · Genre frieze</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index-base.css">
+<style>
+  /* Hero 3: headline over a frieze of the genre drawings, which double as genre shortcuts. */
+  .hero { padding: 60px 0 8px; }
+  .hero .top { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 12px 32px; }
+  .hero h1 { font-size: clamp(2.2rem, 5.5vw, 3.6rem); line-height: 1.05; font-weight: 500; letter-spacing: -.015em; margin: 0; max-width: 15ch; text-wrap: balance; }
+  .hero .lede { color: var(--soft); margin: 0 0 6px; max-width: 30ch; font-size: 1.05rem; }
+  .hero .lede b { color: var(--ink); font-weight: 500; }
+  /* Hairline grid: a 1px gap over an ink background draws every rule, whatever the label heights. */
+  .frieze { margin-top: 36px; display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 1px; background: var(--ink); border: 1px solid var(--ink); }
+  .frieze button { all: unset; cursor: pointer; display: grid; grid-template-rows: auto 1fr; background: var(--card); gap: 1px; }
+  .frieze .art { aspect-ratio: 1; box-shadow: 0 1px 0 var(--ink); }
+  .frieze .art svg { width: 100%; height: 100%; display: block; }
+  .frieze .label { display: flex; justify-content: space-between; align-items: baseline; padding: 8px 10px; font-size: .9rem; font-weight: 500; }
+  .frieze .label span { color: var(--soft); font-weight: 400; font-size: .8rem; }
+  .frieze button:hover .label, .frieze button[aria-pressed="true"] .label { background: var(--ink); color: #fff; }
+  .frieze button[aria-pressed="true"] .label span, .frieze button:hover .label span { color: #ddd; }
+  .frieze button:focus-visible { outline: 2px solid var(--blue); outline-offset: -2px; }
+  .hint { font-size: .85rem; color: var(--soft); margin: 10px 0 0; }
+  @media (max-width: 900px) { .frieze { grid-template-columns: repeat(4, minmax(0, 1fr)); } .frieze .label { padding: 6px 8px; font-size: .82rem; } }
+  @media (max-width: 640px) { .hero { padding-top: 32px; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="#"><span id="mark"></span>Belfast Gigs</a>
+  <nav><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+</div></header>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="top">
+      <h1>Live music in Belfast, all in one place</h1>
+      <p class="lede" id="lede"></p>
+    </div>
+    <div class="frieze" id="frieze" role="group" aria-label="Browse by genre"></div>
+    <p class="hint">Pick a genre to filter the listings.</p>
+  </section>
+
+  <section aria-label="Filters" style="margin-top:28px"><div id="filters"></div><p id="count"></p></section>
+  <div class="sec"><h2>Just announced</h2><span>Added in the last fortnight</span></div>
+  <div id="recent"></div>
+  <div class="sec"><h2>Upcoming</h2></div>
+  <div id="upcoming"></div>
+  <div id="detail" hidden></div>
+  <footer>Hero 3 · Genre frieze</footer>
+</div>
+<script src="gigs.js"></script>
+<script src="instruments.js"></script>
+<script src="logo.js"></script>
+<script src="proto.js"></script>
+<script src="hero-base.js"></script>
+<script>
+const SHORT = { "Indie/Alternative": "Indie", "Folk/Trad": "Folk & trad", "Jazz/Blues": "Jazz & blues", "Soul/R&B/Funk": "Soul & funk", "Singer-Songwriter": "Songwriters", "Tribute/Covers": "Tributes", "Hip-Hop/Rap": "Hip-hop", "Country/Americana": "Country", "Punk/Hardcore": "Punk", "Contemporary/New Music": "New music" };
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelector("#lede").innerHTML = `<b>${GIGS.length} gigs</b> coming up across the city, updated twice a day.`;
+  const top = genreCounts().slice(0, 8);
+  const frieze = document.querySelector("#frieze");
+  frieze.innerHTML = top.map(([g, n]) => `<button type="button" data-frieze="${esc(g)}" aria-pressed="false"><div class="art">${instrument([g])}</div><div class="label">${esc(SHORT[g] || g)}<span>${n}</span></div></button>`).join("");
+  // The frieze drives the same genre filter as the chips below.
+  frieze.querySelectorAll("[data-frieze]").forEach((b) =>
+    b.addEventListener("click", () => {
+      const chip = document.querySelector(`[data-genre="${CSS.escape(b.dataset.frieze)}"]`);
+      chip?.click();
+      b.setAttribute("aria-pressed", String(chip?.classList.contains("on")));
+      document.querySelector("#upcoming").scrollIntoView({ behavior: "smooth" });
+    }),
+  );
+});
+</script>
+</body>
+</html>

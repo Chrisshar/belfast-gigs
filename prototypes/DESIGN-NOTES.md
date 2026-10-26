@@ -4,6 +4,9 @@
 and the "cranes" mark from `logo.js` (all options are in `logos.html`). This is the reference for building the real site.
 `1-print-shop.html` and `3-gallery.html` are alternatives that weren't chosen, and `geo.js` belongs to them.
 
+**Hero (26 Oct 2026):** `hero-2-this-week.html` was chosen and built. `hero-1-skyline.html` and `hero-3-frieze.html`
+are the alternatives; `index-base.css` and `hero-base.js` support all three.
+
 To view: run the "prototypes" launch configuration (`python -m http.server 4400 --directory prototypes`) and open
 http://localhost:4400/2-index.html. The pages need a server, because they load their scripts by relative path.
 

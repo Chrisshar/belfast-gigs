@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hero 2 · This week</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index-base.css">
+<style>
+  /* Hero 2: editorial split. Headline and counts on the left; the next few days' gigs on the right. */
+  .hero { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 48px; align-items: start; padding: 56px 0 8px; }
+  .eyebrow { font-size: .85rem; color: var(--red); font-weight: 500; letter-spacing: .06em; text-transform: uppercase; }
+  .hero h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.05; font-weight: 500; letter-spacing: -.015em; margin: 12px 0 0; text-wrap: balance; }
+  .hero .lede { color: var(--soft); font-size: 1.1rem; margin: 16px 0 0; max-width: 34ch; }
+  .hero .lede b { color: var(--ink); font-weight: 500; }
+  .jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; }
+  .jump a { font: 500 .95rem var(--font); text-decoration: none; color: var(--ink); border: 1px solid var(--ink); border-radius: 999px; padding: 9px 16px; }
+  .jump a.primary { background: var(--blue); border-color: var(--blue); color: #fff; }
+  .rule { height: 1px; background: var(--line); margin: 40px 0 0; }
+  .week { background: var(--card); border: 1px solid var(--line); border-radius: 22px; padding: 18px 18px 8px; }
+  .week h2 { font-size: 1rem; font-weight: 500; margin: 0 0 4px; display: flex; justify-content: space-between; align-items: baseline; }
+  .week h2 a { font-size: .85rem; color: var(--soft); }
+  .wday { font-size: .78rem; color: var(--soft); text-transform: uppercase; letter-spacing: .08em; margin: 14px 0 6px; }
+  .mini { display: grid; grid-template-columns: 2.75rem 1fr auto; gap: 12px; align-items: center; text-decoration: none; color: inherit; padding: 6px 0; border-top: 1px solid var(--line); }
+  .mini:hover b { text-decoration: underline; }
+  .wday + .mini { border-top: 0; }
+  .mini .art { width: 2.75rem; height: 2.75rem; border-radius: 6px; overflow: hidden; }
+  .mini .art svg { width: 100%; height: 100%; display: block; }
+  .mini b { display: block; font-weight: 600; font-size: .98rem; line-height: 1.25; }
+  .mini span { font-size: .85rem; color: var(--soft); }
+  .mini .t { font-size: .9rem; color: var(--ink); font-weight: 500; }
+  @media (max-width: 760px) {
+    .hero { grid-template-columns: 1fr; gap: 28px; padding-top: 32px; }
+  }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="#"><span id="mark"></span>Belfast Gigs</a>
+  <nav><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+</div></header>
+
+<div class="wrap">
+  <section class="hero">
+    <div>
+      <div class="eyebrow" id="today"></div>
+      <h1>Live music in Belfast, all in one place</h1>
+      <p class="lede" id="lede"></p>
+      <div class="jump"><a class="primary" href="#">Tonight</a><a href="#">This weekend</a><a href="#">Next 7 days</a></div>
+    </div>
+    <aside class="week" aria-labelledby="week-h">
+      <h2 id="week-h">Coming up <a href="#upcoming">See all</a></h2>
+      <div id="week"></div>
+    </aside>
+  </section>
+  <div class="rule"></div>
+
+  <section aria-label="Filters" style="margin-top:28px"><div id="filters"></div><p id="count"></p></section>
+  <div class="sec"><h2>Just announced</h2><span>Added in the last fortnight</span></div>
+  <div id="recent"></div>
+  <div class="sec"><h2>Upcoming</h2></div>
+  <div id="upcoming"></div>
+  <div id="detail" hidden></div>
+  <footer>Hero 2 · This week</footer>
+</div>
+<script src="gigs.js"></script>
+<script src="instruments.js"></script>
+<script src="logo.js"></script>
+<script src="proto.js"></script>
+<script src="hero-base.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const t = parts(TODAY);
+  document.querySelector("#today").textContent = `${t.dowLong} ${t.day} ${t.monLong}`;
+  const week = upcomingWithin(7);
+  document.querySelector("#lede").innerHTML = `<b>${GIGS.length} gigs</b> listed from venues across the city, <b>${week.length}</b> of them in the next seven days.`;
+  // The next few gig days, at most six gigs.
+  const shown = upcomingWithin(14).slice(0, 6);
+  const byDay = new Map();
+  for (const g of shown) byDay.set(g.date, [...(byDay.get(g.date) || []), g]);
+  document.querySelector("#week").innerHTML = [...byDay].map(([d, gigs]) => {
+    const p = parts(d);
+    return `<div class="wday">${p.dowLong} ${p.day} ${p.mon}</div>` + gigs.map((g) => `<a class="mini" href="#"><div class="art">${instrument(g.genres)}</div><div><b>${esc(g.headliner)}</b><span>${esc(g.venue)}</span></div><div class="t">${g.time ?? ""}</div></a>`).join("");
+  }).join("");
+});
+</script>
+</body>
+</html>

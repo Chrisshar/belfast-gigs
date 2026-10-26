@@ -49,6 +49,29 @@ img, svg { display: block; }
 .intro h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.15; font-weight: 500; margin: 0; max-width: 24ch; text-wrap: balance; }
 .intro p { color: var(--soft); margin: 8px 0 0; max-width: 60ch; }
 
+/* Home hero: "This week". Headline and counts on the left, the next few days' gigs on the right. */
+.hero { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 48px; align-items: start; padding: 56px 0 8px; }
+.hero .eyebrow { font-size: .85rem; color: var(--red); font-weight: 500; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
+.hero h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.05; font-weight: 500; letter-spacing: -.015em; margin: 12px 0 0; text-wrap: balance; }
+.hero .lede { color: var(--soft); font-size: 1.1rem; margin: 16px 0 0; max-width: 34ch; }
+.hero .lede b { color: var(--ink); font-weight: 500; }
+.jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; }
+.jump a { font: 500 .95rem var(--font); text-decoration: none; border: 1px solid var(--ink); border-radius: 999px; padding: 9px 16px; background: var(--card); }
+.jump a.primary { background: var(--slate); border-color: var(--slate); color: #fff; }
+.jump a:hover { filter: brightness(1.08); }
+.coming { background: var(--card); border: 1px solid var(--line); border-radius: 22px; padding: 18px 18px 8px; }
+.coming h2 { font-size: 1rem; font-weight: 500; margin: 0 0 4px; display: flex; justify-content: space-between; align-items: baseline; }
+.coming h2 a { font-size: .85rem; color: var(--soft); }
+.cday { font-size: .78rem; color: var(--soft); text-transform: uppercase; letter-spacing: .08em; margin: 14px 0 6px; }
+.mini { display: grid; grid-template-columns: 2.75rem 1fr auto; gap: 12px; align-items: center; text-decoration: none; padding: 6px 0; border-top: 1px solid var(--line); }
+.cday + .mini { border-top: 0; }
+.mini .art { width: 2.75rem; height: 2.75rem; border-radius: 6px; overflow: hidden; }
+.mini b { display: block; font-weight: 600; font-size: .98rem; line-height: 1.25; }
+.mini span span { font-size: .85rem; color: var(--soft); }
+.mini .t { font-size: .9rem; font-weight: 500; }
+.mini:hover b { text-decoration: underline; }
+.hero-rule { height: 1px; background: var(--line); margin: 40px 0 28px; }
+
 /* Filters */
 .filters { background: var(--card); border: 1px solid var(--line); border-radius: 28px; padding: 10px; display: grid; gap: 10px; }
 .filters .quick { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
@@ -70,7 +93,7 @@ img, svg { display: block; }
 
 /* Sections */
 .sec { display: flex; flex-wrap: wrap; gap: 4px 16px; justify-content: space-between; align-items: baseline; margin: 48px 0 16px; }
-.sec h2 { font-size: 1.5rem; font-weight: 500; margin: 0; }
+.sec h2 { font-size: 1.5rem; font-weight: 500; margin: 0; scroll-margin-top: 84px; /* clear the sticky header */ }
 .sec span { color: var(--soft); font-size: .9rem; }
 .empty { color: var(--soft); background: var(--card); border: 1px dashed var(--line); border-radius: var(--radius-row); padding: 24px; text-align: center; }
 
@@ -136,6 +159,11 @@ img, svg { display: block; }
 .site-footer { color: var(--soft); font-size: .85rem; padding: 56px 0 40px; }
 .site-footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; border-top: 1px solid var(--line); padding-top: 20px; }
 .site-footer a { color: var(--soft); }
+
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; gap: 28px; padding-top: 32px; }
+  .hero-rule { margin-top: 28px; }
+}
 
 @media (max-width: 640px) {
   .more { display: inline-block; }

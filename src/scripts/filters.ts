@@ -87,9 +87,48 @@ function matches(el: HTMLElement, s: State, today: string): boolean {
   return true;
 }
 
+const COMING_UP_MAX = 6;
+
+/** Keep the hero current between builds: today's date, the seven-day count, the Coming up panel. */
+function refreshHero(today: string): void {
+  const dateLine = document.querySelector<HTMLElement>('[data-today]');
+  if (dateLine) {
+    dateLine.textContent = new Intl.DateTimeFormat('en-GB', { timeZone: TZ, weekday: 'long', day: 'numeric', month: 'long' }).format(new Date()).replace(',', '');
+  }
+  const weekEnd = addDays(today, 6);
+  const weekCount = document.querySelector<HTMLElement>('[data-week-count]');
+  if (weekCount) {
+    const gigs = document.querySelectorAll<HTMLElement>('[data-list=upcoming] [data-gig]');
+    weekCount.textContent = String([...gigs].filter((el) => (el.dataset.end ?? '') >= today && (el.dataset.date ?? '') <= weekEnd).length);
+  }
+  // Nothing on tonight: don't lead with a button that opens an empty list.
+  const tonight = document.querySelector<HTMLElement>('[data-jump=tonight]');
+  if (tonight) {
+    const any = [...document.querySelectorAll<HTMLElement>('[data-list=upcoming] [data-gig]')].some((el) => (el.dataset.date ?? '') <= today && (el.dataset.end ?? '') >= today);
+    tonight.hidden = !any;
+    document.querySelector('[data-jump=weekend]')?.classList.toggle('primary', !any);
+  }
+  let shown = 0;
+  const runs = new Set<string>();
+  for (const item of document.querySelectorAll<HTMLElement>('[data-coming] [data-end]')) {
+    const run = item.dataset.run ?? '';
+    item.hidden = (item.dataset.end ?? '') < today || shown >= COMING_UP_MAX || runs.has(run);
+    if (!item.hidden) {
+      shown++;
+      runs.add(run);
+    }
+  }
+  for (const day of document.querySelectorAll<HTMLElement>('[data-coming-day]')) {
+    day.hidden = !day.querySelector('[data-end]:not([hidden])');
+  }
+  const panel = document.querySelector<HTMLElement>('[data-coming]');
+  if (panel) panel.hidden = shown === 0;
+}
+
 export function initFilters(): void {
   const form = document.querySelector<HTMLFormElement>('#filters');
   if (!form) return;
+  refreshHero(londonToday());
   const count = document.querySelector<HTMLElement>('#count');
   const state = readUrl();
 
@@ -171,6 +210,17 @@ export function initFilters(): void {
       apply();
     }),
   );
+  // The hero's Tonight / This weekend / Next 7 days links set the same quick filter, then jump to
+  // the list. Without JavaScript they still work, as plain ?when= links.
+  for (const link of document.querySelectorAll<HTMLAnchorElement>('[data-jump]')) {
+    link.addEventListener('click', (event) => {
+      event.preventDefault();
+      state.when = (link.dataset.jump ?? '') as When;
+      syncControls();
+      apply();
+      document.querySelector('#upcoming-h')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
   more?.addEventListener('click', () => {
     const open = form.classList.toggle('open');
     more.setAttribute('aria-expanded', String(open));
