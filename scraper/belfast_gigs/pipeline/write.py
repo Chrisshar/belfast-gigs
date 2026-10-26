@@ -222,11 +222,13 @@ def apply(
             gig = GigFile(gigs_dir / f"{slug}.md", _ordered(data), "")
             gigs[gid] = gig
             changes.created.append(slug)
+            changed = True
         else:
             gig = gigs[gid]
             snap = state.snapshots.get(gid)
             hand_added = snap is None or bool(snap.get("_hand_added"))
-            if _update(gig, fields, None if hand_added else snap, stamp, changes, state.overrides.exclude_ticket_urls):
+            changed = _update(gig, fields, None if hand_added else snap, stamp, changes, state.overrides.exclude_ticket_urls)
+            if changed:
                 changes.updated.append(gig.path.stem)
             else:
                 changes.unchanged += 1
@@ -237,7 +239,9 @@ def apply(
         matched.add(gid)
         state.seen[gid] = {"last_seen": stamp, "misses": 0}
         state.snapshots[gid] = _snapshot(gig.data, hand_added=hand_added)
-        if not dry_run:
+        # Unchanged files stay byte-for-byte as they are, so a CMS save isn't followed by a
+        # formatting-only commit (the CMS indents lists and orders keys its own way).
+        if changed and not dry_run:
             frontmatter.write(gig.path, gig.data, gig.body)
 
     # 4a. Gigs the scraper added that its sources (or Claude) now say aren't gigs. A human who

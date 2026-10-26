@@ -114,6 +114,41 @@ def test_formatting_only_changes_are_not_edits(site):
     assert "locked_fields" not in r.only()[1]
 
 
+def test_cms_formatted_file_is_left_byte_for_byte(site):
+    r = Runner(site)
+    r.run(raw())
+    slug, data = r.only()
+    path = site["gigs"] / f"{slug}.md"
+    # What a Sveltia save looks like: its own key order and list indentation, explicit defaults.
+    lines = ["---"]
+    for k, v in reversed(list(data.items())):
+        if isinstance(v, list):
+            lines.append(f"{k}:")
+            for item in v:
+                if isinstance(item, dict):
+                    first, *rest = item.items()
+                    lines.append(f'  - {first[0]}: "{first[1]}"')
+                    lines.extend(f'    {ik}: "{iv}"' for ik, iv in rest)
+                else:
+                    lines.append(f'  - "{item}"')
+        elif isinstance(v, dict):
+            lines.append(f"{k}:")
+            lines.extend(f"  {ik}: {str(iv).lower() if isinstance(iv, bool) else iv}" for ik, iv in v.items())
+        elif isinstance(v, bool):
+            lines.append(f"{k}: {str(v).lower()}")
+        elif isinstance(v, (int, float)):
+            lines.append(f"{k}: {v}")
+        else:
+            lines.append(f'{k}: "{v}"')
+    lines += ["free: false", "needs_review: false", 'currency: "GBP"', "---", ""]
+    cms_text = "\n".join(lines)
+    path.write_text(cms_text, encoding="utf-8", newline="\n")
+    assert frontmatter.read(path)[0]["title"] == data["title"]
+    changes = r.run(raw())
+    assert changes.updated == [] and changes.newly_locked == []
+    assert path.read_text(encoding="utf-8") == cms_text  # no formatting-only commit after a CMS save
+
+
 def test_human_deleted_gig_is_never_re_added(site):
     r = Runner(site)
     r.run(raw())
