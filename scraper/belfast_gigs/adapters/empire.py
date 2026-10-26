@@ -35,10 +35,15 @@ class Empire(Adapter):
         for item in parse_listing(html):
             events.append(with_detail(item, http.get_text(item.source_url)) if item.source_url else item)
         today = london_today()
-        for post_id in hidden_ids(html):
+        # The first time the hidden gigs are read they are old listings found late, not news.
+        known = self.cache.get("hidden_ids")  # None until the first run that reads them
+        ids = hidden_ids(html)
+        for post_id in ids:
             found = parse_gig_page(http.get_text(f"{SITE}/?p={post_id}"), today)
             if found and found.date >= today:
+                found.backfill = known is None
                 events.append(found)
+        self.cache["hidden_ids"] = ids
         return events
 
 

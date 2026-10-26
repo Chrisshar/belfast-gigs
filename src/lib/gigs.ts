@@ -17,6 +17,9 @@ export interface GigView {
 
 const RECENT_DAYS = 14;
 const RECENT_MAX = 40;
+// Nothing announced before this day counts as new. The sources were still being added and
+// backfilled until then, so "Just announced" starts empty and fills from the next scrape.
+const RECENT_SINCE = '2026-10-27';
 
 function byDateThenTime(a: Gig, b: Gig): number {
   return (
@@ -56,7 +59,7 @@ export async function toViews(gigs: Gig[]): Promise<GigView[]> {
  */
 export function recentlyAdded<T extends { gig: Gig }>(views: T[], now: Date = new Date()): T[] {
   return views
-    .filter(({ gig: { data } }) => !data.backfill && daysBetween(data.first_seen, now) <= RECENT_DAYS)
+    .filter(({ gig: { data } }) => !data.backfill && data.first_seen.slice(0, 10) >= RECENT_SINCE && daysBetween(data.first_seen, now) <= RECENT_DAYS)
     .sort((a, b) => b.gig.data.first_seen.localeCompare(a.gig.data.first_seen) || byDateThenTime(a.gig, b.gig))
     .slice(0, RECENT_MAX);
 }
