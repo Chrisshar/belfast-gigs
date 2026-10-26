@@ -18,7 +18,7 @@ sources:
   key: "voodoo:while-were-still-young"
   url: "https://www.voodoobelfast.com/events/while-were-still-young"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-10-26T21:39:04Z"
 backfill: true
 classification:
   is_music: true

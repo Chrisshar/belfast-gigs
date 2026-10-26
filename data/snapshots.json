@@ -578,6 +578,40 @@
   "title": "Bicurious",
   "venue": "ulster-sports-club"
  },
+ "0656379d-bec9-4b30-afee-6766a9ff259c": {
+  "age_restriction": null,
+  "date": "2027-02-17",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Singer-Songwriter"
+  ],
+  "headliner": "SOAK",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:soak",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/soak/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/790069?venueId=459510"
+   }
+  ],
+  "title": "SOAK",
+  "venue": "belfast-empire"
+ },
  "065823c3-c096-4f66-b12b-bc33062581da": {
   "age_restriction": null,
   "date": "2027-03-06",
@@ -1398,6 +1432,40 @@
   "title": "THE BONES OF J.R. JONES with special guest CONCHUR WHITE",
   "venue": "deers-head"
  },
+ "0f43f835-99c9-4ba1-bed8-7b0050cc22ca": {
+  "age_restriction": null,
+  "date": "2027-01-23",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Rock"
+  ],
+  "headliner": "The John Mayall Project",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-john-mayall-project",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-john-mayall-project/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-john-mayall-project-belfast-23-01-2027/event/3800654CB5D918A5"
+   }
+  ],
+  "title": "The John Mayall Project",
+  "venue": "belfast-empire"
+ },
  "0f4fbca7-c67d-4c31-938b-0e146abe0f1c": {
   "age_restriction": null,
   "date": "2027-09-08",
@@ -2148,6 +2216,40 @@
   "title": "Big Ass Truck",
   "venue": "limelight"
  },
+ "187b5e95-4dfb-4935-ac27-4b9f6084b943": {
+  "age_restriction": null,
+  "date": "2027-02-25",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Bad Moon Rising",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:bad-moon-rising",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/bad-moon-rising/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/bad-moon-rising-the-creedence-clearwater-belfast-25-02-2027/event/38006545CED21E7C"
+   }
+  ],
+  "title": "Bad Moon Rising",
+  "venue": "belfast-empire"
+ },
  "1881ff86-7c38-444b-b3fb-e2d266d004ba": {
   "age_restriction": null,
   "date": "2027-01-08",
@@ -2319,6 +2421,39 @@
   ],
   "title": "Skindred",
   "venue": "telegraph-building"
+ },
+ "1d07d70f-ce19-41f8-ae27-3eb660f5434e": {
+  "age_restriction": null,
+  "date": "2027-03-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rock Day Party",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 20.29,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:rock-day-party",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/rock-day-party/"
+   }
+  ],
+  "start_time": "16:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/rock-day-party-in-belfast-tickets-1997676280531?ae_ref=w-e100001997676280531&a=mhr&sharedid=&irpid=6596656&aff=ebmkmxperformance&irgwc=1&afsrc=1&irclickid=SjR1j60L-xyPW4YzPkSULyhEUkr24tU5hUuNUM0"
+   }
+  ],
+  "title": "Rock Day Party",
+  "venue": "belfast-empire"
  },
  "1d1a409d-fffb-4bec-80d9-470b19349efb": {
   "age_restriction": "18+",
@@ -2968,6 +3103,35 @@
   "title": "Jamie Duffy",
   "venue": "ulster-hall"
  },
+ "28e4fda2-0bd6-4cce-a9e9-22da65f1c892": {
+  "age_restriction": null,
+  "date": "2027-02-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "ADMT",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 30.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:admt",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/admt/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "ADMT",
+  "venue": "belfast-empire"
+ },
  "294941e7-8503-4e24-84a0-f226458f0582": {
   "age_restriction": null,
   "date": "2026-12-21",
@@ -3072,6 +3236,40 @@
   "title": "Mighty Good Leader Presents: How R U & Ghoulgirl",
   "venue": "black-box"
  },
+ "2ac83397-cc66-4a5f-be94-4a1c393cf8f9": {
+  "age_restriction": null,
+  "date": "2027-02-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "PLEASUREDOME 80s",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:pleasuredome-80s",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/pleasuredome-80s-belfast-06-02-2027/event/38006545DBD72170"
+   }
+  ],
+  "title": "PLEASUREDOME 80s",
+  "venue": "belfast-empire"
+ },
  "2b300e65-44ca-445e-8080-dff831497be5": {
   "age_restriction": null,
   "date": "2026-12-05",
@@ -3105,41 +3303,6 @@
   ],
   "title": "Alison Cotton",
   "venue": "the-harrison"
- },
- "2e0a688e-236a-4e0b-afbc-4ad7d1c0512c": {
-  "age_restriction": "18+",
-  "date": "2026-12-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Punk/Hardcore",
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Riot! Presents: National Emo Day 2026 with Paramór, Ireland's top Paramore tribute",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandela:118000219",
-    "name": "mandela",
-    "url": "https://www.glistrr.com/events/e/riot-presents-national-emo-day-2026-with-paramór-ireland-s-top-paramore-tribute-32-357"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/riot-presents-national-emo-day-2026-with-paramór-ireland-s-top-paramore-tribute-32-357"
-   }
-  ],
-  "title": "Riot! Presents: National Emo Day 2026 with Paramór, Ireland's top Paramore tribute",
-  "venue": "mandela-hall"
  },
  "2e50fafc-96a5-4f88-843e-60ed14145d43": {
   "age_restriction": null,
@@ -3207,6 +3370,40 @@
   "title": "Radio Free Alice",
   "venue": "ulster-sports-club"
  },
+ "2ec6caa7-fce9-46cc-a414-fc1974f95ce1": {
+  "age_restriction": null,
+  "date": "2027-02-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Blaze Bayley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.8,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:blaze-bayley-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/blaze-bayley-2/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/blaze-bayley-iron-maiden-anniversary-tickets-2000199186611?aff=oddtdtcreator"
+   }
+  ],
+  "title": "Blaze Bayley",
+  "venue": "belfast-empire"
+ },
  "2f2766d4-1b46-4767-a5a6-1ccbd2023dcd": {
   "age_restriction": null,
   "date": "2027-03-03",
@@ -3240,6 +3437,34 @@
   ],
   "title": "Lighthouse Family",
   "venue": "waterfront-hall"
+ },
+ "2fc57cd5-06d5-4e47-bbe0-6208854c86c3": {
+  "age_restriction": null,
+  "date": "2027-04-04",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Henge",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 23.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:henge",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/henge/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Henge",
+  "venue": "belfast-empire"
  },
  "3004bed5-86c8-448a-9ce2-8ea3031971ca": {
   "age_restriction": "18+",
@@ -3583,6 +3808,39 @@
   ],
   "title": "One Night In Nashville",
   "venue": "limelight"
+ },
+ "38997304-836a-428a-a103-afb68c02cb21": {
+  "age_restriction": null,
+  "date": "2027-07-24",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "70’s Day Party",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 13.69,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:70s-day-party",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/70s-day-party/"
+   }
+  ],
+  "start_time": "16:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/70s-day-party-comes-to-belfast-tickets-1999694784932?aff=erellivmlt"
+   }
+  ],
+  "title": "70’s Day Party",
+  "venue": "belfast-empire"
  },
  "39762019-d6e8-4e31-96bf-1a18416f9921": {
   "age_restriction": null,
@@ -5879,6 +6137,35 @@
   "title": "Björn Again",
   "venue": "ulster-hall"
  },
+ "56ee407e-aa84-4945-bcef-7cf30c1ad682": {
+  "age_restriction": null,
+  "date": "2027-03-25",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "St. Lundi",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 33.9,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:st-lundi",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/st-lundi/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "St. Lundi",
+  "venue": "belfast-empire"
+ },
  "57288788-6c71-4ab3-bb78-a2c26b06ab8e": {
   "age_restriction": null,
   "date": "2026-11-04",
@@ -6182,6 +6469,39 @@
   ],
   "title": "Take It To The Limit",
   "venue": "waterfront-hall"
+ },
+ "5ac8bbc4-eee5-4341-a2ee-89ac91f51458": {
+  "age_restriction": null,
+  "date": "2027-02-07",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Conor Mclain",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 23.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:conor-mclain",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/conor-mclain/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/conor-mclain-better-plans-tour-belfast-07-02-2027/event/3800642EEB3C22DC"
+   }
+  ],
+  "title": "Conor Mclain",
+  "venue": "belfast-empire"
  },
  "5b131399-7bfb-4864-979f-ad04cd67109f": {
   "age_restriction": null,
@@ -6627,39 +6947,6 @@
   "title": "Enter Shikari",
   "venue": "telegraph-building"
  },
- "654b3d81-b074-4e8b-886b-aff57fe1fef2": {
-  "age_restriction": null,
-  "date": "2026-10-31",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "Fuego Fatale – Women of Horror",
-  "needs_review": true,
-  "price_max": 32.0,
-  "price_min": 25.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:fuego-fatale-women-of-horror-2",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/fuego-fatale-women-of-horror-2/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/fuego-fatale-women-of-horror-2/"
-   }
-  ],
-  "title": "Fuego Fatale – Women of Horror",
-  "venue": "black-box"
- },
  "65aa34aa-28e5-4a27-8602-8960a6990f8d": {
   "age_restriction": null,
   "date": "2026-11-28",
@@ -6761,6 +7048,40 @@
   ],
   "title": "Rushified Presents: The Music of Rush",
   "venue": "oh-yeah"
+ },
+ "6812b82a-7ef0-4c07-9e43-df51c20ab51a": {
+  "age_restriction": null,
+  "date": "2027-04-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Jazz/Blues"
+  ],
+  "headliner": "Gerry Mcavoy’s Band of Friends",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:gerry-mcavoys-band-of-friends-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/gerry-mcavoys-band-of-friends-2/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1795885?venueId=459510"
+   }
+  ],
+  "title": "Gerry Mcavoy’s Band of Friends",
+  "venue": "belfast-empire"
  },
  "68abebad-c44b-4166-aac7-6fd7f9bd39b9": {
   "age_restriction": null,
@@ -7285,6 +7606,34 @@
   "title": "URNE",
   "venue": "voodoo"
  },
+ "6e887ebf-1ffa-4c89-9049-0bb4ab093b61": {
+  "age_restriction": null,
+  "date": "2027-02-12",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 24.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-jazz-room-2-2-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-2-2-2/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "The Jazz Room",
+  "venue": "belfast-empire"
+ },
  "6faa3706-2670-424d-943b-8e3d190fcf06": {
   "age_restriction": null,
   "date": "2027-05-01",
@@ -7381,6 +7730,39 @@
   ],
   "title": "Drew Baldridge",
   "venue": "limelight"
+ },
+ "70afdb2e-3770-4aef-9d3d-fe30670d9909": {
+  "age_restriction": null,
+  "date": "2027-05-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Absolute Amy",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:absolute-amy",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/absolute-amy/"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/absolute-amy-live-tickets-1988818776498?aff=oddtdtcreator"
+   }
+  ],
+  "title": "Absolute Amy",
+  "venue": "belfast-empire"
  },
  "72dc89fd-1686-4275-957c-679ba8015afe": {
   "age_restriction": null,
@@ -7892,6 +8274,35 @@
    }
   ],
   "title": "Black Parade Halloween Party",
+  "venue": "belfast-empire"
+ },
+ "7d409f47-2a75-4b28-9a9e-b5a55ae0ef2b": {
+  "age_restriction": null,
+  "date": "2027-01-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Illegals – Tribute to Eagles & Fleetwood Mac",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-illegals-tribute-to-eagles-fleetwood-mac",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-illegals-tribute-to-eagles-fleetwood-mac/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "sold_out",
+  "support": null,
+  "tickets": null,
+  "title": "The Illegals – Tribute to Eagles & Fleetwood Mac",
   "venue": "belfast-empire"
  },
  "7dae3a78-f53a-452b-b04e-4793c147dff8": {
@@ -8818,6 +9229,34 @@
   "title": "Elvis Spectacular",
   "venue": "waterfront-hall"
  },
+ "8b580238-cb3a-4f45-a25d-6bf042122415": {
+  "age_restriction": null,
+  "date": "2027-01-15",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 24.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-jazz-room-4",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-4/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "The Jazz Room",
+  "venue": "belfast-empire"
+ },
  "8bbaa786-9205-485f-9b3d-ea7416b1e365": {
   "age_restriction": null,
   "date": "2026-11-04",
@@ -9674,6 +10113,39 @@
   "title": "Leslie Odom, Jr.",
   "venue": "waterfront-hall"
  },
+ "9e259da5-2c23-478a-83fd-2bfe4173bf77": {
+  "age_restriction": null,
+  "date": "2027-02-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rock for Alzheimer’s 2027",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:rock-for-alzheimers",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/rock-for-alzheimers/"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/rock-for-alzheimers-2027-belfast-13-02-2027/event/38006464CC181D7F"
+   }
+  ],
+  "title": "Rock for Alzheimer’s 2027",
+  "venue": "belfast-empire"
+ },
  "9e4a2cb7-f909-4a40-8731-85f2bfa3ce7c": {
   "age_restriction": "18+",
   "date": "2026-12-19",
@@ -9743,6 +10215,40 @@
   ],
   "title": "B.Y.O.B - Tribute to System of a Down",
   "venue": "limelight"
+ },
+ "9ec215ec-4042-4e61-a91a-2839b0c743b6": {
+  "age_restriction": null,
+  "date": "2026-12-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Raised on Rock",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:raised-on-rock-new-years-eve-eve",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/raised-on-rock-new-years-eve-eve/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/raised-on-rock-new-years-eveeve-belfast-30-12-2026/event/3800654D83830E36"
+   }
+  ],
+  "title": "Raised on Rock",
+  "venue": "belfast-empire"
  },
  "9f6efb21-2490-43e0-9b03-97db27f27581": {
   "age_restriction": "18+",
@@ -10475,6 +10981,34 @@
   "title": "Belfast City Council Teenage Kicks - The Friel Sisters",
   "venue": "the-duncairn"
  },
+ "a9a62c39-45b6-4fff-beba-91d6cd59337a": {
+  "age_restriction": null,
+  "date": "2027-08-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rock’n’roll Alldayer",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 35.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:rockabilly-alldayer",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/rockabilly-alldayer/"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Rock’n’roll Alldayer",
+  "venue": "belfast-empire"
+ },
  "aa834399-8439-4b57-be75-3f7cecc63c1f": {
   "age_restriction": null,
   "date": "2026-12-27",
@@ -11095,6 +11629,40 @@
   "title": "The Celine Experience",
   "venue": "ulster-hall"
  },
+ "b715764b-f7b2-4e6c-aae3-3332ab37c74d": {
+  "age_restriction": null,
+  "date": "2027-05-14",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Beatles Complete",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:beatles-complete",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/beatles-complete/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/beatles-complete-belfast-14-05-2027/event/380064D7DC45A8F7"
+   }
+  ],
+  "title": "Beatles Complete",
+  "venue": "belfast-empire"
+ },
  "b746d119-eab8-46fb-b108-ec37f5cec30a": {
   "age_restriction": "18+",
   "date": "2027-02-28",
@@ -11138,6 +11706,35 @@
   "title": "Lindisfarne",
   "venue": "mandela-hall"
  },
+ "b7c7417a-6cb0-4169-9daa-2368aba80366": {
+  "age_restriction": null,
+  "date": "2027-04-10",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Bon Jovi Experience",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:bon-jovi-experience-4-2-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/bon-jovi-experience-4-2-2/"
+   }
+  ],
+  "start_time": "20:30",
+  "status": "sold_out",
+  "support": null,
+  "tickets": null,
+  "title": "The Bon Jovi Experience",
+  "venue": "belfast-empire"
+ },
  "b7df2e10-119a-4e08-b0d8-e8c271bbe390": {
   "age_restriction": null,
   "date": "2026-12-05",
@@ -11172,6 +11769,40 @@
   ],
   "title": "Hard Bizkit",
   "venue": "voodoo"
+ },
+ "b834c7d2-5336-4630-9d5a-72f371f25d7b": {
+  "age_restriction": null,
+  "date": "2027-01-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Courtnay Reddy As Avril Lavigne",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 17.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:courtnay-reddy-as-avril-lavigne",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/courtnay-reddy-as-avril-lavigne/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/3800653180DA0AAA"
+   }
+  ],
+  "title": "Courtnay Reddy As Avril Lavigne",
+  "venue": "belfast-empire"
  },
  "b85fbe44-a8a2-49d1-b737-37ea2fb3ea07": {
   "age_restriction": null,
@@ -12163,6 +12794,40 @@
   "title": "Josh Ritter",
   "venue": "mandela-hall"
  },
+ "c6efa597-12fc-4a66-ba09-54a66da8c4f7": {
+  "age_restriction": null,
+  "date": "2027-02-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Indie/Alternative"
+  ],
+  "headliner": "These Charming Men",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:these-charming-men-4",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/these-charming-men-4/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/these-charming-men-smiths-tribute-band-belfast-27-02-2027/event/38006545C3671BD2"
+   }
+  ],
+  "title": "These Charming Men",
+  "venue": "belfast-empire"
+ },
  "c7472e97-74ae-4e2a-84d8-72a9901ff484": {
   "age_restriction": null,
   "date": "2027-03-13",
@@ -12371,6 +13036,34 @@
   "title": "Madra Salach",
   "venue": "mandela-hall"
  },
+ "c85c1a60-1ec7-423f-ae30-3b4e8b900de6": {
+  "age_restriction": null,
+  "date": "2027-01-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 24.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-jazz-room-3",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-3/"
+   }
+  ],
+  "start_time": "18:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "The Jazz Room",
+  "venue": "belfast-empire"
+ },
  "c8c64dbf-8d75-48d7-baf4-376dc7577ace": {
   "age_restriction": null,
   "date": "2027-04-01",
@@ -12404,6 +13097,40 @@
   ],
   "title": "Onóir Live in Concert",
   "venue": "ulster-hall"
+ },
+ "c993f610-d533-4837-8df9-31f04973be3c": {
+  "age_restriction": null,
+  "date": "2027-01-09",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "The Adventures",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-adventures-3",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-adventures-3/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-adventures-09-01-2027/event/380064D0DB5A4481"
+   }
+  ],
+  "title": "The Adventures",
+  "venue": "belfast-empire"
  },
  "c9b19080-5ef8-4802-827d-d00611766291": {
   "age_restriction": null,
@@ -12778,6 +13505,40 @@
   ],
   "title": "Hot Chocolate",
   "venue": "ulster-hall"
+ },
+ "d112d615-b172-4baa-9552-561fd6157491": {
+  "age_restriction": null,
+  "date": "2026-12-12",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 16.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:pleasuredome-80s-90s-christmas-crackers-part2-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s-90s-christmas-crackers-part2-2/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5300076?venueId=459510"
+   }
+  ],
+  "title": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "venue": "belfast-empire"
  },
  "d12096c1-deb1-47bc-8dc1-a4e1267fa656": {
   "age_restriction": "18+",
@@ -13460,6 +14221,40 @@
   "title": "The Bon Jovi Experience",
   "venue": "belfast-empire"
  },
+ "e1e10693-55c4-48d3-b41f-6373d28b8feb": {
+  "age_restriction": null,
+  "date": "2027-01-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "When Ireland Rocked",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:when-ireland-rocked",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/when-ireland-rocked/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5457579?venueId=459510"
+   }
+  ],
+  "title": "When Ireland Rocked",
+  "venue": "belfast-empire"
+ },
  "e22a76a5-7986-4bbe-971e-b0d6025ca3fb": {
   "age_restriction": "18+",
   "date": "2027-01-26",
@@ -13792,6 +14587,40 @@
    }
   ],
   "title": "Dirty Dc",
+  "venue": "belfast-empire"
+ },
+ "e625938d-1901-46d1-9b53-451088e8b066": {
+  "age_restriction": null,
+  "date": "2027-01-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "The Music of Aretha Franklin",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-music-of-aretha-franklin",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-music-of-aretha-franklin/"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/the-music-of-aretha-franklin-soul-pilgrims-lisa-grand-tickets-1988817711312?aff=ebdssbdestsearch"
+   }
+  ],
+  "title": "The Music of Aretha Franklin",
   "venue": "belfast-empire"
  },
  "e64ce910-1ed3-47a9-862f-c5062b656065": {
@@ -14280,6 +15109,40 @@
   "title": "Elvana",
   "venue": "mandela-hall"
  },
+ "ec4435ff-7080-4b41-85fe-f98fee19da87": {
+  "age_restriction": null,
+  "date": "2026-12-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Raised on Rock",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:raised-on-rock-merry-riffmas",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/raised-on-rock-merry-riffmas/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/raised-on-rock-merry-riffmas-belfast-18-12-2026/event/380064C3B3482676"
+   }
+  ],
+  "title": "Raised on Rock",
+  "venue": "belfast-empire"
+ },
  "ec9ccd2f-f357-4ef3-add0-c79624da18f8": {
   "age_restriction": null,
   "date": "2026-12-07",
@@ -14345,6 +15208,35 @@
   ],
   "title": "Chloe Slater: Riot Youth Tour",
   "venue": "oh-yeah"
+ },
+ "ed185824-971f-4762-8d39-86ffdfaf79e9": {
+  "age_restriction": null,
+  "date": "2027-03-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Mack Fleetwood",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:mack-fleetwood-4",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/mack-fleetwood-4/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Mack Fleetwood",
+  "venue": "belfast-empire"
  },
  "ed95186a-bb9d-48ae-8542-fc07d009bfd3": {
   "age_restriction": "18+",
@@ -15054,6 +15946,74 @@
   "title": "Drake Milligan",
   "venue": "ulster-hall"
  },
+ "f433097b-0cde-4399-952e-97fd9e539c32": {
+  "age_restriction": null,
+  "date": "2027-04-15",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Carsie Blanton",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 24.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:carsie-blanton",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/carsie-blanton/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/380065458B830E39"
+   }
+  ],
+  "title": "Carsie Blanton",
+  "venue": "belfast-empire"
+ },
+ "f445b086-48ba-4988-b1b4-a3eb9c5dc833": {
+  "age_restriction": null,
+  "date": "2026-12-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 16.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:pleasuredome-80s-90s-christmas-crackers-part2-2-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s-90s-christmas-crackers-part2-2-2/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5300076?venueId=459510"
+   }
+  ],
+  "title": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "venue": "belfast-empire"
+ },
  "f45d426f-e2db-4989-b256-2269b8bae592": {
   "age_restriction": null,
   "date": "2026-11-26",
@@ -15191,6 +16151,63 @@
   ],
   "title": "The Ties That Bind - SUPER SONG SUNDAY & ABAIR AMHRÁN",
   "venue": "the-duncairn"
+ },
+ "f630d472-f3d8-485f-a1d8-6d25d40bb253": {
+  "age_restriction": null,
+  "date": "2027-03-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 24.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-jazz-room-5",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-5/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "The Jazz Room",
+  "venue": "belfast-empire"
+ },
+ "f6b741c6-6c08-4b0e-a070-fa4580870382": {
+  "age_restriction": null,
+  "date": "2026-12-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "DAVID KITT and THE BIG ROMANCE BAND",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:david-kitt-and-the-big-romance-band",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/david-kitt-and-the-big-romance-band/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "DAVID KITT and THE BIG ROMANCE BAND",
+  "venue": "belfast-empire"
  },
  "f81fd92b-1b88-42a3-b5e0-335bc5096f36": {
   "age_restriction": null,

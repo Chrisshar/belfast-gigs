@@ -1129,6 +1129,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "1ed65341d29c090d": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "216b04d71670c237": {
   "confidence": 0.9,
   "genres": [
@@ -1185,6 +1197,17 @@
    "Indie/Alternative"
   ],
   "headliner": "Late Night Thoughts",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2241175138725788": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Conor Mclain",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -1325,6 +1348,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "25610ac942914072": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Beatles Complete",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "256dfeb441fdf709": {
   "confidence": 0.85,
   "genres": [
@@ -1391,6 +1426,18 @@
    "Indie/Alternative"
   ],
   "headliner": "Good Health Good Wealth",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "27e4686ec92796bd": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Mack Fleetwood",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -1552,6 +1599,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "2f9d5b64e0806b59": {
+  "confidence": 0.8,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "When Ireland Rocked",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "2fda17144d59be99": {
   "confidence": 0.85,
   "genres": [
@@ -1583,6 +1642,17 @@
    "Folk/Trad"
   ],
   "headliner": "The Boondocks",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "30dcc0dde63d09ae": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rock for Alzheimer’s 2027",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -1689,6 +1759,17 @@
   ],
   "headliner": "The Songs of Glen Hansard: In Support of Simon Community",
   "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "33ca79803d0251b7": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "70’s Day Party",
+  "is_music": false,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
   "support": []
@@ -1866,6 +1947,18 @@
    "Metal"
   ],
   "headliner": "Hard Bizkit",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3ab4d643a816fb89": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Illegals – Tribute to Eagles & Fleetwood Mac",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -2297,6 +2390,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "4b4c25d0872cfc26": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Absolute Amy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "4b6a757f34b9c194": {
   "confidence": 0.75,
   "genres": [
@@ -2666,6 +2770,18 @@
    "IFITBLEEDS"
   ]
  },
+ "5beba4af3519f157": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Singer-Songwriter"
+  ],
+  "headliner": "SOAK",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "5bf0ed85de8f7330": {
   "confidence": 0.9,
   "genres": [
@@ -2929,6 +3045,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "6658483301bc5861": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "St. Lundi",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6761d235de565353": {
   "confidence": 0.9,
   "genres": [
@@ -2992,6 +3120,18 @@
    "Saffron Gorman",
    "The Black Eagle Band"
   ]
+ },
+ "6b4d517f8b96b2d2": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Bon Jovi Experience",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "6b7711700449874f": {
   "confidence": 0.95,
@@ -3110,6 +3250,17 @@
    "Tribute/Covers"
   ],
   "headliner": "Springsteen Spectacular",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "752a312fc205a349": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Henge",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -3283,6 +3434,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "7ce1850bed9f4b0f": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "PLEASUREDOME 80s",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "7d5bbc3cc8109484": {
   "confidence": 0.85,
   "genres": [
@@ -3325,6 +3488,18 @@
   ],
   "headliner": "Ulster Orchestra",
   "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7e675e9338fda315": {
+  "confidence": 0.9,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "DAVID KITT and THE BIG ROMANCE BAND",
+  "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
   "support": []
@@ -3630,6 +3805,30 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "8b4f0f1662274f78": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "The Adventures",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8c5695640b926418": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues",
+   "Rock"
+  ],
+  "headliner": "The John Mayall Project",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "8d9663fed6681253": {
   "confidence": 0.7,
   "genres": [
@@ -3704,6 +3903,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "9001f10b1ca3d79e": {
+  "confidence": 0.7,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "908515d73457be5f": {
   "confidence": 0.95,
   "genres": [],
@@ -3729,6 +3939,18 @@
    "Electronic"
   ],
   "headliner": "The Music of Stranger Things",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "934706e614f77579": {
+  "confidence": 0.5,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "ADMT",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -3975,6 +4197,18 @@
    "Singer-Songwriter"
   ],
   "headliner": "Ed Cosens",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9b6c29abe1d60096": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Carsie Blanton",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -4416,6 +4650,18 @@
    "Indie/Alternative"
   ],
   "headliner": "The Stunning",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "aa1e2d3414ae42a7": {
+  "confidence": 0.7,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Raised on Rock",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -5143,6 +5389,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "cab9c16a861e8dc2": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rock’n’roll Alldayer",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "cb88ff79d97e7d4c": {
   "confidence": 0.7,
   "genres": [
@@ -5391,6 +5648,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "d3eaad177988777a": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Courtnay Reddy As Avril Lavigne",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "d44e6c15c9981f6a": {
   "confidence": 0.8,
   "genres": [
@@ -5633,6 +5902,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "de2ff266cbd2fb3d": {
+  "confidence": 0.9,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Blaze Bayley",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "de3eeeaa9e49bb90": {
   "confidence": 0.95,
   "genres": [],
@@ -5757,12 +6038,34 @@
    "Madams Last Discovery"
   ]
  },
+ "e3ab837a560a0a11": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rock Day Party",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "e3b789d47886be04": {
   "confidence": 0.6,
   "genres": [
    "Singer-Songwriter"
   ],
   "headliner": "Darren Kiely",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e3ba441b5384ce8b": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -5838,6 +6141,17 @@
    "Singer-Songwriter"
   ],
   "headliner": "Susy Good: Album Launch",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e66af02b02215664": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -5971,6 +6285,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "ed38679bc835ff06": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Jazz/Blues"
+  ],
+  "headliner": "Gerry Mcavoy’s Band of Friends",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "ed3aed1cac4c1c29": {
   "confidence": 0.7,
   "genres": [
@@ -6057,6 +6383,18 @@
    "DJ Chris Armstrong"
   ]
  },
+ "f290de0a631f51c8": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Indie/Alternative"
+  ],
+  "headliner": "These Charming Men",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "f2c5c7d10efc70f9": {
   "confidence": 0.6,
   "genres": [
@@ -6142,6 +6480,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "f78446e41b99ae17": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "f851b42524f9a887": {
   "confidence": 0.85,
   "genres": [
@@ -6150,6 +6500,30 @@
    "Singer-Songwriter"
   ],
   "headliner": "Bonnie Raitt - A Celebration",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f88f5059baa6dc1e": {
+  "confidence": 0.7,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Raised on Rock",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f8f3b5e9f93d10c7": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Bad Moon Rising",
   "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
@@ -6316,11 +6690,34 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "fe1ff5746537a6af": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "The Music of Aretha Franklin",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "fe33f11a10819c8a": {
   "confidence": 0.5,
   "genres": [],
   "headliner": "Nightmare on Fountain Street",
   "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fe6caca62803c1fc": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "is_music": true,
   "last_seen": "2026-10-26",
   "model": "claude-haiku-5-5",
   "support": []

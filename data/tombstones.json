@@ -62,5 +62,23 @@
   "first_seen": "2026-10-26T13:13:29Z",
   "backfill": true,
   "reason": "reclassified"
+ },
+ {
+  "id": "2e0a688e-236a-4e0b-afbc-4ad7d1c0512c",
+  "keys": [
+   "mandela:118000219"
+  ],
+  "fingerprint": "qub-su|2026-12-19|riot national emo day with paramor irelands top paramore tribute",
+  "date": "2026-12-19",
+  "reason": "deleted"
+ },
+ {
+  "id": "654b3d81-b074-4e8b-886b-aff57fe1fef2",
+  "keys": [
+   "blackbox:fuego-fatale-women-of-horror-2"
+  ],
+  "fingerprint": "black-box|2026-10-31|fuego fatale women of horror",
+  "date": "2026-10-31",
+  "reason": "deleted"
  }
 ]
