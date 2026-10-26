@@ -59,7 +59,7 @@ How it treats your edits:
 - **Edit a gig** (in the CMS or by hand): the scraper locks every field you changed (`locked_fields`) and never overwrites it.
 - **Delete a future gig**: it's tombstoned in `data/tombstones.json` and never re-added.
 - **Add a gig by hand**: the scraper only fills in fields you left empty.
-- **Gigs from a source's first run** are marked `backfill: true` and stay out of "Recently added", because they weren't necessarily announced recently.
+- **Gigs from a source's first run** are marked `backfill: true` and stay out of "Recently added", because they weren't necessarily announced recently. So are old listings a source only now let us find (a Voodoo or Mandela Hall page first read 14 or more days after it was last edited).
 - **Block a listing for good**: add a title pattern to `data/overrides.yaml`.
 
 ## Weekly coverage check
@@ -121,9 +121,9 @@ The CMS lives at `/admin` (`public/admin/`). It signs in with GitHub through a s
 | Ulster Hall, Waterfront Hall | `ulsterhall` | Paged what's-on listing |
 | The Belfast Empire Music Hall | `empire` | Listing plus each gig's page |
 | Ulster Sports Club | `usc` | The calendar widget's public JSON |
-| Voodoo | `voodoo` | Sitemap plus the 30 most recently edited event pages |
+| Voodoo | `voodoo` | Event pages via its sitemap; each read once, again only when edited (`data/page_cache.json`) |
 | Mandela Hall, The Union Bar (QUB SU) | `mandela` | The SU's Glistrr box office page |
-| Mandela Hall shows sold by outside promoters | `mandelaweb` | mandelahall.com event pages, via its sitemap |
+| Mandela Hall shows sold by outside promoters | `mandelaweb` | mandelahall.com event pages, via its sitemap, cached like Voodoo's |
 | Black Box | `blackbox` | Paged event listing, by category |
 | Oh Yeah Music Centre | `ohyeah` | Events page HTML |
 | The Duncairn | `duncairn` | `/live-music` plus each event's page |

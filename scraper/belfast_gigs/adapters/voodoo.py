@@ -15,11 +15,10 @@ from ..http import Http, parse_html
 from ..models import RawEvent
 from ..text import recase, ticket_provider
 from .base import Adapter
-from .wix import event_urls
+from . import wix
 
 SITE = "https://www.voodoobelfast.com"
 VENUE = "Voodoo"
-RECENT_PAGES = 30
 _DATE = re.compile(r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*\|\s*(\d{1,2}:\d{2}\s*[AP]M)?", re.I)
 _TICKETS = re.compile(r"skiddle|fixr|ticketmaster|eventbrite|dice\.fm|seetickets|tickettailor|ticketsource", re.I)
 
@@ -30,8 +29,7 @@ class Voodoo(Adapter):
     licence = "Public pages on voodoobelfast.com; robots.txt only disallows ?lightbox=."
 
     def fetch(self, http: Http) -> list[RawEvent]:
-        events = [parse_event(url, http.get_text(url)) for url in event_urls(http, SITE, RECENT_PAGES)]
-        return [e for e in events if e]
+        return wix.events(http, SITE, self.cache, parse_event)
 
 
 def parse_event(url: str, html: str) -> RawEvent | None:

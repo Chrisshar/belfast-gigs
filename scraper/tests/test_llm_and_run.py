@@ -194,6 +194,28 @@ def test_reclassified_gig_that_returns_keeps_first_seen_and_backfill(site, tmp_p
     assert back["id"] == original["id"] and back["first_seen"] == original["first_seen"] and back["backfill"] is True
 
 
+def test_page_cache_carries_over_and_late_finds_are_backfill(site, tmp_path, monkeypatch, fake_source):
+    seen_caches = []
+
+    def fetch(self, http):
+        seen_caches.append(dict(self.cache))
+        self.cache["page"] = {"lastmod": "2026-10-01"}
+        return list(self.events)
+
+    monkeypatch.setattr(fake_source, "fetch", fetch)
+    music = lambda item: {"is_music": True, "confidence": 0.9, "headliner": item["title"], "support": [], "genres": []}
+    fake_source.events = [raw(source="fake", source_key="fake:1", title="First Band", is_music_hint=True)]
+    run_once(site, tmp_path, monkeypatch, music)
+    fake_source.events = [
+        raw(source="fake", source_key="fake:2", title="Fresh Band", date="2026-11-21", is_music_hint=True),
+        raw(source="fake", source_key="fake:3", title="Found Late", date="2026-11-22", is_music_hint=True, backfill=True),
+    ]
+    run_once(site, tmp_path, monkeypatch, music)
+    assert seen_caches == [{}, {"page": {"lastmod": "2026-10-01"}}]
+    backfill = {data["title"]: bool(data.get("backfill")) for data, _ in (frontmatter.read(p) for p in site["gigs"].glob("*.md"))}
+    assert backfill == {"First Band": True, "Fresh Band": False, "Found Late": True}
+
+
 def test_dry_run_writes_nothing_but_records_spend(site, tmp_path, monkeypatch, fake_source):
     fake_source.events = [raw(source="fake", source_key="fake:1", is_music_hint=None)]
     run_once(site, tmp_path, monkeypatch, gig, dry_run=True)

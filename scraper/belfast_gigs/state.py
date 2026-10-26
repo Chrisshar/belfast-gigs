@@ -4,6 +4,7 @@
 - snapshots.json: per gig id, the values the scraper last wrote (a difference means a human edited)
 - tombstones.json: gigs a human deleted, or that vanished from every source, so they aren't re-added
 - source_health.json: per adapter, successful runs and consecutive failures
+- page_cache.json: per adapter, what each event page said when last read (sources read a page at a time)
 - overrides.yaml: hand-maintained blocklist and ticket-link excludes
 """
 
@@ -19,7 +20,7 @@ import yaml
 
 from .paths import DATA_DIR
 
-_FILES = ("seen", "snapshots", "tombstones", "source_health")
+_FILES = ("seen", "snapshots", "tombstones", "source_health", "page_cache")
 
 
 @dataclass
@@ -41,6 +42,7 @@ class State:
     snapshots: dict[str, dict[str, Any]] = field(default_factory=dict)
     tombstones: list[dict[str, Any]] = field(default_factory=list)
     source_health: dict[str, dict[str, Any]] = field(default_factory=dict)
+    page_cache: dict[str, dict[str, Any]] = field(default_factory=dict)
     overrides: Overrides = field(default_factory=Overrides)
 
     @classmethod

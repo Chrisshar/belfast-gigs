@@ -58,6 +58,7 @@ class RawEvent:
     lng: float | None = None
     address: str | None = None
     attraction_key: str | None = None  # Ticketmaster attraction id, for collapsing package listings
+    backfill: bool = False  # an old listing the source only now let us find: kept out of Just announced
 
 
 class Classification(BaseModel):

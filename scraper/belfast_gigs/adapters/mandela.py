@@ -20,13 +20,12 @@ from ..http import Http, parse_html
 from ..models import RawEvent
 from ..text import recase
 from .base import Adapter
-from .wix import event_urls
+from . import wix
 
 PAGE = "https://glistrr.com/events/l/qub"
 TICKETS = "https://www.glistrr.com/events/e/{slug}"
 VENUES = {"union bar": "The Union Bar"}  # anything else is Mandela Hall
 SITE = "https://www.mandelahall.com"
-RECENT_PAGES = 40
 _WIX_LINE = re.compile(r"\| (?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) \| (\d{1,2} [A-Za-z]{3} \d{4}) \| (\d{1,2}:\d{2})(.*?)< BACK \| ([^|]+)")
 
 
@@ -47,8 +46,7 @@ class MandelaHallWeb(Adapter):
     licence = "Public pages on mandelahall.com; robots.txt allows them."
 
     def fetch(self, http: Http) -> list[RawEvent]:
-        events = [parse_wix_event(url, http.get_text(url)) for url in event_urls(http, SITE, RECENT_PAGES)]
-        return [e for e in events if e]
+        return wix.events(http, SITE, self.cache, parse_wix_event)
 
 
 def _events(html: str) -> list[dict]:

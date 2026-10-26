@@ -1,3 +1,5 @@
+from datetime import date
+
 from conftest import load_json, load_text
 
 from belfast_gigs.adapters import (
@@ -18,6 +20,8 @@ from belfast_gigs.adapters import (
     voodoo,
     wix,
 )
+from belfast_gigs.http import HttpError
+from belfast_gigs.models import RawEvent
 
 
 class TestLimelight:
@@ -204,8 +208,9 @@ class TestUlsterSportsClub:
 
 class TestVoodoo:
     def test_most_recently_edited_pages_first(self):
-        urls = wix.recent_event_urls(load_text("voodoo", "events-sitemap.xml"), 30)
-        assert len(urls) == 30 and all("/events/" in u for u in urls)
+        entries = wix.sitemap_entries(load_text("voodoo", "events-sitemap.xml"))
+        assert len(entries) > 600 and all("/events/" in u for u, _ in entries)
+        assert entries[0] == ("https://www.voodoobelfast.com/events/emo-club", "2026-10-22")
 
     def test_event_page(self):
         ev = voodoo.parse_event("https://www.voodoobelfast.com/events/emo-club", load_text("voodoo", "event1.html"))
@@ -309,3 +314,76 @@ class TestMovingOnMusic:
         assert ev and (ev.title, ev.date, ev.start_time, ev.price_min) == ("corto.alto", "2026-11-05", "19:00", 22.0)
         assert ev.status == "on_sale"  # "SOLD OUT" is in every page's template
         assert ev.venue_name == "Mandela Hall" and ev.is_music_hint is None
+
+
+class FakeWixSite:
+    """A Wix site: url -> (lastmod, event date). Counts the event pages read."""
+
+    def __init__(self, pages: dict[str, tuple[str, str]]):
+        self.pages, self.reads = pages, []
+
+    def get_text(self, url: str) -> str:
+        if url.endswith("/sitemap.xml"):
+            return "<loc>https://x.test/dynamic-events-sitemap.xml</loc>"
+        if "dynamic-events" in url:
+            return "".join(f"<url><loc>{u}</loc><lastmod>{m}</lastmod></url>" for u, (m, _) in self.pages.items())
+        self.reads.append(url)
+        return self.pages[url][1]
+
+
+def page_event(url: str, html: str) -> RawEvent:
+    return RawEvent(source="t", source_key=url, title=url.rsplit("/", 1)[-1], venue_name="V", date=html, tickets=[("T", url)])
+
+
+class TestWixPageCache:
+    today = date(2026, 10, 26)
+
+    def site(self) -> FakeWixSite:
+        return FakeWixSite({
+            "https://x.test/events/new": ("2026-10-25", "2026-12-01"),
+            "https://x.test/events/old-but-upcoming": ("2026-08-26", "2027-01-10"),
+            "https://x.test/events/older-but-upcoming": ("2026-06-01", "2027-02-01"),
+            "https://x.test/events/past": ("2026-05-01", "2026-05-20"),
+            "https://x.test/events/ancient": ("2024-01-01", "2024-02-01"),
+        })
+
+    def test_every_upcoming_page_is_read_once_then_remembered(self, monkeypatch):
+        monkeypatch.setattr(wix, "MAX_FETCH", 2)
+        site, cache = self.site(), {}
+        first = wix.events(site, "https://x.test", cache, page_event, self.today)
+        assert [e.title for e in first] == ["new", "old-but-upcoming"]
+        second = wix.events(site, "https://x.test", cache, page_event, self.today)
+        assert sorted(e.title for e in second) == ["new", "old-but-upcoming", "older-but-upcoming"]
+        reads = len(site.reads)
+        third = wix.events(site, "https://x.test", cache, page_event, self.today)
+        assert len(third) == 3 and len(site.reads) == reads == 4  # the year-old page is never read
+        assert third[0].tickets == [("T", "https://x.test/events/new")]
+        assert cache["https://x.test/events/past"]["event"] is None
+
+    def test_edited_page_is_read_again(self):
+        site, cache = self.site(), {}
+        wix.events(site, "https://x.test", cache, page_event, self.today)
+        site.pages["https://x.test/events/new"] = ("2026-10-26", "2026-12-02")
+        events = wix.events(site, "https://x.test", cache, page_event, self.today)
+        assert site.reads[-1] == "https://x.test/events/new"
+        assert next(e for e in events if e.title == "new").date == "2026-12-02"
+
+    def test_old_pages_found_late_are_backfill(self):
+        events = wix.events(self.site(), "https://x.test", {}, page_event, self.today)
+        assert {e.title: e.backfill for e in events} == {"new": False, "old-but-upcoming": True, "older-but-upcoming": True}
+
+    def test_escaped_urls_and_missing_pages(self):
+        site = self.site()
+        site.pages["https://x.test/events/we&apos;re-gone"] = ("2026-10-20", "2026-12-24")
+        real_get = site.get_text
+
+        def get_text(url):
+            if url.endswith("we're-gone"):
+                site.reads.append(url)
+                raise HttpError(url, 404)
+            return real_get(url)
+
+        site.get_text = get_text
+        cache = {}
+        events = wix.events(site, "https://x.test", cache, page_event, self.today)
+        assert len(events) == 3 and cache["https://x.test/events/we're-gone"]["event"] is None

@@ -19,5 +19,9 @@ class Adapter:
     # Licence/terms note, shown in the README and report.
     licence: ClassVar[str] = ""
 
+    def __init__(self, cache: dict | None = None):
+        # What this adapter remembers between runs (data/page_cache.json), for sources read a page at a time.
+        self.cache: dict = cache if cache is not None else {}
+
     def fetch(self, http: Http) -> list[RawEvent]:
         raise NotImplementedError

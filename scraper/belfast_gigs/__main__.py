@@ -50,6 +50,7 @@ class Collected:
     healthy: set[str] = field(default_factory=set)
     rejected_keys: set[str] = field(default_factory=set)  # listings judged not to be gigs this run
     source_health: dict[str, dict] = field(default_factory=dict)  # only the adapters that ran
+    page_cache: dict[str, dict] = field(default_factory=dict)  # only the adapters that ran without error
     stubs: list[tuple[str, str, str | None]] = field(default_factory=list)  # (slug, name, address)
     llm_cache: dict[str, dict] = field(default_factory=dict)
     llm_usage: dict[str, dict] = field(default_factory=dict)
@@ -82,7 +83,7 @@ def collect(
         http.__enter__()
     try:
         for name in only or list(ADAPTERS):
-            adapter = ADAPTERS[name]()
+            adapter = ADAPTERS[name](dict(state.page_cache.get(name, {})))
             health = dict(state.source_health.get(name, {"runs_ok": 0, "consecutive_failures": 0}))
             first_run = health.get("runs_ok", 0) == 0
             try:
@@ -107,6 +108,8 @@ def collect(
             health.pop("last_error", None)
             out.source_health[name] = health
             out.healthy.add(name)
+            if adapter.cache:
+                out.page_cache[name] = adapter.cache
             report.sources.append(SourceResult(name, "ok", len(raw_events), "first run: gigs marked as backfill" if first_run else ""))
 
             for raw in raw_events:
@@ -134,7 +137,7 @@ def collect(
                     "date": raw.date,
                     "source_tags": raw.categories,
                 }
-                pending.append((prepared, verdict, adapter, forced, first_run, fp))
+                pending.append((prepared, verdict, adapter, forced, first_run or raw.backfill, fp))
     finally:
         if own_http:
             http.__exit__(None, None, None)
@@ -177,6 +180,7 @@ def finish(
     """Write a collected run into the checkout on disk. Safe to repeat on a fresher checkout."""
     state = State.load(data_dir)
     state.source_health.update(collected.source_health)
+    state.page_cache.update(collected.page_cache)
     venues = VenueIndex.load(venues_dir)
     for slug, name, address in collected.stubs:
         if slug not in venues.by_slug:
