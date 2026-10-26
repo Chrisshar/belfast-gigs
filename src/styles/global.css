@@ -9,6 +9,7 @@
   --soft: #6a6760;
   --line: #e4e0d6;
   --red: #c8452f;
+  --red-text: #b83e2a; /* --red darkened to 4.5:1 on every surface, for small text */
   --slate: #2f4a6d;
   --ochre: #d9a441;
   --font: Jost, Futura, system-ui, sans-serif;
@@ -27,6 +28,9 @@ img, svg { display: block; }
 .wrap { max-width: 75rem; margin: 0 auto; padding: 0 16px; }
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 :focus-visible { outline: 2px solid var(--slate); outline-offset: 2px; }
+main:focus { outline: none; }
+.skip { position: absolute; left: 16px; top: -48px; z-index: 100; padding: 10px 16px; background: var(--ink); color: #fff; border-radius: 0 0 8px 8px; text-decoration: none; }
+.skip:focus { top: 0; }
 
 /* Line-art drawings: strokes are in screen pixels, so a 40px thumbnail and a full-width banner
    share the same hairline. */
@@ -51,7 +55,7 @@ img, svg { display: block; }
 
 /* Home hero: "This week". Headline and counts on the left, the next few days' gigs on the right. */
 .hero { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 48px; align-items: start; padding: 56px 0 8px; }
-.hero .eyebrow { font-size: .85rem; color: var(--red); font-weight: 500; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
+.hero .eyebrow { font-size: .85rem; color: var(--red-text); font-weight: 500; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
 .hero h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.05; font-weight: 500; letter-spacing: -.015em; margin: 12px 0 0; text-wrap: balance; }
 .hero .lede { color: var(--soft); font-size: 1.1rem; margin: 16px 0 0; max-width: 34ch; }
 .hero .lede b { color: var(--ink); font-weight: 500; }
@@ -103,7 +107,7 @@ img, svg { display: block; }
 .card:hover { border-color: var(--ink); }
 .card .art { aspect-ratio: 2 / 1; }
 .card .body { padding: 14px 16px 16px; }
-.card .when { color: var(--red); font-weight: 500; font-size: .85rem; }
+.card .when { color: var(--red-text); font-weight: 500; font-size: .85rem; }
 .card h3 { font-size: 1.1rem; font-weight: 600; margin: 2px 0; line-height: 1.25; }
 .card .venue { color: var(--soft); font-size: .9rem; }
 
@@ -123,7 +127,7 @@ img, svg { display: block; }
 .row .meta { font-size: .9rem; color: var(--soft); margin-top: 2px; }
 .row .meta b { color: var(--ink); font-weight: 500; }
 .row .side { text-align: right; white-space: nowrap; padding-right: 6px; font-weight: 600; }
-.status { display: block; font-weight: 500; color: var(--red); font-size: .8rem; }
+.status { display: block; font-weight: 500; color: var(--red-text); font-size: .8rem; }
 .status.inline { display: inline; margin-left: 6px; }
 
 /* Gig page */
@@ -132,7 +136,7 @@ img, svg { display: block; }
 .detail { background: var(--card); border: 1px solid var(--line); border-radius: 24px; overflow: hidden; }
 .detail .art { aspect-ratio: 4 / 1; }
 .detail .body { padding: 28px; display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 32px; }
-.detail .when { color: var(--red); font-weight: 500; }
+.detail .when { color: var(--red-text); font-weight: 500; }
 .detail h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); font-weight: 500; margin: 4px 0 6px; line-height: 1.12; text-wrap: balance; }
 .detail .support { font-size: 1.1rem; margin: 0 0 8px; }
 .detail .where { color: var(--soft); margin: 0; }

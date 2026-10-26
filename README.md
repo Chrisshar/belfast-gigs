@@ -2,7 +2,7 @@
 
 Upcoming live music in Belfast and greater Belfast. A static [Astro](https://astro.build) site on Cloudflare, fed by a Python scraper that runs twice a day on GitHub Actions. Every gig is a Markdown file in `src/content/gigs/`.
 
-> Status: **Phase 2**. The scraper runs twice a day on GitHub Actions (`.github/workflows/scrape.yml`) with Claude Haiku checking new listings. Sources so far: Limelight and The O2 Belfast; Ticketmaster is ready for a key. `PLAN-PROMPT.md` is the original brief.
+> Status: **Phase 4**. The scraper runs twice a day on GitHub Actions (`.github/workflows/scrape.yml`) with Claude Haiku checking new listings, from the sources listed at the bottom. Gigs can be edited at `/admin` once the CMS login is set up. `PLAN-PROMPT.md` is the original brief.
 
 ## Automation
 
@@ -12,6 +12,7 @@ Upcoming live music in Belfast and greater Belfast. A static [Astro](https://ast
   - It opens GitHub issues when something needs you: **Source broken: …**, **Review queue**, **Scrape produced invalid data**.
   - The run report appears on each run's summary page.
 - **CI** (`.github/workflows/ci.yml`): tests and builds every human push and pull request, including CMS commits.
+- **Coverage check reminder** (`.github/workflows/benchmark-reminder.yml`): every Monday at 08:23 UTC, opens a **Weekly coverage check** issue (or comments on the open one).
 - **Claude Haiku** checks each listing once, and the result is cached in `data/classify_cache.json`:
   - It decides whether the listing is a gig, cleans up the headliner and support acts, and picks genres.
   - Listings the source already marks as non-music (club nights, comedy) are never sent.
@@ -61,6 +62,16 @@ How it treats your edits:
 - **Gigs from a source's first run** are marked `backfill: true` and stay out of "Recently added", because they weren't necessarily announced recently.
 - **Block a listing for good**: add a title pattern to `data/overrides.yaml`.
 
+## Weekly coverage check
+
+Songkick and Eventbrite are never scraped, but they're a useful yardstick.
+1. Once a week (GitHub opens an issue on Mondays as a reminder), open Songkick's Belfast concerts pages in your own browser and save them with **Ctrl+S** into `benchmark/inbox/`. That folder is gitignored.
+2. In a Claude Code session in this repo, say **"run the coverage check"**. Claude follows `.claude/skills/coverage-check/SKILL.md`: it runs the command below, then reports what's missing, grouped by venue, with a suggestion for each (a new adapter, a venue alias, or a one-off gig to add in the CMS).
+
+```powershell
+scraper/.venv/Scripts/python.exe -m belfast_gigs benchmark benchmark/inbox
+```
+
 ## One-time setup (only you can do these)
 
 ### 1. GitHub repo
@@ -87,11 +98,40 @@ How it treats your edits:
 - **Anthropic:** in console.anthropic.com, create a workspace with a **$5/month** spend limit, then create an API key inside it.
 - In GitHub, under **Settings → Secrets and variables → Actions**, add `TICKETMASTER_KEY` and `ANTHROPIC_API_KEY`.
 
-### 4. CMS login *(Phase 4)*
-1. Deploy [sveltia-cms-auth](https://github.com/sveltia/sveltia-cms-auth) to Cloudflare.
-2. Create a GitHub OAuth app with callback `https://<auth-worker>/callback`.
-3. Set `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` and `ALLOWED_DOMAINS` on the auth Worker.
+### 4. CMS login
+The CMS lives at `/admin` (`public/admin/`). It signs in with GitHub through a small Cloudflare Worker.
+1. Open https://deploy.workers.cloudflare.com/?url=https://github.com/sveltia/sveltia-cms-auth and deploy it to your Cloudflare account. Note the Worker's URL (e.g. `https://sveltia-cms-auth.<your-subdomain>.workers.dev`).
+2. On GitHub: **Settings → Developer settings → OAuth Apps → New OAuth App**.
+   - Homepage URL: the site's URL.
+   - Authorization callback URL: `<worker URL>/callback`.
+   - Generate a client secret.
+3. In Cloudflare, on the Worker, under **Settings → Variables and Secrets**, add:
+   - `GITHUB_CLIENT_ID`: the OAuth app's client ID.
+   - `GITHUB_CLIENT_SECRET`: the client secret (type **Secret**).
+   - `ALLOWED_DOMAINS`: `belfast-gigs.christopher-sharvin.workers.dev` (plus your own domain later).
+4. If the Worker's URL differs from `base_url` in `public/admin/config.yml`, change it there.
+5. Visit `/admin`, sign in with GitHub, and edit away. If a save is rejected because the scraper pushed in the meantime, reload and try again.
 
 ## Sources and licences
+
+| Source | Adapter | How it's read |
+|---|---|---|
+| Limelight (and Shine shows at the Telegraph Building, Ormeau Park, Custom House Square) | `limelight` | Public venuecloud JSON API |
+| The O2 Belfast | `o2belfast` | The site's public events JSON |
+| Ulster Hall, Waterfront Hall | `ulsterhall` | Paged what's-on listing |
+| The Belfast Empire Music Hall | `empire` | Listing plus each gig's page |
+| Ulster Sports Club | `usc` | The calendar widget's public JSON |
+| Voodoo | `voodoo` | Sitemap plus the 30 most recently edited event pages |
+| Mandela Hall, The Union Bar (QUB SU) | `mandela` | The Glistrr box office page's embedded event data |
+| Black Box | `blackbox` | Paged event listing, by category |
+| Oh Yeah Music Centre | `ohyeah` | Events page HTML |
+| The Duncairn | `duncairn` | `/live-music` plus each event's page |
+| The Deer's Head | `deershead` | Music Hall listing |
+| Moving On Music (promoter) | `movingon` | WordPress REST API plus each show's page |
+| The Harrison Chambers of Distinction | `harrison` | Music listing |
+| Citizen Ticket organisers (American Bar and others) | `citizenticket` | Organiser pages |
+| Ticketmaster | `ticketmaster` | Discovery API (needs `TICKETMASTER_KEY`) |
+
+Sunflower has no listings of its own; its weekly nights are in `src/content/residencies/`.
 
 Ticketmaster's Discovery API terms bar earning money from the API outside its affiliate programme. Venue sites are read politely: robots.txt respected, an identifying user agent, and at least 2 seconds between requests. Songkick, Eventbrite and Skiddle are **not** scraped. Songkick and Eventbrite pages you save yourself are used only for the weekly coverage check.

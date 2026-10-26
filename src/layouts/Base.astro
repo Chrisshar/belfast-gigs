@@ -34,6 +34,7 @@ const current = (href: string) => (href === '/' ? path === '/' || path.startsWit
     <slot name="head" />
   </head>
   <body>
+    <a class="skip" href="#main">Skip to content</a>
     <header class="site-header">
       <div class="wrap">
         <a class="brand" href="/"><Fragment set:html={craneMark()} />Belfast Gigs</a>
@@ -43,7 +44,7 @@ const current = (href: string) => (href === '/' ? path === '/' || path.startsWit
         </nav>
       </div>
     </header>
-    <main class="wrap">
+    <main class="wrap" id="main" tabindex="-1">
       <slot />
     </main>
     <footer class="site-footer">
