@@ -136,7 +136,7 @@ main:focus { outline: none; }
 .layout button { display: inline-flex; align-items: center; gap: 6px; font: 500 .9rem var(--font); color: var(--soft); background: none; border: 0; border-radius: 999px; padding: 6px 14px; cursor: pointer; }
 .layout button:hover { color: var(--ink); }
 .layout button[aria-pressed='true'] { background: var(--ink); color: #fff; }
-.row .when, .row .venue { display: none; }
+.row .when, .row .venue, .row .tag { display: none; }
 [data-layout='grid'] > [data-group='month'] { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 16px; margin-bottom: 20px; }
 [data-layout='grid'] .month { grid-column: 1 / -1; margin: 24px 0 0; }
 [data-layout='grid'] > [data-group='month']:first-child .month { margin-top: 0; }
@@ -146,6 +146,8 @@ main:focus { outline: none; }
 [data-layout='grid'] .row + .row { margin-top: 0; }
 [data-layout='grid'] .row .art { width: 100%; height: auto; aspect-ratio: 2 / 1; flex: none; border-radius: 0; }
 [data-layout='grid'] .row .text { flex: 1 1 0; min-height: 0; overflow: hidden; padding: 10px 14px 0; }
+[data-layout='grid'] .row { position: relative; }
+[data-layout='grid'] .row .tag { display: block; position: absolute; top: 10px; left: 10px; max-width: calc(100% - 20px); padding: 2px 9px; border-radius: 999px; background: rgba(255, 255, 255, .88); color: var(--ink); font-size: .72rem; font-weight: 500; line-height: 1.5; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 [data-layout='grid'] .row .when { display: block; color: var(--red-text); font-weight: 500; font-size: .8rem; }
 [data-layout='grid'] .row h3 { font-size: 1rem; line-height: 1.2; height: 2.4em; margin: 2px 0 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 [data-layout='grid'] .row .support, [data-layout='grid'] .row .meta { display: none; }
