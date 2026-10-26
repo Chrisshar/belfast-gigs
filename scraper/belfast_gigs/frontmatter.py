@@ -6,6 +6,7 @@ re-read as YAML dates or sexagesimal integers, and the output is stable across r
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 from typing import Any
 
@@ -39,12 +40,17 @@ _Dumper.add_representer(float, _float)
 _Dumper.add_representer(dict, _dict)
 
 
+# The header ends at the next line that is just "---": a "---" inside a value (some ticket
+# URLs have one) must not end it.
+_FENCE = re.compile(r"---[ \t]*\r?\n(?P<fm>.*?)^---[ \t]*\r?$", re.S | re.M)
+
+
 def read(path: Path) -> tuple[dict[str, Any], str]:
     text = path.read_text(encoding="utf-8")
-    if not text.startswith("---"):
+    m = _FENCE.match(text)
+    if not m:
         return {}, text
-    _, fm, body = text.split("---", 2)
-    return yaml.safe_load(fm) or {}, body.lstrip("\r\n")
+    return yaml.safe_load(m["fm"]) or {}, text[m.end() :].lstrip("\r\n")
 
 
 def dumps(data: dict[str, Any], body: str = "") -> str:

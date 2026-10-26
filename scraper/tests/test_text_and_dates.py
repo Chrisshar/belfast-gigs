@@ -121,3 +121,11 @@ def test_infer_date_without_a_year(day, month, weekday, expected):
     from belfast_gigs.dates import infer_date
 
     assert infer_date(day, month, "2026-10-26", weekday) == expected
+
+
+def test_frontmatter_value_containing_dashes_round_trips(tmp_path):
+    path = tmp_path / "gig.md"
+    data = {"title": "Black Parade", "tickets": [{"source": "Skiddle", "url": "https://example.com/Black-Parade---Halloween/1/"}]}
+    frontmatter.write(path, data, "Some text\n\n---\n\nmore")
+    read, body = frontmatter.read(path)
+    assert read == data and body.startswith("Some text") and body.rstrip().endswith("more")
