@@ -6,6 +6,7 @@ with categories, prices, sold-out status and ages, so the array is read directly
 mandelahall.com is a Wix site: its event pages (found through the sitemap) carry a line like
 "Thursday | 5 Nov 2026 | 19:00 | DOORS: | SOLD OUT | TICKETS | £22". "SOLD OUT" is part of the
 page template and shows on every event, so it's ignored. Shows on both are merged downstream.
+The two are separate adapters: MandelaHall (Glistrr) and MandelaHallWeb (mandelahall.com).
 """
 
 from __future__ import annotations
@@ -32,15 +33,22 @@ _WIX_LINE = re.compile(r"\| (?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
 class MandelaHall(Adapter):
     name = "mandela"
     authority = 1
-    licence = "QUB SU's public box office page on glistrr.com and the public pages of mandelahall.com; robots.txt allows both."
+    licence = "QUB Students' Union's public box office page on glistrr.com; robots.txt allows it."
 
     def fetch(self, http: Http) -> list[RawEvent]:
-        events = parse(http.get_text(PAGE))
-        for url in event_urls(http, SITE, RECENT_PAGES):
-            event = parse_wix_event(url, http.get_text(url))
-            if event:
-                events.append(event)
-        return events
+        return parse(http.get_text(PAGE))
+
+
+class MandelaHallWeb(Adapter):
+    """A source of its own, so it has its own health record and its first run counts as backfill."""
+
+    name = "mandelaweb"
+    authority = 1
+    licence = "Public pages on mandelahall.com; robots.txt allows them."
+
+    def fetch(self, http: Http) -> list[RawEvent]:
+        events = [parse_wix_event(url, http.get_text(url)) for url in event_urls(http, SITE, RECENT_PAGES)]
+        return [e for e in events if e]
 
 
 def _events(html: str) -> list[dict]:
@@ -113,8 +121,8 @@ def parse_wix_event(url: str, html: str) -> RawEvent | None:
         return None
     prices = [float(p) for p in re.findall(r"£\s?(\d+(?:\.\d{1,2})?)", m[3])]
     return RawEvent(
-        source="mandela",
-        source_key=f"mandela:web:{url.rstrip('/').rsplit('/', 1)[-1]}",
+        source="mandelaweb",
+        source_key=f"mandelaweb:{url.rstrip('/').rsplit('/', 1)[-1]}",
         source_url=url,
         title=recase(m[4].strip()),
         venue_name="Mandela Hall",

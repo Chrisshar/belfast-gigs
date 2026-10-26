@@ -122,7 +122,8 @@ The CMS lives at `/admin` (`public/admin/`). It signs in with GitHub through a s
 | The Belfast Empire Music Hall | `empire` | Listing plus each gig's page |
 | Ulster Sports Club | `usc` | The calendar widget's public JSON |
 | Voodoo | `voodoo` | Sitemap plus the 30 most recently edited event pages |
-| Mandela Hall, The Union Bar (QUB SU) | `mandela` | The Glistrr box office page, plus mandelahall.com event pages for shows sold by outside promoters |
+| Mandela Hall, The Union Bar (QUB SU) | `mandela` | The SU's Glistrr box office page |
+| Mandela Hall shows sold by outside promoters | `mandelaweb` | mandelahall.com event pages, via its sitemap |
 | Black Box | `blackbox` | Paged event listing, by category |
 | Oh Yeah Music Centre | `ohyeah` | Events page HTML |
 | The Duncairn | `duncairn` | `/live-music` plus each event's page |
