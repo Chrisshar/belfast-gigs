@@ -30,7 +30,14 @@ from .pipeline.normalise import is_pass, prepare
 from .pipeline.write import apply
 from .report import Report, SourceResult
 from .state import State
+from .text import squash
 from .venues import VenueIndex
+
+
+def named_in(headliner: str, title: str) -> bool:
+    """Claude may only shorten a title to its headliner, never rename the act: "Slipkorn" (a
+    tribute) must not become "Slipknot"."""
+    return set(squash(headliner).split()) <= set(squash(title).split())
 
 CACHE_DAYS = 60
 
@@ -140,7 +147,7 @@ def collect(
             out.rejected_keys.add(prepared.raw.source_key)
             continue
         found = llm.get(fp)
-        if found and found.get("headliner") and not prepared.raw.headliner:
+        if found and found.get("headliner") and not prepared.raw.headliner and named_in(found["headliner"], prepared.raw.title):
             prepared.headliner = found["headliner"]
             prepared.support = prepared.support or found.get("support", [])
         out.scored.append(Scored(prepared, verdict, adapter.authority, first_run, list(found.get("genres", [])) if found else []))

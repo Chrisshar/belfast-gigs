@@ -50,7 +50,10 @@ Does not belong (is_music = false):
 - film screenings, workshops, markets, family or children's shows, sport
 
 Also give:
-- headliner: the main act's name only, without tour names, years, "+ support" or taglines
+- headliner: the main act's name only, without tour names, years, "+ support" or taglines.
+  Copy it from the listing exactly as written; never correct or complete it. For tribute acts,
+  "music of" / "songs of" nights and album playback nights, the headliner is the tribute act or
+  the night itself (e.g. "Classic Album Night: Snow Patrol – Eyes Open"), never the original artist
 - support: the support acts named in the listing (empty if none)
 - genres: up to 3 from this list, most fitting first: {", ".join(GENRES)}
 - confidence: 0 to 1, how sure you are about is_music

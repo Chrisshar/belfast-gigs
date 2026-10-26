@@ -10,10 +10,10 @@ from __future__ import annotations
 
 import json
 import time
-import urllib.robotparser
 from typing import Any
 from urllib.parse import urlencode, urlsplit
 
+from protego import Protego
 from scrapling.fetchers import FetcherSession
 from scrapling.parser import Selector
 
@@ -34,7 +34,7 @@ class HttpError(Exception):
 class Http:
     def __init__(self, min_delay: float = MIN_DELAY):
         self.min_delay = min_delay
-        self._robots: dict[str, urllib.robotparser.RobotFileParser] = {}
+        self._robots: dict[str, Protego | bool] = {}
         self._last_request: dict[str, float] = {}
         self._cache: dict[str, str] = {}
         self._manager = FetcherSession(
@@ -70,18 +70,19 @@ class Http:
     def allowed(self, url: str) -> bool:
         parts = urlsplit(url)
         origin = f"{parts.scheme}://{parts.netloc}"
-        parser = self._robots.get(origin)
-        if parser is None:
-            parser = urllib.robotparser.RobotFileParser()
+        if origin not in self._robots:
             status, body = self._raw_get(f"{origin}/robots.txt")
             if status >= 500:
-                parser.disallow_all = True  # server trouble: back off rather than guess
+                rules: Protego | bool = False  # server trouble: back off rather than guess
             elif status >= 400:
-                parser.allow_all = True  # no robots.txt means no restrictions
+                rules = True  # no robots.txt means no restrictions
             else:
-                parser.parse(body.splitlines())
-            self._robots[origin] = parser
-        return parser.can_fetch(USER_AGENT, url)
+                # Protego follows RFC 9309, wildcards and "$" included; Python's own
+                # urllib.robotparser doesn't, and reads "Allow: /js/*/*/data?*$" wrongly.
+                rules = Protego.parse(body)
+            self._robots[origin] = rules
+        rules = self._robots[origin]
+        return rules if isinstance(rules, bool) else rules.can_fetch(url, USER_AGENT)
 
     def get_text(self, url: str, params: dict[str, Any] | None = None, headers: dict[str, str] | None = None) -> str:
         full = f"{url}?{urlencode(params, doseq=True)}" if params else url

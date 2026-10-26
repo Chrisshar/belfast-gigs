@@ -10,6 +10,8 @@ dependencies = [
   "pydantic>=2.14,<3",
   "pyyaml>=6.0,<7",
   "tzdata>=2026.1",
+  # robots.txt parsing that handles wildcards (urllib.robotparser doesn't). Scrapling pulls it in too.
+  "protego>=0.6",
 ]
 
 [project.optional-dependencies]

@@ -113,7 +113,7 @@ def run_once(site, tmp_path, monkeypatch, decide, *, dry_run=False):
 def test_claude_overrules_the_rules_and_fills_genres(site, tmp_path, monkeypatch, fake_source):
     fake_source.events = [
         raw(source="fake", source_key="fake:1", title="Andre Example and his Johann Strauss Orchestra", venue_name="The O2 Belfast", is_music_hint=True),
-        raw(source="fake", source_key="fake:2", title="Mystery Night", venue_name="Black Box", is_music_hint=None),
+        raw(source="fake", source_key="fake:2", title="Mystery Band: Night of Noise", venue_name="Black Box", is_music_hint=None),
         raw(source="fake", source_key="fake:3", title="UFO", venue_name="Limelight", is_music_hint=False),
     ]
 

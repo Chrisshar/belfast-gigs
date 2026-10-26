@@ -129,3 +129,29 @@ def test_frontmatter_value_containing_dashes_round_trips(tmp_path):
     frontmatter.write(path, data, "Some text\n\n---\n\nmore")
     read, body = frontmatter.read(path)
     assert read == data and body.startswith("Some text") and body.rstrip().endswith("more")
+
+
+def test_robots_wildcards_follow_the_standard(monkeypatch):
+    from belfast_gigs.http import Http
+
+    rules = "User-agent: *\nAllow: /*.js$\nAllow: /js/*/*/data?*$\nDisallow: /\n"
+    http = Http.__new__(Http)
+    http._robots = {}
+    monkeypatch.setattr(http, "_raw_get", lambda url, headers=None: (200, rules), raising=False)
+    assert http.allowed("https://inffuse.eventscalendar.co/js/v0.1/calendar/data?id=proj_1")
+    assert not http.allowed("https://inffuse.eventscalendar.co/projects/1")
+    # robots.txt missing: allowed; server error: back off
+    http._robots = {}
+    monkeypatch.setattr(http, "_raw_get", lambda url, headers=None: (404, ""), raising=False)
+    assert http.allowed("https://example.com/anything")
+    http._robots = {}
+    monkeypatch.setattr(http, "_raw_get", lambda url, headers=None: (503, ""), raising=False)
+    assert not http.allowed("https://example.com/anything")
+
+
+def test_claude_may_shorten_a_headliner_but_not_rename_it():
+    from belfast_gigs.__main__ import named_in
+
+    assert named_in("Volume Control", "Volume Control presents: HallowEMO")
+    assert named_in("Rick Margitza & Miles Davis Centenary", "Dock Street Jazz Club: Rick Margitza (US) & Miles Davis Centenary")
+    assert not named_in("Slipknot", "Slipkorn")
