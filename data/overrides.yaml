@@ -2,7 +2,8 @@
 
 # Regular expressions (case-insensitive) matched against listing titles. Matching listings are never added.
 # Example: - "^Bingo Loco"
-block_titles: []
+block_titles:
+  - "^Fuego Fatale"
 
 # Regular expressions for listings that are always gigs, whatever the rules or Claude think.
 # Example: - "^Stop Making Sense Live$"
