@@ -1,0 +1,44 @@
+name: Coverage check reminder
+
+# Every Monday morning, opens (or bumps) a "Weekly coverage check" issue, so GitHub emails a
+# reminder to save this week's Songkick pages and run the check in a Claude Code session.
+on:
+  schedule:
+    - cron: "23 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Open or bump the issue
+        run: |
+          title="Weekly coverage check"
+          body=$(cat <<'MD'
+          Time for the weekly coverage check.
+
+          1. In your own browser, open Songkick's Belfast concerts page and save it with **Ctrl+S**
+             (format: "Webpage, Complete" or "HTML only") into `benchmark/inbox/`. Do the next two
+             or three pages too. Eventbrite's Belfast music search is optional.
+          2. Pull the latest `main`, open a Claude Code session in the repo and say
+             **"run the coverage check"**.
+          3. Close this issue when you're done.
+
+          Nothing from Songkick or Eventbrite is fetched automatically or published; this only shows
+          which venues the site's own sources are missing.
+          MD
+          )
+          number=$(gh issue list --state open --search "\"$title\" in:title" --json number,title \
+            --jq ".[] | select(.title == \"$title\") | .number" | head -n 1)
+          if [ -n "$number" ]; then
+            gh issue comment "$number" --body "Another week: still to do. $(date -u +%Y-%m-%d)"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi

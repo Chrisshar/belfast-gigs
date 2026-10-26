@@ -215,8 +215,17 @@ def main(argv: list[str] | None = None) -> int:
     run_p.add_argument("--save", type=Path, help="also save the collected results here, for `apply`")
     apply_p = sub.add_parser("apply", help="write previously collected results into the current checkout")
     apply_p.add_argument("file", type=Path)
+    bench_p = sub.add_parser("benchmark", help="coverage check: compare saved Songkick/Eventbrite pages with the site")
+    bench_p.add_argument("inbox", type=Path, help="folder of pages saved from your browser")
     args = parser.parse_args(argv)
 
+    if args.command == "benchmark":
+        from . import benchmark
+
+        if not args.inbox.is_dir():
+            parser.error(f"{args.inbox} is not a folder")
+        sys.stdout.write(benchmark.report(benchmark.check(args.inbox)))
+        return 0
     if args.command == "run":
         collected = collect(args.only, dry_run=args.dry_run, use_llm=not args.no_llm)
         if args.save:
