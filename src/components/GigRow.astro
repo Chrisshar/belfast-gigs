@@ -15,7 +15,7 @@ const meta = [d.room, time, d.genres.join(', ')].filter(Boolean).join(' · ');
 ---
 
 <a class="row" href={`/gigs/${view.slug}/`} {...filterAttrs(view)}>
-  <Art genres={d.genres} />
+  <Art genres={d.genres} shape="banner" />
   <div class="text">
     <div class="when">{p.dow} {p.day} {p.mon}{time && `, ${time}`}</div>
     <h3>{d.headliner}</h3>
