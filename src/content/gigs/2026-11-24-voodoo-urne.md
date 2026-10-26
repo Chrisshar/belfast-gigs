@@ -9,7 +9,6 @@ price_min: 25.25
 status: "on_sale"
 genres:
 - "Metal"
-- "Punk/Hardcore"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/urne-24-11-2026/event/380064898A0510AA"
@@ -18,7 +17,7 @@ sources:
   key: "voodoo:urne"
   url: "https://www.voodoobelfast.com/events/urne"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

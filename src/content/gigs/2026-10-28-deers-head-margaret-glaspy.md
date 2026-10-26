@@ -18,7 +18,7 @@ sources:
   key: "deershead:margaret-glaspy"
   url: "https://www.thedeersheadbelfast.com/whats-on/margaret-glaspy/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

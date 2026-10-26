@@ -16,10 +16,10 @@ sources:
   key: "o2belfast:295125:2026-11-04"
   url: "https://theo2belfast.com/events/cody-johnson"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.97
   method: "llm"
 ---

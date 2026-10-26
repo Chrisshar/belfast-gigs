@@ -8,9 +8,9 @@ start_time: "19:00"
 price_min: 20
 status: "on_sale"
 genres:
-- "Rock"
-- "Hip-Hop/Rap"
 - "Tribute/Covers"
+- "Rock"
+- "Metal"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.co.uk/e/hard-bizkit-irelands-tribute-to-limp-bizkit-tickets-1992926672325?aff=ebdssbdestsearch"
@@ -19,10 +19,10 @@ sources:
   key: "voodoo:hard-bizkit"
   url: "https://www.voodoobelfast.com/events/hard-bizkit"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.8
+  confidence: 0.85
   method: "llm"
 ---

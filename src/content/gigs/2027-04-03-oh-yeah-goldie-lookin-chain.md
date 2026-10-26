@@ -8,6 +8,7 @@ start_time: "19:00"
 status: "on_sale"
 genres:
 - "Hip-Hop/Rap"
+- "Pop"
 tickets:
 - source: "Oh Yeah"
   url: "https://www.ohyeahbelfast.com/events/030427"
@@ -16,7 +17,7 @@ sources:
   key: "ohyeah:030427"
   url: "https://www.ohyeahbelfast.com/events/030427"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

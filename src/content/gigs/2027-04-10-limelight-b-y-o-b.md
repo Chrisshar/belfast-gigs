@@ -1,7 +1,7 @@
 ---
 id: "9e9ef09d-2282-4d1f-b136-9d0daa80faaa"
 title: "B.Y.O.B - Tribute to System of a Down"
-headliner: "B.Y.O.B"
+headliner: "B.Y.O.B - Tribute to System of a Down"
 support:
 - "UNTIL 9"
 venue: "limelight"
@@ -22,7 +22,7 @@ sources:
   key: "limelight:9280"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

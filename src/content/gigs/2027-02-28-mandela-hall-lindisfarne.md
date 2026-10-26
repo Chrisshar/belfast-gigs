@@ -9,17 +9,22 @@ price_min: 32.5
 status: "on_sale"
 age_restriction: "18+"
 genres:
-- "Folk/Trad"
 - "Rock"
+- "Folk/Trad"
 tickets:
 - source: "Glistrr"
   url: "https://www.glistrr.com/events/e/lindisfarne-32-370"
+- source: "Mandela Hall"
+  url: "https://www.mandelahall.com/events/lindisfarne"
 sources:
 - name: "mandela"
   key: "mandela:133304559"
   url: "https://www.glistrr.com/events/e/lindisfarne-32-370"
+- name: "mandelaweb"
+  key: "mandelaweb:lindisfarne"
+  url: "https://www.mandelahall.com/events/lindisfarne"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

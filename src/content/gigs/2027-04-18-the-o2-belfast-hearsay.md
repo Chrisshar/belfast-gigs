@@ -1,7 +1,7 @@
 ---
 id: "a768e39d-5e96-47fb-a62e-8ee7b7862e0b"
 title: "Hear'say + Liberty X"
-headliner: "Hear'say"
+headliner: "Hear'say + Liberty X"
 support:
 - "Liberty X"
 venue: "the-o2-belfast"
@@ -18,10 +18,10 @@ sources:
   key: "o2belfast:314526:2027-04-18"
   url: "https://theo2belfast.com/events/hearsay-liberty-x"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.93
+  confidence: 0.9
   method: "llm"
 ---

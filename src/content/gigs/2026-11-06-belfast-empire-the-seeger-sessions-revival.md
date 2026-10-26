@@ -10,6 +10,7 @@ status: "on_sale"
 genres:
 - "Folk/Trad"
 - "Country/Americana"
+- "Tribute/Covers"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.ie/e/the-seeger-sessions-revival-live-at-the-belfast-empire-tickets-1986435936359?aff=oddtdtcreator"
@@ -18,7 +19,7 @@ sources:
   key: "empire:the-seeger-sessions-revival-3"
   url: "https://www.thebelfastempire.com/music-hall/the-seeger-sessions-revival-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

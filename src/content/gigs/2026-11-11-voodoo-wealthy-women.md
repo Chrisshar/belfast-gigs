@@ -8,8 +8,8 @@ start_time: "20:00"
 price_min: 10
 status: "on_sale"
 genres:
-- "Indie/Alternative"
 - "Rock"
+- "Indie/Alternative"
 tickets:
 - source: "Skiddle"
   url: "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Wealthy-Women-w-OSG--El-Toro/42832052/"
@@ -18,11 +18,11 @@ sources:
   key: "voodoo:wealthy-women"
   url: "https://www.voodoobelfast.com/events/wealthy-women"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
+  confidence: 0.6
   method: "llm"
 needs_review: true
 ---

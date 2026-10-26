@@ -6,8 +6,8 @@ venue: "ulster-hall"
 date: "2026-10-28"
 status: "on_sale"
 genres:
-- "Punk/Hardcore"
 - "Rock"
+- "Punk/Hardcore"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/gurriers/"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:gurriers"
   url: "https://www.ulsterhall.co.uk/what-s-on/gurriers/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

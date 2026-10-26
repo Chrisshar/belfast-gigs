@@ -8,7 +8,6 @@ start_time: "20:00"
 status: "on_sale"
 genres:
 - "Rock"
-- "Indie/Alternative"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/lansdowne-tickets/artist/1502446"
@@ -17,7 +16,7 @@ sources:
   key: "voodoo:lansdowne"
   url: "https://www.voodoobelfast.com/events/lansdowne"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

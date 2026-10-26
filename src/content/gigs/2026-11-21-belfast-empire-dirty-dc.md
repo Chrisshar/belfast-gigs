@@ -9,7 +9,7 @@ price_min: 18
 status: "on_sale"
 genres:
 - "Rock"
-- "Tribute/Covers"
+- "Punk/Hardcore"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/dirty-dc-21-11-2026/event/38006495B9ED1892"
@@ -18,7 +18,7 @@ sources:
   key: "empire:dirty-dc-3"
   url: "https://www.thebelfastempire.com/music-hall/dirty-dc-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

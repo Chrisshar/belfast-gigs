@@ -18,10 +18,11 @@ sources:
   key: "empire:now-the-90s-3-3"
   url: "https://www.thebelfastempire.com/music-hall/now-the-90s-3-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
+  confidence: 0.5
   method: "llm"
+needs_review: true
 ---

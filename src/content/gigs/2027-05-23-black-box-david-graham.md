@@ -9,6 +9,7 @@ price_min: 25
 status: "on_sale"
 genres:
 - "Singer-Songwriter"
+- "Folk/Trad"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/david-graham-live/"
@@ -17,7 +18,7 @@ sources:
   key: "blackbox:david-graham-live"
   url: "https://www.blackboxbelfast.com/event/david-graham-live/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

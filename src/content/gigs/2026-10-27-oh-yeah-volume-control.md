@@ -1,7 +1,7 @@
 ---
 id: "c3114386-03ef-46da-b626-23ef946b1310"
 title: "Volume Control presents: HallowEMO"
-headliner: "Volume Control"
+headliner: "Volume Control presents: HallowEMO"
 venue: "oh-yeah"
 date: "2026-10-27"
 start_time: "19:30"
@@ -16,10 +16,11 @@ sources:
   key: "ohyeah:271026"
   url: "https://www.ohyeahbelfast.com/events/271026"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
+  confidence: 0.5
   method: "llm"
+needs_review: true
 ---

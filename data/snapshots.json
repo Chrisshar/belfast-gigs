@@ -42,7 +42,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Dom Martin",
+  "headliner": "Dom Martin - Spirit of Gallagher '72",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -139,8 +139,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Indie/Alternative",
-   "Rock"
+   "Indie/Alternative"
   ],
   "headliner": "Amble",
   "needs_review": null,
@@ -201,6 +200,40 @@
   ],
   "title": "High Kings",
   "venue": "waterfront-hall"
+ },
+ "0135bd1f-bfec-439c-adb8-869a77ed0b10": {
+  "age_restriction": null,
+  "date": "2026-11-15",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Dani Larkin",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 17.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:dani-larkin",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/dani-larkin"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/dani-larkin"
+   }
+  ],
+  "title": "Dani Larkin",
+  "venue": "crescent-arts-centre"
  },
  "01af12d8-c40e-4660-b6f7-46dafb7451b1": {
   "age_restriction": null,
@@ -278,9 +311,10 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Electronic"
+   "Electronic",
+   "Pop"
   ],
-  "headliner": "The Devout",
+  "headliner": "The Devout: Depeche Mode Tribute",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -383,7 +417,7 @@
    "Folk/Trad",
    "World"
   ],
-  "headliner": "With A Fada",
+  "headliner": "New Éire",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -398,7 +432,7 @@
   "start_time": "20:00",
   "status": "on_sale",
   "support": [
-   "New Éire"
+   "With A Fada"
   ],
   "tickets": [
    {
@@ -416,11 +450,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Punk/Hardcore",
-   "Rock"
+   "Rock",
+   "Punk/Hardcore"
   ],
-  "headliner": "While We're Still Young",
-  "needs_review": null,
+  "headliner": "While We'Re Still Young",
+  "needs_review": true,
   "price_max": null,
   "price_min": 20.0,
   "room": null,
@@ -451,7 +485,8 @@
   "free": null,
   "genres": [
    "Pop",
-   "Soul/R&B/Funk"
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
   ],
   "headliner": "The Style Councillors",
   "needs_review": null,
@@ -487,7 +522,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Marquee Square Heroes",
+  "headliner": "Marquee Square Heroes: A Tribute To The Music of Fish-era Marillion",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -511,6 +546,71 @@
   "title": "Marquee Square Heroes: A Tribute To The Music of Fish-era Marillion",
   "venue": "oh-yeah"
  },
+ "05f0aa55-73bb-4cd4-bae1-681c9db2f728": {
+  "age_restriction": null,
+  "date": "2026-11-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Bicurious",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_h7VOjNSq87HZwI1kxWYDX",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Ulster-Sports-Club/Bicurious/42569289/"
+   }
+  ],
+  "title": "Bicurious",
+  "venue": "ulster-sports-club"
+ },
+ "065823c3-c096-4f66-b12b-bc33062581da": {
+  "age_restriction": null,
+  "date": "2027-03-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Stuart Mitchell & Friends",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:stuart-mitchell-%26-friends",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/stuart-mitchell-%26-friends"
+   }
+  ],
+  "start_time": "17:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/stuart-mitchell-%26-friends"
+   }
+  ],
+  "title": "Stuart Mitchell & Friends",
+  "venue": "mandela-hall"
+ },
  "0684da6e-2f6e-4dd0-bbac-596d75ddec15": {
   "age_restriction": "18+",
   "date": "2026-11-30",
@@ -518,8 +618,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
-   "Rock"
+   "Metal"
   ],
   "headliner": "Evergrey",
   "needs_review": null,
@@ -555,7 +654,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "Singer-Songwriter"
   ],
   "headliner": "Ed Cosens",
   "needs_review": null,
@@ -588,8 +688,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
-   "Punk/Hardcore"
+   "Metal"
   ],
   "headliner": "Xentrix",
   "needs_review": null,
@@ -617,6 +716,40 @@
   ],
   "title": "Xentrix: Cross-Atlantic Carnage",
   "venue": "limelight"
+ },
+ "06e578e7-b5a1-4a71-90d6-5b792ebee786": {
+  "age_restriction": null,
+  "date": "2027-02-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Jacek Stachursky",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 45.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:jacek-stachursky",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/jacek-stachursky"
+   }
+  ],
+  "start_time": "18:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/jacek-stachursky"
+   }
+  ],
+  "title": "Jacek Stachursky",
+  "venue": "mandela-hall"
  },
  "074d3ac3-fbaf-4dd5-8bef-246cd37ff5de": {
   "age_restriction": null,
@@ -659,7 +792,7 @@
   "free": null,
   "genres": [
    "Pop",
-   "Singer-Songwriter"
+   "Contemporary/New Music"
   ],
   "headliner": "Katherine Jenkins",
   "needs_review": null,
@@ -692,10 +825,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Indie/Alternative",
-   "Rock"
+   "Indie/Alternative"
   ],
-  "headliner": "Catflap",
+  "headliner": "Outburst Arts Festival 2027: Catflap #6 LIVE",
   "needs_review": true,
   "price_max": 10.0,
   "price_min": 7.0,
@@ -719,6 +851,40 @@
   "title": "Outburst Arts Festival 2027: Catflap #6 LIVE",
   "venue": "black-box"
  },
+ "08632647-4c36-4cd9-b52c-e8ed53031f55": {
+  "age_restriction": null,
+  "date": "2026-12-03",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "London Symphonic Rock Orchestra",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:london-symphonic-rock-orchestr",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/london-symphonic-rock-orchestr/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/london-symphonic-rock-orchestr/"
+   }
+  ],
+  "title": "London Symphonic Rock Orchestra",
+  "venue": "ulster-hall"
+ },
  "0878d20b-9b33-4831-a4a5-a22e4b32cc9a": {
   "age_restriction": null,
   "date": "2026-11-14",
@@ -726,7 +892,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
+   "Pop",
    "Indie/Alternative"
   ],
   "headliner": "DAY FEVER",
@@ -830,7 +996,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Singer-Songwriter"
+   "Indie/Alternative"
   ],
   "headliner": "John Garrity Band",
   "needs_review": null,
@@ -931,8 +1097,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Folk/Trad",
+   "Rock"
   ],
   "headliner": "Basht",
   "needs_review": null,
@@ -952,6 +1118,40 @@
   "tickets": null,
   "title": "Basht",
   "venue": "belfast-empire"
+ },
+ "0b5b2709-efed-45f7-a624-5ea5e5b545ff": {
+  "age_restriction": null,
+  "date": "2026-12-03",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Conleth McGeary",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:conleth-mcgeary",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/conleth-mcgeary"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/conleth-mcgeary"
+   }
+  ],
+  "title": "Conleth McGeary",
+  "venue": "mandela-hall"
  },
  "0bae8aca-32d0-41d0-a0ed-58c202eb641c": {
   "age_restriction": "18+",
@@ -1030,7 +1230,6 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
    "Indie/Alternative"
   ],
   "headliner": "Pearl Scam",
@@ -1057,6 +1256,39 @@
   "title": "Pearl Scam",
   "venue": "limelight"
  },
+ "0dd61aff-f8b5-43fe-9642-8982fd7eaaae": {
+  "age_restriction": null,
+  "date": "2027-02-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chris Kent",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:chris-kent-mandela-hall",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/chris-kent-mandela-hall"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/chris-kent-mandela-hall"
+   }
+  ],
+  "title": "Chris Kent",
+  "venue": "mandela-hall"
+ },
  "0e540574-dfec-4447-b0ff-15cff9f8949d": {
   "age_restriction": null,
   "date": "2027-01-27",
@@ -1065,7 +1297,7 @@
   "free": null,
   "genres": [
    "Punk/Hardcore",
-   "Metal"
+   "Rock"
   ],
   "headliner": "Contention",
   "needs_review": null,
@@ -1101,7 +1333,7 @@
    "Rock",
    "Indie/Alternative"
   ],
-  "headliner": "Cardinals",
+  "headliner": "Winter in the Sun: Cardinals",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1137,10 +1369,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
+   "Soul/R&B/Funk",
+   "Indie/Alternative"
   ],
-  "headliner": "The Bones of J.R. Jones",
+  "headliner": "THE BONES OF J.R. JONES",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -1233,7 +1465,6 @@
   "free": null,
   "genres": [
    "Singer-Songwriter",
-   "Pop",
    "Folk/Trad"
   ],
   "headliner": "Phil Coulter",
@@ -1407,10 +1638,11 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Jazz/Blues",
    "Pop",
    "Tribute/Covers"
   ],
-  "headliner": "A Timeless Christmas",
+  "headliner": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1505,6 +1737,40 @@
   "title": "Basement",
   "venue": "limelight"
  },
+ "13c9792e-5e29-41b0-b188-24132e9864d4": {
+  "age_restriction": null,
+  "date": "2027-06-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Oasis Supernova",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:oasis-supernova",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/oasis-supernova"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/oasis-supernova"
+   }
+  ],
+  "title": "Oasis Supernova",
+  "venue": "mandela-hall"
+ },
  "14aa58ba-86db-4c93-8073-a94c156c9d30": {
   "age_restriction": null,
   "date": "2026-11-27",
@@ -1512,8 +1778,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Electronic",
-   "Hip-Hop/Rap"
+   "Folk/Trad",
+   "Singer-Songwriter"
   ],
   "headliner": "Ria Rua",
   "needs_review": null,
@@ -1539,6 +1805,40 @@
   "title": "Ria Rua: S C A P E G.O.A.T. Tour",
   "venue": "oh-yeah"
  },
+ "153fc5d6-6ed7-4bf0-9444-4d02afbb6756": {
+  "age_restriction": null,
+  "date": "2027-04-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Motorwrecked",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:motorwrecked",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/motorwrecked"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/motorwrecked-the-uks-most-authentic-sounding-tribute-to-motorhead-tickets-1998532634910?aff=ebdssbdestsearch"
+   }
+  ],
+  "title": "Motorwrecked",
+  "venue": "voodoo"
+ },
  "1568de52-1787-46c5-a36c-03560d040fc7": {
   "age_restriction": null,
   "date": "2026-11-06",
@@ -1547,7 +1847,8 @@
   "free": null,
   "genres": [
    "Folk/Trad",
-   "Country/Americana"
+   "Country/Americana",
+   "Tribute/Covers"
   ],
   "headliner": "The Seeger Sessions Revival",
   "needs_review": null,
@@ -1580,8 +1881,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
+   "Contemporary/New Music",
+   "Folk/Trad"
   ],
   "headliner": "Maccana",
   "needs_review": null,
@@ -1614,8 +1915,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Contemporary/New Music"
+   "Contemporary/New Music",
+   "Pop"
   ],
   "headliner": "Christmas by Candlelight",
   "needs_review": null,
@@ -1641,6 +1942,38 @@
   "title": "Christmas by Candlelight",
   "venue": "ulster-hall"
  },
+ "16c20672-a6fa-4a0c-ab99-a893b6141c2c": {
+  "age_restriction": null,
+  "date": "2026-11-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Milo Korbenski",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_7Wgo6hByB89T2XPkPeRxT",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/milo-korbenski-30-11-2026/event/380064E6AD490D8D"
+   }
+  ],
+  "title": "Milo Korbenski",
+  "venue": "ulster-sports-club"
+ },
  "16c92cd7-022c-4b4a-b102-1b1a97a76603": {
   "age_restriction": null,
   "date": "2027-01-22",
@@ -1649,7 +1982,6 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Pop",
    "Rock"
   ],
   "headliner": "Legends of the 60's Show",
@@ -1718,8 +2050,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Indie/Alternative",
-   "Rock"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "Wealthy Women",
   "needs_review": true,
@@ -1823,8 +2155,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Folk/Trad"
+   "Folk/Trad",
+   "Tribute/Covers"
   ],
   "headliner": "For the Love of Shane MacGowan",
   "needs_review": null,
@@ -1988,39 +2320,6 @@
   "title": "Skindred",
   "venue": "telegraph-building"
  },
- "1c5239f6-f629-4560-9d44-818e46021a94": {
-  "age_restriction": null,
-  "date": "2027-05-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Contemporary/New Music"
-  ],
-  "headliner": "Warrington-Runcorn New Town Development Plan",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:140527",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/140527"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/140527"
-   }
-  ],
-  "title": "Warrington-Runcorn New Town Development Plan",
-  "venue": "oh-yeah"
- },
  "1d1a409d-fffb-4bec-80d9-470b19349efb": {
   "age_restriction": "18+",
   "date": "2026-11-18",
@@ -2028,10 +2327,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Tribute/Covers"
+   "Pop"
   ],
-  "headliner": "The Wanted",
+  "headliner": "The Wanted 2.0",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2063,7 +2361,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Pop"
   ],
   "headliner": "Texas",
   "needs_review": null,
@@ -2162,7 +2460,7 @@
   "free": null,
   "genres": [
    "Electronic",
-   "Metal"
+   "Indie/Alternative"
   ],
   "headliner": "Okus",
   "needs_review": null,
@@ -2202,7 +2500,7 @@
    "Folk/Trad",
    "Pop"
   ],
-  "headliner": "Quire",
+  "headliner": "Quire’s Big HoHoHo (Evening Show)",
   "needs_review": null,
   "price_max": null,
   "price_min": 15.0,
@@ -2233,8 +2531,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
   "headliner": "The Script",
   "needs_review": null,
@@ -2269,7 +2567,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter"
+   "Folk/Trad",
+   "World"
   ],
   "headliner": "Malojian",
   "needs_review": null,
@@ -2294,6 +2593,38 @@
   ],
   "title": "Malojian",
   "venue": "the-harrison"
+ },
+ "229dd130-1a48-4882-bc63-810fa11b4712": {
+  "age_restriction": null,
+  "date": "2026-12-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Simple Things",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_iaEsVVvMi8ioMjUGqiqsD",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/simple-things-belfast-08-12-2026/event/380064EF77440986"
+   }
+  ],
+  "title": "Simple Things",
+  "venue": "ulster-sports-club"
  },
  "22a04532-4914-42de-b8f8-6bd48d68ed26": {
   "age_restriction": null,
@@ -2332,6 +2663,40 @@
   "title": "The Summer Series 2027 - Slash",
   "venue": "custom-house-square"
  },
+ "22e792e6-988e-4909-a3e9-1bca7917303a": {
+  "age_restriction": null,
+  "date": "2027-06-04",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Folk/Trad"
+  ],
+  "headliner": "The Mumford and Sons Story - Awake My Soul",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 24.98,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:the-mumford-and-sons-story---awake-my-soul",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/the-mumford-and-sons-story---awake-my-soul"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/the-mumford-and-sons-story---awake-my-soul"
+   }
+  ],
+  "title": "The Mumford and Sons Story - Awake My Soul",
+  "venue": "mandela-hall"
+ },
  "2312f701-2ef4-4b4b-ac21-5cef8c250276": {
   "age_restriction": null,
   "date": "2026-12-18",
@@ -2339,7 +2704,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
+   "Contemporary/New Music",
    "World"
   ],
   "headliner": "Ireland in Christmas Praise",
@@ -2365,6 +2730,40 @@
   ],
   "title": "Ireland in Christmas Praise",
   "venue": "waterfront-hall"
+ },
+ "249926e9-04cf-47b2-9de5-b8b2e264ad52": {
+  "age_restriction": null,
+  "date": "2026-11-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Battle of the Bands",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:battle-of-the-bands",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/battle-of-the-bands"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/battle-of-the-bands"
+   }
+  ],
+  "title": "Battle of the Bands",
+  "venue": "mandela-hall"
  },
  "24a2fbe3-26f3-47e5-810c-58125b2258ee": {
   "age_restriction": "18+",
@@ -2409,7 +2808,7 @@
   "genres": [
    "Electronic"
   ],
-  "headliner": "Bat's Womb",
+  "headliner": "Bat’s Womb – The Lost Boys Themed Halloween Party",
   "needs_review": true,
   "price_max": null,
   "price_min": 10.0,
@@ -2433,6 +2832,41 @@
   "title": "Bat’s Womb – The Lost Boys Themed Halloween Party",
   "venue": "deers-head"
  },
+ "26600d82-8bfa-450a-9d34-b997e19d1ead": {
+  "age_restriction": null,
+  "date": "2027-01-23",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Linkin Cork!",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:linkin-cork!",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/linkin-cork!"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/linkin-cork-irelands-tribute-to-linkin-park-tickets-1998445289658?aff=ebdssbdestsearch"
+   }
+  ],
+  "title": "Linkin Cork!",
+  "venue": "voodoo"
+ },
  "26fbc1f9-84a8-43fe-8336-3b14a39290ac": {
   "age_restriction": null,
   "date": "2026-10-26",
@@ -2440,7 +2874,6 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
    "Singer-Songwriter"
   ],
   "headliner": "Roll It Studios Open Mic",
@@ -2545,7 +2978,7 @@
    "Jazz/Blues",
    "Pop"
   ],
-  "headliner": "Swing Gals",
+  "headliner": "Swing Gals at Christmas",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -2576,7 +3009,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
+   "Rock",
    "Indie/Alternative"
   ],
   "headliner": "Stray Gaiters",
@@ -2646,8 +3079,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
-   "Contemporary/New Music"
+   "Contemporary/New Music",
+   "Folk/Trad"
   ],
   "headliner": "Alison Cotton",
   "needs_review": null,
@@ -2680,11 +3113,11 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Punk/Hardcore",
    "Tribute/Covers",
-   "Rock",
-   "Punk/Hardcore"
+   "Rock"
   ],
-  "headliner": "Paramór",
+  "headliner": "Riot! Presents: National Emo Day 2026 with Paramór, Ireland's top Paramore tribute",
   "needs_review": null,
   "price_max": null,
   "price_min": 15.0,
@@ -2708,6 +3141,72 @@
   "title": "Riot! Presents: National Emo Day 2026 with Paramór, Ireland's top Paramore tribute",
   "venue": "mandela-hall"
  },
+ "2e50fafc-96a5-4f88-843e-60ed14145d43": {
+  "age_restriction": null,
+  "date": "2026-11-07",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Saturday Afternoon Trad Session",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:trad-session-nov-26",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/trad-session/trad-session-nov-26"
+   }
+  ],
+  "start_time": "13:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/trad-session/trad-session-nov-26"
+   }
+  ],
+  "title": "Saturday Afternoon Trad Session",
+  "venue": "crescent-arts-centre"
+ },
+ "2eb0fa38-656c-4beb-9a4e-ba73aa58fbb4": {
+  "age_restriction": null,
+  "date": "2026-11-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Radio Free Alice",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_NshXFmnncrRQdFf86yxDZ",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/radio-free-alice-belfast-22-11-2026/event/3800650E99641A5A"
+   }
+  ],
+  "title": "Radio Free Alice",
+  "venue": "ulster-sports-club"
+ },
  "2f2766d4-1b46-4767-a5a6-1ccbd2023dcd": {
   "age_restriction": null,
   "date": "2027-03-03",
@@ -2715,8 +3214,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Soul/R&B/Funk",
-   "Pop"
+   "Pop",
+   "Soul/R&B/Funk"
   ],
   "headliner": "Lighthouse Family",
   "needs_review": null,
@@ -2747,13 +3246,13 @@
   "date": "2026-11-20",
   "doors_time": "19:00",
   "end_date": null,
-  "free": false,
+  "free": null,
   "genres": [
    "Tribute/Covers",
    "Rock"
   ],
   "headliner": "Wrong Jovi",
-  "needs_review": false,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 2",
@@ -2766,9 +3265,7 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": [
-   "Someone"
-  ],
+  "support": null,
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -2777,6 +3274,40 @@
   ],
   "title": "Wrong Jovi",
   "venue": "limelight"
+ },
+ "318d6d34-5bbd-4488-b4bb-c6cfc1a1d72b": {
+  "age_restriction": null,
+  "date": "2026-11-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Contemporary/New Music"
+  ],
+  "headliner": "corto.alto",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 22.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:corto.alto",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/corto.alto"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/corto.alto"
+   }
+  ],
+  "title": "corto.alto",
+  "venue": "mandela-hall"
  },
  "32552475-bb77-47c0-abff-5760799bfff5": {
   "age_restriction": null,
@@ -2788,7 +3319,7 @@
    "Folk/Trad",
    "Country/Americana"
   ],
-  "headliner": "Tommy Emmanuel",
+  "headliner": "Tommy Emmanuel, CGP",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -2852,8 +3383,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Folk/Trad"
+   "Pop"
   ],
   "headliner": "A Night of Christmas Music and Song",
   "needs_review": null,
@@ -3062,9 +3592,9 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Singer-Songwriter"
   ],
-  "headliner": "Franks Wild Years",
+  "headliner": "Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3122,6 +3652,40 @@
   "title": "Car Bomb",
   "venue": "voodoo"
  },
+ "3ad4bf82-8cdc-4623-a605-ab6c75472c62": {
+  "age_restriction": null,
+  "date": "2026-11-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Jury Experience - The Killer AI",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 28.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:the-jury-experience---the-killer-ai-2",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2"
+   }
+  ],
+  "start_time": "16:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2"
+   }
+  ],
+  "title": "The Jury Experience - The Killer AI",
+  "venue": "mandela-hall"
+ },
  "3b3fc842-1e69-4fcc-a485-296c38a64143": {
   "age_restriction": null,
   "date": "2026-11-14",
@@ -3163,8 +3727,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Punk/Hardcore"
+   "Electronic"
   ],
   "headliner": "Bleech 9:3",
   "needs_review": null,
@@ -3197,8 +3760,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
-   "Indie/Alternative"
+   "Metal"
   ],
   "headliner": "Harakiri for the Sky",
   "needs_review": null,
@@ -3225,6 +3787,40 @@
   ],
   "title": "Harakiri for the Sky",
   "venue": "limelight"
+ },
+ "3c2fed1c-ffbe-44be-8b61-d24f42bd99fa": {
+  "age_restriction": null,
+  "date": "2026-11-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Magic Queen",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 28.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:magic-queen",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/magic-queen"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/magic-queen"
+   }
+  ],
+  "title": "Magic Queen",
+  "venue": "mandela-hall"
  },
  "3c9957d0-7dfe-4f65-a36c-7413dcdf596e": {
   "age_restriction": null,
@@ -3304,7 +3900,7 @@
    "Metal",
    "Rock"
   ],
-  "headliner": "Saxon",
+  "headliner": "SAXON",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3328,39 +3924,6 @@
   "title": "SAXON",
   "venue": "telegraph-building"
  },
- "3d57be6f-cba6-484e-808e-6c0969e1d357": {
-  "age_restriction": null,
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic"
-  ],
-  "headliner": "The Voodoo Sessions 026",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 5.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:back-to-event-the-voodoo-sessions-026",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/back-to-event-the-voodoo-sessions-026"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/the-voodoo-sessions-026-tickets-1999703540119?aff=oddtdtcreator"
-   }
-  ],
-  "title": "The Voodoo Sessions 026",
-  "venue": "voodoo"
- },
  "3d90ca80-a167-459e-be87-807454af1191": {
   "age_restriction": null,
   "date": "2027-03-20",
@@ -3369,7 +3932,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Soul/R&B/Funk"
+   "Pop"
   ],
   "headliner": "The Vintage Explosion",
   "needs_review": null,
@@ -3403,9 +3966,10 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Metal"
+   "Metal",
+   "Rock"
   ],
-  "headliner": "Seventh Son",
+  "headliner": "SEVENTH SON (IRON MAIDEN TRIBUTE)",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -3420,7 +3984,7 @@
   "start_time": "19:00",
   "status": "on_sale",
   "support": [
-   "Sound of Sabbath"
+   "SOUND OF SABBATH"
   ],
   "tickets": [
    {
@@ -3608,8 +4172,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter",
-   "Pop"
+   "Rock",
+   "Singer-Songwriter"
   ],
   "headliner": "Chris de Burgh",
   "needs_review": null,
@@ -3713,7 +4277,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Pop"
   ],
   "headliner": "Aslan",
   "needs_review": null,
@@ -3751,7 +4315,7 @@
    "Folk/Trad",
    "Rock"
   ],
-  "headliner": "Skerryvore",
+  "headliner": "SKERRYVORE",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3782,8 +4346,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Country/Americana",
-   "Tribute/Covers"
+   "Country/Americana"
   ],
   "headliner": "Nashville Live",
   "needs_review": null,
@@ -3808,6 +4371,38 @@
   ],
   "title": "Nashville Live",
   "venue": "ulster-hall"
+ },
+ "4310cbb5-2c51-4aeb-af40-f826b29efe8f": {
+  "age_restriction": null,
+  "date": "2026-11-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "No Cigar",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_McIc17HValIzBow3LV506",
+    "name": "usc"
+   }
+  ],
+  "start_time": "18:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/no-cigar-tickets-1984130323208"
+   }
+  ],
+  "title": "No Cigar",
+  "venue": "ulster-sports-club"
  },
  "433ac375-7913-4a9f-95b4-8f8a4b76bd31": {
   "age_restriction": null,
@@ -3877,6 +4472,40 @@
   "title": "Beoga - With Friends",
   "venue": "belfast-empire"
  },
+ "43ac109e-f32c-4737-869c-9e37ca92df05": {
+  "age_restriction": null,
+  "date": "2027-03-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Lynne Hanson",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:lynne-hanson",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/lynne-hanson"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/lynne-hanson"
+   }
+  ],
+  "title": "Lynne Hanson",
+  "venue": "crescent-arts-centre"
+ },
  "43b64a0d-cf2c-4598-8ab3-0fae4e90f71f": {
   "age_restriction": "18+",
   "date": "2027-01-23",
@@ -3911,6 +4540,39 @@
   "title": "Anthony Gomes",
   "venue": "limelight"
  },
+ "43d369c6-4746-41c1-9edb-eb647092713a": {
+  "age_restriction": null,
+  "date": "2026-11-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The Whileaways",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:the-whileaways",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/the-whileaways"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/the-whileaways"
+   }
+  ],
+  "title": "The Whileaways",
+  "venue": "crescent-arts-centre"
+ },
  "45e317fd-aeb9-4baf-89ba-7c968aabe97a": {
   "age_restriction": "18+",
   "date": "2026-12-08",
@@ -3921,7 +4583,7 @@
    "Metal",
    "Rock"
   ],
-  "headliner": "Sevendust",
+  "headliner": "SEVENDUST",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -3954,8 +4616,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Soul/R&B/Funk",
-   "Pop"
+   "Pop",
+   "Soul/R&B/Funk"
   ],
   "headliner": "Dexy's Midnight Runners",
   "needs_review": null,
@@ -3999,10 +4661,11 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Tribute/Covers",
    "Rock"
   ],
   "headliner": "Stop Making Sense Live",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -4032,9 +4695,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "Singer-Songwriter"
   ],
-  "headliner": "The Ties That Bind",
+  "headliner": "The Ties That Bind - Sing for your Supper",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -4065,8 +4729,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
   "headliner": "Picture This",
   "needs_review": null,
@@ -4099,8 +4763,7 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
+   "Singer-Songwriter"
   ],
   "headliner": "Black Box Open Mic",
   "needs_review": null,
@@ -4136,7 +4799,7 @@
    "Metal",
    "Rock"
   ],
-  "headliner": "Anvil",
+  "headliner": "ANVIL",
   "needs_review": null,
   "price_max": null,
   "price_min": 22.5,
@@ -4151,7 +4814,7 @@
   "start_time": "19:00",
   "status": "on_sale",
   "support": [
-   "Killer"
+   "KILLER"
   ],
   "tickets": [
    {
@@ -4170,7 +4833,7 @@
   "free": null,
   "genres": [
    "Soul/R&B/Funk",
-   "Electronic"
+   "Pop"
   ],
   "headliner": "Huey Morgan",
   "needs_review": null,
@@ -4237,8 +4900,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
-   "Rock"
+   "Metal"
   ],
   "headliner": "Black Waters Redemption",
   "needs_review": true,
@@ -4264,6 +4926,40 @@
   "title": "Black Waters Redemption",
   "venue": "voodoo"
  },
+ "49ba5d1f-edae-4150-9af9-d4785964ff80": {
+  "age_restriction": null,
+  "date": "2027-04-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Beyond the Music: U2 REIMAGINED",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 36.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:beyond-the-music%3A-u2-reimagined",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/beyond-the-music%3A-u2-reimagined"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/beyond-the-music%3A-u2-reimagined"
+   }
+  ],
+  "title": "Beyond the Music: U2 REIMAGINED",
+  "venue": "mandela-hall"
+ },
  "49d7b487-162f-4b4c-b994-06b1822b2363": {
   "age_restriction": "18+",
   "date": "2026-11-28",
@@ -4272,9 +4968,10 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
-  "headliner": "The Rock Anthems Show",
+  "headliner": "The Rock Anthems Show - Nothing But a Good Time",
   "needs_review": null,
   "price_max": null,
   "price_min": 25.0,
@@ -4284,6 +4981,11 @@
     "key": "mandela:105596402",
     "name": "mandela",
     "url": "https://www.glistrr.com/events/e/the-rock-anthems-show-nothing-but-a-good-time-32-337"
+   },
+   {
+    "key": "mandelaweb:nothing-but-a-good-time",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/nothing-but-a-good-time"
    }
   ],
   "start_time": "19:00",
@@ -4293,6 +4995,10 @@
    {
     "source": "Glistrr",
     "url": "https://www.glistrr.com/events/e/the-rock-anthems-show-nothing-but-a-good-time-32-337"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/nothing-but-a-good-time"
    }
   ],
   "title": "The Rock Anthems Show - Nothing But a Good Time",
@@ -4306,9 +5012,9 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Singer-Songwriter"
   ],
-  "headliner": "Franks Wild Years",
+  "headliner": "Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -4397,6 +5103,107 @@
   "title": "Niall Horan: Dinner Party Live on Tour",
   "venue": "the-o2-belfast"
  },
+ "4aba0186-ffe4-4a44-a5c1-ebb625ef517c": {
+  "age_restriction": null,
+  "date": "2026-11-12",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Martyn Joseph",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 23.72,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:martyn-joseph",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martyn-joseph"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martyn-joseph"
+   }
+  ],
+  "title": "Martyn Joseph",
+  "venue": "crescent-arts-centre"
+ },
+ "4b44778f-da4a-4afc-8e8c-2d78db3b73ae": {
+  "age_restriction": null,
+  "date": "2026-11-14",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative"
+  ],
+  "headliner": "Tom Gee",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:tom-gee-ep-launch-party",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/tom-gee-ep-launch-party"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/tom-gee-ep-launch-party"
+   }
+  ],
+  "title": "Tom Gee: EP Launch Party",
+  "venue": "crescent-arts-centre"
+ },
+ "4b5ca1ce-fc01-44c0-ad08-4aa0e3864c37": {
+  "age_restriction": null,
+  "date": "2027-02-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chris Kent",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:chris-kent",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/chris-kent"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/chris-kent"
+   }
+  ],
+  "title": "Chris Kent",
+  "venue": "mandela-hall"
+ },
  "4b7f9a0b-da7e-4430-a1fc-a557343294c4": {
   "age_restriction": "18+",
   "date": "2026-12-18",
@@ -4475,7 +5282,7 @@
    "Singer-Songwriter",
    "Country/Americana"
   ],
-  "headliner": "Dylan LeBlanc",
+  "headliner": "Dylan Leblanc",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -4572,8 +5379,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Singer-Songwriter",
-   "Indie/Alternative"
+   "Singer-Songwriter"
   ],
   "headliner": "Chuck Prophet",
   "needs_review": null,
@@ -4599,6 +5405,38 @@
   "title": "Chuck Prophet",
   "venue": "black-box"
  },
+ "4ca06fc0-f175-459b-a675-80b63e5a9f4d": {
+  "age_restriction": null,
+  "date": "2027-03-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore"
+  ],
+  "headliner": "Discharge",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_NuU5cMjrWZH2N8qKW6HCF",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/discharge-at-ulster-sports-club-belfast-5327-tickets-1994994081000"
+   }
+  ],
+  "title": "Discharge",
+  "venue": "ulster-sports-club"
+ },
  "4cc17cb3-1217-4ba7-ab66-0da50d72c85b": {
   "age_restriction": "18+",
   "date": "2026-11-29",
@@ -4607,7 +5445,7 @@
   "free": null,
   "genres": [
    "Singer-Songwriter",
-   "Rock"
+   "Pop"
   ],
   "headliner": "Aaron Rowe",
   "needs_review": null,
@@ -4645,7 +5483,7 @@
    "Folk/Trad",
    "World"
   ],
-  "headliner": "Beoga",
+  "headliner": "BEOGA",
   "needs_review": null,
   "price_max": null,
   "price_min": 33.0,
@@ -4671,8 +5509,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Pop"
+   "Rock"
   ],
   "headliner": "The 9075",
   "needs_review": null,
@@ -4698,6 +5535,40 @@
   "title": "The 9075",
   "venue": "limelight"
  },
+ "4efce058-5055-4264-b81d-fd78367c65d4": {
+  "age_restriction": null,
+  "date": "2026-12-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Country/Americana"
+  ],
+  "headliner": "All the Best: A John Prine Christmas",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:all-the-best-a-john-prine-christmas",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/all-the-best-a-john-prine-christmas"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/all-the-best-a-john-prine-christmas"
+   }
+  ],
+  "title": "All the Best: A John Prine Christmas",
+  "venue": "crescent-arts-centre"
+ },
  "4fd63b4f-89eb-46c5-89d3-4accd230eac3": {
   "age_restriction": null,
   "date": "2026-11-29",
@@ -4708,7 +5579,7 @@
    "Pop"
   ],
   "headliner": "Cancer Fund For Children",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -4800,6 +5671,40 @@
   "title": "Transvision Vamp",
   "venue": "limelight"
  },
+ "527ae839-907f-48e7-8832-a5fa59d9f441": {
+  "age_restriction": null,
+  "date": "2026-11-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Gearóid Farrelly",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.75,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:gear%C3%B3id-farrelly",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/gear%C3%B3id-farrelly"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/gear%C3%B3id-farrelly"
+   }
+  ],
+  "title": "Gearóid Farrelly",
+  "venue": "mandela-hall"
+ },
  "52e3f27b-9729-4df4-9ae6-8b5413c7f7e6": {
   "age_restriction": null,
   "date": "2026-12-11",
@@ -4807,10 +5712,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
-  "headliner": "Station To Station Turns 50",
+  "headliner": "Playback Presents: 'Station To Station' Turns 50",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -4844,7 +5749,7 @@
    "Tribute/Covers",
    "Pop"
   ],
-  "headliner": "Bjorn Identity",
+  "headliner": "Bjorn Identity - Abba Christmas",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -4947,7 +5852,8 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Pop"
+   "Pop",
+   "Rock"
   ],
   "headliner": "Björn Again",
   "needs_review": null,
@@ -5041,6 +5947,40 @@
   "title": "Tyketto",
   "venue": "belfast-empire"
  },
+ "5756ecb2-e179-4cb5-8e22-a4f1a845b12e": {
+  "age_restriction": null,
+  "date": "2027-02-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Heaven Can Wait",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 29.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:heaven-can-wait-meat-loaf-tribute-belfast",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/heaven-can-wait-meat-loaf-tribute-belfast"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/heaven-can-wait-meat-loaf-tribute-belfast"
+   }
+  ],
+  "title": "Heaven Can Wait",
+  "venue": "mandela-hall"
+ },
  "5846f165-84d4-41f3-8dfb-92947068a632": {
   "age_restriction": null,
   "date": "2026-12-16",
@@ -5048,7 +5988,8 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Singer-Songwriter"
+   "Singer-Songwriter",
+   "Folk/Trad"
   ],
   "headliner": "Black Box Open Mic",
   "needs_review": null,
@@ -5081,7 +6022,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Electronic"
+   "Indie/Alternative"
   ],
   "headliner": "Gustaffson",
   "needs_review": null,
@@ -5106,6 +6047,39 @@
   ],
   "title": "Gustaffson",
   "venue": "oh-yeah"
+ },
+ "59a5d799-c1fd-45c4-be3e-02c5b1b559de": {
+  "age_restriction": null,
+  "date": "2027-01-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Nic Cage Against The Machine",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_kQHkfMqsmET225p1QCvgq",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/nic-cage-against-the-machine-at-ulster-sports-club-belfast-8127-tickets-1998887791192"
+   }
+  ],
+  "title": "Nic Cage Against The Machine",
+  "venue": "ulster-sports-club"
  },
  "59c99168-4149-4adb-ba46-f2dbfa23af98": {
   "age_restriction": "18+",
@@ -5151,7 +6125,7 @@
    "Jazz/Blues",
    "Rock"
   ],
-  "headliner": "The Davy K Project",
+  "headliner": "Guinness Blues Cafe – The Davy K Project",
   "needs_review": null,
   "price_max": null,
   "price_min": 13.0,
@@ -5208,6 +6182,40 @@
   ],
   "title": "Take It To The Limit",
   "venue": "waterfront-hall"
+ },
+ "5b131399-7bfb-4864-979f-ad04cd67109f": {
+  "age_restriction": null,
+  "date": "2026-10-31",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Meltdown'S Halloween Headbangerz Ball",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 8.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:meltdowns-halloween-headbangerz-ball",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball"
+   }
+  ],
+  "start_time": "21:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball"
+   }
+  ],
+  "title": "Meltdown'S Halloween Headbangerz Ball",
+  "venue": "mandela-hall"
  },
  "5cdf7b8d-5f12-4cad-93ad-ee188909c3bc": {
   "age_restriction": "18+",
@@ -5284,7 +6292,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter"
+   "Singer-Songwriter",
+   "Folk/Trad"
   ],
   "headliner": "Kirsteen Harvey",
   "needs_review": null,
@@ -5317,7 +6326,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter"
+   "Singer-Songwriter",
+   "Folk/Trad"
   ],
   "headliner": "Jobi Riccio",
   "needs_review": null,
@@ -5487,10 +6497,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
-   "Rock"
+   "Metal"
   ],
-  "headliner": "Avatar",
+  "headliner": "AVATAR",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -5549,6 +6558,40 @@
   "title": "Late Night Thoughts",
   "venue": "limelight"
  },
+ "639a0ee9-812d-4cb2-98e8-4e7c831847cb": {
+  "age_restriction": null,
+  "date": "2027-05-15",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "Stripknot",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:stripknot",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/stripknot"
+   }
+  ],
+  "start_time": "22:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/stripknot-myiasis-burlesque-show-tickets-1998919697625?aff=ebdssbdestsearch"
+   }
+  ],
+  "title": "Stripknot",
+  "venue": "voodoo"
+ },
  "6436ce3f-cf9b-46fd-a41a-e68d7b01075a": {
   "age_restriction": "18+",
   "date": "2026-12-02",
@@ -5584,6 +6627,39 @@
   "title": "Enter Shikari",
   "venue": "telegraph-building"
  },
+ "654b3d81-b074-4e8b-886b-aff57fe1fef2": {
+  "age_restriction": null,
+  "date": "2026-10-31",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Fuego Fatale – Women of Horror",
+  "needs_review": true,
+  "price_max": 32.0,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "blackbox:fuego-fatale-women-of-horror-2",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/fuego-fatale-women-of-horror-2/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/fuego-fatale-women-of-horror-2/"
+   }
+  ],
+  "title": "Fuego Fatale – Women of Horror",
+  "venue": "black-box"
+ },
  "65aa34aa-28e5-4a27-8602-8960a6990f8d": {
   "age_restriction": null,
   "date": "2026-11-28",
@@ -5591,7 +6667,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
+   "Jazz/Blues",
    "Rock"
   ],
   "headliner": "Black Rose",
@@ -5618,6 +6694,40 @@
   "title": "Guinness Blues Cafe – Black Rose",
   "venue": "deers-head"
  },
+ "660ee11b-adde-468a-b120-010499bfb2a1": {
+  "age_restriction": null,
+  "date": "2026-11-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Brian Kennedy",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 30.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:brian-kennedy",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/brian-kennedy"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/brian-kennedy"
+   }
+  ],
+  "title": "Brian Kennedy",
+  "venue": "mandela-hall"
+ },
  "6736bb0c-a69d-4852-8c2a-a218b15e9f17": {
   "age_restriction": null,
   "date": "2027-04-17",
@@ -5628,7 +6738,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Rushified",
+  "headliner": "Rushified Presents: The Music of Rush",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -5652,6 +6762,40 @@
   "title": "Rushified Presents: The Music of Rush",
   "venue": "oh-yeah"
  },
+ "68abebad-c44b-4166-aac7-6fd7f9bd39b9": {
+  "age_restriction": null,
+  "date": "2026-11-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Breathe - The Pink Floyd Experience",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:breathe---the-pink-floyd-experience",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience"
+   }
+  ],
+  "title": "Breathe - The Pink Floyd Experience",
+  "venue": "mandela-hall"
+ },
  "692623f4-1411-4a7a-8dc8-cd10e2edb602": {
   "age_restriction": "18+",
   "date": "2026-11-06",
@@ -5660,7 +6804,7 @@
   "free": null,
   "genres": [
    "Folk/Trad",
-   "Electronic"
+   "World"
   ],
   "headliner": "Elephant Sessions",
   "needs_review": null,
@@ -5685,6 +6829,41 @@
   ],
   "title": "Elephant Sessions",
   "venue": "limelight"
+ },
+ "6938f24e-b057-4eda-9954-0df01dbc5c2d": {
+  "age_restriction": null,
+  "date": "2026-11-01",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "The Beast - The Largest Iron Maiden Tribute",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:the-beast---the-largest-iron-maiden-tribute",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
+   }
+  ],
+  "title": "The Beast - The Largest Iron Maiden Tribute",
+  "venue": "mandela-hall"
  },
  "6a5994a0-af67-49e8-a3c7-db1cdcac6375": {
   "age_restriction": null,
@@ -5753,6 +6932,40 @@
   ],
   "title": "Morgan Jay",
   "venue": "waterfront-hall"
+ },
+ "6a85e229-40d0-43e3-aca3-bf5db3ac903c": {
+  "age_restriction": null,
+  "date": "2026-12-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Just Mustard",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.75,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:just-mustard",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/just-mustard"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/just-mustard"
+   }
+  ],
+  "title": "Just Mustard",
+  "venue": "mandela-hall"
  },
  "6aeea6d8-29ba-430e-ad6b-ab28e9de79b9": {
   "age_restriction": "18+",
@@ -5824,6 +7037,38 @@
   "title": "Hannah Grace",
   "venue": "the-duncairn"
  },
+ "6ba205ee-f641-4b06-87dc-cf4af2bf3eed": {
+  "age_restriction": null,
+  "date": "2026-11-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "SexyTadhg",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_TVUwSnPxLQExrsgN0bXw2",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/sexytadhg-belfast-28-11-2026/event/38006494EACA2495"
+   }
+  ],
+  "title": "SexyTadhg",
+  "venue": "ulster-sports-club"
+ },
  "6ba22fbc-641d-4aa9-b602-635178e86bde": {
   "age_restriction": "18+",
   "date": "2026-12-12",
@@ -5844,6 +7089,11 @@
     "key": "mandela:135904974",
     "name": "mandela",
     "url": "https://www.glistrr.com/events/e/bell-x1-32-374"
+   },
+   {
+    "key": "mandelaweb:bell-x1",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/bell-x1"
    }
   ],
   "start_time": "19:00",
@@ -5853,6 +7103,10 @@
    {
     "source": "Glistrr",
     "url": "https://www.glistrr.com/events/e/bell-x1-32-374"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/bell-x1"
    }
   ],
   "title": "Bell X1",
@@ -6005,8 +7259,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
-   "Punk/Hardcore"
+   "Metal"
   ],
   "headliner": "URNE",
   "needs_review": true,
@@ -6032,6 +7285,35 @@
   "title": "URNE",
   "venue": "voodoo"
  },
+ "6faa3706-2670-424d-943b-8e3d190fcf06": {
+  "age_restriction": null,
+  "date": "2027-05-01",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Guns Reloaded",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:guns-reloaded",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/guns-reloaded"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Guns Reloaded",
+  "venue": "voodoo"
+ },
  "6ffd14f0-a3d7-4155-8550-26ba184bca83": {
   "age_restriction": "18+",
   "date": "2026-11-14",
@@ -6039,9 +7321,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "Singer-Songwriter"
   ],
-  "headliner": "The Ties That Bind",
+  "headliner": "The Ties That Bind - Secret Song",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -6106,7 +7389,6 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal",
    "Rock"
   ],
   "headliner": "Mind Over Matter Fest",
@@ -6135,8 +7417,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
+   "Singer-Songwriter"
   ],
   "headliner": "Darren Kiely",
   "needs_review": null,
@@ -6169,10 +7450,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Electronic",
-   "Rock"
+   "Rock",
+   "Folk/Trad"
   ],
-  "headliner": "Alabama 3",
+  "headliner": "Alabama 3 Acoustic",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -6232,6 +7513,40 @@
   "title": "Sweet Savage",
   "venue": "limelight"
  },
+ "76d15556-e91c-46ec-8d15-d966e75bc9e3": {
+  "age_restriction": null,
+  "date": "2027-02-14",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Kate Nash",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:kate-nash",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/kate-nash"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/kate-nash"
+   }
+  ],
+  "title": "Kate Nash",
+  "venue": "mandela-hall"
+ },
  "76eb2424-e2ad-4e5a-b2ea-ad3233ec7ca5": {
   "age_restriction": "18+",
   "date": "2026-11-20",
@@ -6240,7 +7555,7 @@
   "free": null,
   "genres": [
    "Indie/Alternative",
-   "Pop"
+   "Rock"
   ],
   "headliner": "Fat Dog",
   "needs_review": null,
@@ -6275,7 +7590,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Electronic",
+   "Rock",
    "Indie/Alternative"
   ],
   "headliner": "Kingfishr",
@@ -6302,6 +7617,40 @@
   "title": "Belsonic 2027 - Kingfishr",
   "venue": "ormeau-park"
  },
+ "794ae8a1-8c42-4b92-a4b1-ec2e8ebc7ac9": {
+  "age_restriction": null,
+  "date": "2026-11-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World",
+   "Rock"
+  ],
+  "headliner": "Joachim Cooder with Adriano Viterbini",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:joachim-cooder-with-adriano-viterbini",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/joachim-cooder-with-adriano-viterbini"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/joachim-cooder-with-adriano-viterbini"
+   }
+  ],
+  "title": "Joachim Cooder with Adriano Viterbini",
+  "venue": "crescent-arts-centre"
+ },
  "798e98e3-88eb-4059-9c1b-3ca722f14626": {
   "age_restriction": "18+",
   "date": "2026-11-08",
@@ -6310,7 +7659,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Country/Americana"
+   "Singer-Songwriter"
   ],
   "headliner": "Ricky Warwick & The Fighting Hearts",
   "needs_review": null,
@@ -6346,7 +7695,8 @@
   "free": null,
   "genres": [
    "Rock",
-   "Jazz/Blues"
+   "Jazz/Blues",
+   "Singer-Songwriter"
   ],
   "headliner": "Imelda May",
   "needs_review": null,
@@ -6417,7 +7767,7 @@
   "free": null,
   "genres": [
    "Metal",
-   "Rock"
+   "Folk/Trad"
   ],
   "headliner": "Alestorm",
   "needs_review": null,
@@ -6453,7 +7803,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Kings of Lyon",
+  "headliner": "Kings of Lyon & The UK Strokes",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -6467,9 +7817,7 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": [
-   "The UK Strokes"
-  ],
+  "support": null,
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -6479,6 +7827,39 @@
   "title": "Kings of Lyon & The UK Strokes",
   "venue": "limelight"
  },
+ "7c40596e-c09b-415f-a82e-5c3d54897be9": {
+  "age_restriction": null,
+  "date": "2026-11-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Wilt",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_J3iARttDnQiECoM6Ccy85",
+    "name": "usc"
+   }
+  ],
+  "start_time": "18:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/wilt-tickets-1990495845657"
+   }
+  ],
+  "title": "Wilt",
+  "venue": "ulster-sports-club"
+ },
  "7c9ced44-c37c-4d90-a1dc-124a68114969": {
   "age_restriction": null,
   "date": "2026-10-31",
@@ -6486,11 +7867,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Tribute/Covers"
+   "Pop",
+   "Rock"
   ],
   "headliner": "Black Parade Halloween Party",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": 8.0,
   "room": null,
@@ -6513,40 +7894,6 @@
   "title": "Black Parade Halloween Party",
   "venue": "belfast-empire"
  },
- "7d41648a-19e7-46a2-bd90-0a237c8420ee": {
-  "age_restriction": null,
-  "date": "2026-10-29",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal",
-   "Rock"
-  ],
-  "headliner": "Heavy Halloween",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:heavy-halloween",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/heavy-halloween"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/heavy-halloween-ft-triggertone-solothurn-impulse-to-resist-tickets-2002913228383?aff=ebdssbdestsearch"
-   }
-  ],
-  "title": "Heavy Halloween",
-  "venue": "voodoo"
- },
  "7dae3a78-f53a-452b-b04e-4793c147dff8": {
   "age_restriction": "18+",
   "date": "2026-11-21",
@@ -6554,10 +7901,11 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Pop",
    "Electronic"
   ],
   "headliner": "Girl Code",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -6623,7 +7971,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Folk/Trad"
+   "Indie/Alternative"
   ],
   "headliner": "Martin Stephenson & The Daintees",
   "needs_review": null,
@@ -6656,8 +8004,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Punk/Hardcore",
-   "Rock"
+   "Rock",
+   "Punk/Hardcore"
   ],
   "headliner": "Gurriers",
   "needs_review": null,
@@ -6725,7 +8073,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Pop"
   ],
   "headliner": "Pork Pie",
   "needs_review": null,
@@ -6750,6 +8098,40 @@
   ],
   "title": "Pork Pie",
   "venue": "limelight"
+ },
+ "808d6fab-60d4-4841-a9da-2396f3949c55": {
+  "age_restriction": null,
+  "date": "2027-04-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Chris Barron (Spin Doctors)",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:chris-barron",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/chris-barron"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/chris-barron"
+   }
+  ],
+  "title": "Chris Barron (Spin Doctors): Acoustic Tour",
+  "venue": "crescent-arts-centre"
  },
  "81c462f7-654c-4149-af80-c9c431e81961": {
   "age_restriction": "18+",
@@ -6855,6 +8237,40 @@
   "title": "Rod Stewart - The Final Encore",
   "venue": "the-o2-belfast"
  },
+ "846c3e3e-74d3-4eda-ab5e-c002fead2ca6": {
+  "age_restriction": null,
+  "date": "2027-02-26",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Andrew Strong",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 36.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:andrew-strong",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/andrew-strong"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/andrew-strong"
+   }
+  ],
+  "title": "Andrew Strong",
+  "venue": "mandela-hall"
+ },
  "84c11a95-cb18-4744-89d5-30763f2ea25d": {
   "age_restriction": null,
   "date": "2026-12-14",
@@ -6862,7 +8278,6 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
    "Pop",
    "Rock"
   ],
@@ -6897,11 +8312,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
-  "headliner": "Stop Making Sense",
-  "needs_review": true,
+  "headliner": "Playback Presents: Stop Making Sense",
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -6932,7 +8347,7 @@
   "free": null,
   "genres": [
    "Indie/Alternative",
-   "Electronic"
+   "Pop"
   ],
   "headliner": "Panchiko",
   "needs_review": null,
@@ -7032,8 +8447,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Tribute/Covers"
   ],
   "headliner": "Springsteen Spectacular",
   "needs_review": null,
@@ -7097,6 +8512,38 @@
   "title": "Signs of The Swarm",
   "venue": "limelight"
  },
+ "87eaf5cb-a76f-4fd3-ab0d-f9f80e888046": {
+  "age_restriction": null,
+  "date": "2026-10-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Delivery",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_5MQJT8EHE4MdpMBnq2YKK",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "DICE",
+    "url": "https://dice.fm/event/wwmerv-delivery-melbourne-aus-29th-oct-ulster-sports-club-belfast-tickets"
+   }
+  ],
+  "title": "Delivery (Melbourne, AUS)",
+  "venue": "ulster-sports-club"
+ },
  "8810c1ff-438c-41d9-bd48-30af99fe870f": {
   "age_restriction": null,
   "date": "2026-11-19",
@@ -7104,7 +8551,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "Heist",
   "needs_review": null,
@@ -7137,10 +8585,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Jazz/Blues"
+   "Jazz/Blues",
+   "Pop"
   ],
-  "headliner": "Ruth McGinley",
+  "headliner": "Let It Snow: From Bing to Bublé with Ruth McGinley",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -7165,6 +8613,38 @@
   ],
   "title": "Let It Snow: From Bing to Bublé with Ruth McGinley & Patrick Smyth",
   "venue": "the-harrison"
+ },
+ "88505a86-7d86-4774-bc0f-7888cd0db8b7": {
+  "age_restriction": null,
+  "date": "2027-03-11",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "SOFY",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_33Yo4PYcbcegUreAQ1a97",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/sofy-belfast-11-03-2027/event/380064A77A640D46"
+   }
+  ],
+  "title": "SOFY",
+  "venue": "ulster-sports-club"
  },
  "88b20904-9abc-4599-83ea-93fc47ffca88": {
   "age_restriction": null,
@@ -7212,7 +8692,7 @@
    "Rock"
   ],
   "headliner": "Master of Pulpits",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": 20.0,
   "room": null,
@@ -7277,7 +8757,6 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Folk/Trad",
    "Singer-Songwriter"
   ],
   "headliner": "Cora Harkin",
@@ -7312,6 +8791,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
+   "Rock",
    "Pop"
   ],
   "headliner": "Elvis Spectacular",
@@ -7345,8 +8825,7 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Indie/Alternative",
-   "Rock"
+   "Indie/Alternative"
   ],
   "headliner": "The First Slip",
   "needs_review": null,
@@ -7380,9 +8859,10 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Indie/Alternative"
   ],
-  "headliner": "Radio in Chains",
+  "headliner": "RADIO IN CHAINS (a Radiohead & Alice in Chains Tribute)",
   "needs_review": null,
   "price_max": null,
   "price_min": 15.0,
@@ -7413,8 +8893,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Rock"
   ],
   "headliner": "Lansdowne",
   "needs_review": true,
@@ -7447,8 +8926,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
   "headliner": "Picture This",
   "needs_review": null,
@@ -7482,6 +8961,7 @@
   "free": null,
   "genres": [
    "Jazz/Blues",
+   "Soul/R&B/Funk",
    "Singer-Songwriter"
   ],
   "headliner": "Curtis Stigers",
@@ -7583,10 +9063,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Country/Americana",
-   "Pop"
+   "Country/Americana"
   ],
-  "headliner": "Luke Combs",
+  "headliner": "Luke Combs UK",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -7654,7 +9133,7 @@
   "free": null,
   "genres": [
    "Singer-Songwriter",
-   "Country/Americana"
+   "Folk/Trad"
   ],
   "headliner": "Ron Pope",
   "needs_review": null,
@@ -7687,8 +9166,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Rock"
   ],
   "headliner": "Silent Running",
   "needs_review": true,
@@ -7857,7 +9335,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
+   "Pop",
    "Indie/Alternative"
   ],
   "headliner": "Melrose Avenue",
@@ -7895,8 +9373,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Pop",
-   "Soul/R&B/Funk"
+   "Pop"
   ],
   "headliner": "The Yacht Rock Show",
   "needs_review": null,
@@ -7921,6 +9398,39 @@
   ],
   "title": "The Yacht Rock Show",
   "venue": "ulster-hall"
+ },
+ "97fed8e3-9e92-4b58-81b7-53b1b672ddc0": {
+  "age_restriction": null,
+  "date": "2026-12-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Gareth",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 27.75,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:gareth",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/gareth"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/gareth"
+   }
+  ],
+  "title": "Gareth",
+  "venue": "mandela-hall"
  },
  "99fdc991-9ea1-4862-b6e9-bfa61d057bd6": {
   "age_restriction": null,
@@ -7964,7 +9474,7 @@
   "genres": [
    "Electronic"
   ],
-  "headliner": "Circus Circus Reunion",
+  "headliner": "CIRCUS CIRCUS REUNION",
   "needs_review": true,
   "price_max": null,
   "price_min": null,
@@ -8072,7 +9582,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Fleetwood Mac",
+  "headliner": "The Music Of Fleetwood Mac By Candlelight",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -8103,8 +9613,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Indie/Alternative",
+   "Rock"
   ],
   "headliner": "South Arcade",
   "needs_review": null,
@@ -8140,7 +9650,7 @@
    "Soul/R&B/Funk",
    "Pop"
   ],
-  "headliner": "Leslie Odom Jr.",
+  "headliner": "Leslie Odom, Jr.",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -8208,7 +9718,7 @@
    "Tribute/Covers",
    "Metal"
   ],
-  "headliner": "B.Y.O.B",
+  "headliner": "B.Y.O.B - Tribute to System of a Down",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -8274,11 +9784,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Electronic"
+   "Electronic",
+   "Pop"
   ],
-  "headliner": "Pleasuredome",
-  "needs_review": null,
+  "headliner": "PLEASUREDOME 80's / 90's CHRISTMAS CRACKERS",
+  "needs_review": true,
   "price_max": null,
   "price_min": 16.0,
   "room": null,
@@ -8308,10 +9818,11 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Tribute/Covers",
    "Pop"
   ],
   "headliner": "Defying Gravity",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": "Main Auditorium",
@@ -8404,7 +9915,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Pop"
+   "Indie/Alternative"
   ],
   "headliner": "The Fray",
   "needs_review": null,
@@ -8437,7 +9948,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Electronic"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "Bleech 9:3",
   "needs_review": null,
@@ -8463,6 +9975,38 @@
   "title": "Bleech 9:3",
   "venue": "oh-yeah"
  },
+ "a392b1fd-9162-44a3-8890-892e76e0c4f4": {
+  "age_restriction": null,
+  "date": "2027-01-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Good Health Good Wealth",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_Hca7DZ6AQGY1gipRFOxGm",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/good-health-good-wealth-belfast-30-01-2027/event/380064B4E57A1F16"
+   }
+  ],
+  "title": "Good Health Good Wealth",
+  "venue": "ulster-sports-club"
+ },
  "a3b0683a-f847-4d14-97e1-794f4a957ea2": {
   "age_restriction": null,
   "date": "2026-10-30",
@@ -8475,14 +10019,19 @@
   ],
   "headliner": "BlackGate",
   "needs_review": null,
-  "price_max": 15.0,
-  "price_min": 10.0,
+  "price_max": null,
+  "price_min": 15.0,
   "room": null,
   "sources": [
    {
     "key": "movingon:blackgate",
     "name": "movingon",
     "url": "https://www.movingonmusic.com/whats-on/blackgate/"
+   },
+   {
+    "key": "crescent:blackgate",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
    }
   ],
   "start_time": "19:30",
@@ -8492,6 +10041,10 @@
    {
     "source": "Citizen Ticket",
     "url": "https://www.citizenticket.com/events/moving-on-music/blackgate/"
+   },
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
    }
   ],
   "title": "BlackGate",
@@ -8539,10 +10092,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Soul/R&B/Funk"
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
   ],
-  "headliner": "The Motown Sensations",
+  "headliner": "Christmas with The Motown Sensations",
   "needs_review": null,
   "price_max": null,
   "price_min": 22.0,
@@ -8573,8 +10126,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Indie/Alternative",
-   "Pop"
+   "Pop",
+   "Indie/Alternative"
   ],
   "headliner": "KhakiKid",
   "needs_review": null,
@@ -8716,7 +10269,7 @@
   "genres": [
    "Pop"
   ],
-  "headliner": "Hear'say",
+  "headliner": "Hear'say + Liberty X",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -8784,9 +10337,10 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Metal"
+   "Metal",
+   "Rock"
   ],
-  "headliner": "Mörderstein",
+  "headliner": "Mörderstein - a tribute to Rammstein",
   "needs_review": null,
   "price_max": null,
   "price_min": 19.5,
@@ -8796,6 +10350,11 @@
     "key": "mandela:130440990",
     "name": "mandela",
     "url": "https://www.glistrr.com/events/e/mörderstein-a-tribute-to-rammstein-32-369"
+   },
+   {
+    "key": "mandelaweb:m%C3%B6rderstein---a-tribute-to-rammstein",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein"
    }
   ],
   "start_time": "19:00",
@@ -8805,6 +10364,10 @@
    {
     "source": "Glistrr",
     "url": "https://www.glistrr.com/events/e/mörderstein-a-tribute-to-rammstein-32-369"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein"
    }
   ],
   "title": "Mörderstein - a tribute to Rammstein",
@@ -8821,7 +10384,7 @@
    "Indie/Alternative"
   ],
   "headliner": "Esmeralda Road",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -8844,6 +10407,40 @@
   "title": "Esmeralda Road",
   "venue": "voodoo"
  },
+ "a93a4d5e-a815-4adb-a1a5-ae477976b983": {
+  "age_restriction": null,
+  "date": "2027-06-09",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Let The Music Play",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:let-the-music-play",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/let-the-music-play/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/let-the-music-play/"
+   }
+  ],
+  "title": "Let The Music Play",
+  "venue": "ulster-hall"
+ },
  "a98d6805-be93-40f3-94d7-aaa0c9c3f6bb": {
   "age_restriction": null,
   "date": "2026-11-07",
@@ -8851,7 +10448,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "Singer-Songwriter"
   ],
   "headliner": "The Friel Sisters",
   "needs_review": null,
@@ -8921,7 +10519,7 @@
    "Tribute/Covers",
    "Metal"
   ],
-  "headliner": "Britallica",
+  "headliner": "Britallica: Britney Spears Metal Tribute",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -8989,7 +10587,7 @@
    "Folk/Trad",
    "World"
   ],
-  "headliner": "Beoga",
+  "headliner": "Beoga - With Friends",
   "needs_review": null,
   "price_max": null,
   "price_min": 33.0,
@@ -9021,9 +10619,10 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Jazz/Blues"
+   "Jazz/Blues",
+   "Pop"
   ],
-  "headliner": "Frank and Dean Ratpack Revisited",
+  "headliner": "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -9054,8 +10653,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
-   "Rock"
+   "Indie/Alternative",
+   "Electronic"
   ],
   "headliner": "Rarewitch",
   "needs_review": null,
@@ -9081,40 +10680,6 @@
   "title": "The Budvar Music Trail presents: Ode to Misinformation: Rarewitch Live hosted by Stephen McCauley",
   "venue": "oh-yeah"
  },
- "acdb7269-61fa-4312-b097-21cb87b130f5": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Punk/Hardcore",
-   "Indie/Alternative"
-  ],
-  "headliner": "Emo Club",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:emo-club",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/emo-club"
-   }
-  ],
-  "start_time": "22:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Skiddle",
-    "url": "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Emo-Club-Halloween-Special/42822134/"
-   }
-  ],
-  "title": "Emo Club",
-  "venue": "voodoo"
- },
  "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
   "age_restriction": null,
   "date": "2026-11-20",
@@ -9122,7 +10687,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "Pop"
   ],
   "headliner": "The Shamrocks",
   "needs_review": null,
@@ -9151,6 +10717,39 @@
   ],
   "title": "The Shamrocks",
   "venue": "the-o2-belfast"
+ },
+ "b00ea675-2d3f-4c40-a8c5-c416bd35c1bb": {
+  "age_restriction": null,
+  "date": "2027-01-17",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Belfast Jazz Swing Orchestra",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 12.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "blackbox:cqaf-the-belfast-jazz-swing-orchestra",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/cqaf-the-belfast-jazz-swing-orchestra/"
+   }
+  ],
+  "start_time": "13:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/cqaf-the-belfast-jazz-swing-orchestra/"
+   }
+  ],
+  "title": "Out to Lunch Festival: The Belfast Jazz Swing Orchestra",
+  "venue": "black-box"
  },
  "b1acfe80-3c16-4828-bb71-135aeb587a8e": {
   "age_restriction": null,
@@ -9196,10 +10795,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Tribute/Covers"
   ],
-  "headliner": "The Paul Weller Experience",
+  "headliner": "THE PAUL WELLER EXPERIENCE",
   "needs_review": null,
   "price_max": null,
   "price_min": 19.25,
@@ -9214,7 +10813,7 @@
   "start_time": "19:30",
   "status": "on_sale",
   "support": [
-   "Proper"
+   "PROPER"
   ],
   "tickets": [
    {
@@ -9267,7 +10866,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Pop"
+   "Rock"
   ],
   "headliner": "Sounds of the 60s Live",
   "needs_review": null,
@@ -9301,10 +10900,9 @@
   "free": null,
   "genres": [
    "Folk/Trad",
-   "Singer-Songwriter",
-   "Indie/Alternative"
+   "Singer-Songwriter"
   ],
-  "headliner": "First Aid Kit",
+  "headliner": "An Intimate Evening With First Aid Kit",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -9335,10 +10933,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Tribute/Covers",
+   "Rock"
   ],
-  "headliner": "Snow Patrol",
+  "headliner": "Classic Album Night: Snow Patrol – Eyes Open (20th Anniversary)",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -9396,6 +10994,39 @@
   "title": "1000 Mods",
   "venue": "voodoo"
  },
+ "b59d161f-5139-4235-b271-76b454630da0": {
+  "age_restriction": null,
+  "date": "2026-12-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "RIOT! Presents: Paramór",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:national-emo-day-belfast",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/national-emo-day-belfast"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/national-emo-day-belfast"
+   }
+  ],
+  "title": "RIOT! Presents: Paramór",
+  "venue": "mandela-hall"
+ },
  "b5befe0f-c811-4ea9-a456-8591ced9b10e": {
   "age_restriction": null,
   "date": "2027-04-24",
@@ -9403,9 +11034,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Country/Americana"
+   "Country/Americana",
+   "Singer-Songwriter"
   ],
-  "headliner": "Chris Andreucci & The Longneck Losers",
+  "headliner": "Chris Andreucci & The Longneck Losers: A Night From Nashville",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -9470,8 +11102,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad",
-   "Rock"
+   "Rock",
+   "Folk/Trad"
   ],
   "headliner": "Lindisfarne",
   "needs_review": null,
@@ -9483,6 +11115,11 @@
     "key": "mandela:133304559",
     "name": "mandela",
     "url": "https://www.glistrr.com/events/e/lindisfarne-32-370"
+   },
+   {
+    "key": "mandelaweb:lindisfarne",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/lindisfarne"
    }
   ],
   "start_time": "19:00",
@@ -9492,6 +11129,10 @@
    {
     "source": "Glistrr",
     "url": "https://www.glistrr.com/events/e/lindisfarne-32-370"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/lindisfarne"
    }
   ],
   "title": "Lindisfarne",
@@ -9504,9 +11145,9 @@
   "end_date": null,
   "free": null,
   "genres": [
+   "Tribute/Covers",
    "Rock",
-   "Hip-Hop/Rap",
-   "Tribute/Covers"
+   "Metal"
   ],
   "headliner": "Hard Bizkit",
   "needs_review": null,
@@ -9710,7 +11351,7 @@
   "free": null,
   "genres": [
    "Pop",
-   "Singer-Songwriter"
+   "Soul/R&B/Funk"
   ],
   "headliner": "Rachel Tucker",
   "needs_review": null,
@@ -9813,10 +11454,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "Tribute/Covers"
   ],
   "headliner": "Dubliner The Legend of Luke Kelly Story",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -9847,7 +11489,7 @@
   "free": null,
   "genres": [
    "Folk/Trad",
-   "Soul/R&B/Funk"
+   "Rock"
   ],
   "headliner": "The Unholy Gospel Band",
   "needs_review": null,
@@ -9872,6 +11514,40 @@
   ],
   "title": "The Unholy Gospel Band: Autumn Sessions",
   "venue": "black-box"
+ },
+ "bd3fc18e-effb-4629-b3bf-7d57e7b1cc75": {
+  "age_restriction": null,
+  "date": "2026-11-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Songs of Glen Hansard: In Support of Simon Community",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:the-songs-of-glen-hansard-in-support-of-simon-community",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/the-songs-of-glen-hansard-in-support-of-simon-community"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "sold_out",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/the-songs-of-glen-hansard-in-support-of-simon-community"
+   }
+  ],
+  "title": "The Songs of Glen Hansard: In Support of Simon Community",
+  "venue": "crescent-arts-centre"
  },
  "bddbb6f0-5f11-4938-9174-74e014fe35b4": {
   "age_restriction": "18+",
@@ -10014,7 +11690,8 @@
   "free": null,
   "genres": [
    "Punk/Hardcore",
-   "Rock"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "EMO FEST",
   "needs_review": null,
@@ -10040,6 +11717,40 @@
   "title": "EMO FEST",
   "venue": "limelight"
  },
+ "c05adec7-b74c-4f1f-a79d-d986a695a0a7": {
+  "age_restriction": null,
+  "date": "2026-11-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Briana Corrigan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 30.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:briana-corrigan",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/briana-corrigan"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/briana-corrigan"
+   }
+  ],
+  "title": "Briana Corrigan",
+  "venue": "crescent-arts-centre"
+ },
  "c15e2462-e354-4f64-aedc-2099574d0e83": {
   "age_restriction": null,
   "date": "2026-12-22",
@@ -10047,8 +11758,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Tribute/Covers"
   ],
   "headliner": "Rock N Christmas",
   "needs_review": null,
@@ -10081,10 +11792,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
+   "Singer-Songwriter"
   ],
-  "headliner": "Susy Good",
+  "headliner": "Susy Good: Album Launch",
   "needs_review": null,
   "price_max": null,
   "price_min": 12.0,
@@ -10117,8 +11827,8 @@
   "genres": [
    "Electronic"
   ],
-  "headliner": "Volume Control",
-  "needs_review": null,
+  "headliner": "Volume Control presents: HallowEMO",
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -10182,10 +11892,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "Ahh...Freak Out!",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -10216,6 +11927,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
+   "Pop",
    "Rock"
   ],
   "headliner": "The Mersey Beatles",
@@ -10270,6 +11982,40 @@
   "title": "The Jazz Room",
   "venue": "belfast-empire"
  },
+ "c495aa86-4710-4b6a-b552-72ef5e4ab7fc": {
+  "age_restriction": null,
+  "date": "2026-10-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Folk/Trad"
+  ],
+  "headliner": "Martin Taylor",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:martin-taylor",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martin-taylor"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martin-taylor"
+   }
+  ],
+  "title": "Martin Taylor",
+  "venue": "crescent-arts-centre"
+ },
  "c55a3a43-2897-4fcc-8c2b-b7af9740954b": {
   "age_restriction": null,
   "date": "2027-01-02",
@@ -10277,8 +12023,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Pop"
+   "Tribute/Covers"
   ],
   "headliner": "The Three Amigos",
   "needs_review": null,
@@ -10382,7 +12127,8 @@
   "free": null,
   "genres": [
    "Singer-Songwriter",
-   "Folk/Trad"
+   "Folk/Trad",
+   "Indie/Alternative"
   ],
   "headliner": "Josh Ritter",
   "needs_review": null,
@@ -10394,6 +12140,11 @@
     "key": "mandela:135904306",
     "name": "mandela",
     "url": "https://www.glistrr.com/events/e/josh-ritter-32-373"
+   },
+   {
+    "key": "mandelaweb:josh-ritter",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/josh-ritter"
    }
   ],
   "start_time": "19:00",
@@ -10403,6 +12154,10 @@
    {
     "source": "Glistrr",
     "url": "https://www.glistrr.com/events/e/josh-ritter-32-373"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/josh-ritter"
    }
   ],
   "title": "Josh Ritter",
@@ -10450,9 +12205,9 @@
   "free": null,
   "genres": [
    "Pop",
-   "Tribute/Covers"
+   "Rock"
   ],
-  "headliner": "Noughtie Nineties",
+  "headliner": "NOUGHTIE NINETIES – 90’s – 00’s",
   "needs_review": null,
   "price_max": null,
   "price_min": 15.0,
@@ -10514,6 +12269,40 @@
   "title": "Scratch My Progress Vol 14 Presents: Pinsleep, Lord Jane, The Thing Is... & GUSH",
   "venue": "oh-yeah"
  },
+ "c80e48a6-2b1a-417e-95de-6b2f8968ae9f": {
+  "age_restriction": null,
+  "date": "2027-05-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Folk/Trad"
+  ],
+  "headliner": "The John Martyn Project",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:the-john-martyn-project",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/the-john-martyn-project"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/the-john-martyn-project"
+   }
+  ],
+  "title": "The John Martyn Project",
+  "venue": "mandela-hall"
+ },
  "c8311837-0fc1-46c4-a805-344db51e22a0": {
   "age_restriction": null,
   "date": "2027-10-06",
@@ -10522,7 +12311,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Pop"
   ],
   "headliner": "Deacon Blue",
   "needs_review": null,
@@ -10547,6 +12336,40 @@
   ],
   "title": "Deacon Blue: Raintown 40th Anniversary",
   "venue": "the-o2-belfast"
+ },
+ "c832f974-1325-494f-8fda-7055a4ab8f37": {
+  "age_restriction": null,
+  "date": "2026-12-11",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "Madra Salach",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 19.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:madra-salach",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/madra-salach"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/madra-salach"
+   }
+  ],
+  "title": "Madra Salach",
+  "venue": "mandela-hall"
  },
  "c8c64dbf-8d75-48d7-baf4-376dc7577ace": {
   "age_restriction": null,
@@ -10622,7 +12445,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter"
+   "Singer-Songwriter",
+   "Folk/Trad"
   ],
   "headliner": "David Graham",
   "needs_review": null,
@@ -10656,7 +12480,7 @@
   "free": null,
   "genres": [
    "Indie/Alternative",
-   "Rock"
+   "Pop"
   ],
   "headliner": "Mauvey",
   "needs_review": null,
@@ -10682,6 +12506,40 @@
   "title": "Mauvey: Real Life No Digital Tour",
   "venue": "black-box"
  },
+ "cb8b44a4-bb6f-4aa5-83f3-0afeb5786c5e": {
+  "age_restriction": null,
+  "date": "2026-10-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ralph McTell",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 34.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:ralph-mctell",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/ralph-mctell"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/ralph-mctell"
+   }
+  ],
+  "title": "Ralph McTell",
+  "venue": "mandela-hall"
+ },
  "cb8c0484-8cd8-45ba-a23b-e365df87d12b": {
   "age_restriction": null,
   "date": "2027-02-10",
@@ -10689,8 +12547,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
+   "Indie/Alternative",
+   "Rock"
   ],
   "headliner": "Ariel Posen",
   "needs_review": null,
@@ -10793,7 +12651,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter"
+   "Singer-Songwriter",
+   "Folk/Trad"
   ],
   "headliner": "Liv Monaghan",
   "needs_review": null,
@@ -10961,10 +12820,9 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Electronic"
   ],
-  "headliner": "Tenx9 - Disaster",
+  "headliner": "Tenx9 – Disaster",
   "needs_review": true,
   "price_max": null,
   "price_min": null,
@@ -10996,7 +12854,8 @@
   "free": null,
   "genres": [
    "Folk/Trad",
-   "Punk/Hardcore"
+   "Punk/Hardcore",
+   "Rock"
   ],
   "headliner": "The Pogues",
   "needs_review": null,
@@ -11033,6 +12892,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
+   "Rock",
    "Pop"
   ],
   "headliner": "Sky Full of Stars",
@@ -11058,6 +12918,73 @@
   ],
   "title": "Sky Full of Stars",
   "venue": "ulster-hall"
+ },
+ "d4a0f40e-c521-4936-954c-60119117714b": {
+  "age_restriction": null,
+  "date": "2026-10-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Dylan Flynn & The Dead Poets",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_6Mum1kLyH8EEywwz9Gki2",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/dylan-flynn-the-dead-poets-tickets-1995435385955"
+   }
+  ],
+  "title": "Dylan Flynn & The Dead Poets",
+  "venue": "ulster-sports-club"
+ },
+ "d4e562f3-5690-4443-b0f3-d9beb0fa4979": {
+  "age_restriction": null,
+  "date": "2026-12-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "World News",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 16.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:world-news",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/world-news"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5579621?venueId=461372"
+   }
+  ],
+  "title": "World News",
+  "venue": "voodoo"
  },
  "d646aee9-cd88-434c-979f-bf62a6f78d4a": {
   "age_restriction": null,
@@ -11171,7 +13098,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Magic Queen",
+  "headliner": "Magic Queen - The Ultimate Tribute to Queen",
   "needs_review": null,
   "price_max": null,
   "price_min": 28.0,
@@ -11195,6 +13122,40 @@
   "title": "Magic Queen - The Ultimate Tribute to Queen",
   "venue": "mandela-hall"
  },
+ "d986257c-523d-4aea-bace-39a2faca766c": {
+  "age_restriction": null,
+  "date": "2026-12-02",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Andy Fairweather Low",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 32.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:andy-fairweather-low",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/andy-fairweather-low"
+   }
+  ],
+  "start_time": "18:45",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/andy-fairweather-low"
+   }
+  ],
+  "title": "Andy Fairweather Low",
+  "venue": "mandela-hall"
+ },
  "d998383f-0ec2-48e4-97b1-e70aac59a704": {
   "age_restriction": null,
   "date": "2026-11-20",
@@ -11202,8 +13163,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Indie/Alternative",
-   "Rock"
+   "Rock",
+   "Indie/Alternative"
   ],
   "headliner": "Chapterhouse",
   "needs_review": null,
@@ -11228,6 +13189,40 @@
   ],
   "title": "Chapterhouse",
   "venue": "belfast-empire"
+ },
+ "da2357a0-640f-4947-99d3-93582005c0ee": {
+  "age_restriction": null,
+  "date": "2027-03-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World",
+   "Rock"
+  ],
+  "headliner": "Rodrigo y Gabriela",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 33.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:rodrigo-y-gabriela-",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/rodrigo-y-gabriela-"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/rodrigo-y-gabriela-"
+   }
+  ],
+  "title": "Rodrigo y Gabriela",
+  "venue": "mandela-hall"
  },
  "da9fd4fc-247c-46ef-8bda-c7bf920644ec": {
   "age_restriction": "18+",
@@ -11270,10 +13265,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter",
-   "Jazz/Blues"
+   "Tribute/Covers",
+   "Jazz/Blues",
+   "Singer-Songwriter"
   ],
-  "headliner": "Bonnie Raitt",
+  "headliner": "Bonnie Raitt - A Celebration",
   "needs_review": null,
   "price_max": null,
   "price_min": 21.65,
@@ -11304,8 +13300,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Indie/Alternative"
+   "Folk/Trad",
+   "Rock"
   ],
   "headliner": "Thistle",
   "needs_review": null,
@@ -11407,8 +13403,7 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Folk/Trad",
-   "World"
+   "Electronic"
   ],
   "headliner": "TESSIO",
   "needs_review": null,
@@ -11498,6 +13493,39 @@
   ],
   "title": "The Snuts",
   "venue": "limelight"
+ },
+ "e24d3c1c-f493-491e-ad9f-e74f71e29b8f": {
+  "age_restriction": null,
+  "date": "2026-12-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Saturday Afternoon Trad Session",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "crescent:trad-session-dec-26",
+    "name": "crescent",
+    "url": "https://www.crescentarts.org/events/music-and-drama/trad-session/trad-session-dec-26"
+   }
+  ],
+  "start_time": "13:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Crescent Arts Centre",
+    "url": "https://www.crescentarts.org/events/music-and-drama/trad-session/trad-session-dec-26"
+   }
+  ],
+  "title": "Saturday Afternoon Trad Session",
+  "venue": "crescent-arts-centre"
  },
  "e316178c-f0fb-4821-a254-a1f63b6d49b7": {
   "age_restriction": null,
@@ -11627,6 +13655,39 @@
   "title": "Swervedriver",
   "venue": "limelight"
  },
+ "e3d0a75d-698c-4cd5-818c-97d359b70439": {
+  "age_restriction": null,
+  "date": "2026-10-31",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "Mount Kimbie",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_7Zwe0IyI4DWSYAQjicU9b",
+    "name": "usc"
+   }
+  ],
+  "start_time": "22:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "ra.co",
+    "url": "https://ra.co/events/2543105"
+   }
+  ],
+  "title": "USC Presents- Halloween Night with Mount Kimbie",
+  "venue": "ulster-sports-club"
+ },
  "e59d10fc-e481-4d4a-80cc-7ddabd995b84": {
   "age_restriction": "18+",
   "date": "2027-02-19",
@@ -11651,7 +13712,9 @@
   ],
   "start_time": null,
   "status": "sold_out",
-  "support": null,
+  "support": [
+   "The Guest List"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -11669,7 +13732,7 @@
   "free": null,
   "genres": [
    "Pop",
-   "Tribute/Covers"
+   "Singer-Songwriter"
   ],
   "headliner": "Ruth McGinley",
   "needs_review": null,
@@ -11705,7 +13768,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Tribute/Covers"
+   "Punk/Hardcore"
   ],
   "headliner": "Dirty Dc",
   "needs_review": null,
@@ -11739,9 +13802,9 @@
   "free": null,
   "genres": [
    "Rock",
-   "Pop"
+   "Tribute/Covers"
   ],
-  "headliner": "Bat Out of Hell",
+  "headliner": "Bat Out of Hell 50th Anniversary Concert",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -11775,7 +13838,7 @@
    "Folk/Trad",
    "Pop"
   ],
-  "headliner": "Quire",
+  "headliner": "Quire’s Big HoHoHo (Afternoon Show)",
   "needs_review": null,
   "price_max": null,
   "price_min": 15.0,
@@ -11806,9 +13869,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal"
+   "Hip-Hop/Rap"
   ],
-  "headliner": "Slipknot",
+  "headliner": "Slipkorn",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -11865,6 +13928,40 @@
   ],
   "title": "Jack Savoretti",
   "venue": "ulster-hall"
+ },
+ "e7ed0cc6-c721-46a0-bf3a-abee471660a5": {
+  "age_restriction": null,
+  "date": "2027-05-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Limehouse Lizzy",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 29.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:limehouse-lizzy",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/limehouse-lizzy"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/limehouse-lizzy"
+   }
+  ],
+  "title": "Limehouse Lizzy",
+  "venue": "mandela-hall"
  },
  "e8a624d4-2eb6-4646-be77-6c5c6ba37b5c": {
   "age_restriction": null,
@@ -11945,7 +14042,7 @@
    "Rock"
   ],
   "headliner": "NOW THE 90's",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": 15.0,
   "room": null,
@@ -11976,18 +14073,24 @@
   "free": null,
   "genres": [
    "Singer-Songwriter",
-   "Indie/Alternative"
+   "Indie/Alternative",
+   "Pop"
   ],
-  "headliner": "Duke Special",
+  "headliner": "Duke Special - Songs From The Deep Forest 20th Anniversary",
   "needs_review": null,
   "price_max": null,
-  "price_min": null,
+  "price_min": 30.0,
   "room": null,
   "sources": [
    {
     "key": "mandela:125711461",
     "name": "mandela",
     "url": "https://www.glistrr.com/events/e/duke-special-songs-from-the-deep-forest-20th-anniversary-32-364"
+   },
+   {
+    "key": "mandelaweb:duke-special",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/duke-special"
    }
   ],
   "start_time": "19:00",
@@ -11997,6 +14100,10 @@
    {
     "source": "Glistrr",
     "url": "https://www.glistrr.com/events/e/duke-special-songs-from-the-deep-forest-20th-anniversary-32-364"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/duke-special"
    }
   ],
   "title": "Duke Special - Songs From The Deep Forest 20th Anniversary",
@@ -12009,7 +14116,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Jazz/Blues"
+   "Jazz/Blues",
+   "Singer-Songwriter"
   ],
   "headliner": "Kyron Bourke & Michael Mormecha",
   "needs_review": null,
@@ -12043,7 +14151,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Rock"
+   "Electronic"
   ],
   "headliner": "The Funky Kongs",
   "needs_review": null,
@@ -12077,7 +14185,7 @@
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative"
+   "Folk/Trad"
   ],
   "headliner": "The Last Internationale",
   "needs_review": null,
@@ -12113,7 +14221,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Rock'N Quo",
+  "headliner": "ROCK’N QUO – a tribute to Status Quo",
   "needs_review": null,
   "price_max": null,
   "price_min": 15.0,
@@ -12136,6 +14244,41 @@
   ],
   "title": "ROCK’N QUO – a tribute to Status Quo",
   "venue": "deers-head"
+ },
+ "ec120434-69f4-4032-b389-0d8d272d154f": {
+  "age_restriction": null,
+  "date": "2027-04-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Elvana",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 30.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:elvana",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/elvana"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/elvana"
+   }
+  ],
+  "title": "Elvana",
+  "venue": "mandela-hall"
  },
  "ec9ccd2f-f357-4ef3-add0-c79624da18f8": {
   "age_restriction": null,
@@ -12177,11 +14320,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Punk/Hardcore",
-   "Rock"
+   "Pop"
   ],
   "headliner": "Chloe Slater",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -12211,8 +14353,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Electronic",
-   "Pop"
+   "Pop",
+   "Electronic"
   ],
   "headliner": "KEO",
   "needs_review": null,
@@ -12279,8 +14421,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Pop"
+   "Rock"
   ],
   "headliner": "FM",
   "needs_review": null,
@@ -12313,7 +14454,6 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Contemporary/New Music",
    "Pop"
   ],
   "headliner": "BCGC Christmas Concert",
@@ -12347,8 +14487,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Singer-Songwriter"
+   "Pop"
   ],
   "headliner": "Alex Warren",
   "needs_review": null,
@@ -12415,8 +14554,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
-   "Pop"
+   "Rock"
   ],
   "headliner": "The Darkness",
   "needs_review": null,
@@ -12585,8 +14723,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop",
-   "Electronic"
+   "Pop"
   ],
   "headliner": "TC.KYLIE",
   "needs_review": null,
@@ -12620,9 +14757,9 @@
   "free": null,
   "genres": [
    "Indie/Alternative",
-   "Rock"
+   "Pop"
   ],
-  "headliner": "Foreign Mornings",
+  "headliner": "Gifted: Foreign Mornings",
   "needs_review": null,
   "price_max": null,
   "price_min": 10.0,
@@ -12636,9 +14773,7 @@
   ],
   "start_time": "19:00",
   "status": "on_sale",
-  "support": [
-   "Gifted"
-  ],
+  "support": null,
   "tickets": null,
   "title": "Gifted: Foreign Mornings",
   "venue": "belfast-empire"
@@ -12919,6 +15054,39 @@
   "title": "Drake Milligan",
   "venue": "ulster-hall"
  },
+ "f45d426f-e2db-4989-b256-2269b8bae592": {
+  "age_restriction": null,
+  "date": "2026-11-26",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Adult DVD",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_xsYt8VASh5qfUJrmejkXK",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/adult-dvd-tickets-1990871404965"
+   }
+  ],
+  "title": "Adult DVD",
+  "venue": "ulster-sports-club"
+ },
  "f47fa50a-74e2-4ff9-9cb2-81cde1ea16d2": {
   "age_restriction": null,
   "date": "2027-04-24",
@@ -12997,9 +15165,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "World"
   ],
-  "headliner": "The Ties That Bind",
+  "headliner": "The Ties That Bind - SUPER SONG SUNDAY & ABAIR AMHRÁN",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -13064,7 +15233,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock"
+   "Rock",
+   "Punk/Hardcore"
   ],
   "headliner": "ICE AGE",
   "needs_review": null,
@@ -13076,15 +15246,23 @@
     "key": "limelight:11183",
     "name": "limelight",
     "url": "https://www.limelightbelfast.com/"
+   },
+   {
+    "key": "usc:event_F3CEv1O2yPdEoZmkAqwtF",
+    "name": "usc"
    }
   ],
-  "start_time": null,
+  "start_time": "19:00",
   "status": "on_sale",
   "support": null,
   "tickets": [
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/1611202?venueId=461726"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/iceage-20-02-2027/event/380064DAB1A63F53"
    }
   ],
   "title": "ICE AGE",
@@ -13097,7 +15275,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Hip-Hop/Rap"
+   "Hip-Hop/Rap",
+   "Pop"
   ],
   "headliner": "Goldie Lookin Chain",
   "needs_review": null,
@@ -13164,7 +15343,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Metal"
+   "Metal",
+   "Rock"
   ],
   "headliner": "Megadeth",
   "needs_review": null,
@@ -13203,7 +15383,7 @@
    "Tribute/Covers",
    "Rock"
   ],
-  "headliner": "Human Touch",
+  "headliner": "HUMAN TOUCH (a tribute to Bruce Springsteen)",
   "needs_review": null,
   "price_max": null,
   "price_min": 18.0,
@@ -13234,8 +15414,7 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Indie/Alternative",
-   "Rock"
+   "Indie/Alternative"
   ],
   "headliner": "The First Slip",
   "needs_review": null,
@@ -13269,7 +15448,7 @@
   "free": null,
   "genres": [
    "Tribute/Covers",
-   "Rock"
+   "Pop"
   ],
   "headliner": "Will Atkinson Vs The Rocketman",
   "needs_review": null,
@@ -13376,8 +15555,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
+   "Singer-Songwriter"
   ],
   "headliner": "Colin Graham",
   "needs_review": null,
@@ -13410,8 +15588,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Pop"
   ],
   "headliner": "OLE 60",
   "needs_review": null,
@@ -13445,7 +15623,7 @@
   "free": null,
   "genres": [
    "Folk/Trad",
-   "Rock"
+   "Country/Americana"
   ],
   "headliner": "Whiski Road",
   "needs_review": null,
@@ -13478,8 +15656,7 @@
   "end_date": null,
   "free": true,
   "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
+   "Singer-Songwriter"
   ],
   "headliner": "Mark Hegan",
   "needs_review": null,

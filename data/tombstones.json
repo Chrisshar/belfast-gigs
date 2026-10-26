@@ -18,5 +18,49 @@
   "fingerprint": "limelight|2026-12-27|roll with it",
   "date": "2026-12-27",
   "reason": "deleted"
+ },
+ {
+  "id": "7d41648a-19e7-46a2-bd90-0a237c8420ee",
+  "keys": [
+   "voodoo:heavy-halloween"
+  ],
+  "fingerprint": "voodoo|2026-10-29|heavy halloween",
+  "date": "2026-10-29",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "acdb7269-61fa-4312-b097-21cb87b130f5",
+  "keys": [
+   "voodoo:emo-club"
+  ],
+  "fingerprint": "voodoo|2026-10-30|emo club",
+  "date": "2026-10-30",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "3d57be6f-cba6-484e-808e-6c0969e1d357",
+  "keys": [
+   "voodoo:back-to-event-the-voodoo-sessions-026"
+  ],
+  "fingerprint": "voodoo|2026-11-26|voodoo sessions 026",
+  "date": "2026-11-26",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "1c5239f6-f629-4560-9d44-818e46021a94",
+  "keys": [
+   "ohyeah:140527"
+  ],
+  "fingerprint": "oh-yeah|2027-05-14|warrington runcorn new town development plan",
+  "date": "2027-05-14",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
  }
 ]

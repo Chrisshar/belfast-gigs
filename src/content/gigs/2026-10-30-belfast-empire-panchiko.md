@@ -9,7 +9,7 @@ price_min: 31.75
 status: "on_sale"
 genres:
 - "Indie/Alternative"
-- "Electronic"
+- "Pop"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/panchiko-belfast-30-10-2026/event/3800636399A21B33"
@@ -18,7 +18,7 @@ sources:
   key: "empire:panchiko"
   url: "https://www.thebelfastempire.com/music-hall/panchiko/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

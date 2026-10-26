@@ -8,6 +8,7 @@ start_time: "20:00"
 status: "on_sale"
 genres:
 - "Singer-Songwriter"
+- "Folk/Trad"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.sg/e/jobi-riccio-tickets-2001634840691"
@@ -16,7 +17,7 @@ sources:
   key: "harrison:k9azqs4ex1huvg4gguthgmbg4fo86l"
   url: "https://www.chambersofdistinction.com/unified-calendar/k9azqs4ex1huvg4gguthgmbg4fo86l"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -1,7 +1,7 @@
 ---
 id: "aca2c221-255f-478d-bd89-9e5a6b507f9a"
 title: "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED"
-headliner: "Frank and Dean Ratpack Revisited"
+headliner: "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED"
 venue: "black-box"
 date: "2026-12-12"
 start_time: "19:30"
@@ -10,6 +10,7 @@ status: "on_sale"
 genres:
 - "Tribute/Covers"
 - "Jazz/Blues"
+- "Pop"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/christmas-with-frank-and-dean-ratpack-revisited/"
@@ -18,7 +19,7 @@ sources:
   key: "blackbox:christmas-with-frank-and-dean-ratpack-revisited"
   url: "https://www.blackboxbelfast.com/event/christmas-with-frank-and-dean-ratpack-revisited/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

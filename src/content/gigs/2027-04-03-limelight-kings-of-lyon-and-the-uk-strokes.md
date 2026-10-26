@@ -1,9 +1,7 @@
 ---
 id: "7c1bb331-874f-429c-a9fb-1d0d8eb0ec76"
 title: "Kings of Lyon & The UK Strokes"
-headliner: "Kings of Lyon"
-support:
-- "The UK Strokes"
+headliner: "Kings of Lyon & The UK Strokes"
 venue: "limelight"
 room: "Limelight 2"
 date: "2027-04-03"
@@ -21,7 +19,7 @@ sources:
   key: "limelight:10092"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

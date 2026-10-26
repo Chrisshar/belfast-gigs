@@ -13,6 +13,7 @@ age_restriction: "18+"
 genres:
 - "Folk/Trad"
 - "Punk/Hardcore"
+- "Rock"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/artist/1002526?venueId=461708"
@@ -21,10 +22,10 @@ sources:
   key: "limelight:10830"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.97
+  confidence: 0.98
   method: "llm"
 ---

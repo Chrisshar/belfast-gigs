@@ -1,7 +1,7 @@
 ---
 id: "9bee6395-092d-42a0-8e4f-6a50d659ebfc"
 title: "The Music Of Fleetwood Mac By Candlelight"
-headliner: "Fleetwood Mac"
+headliner: "The Music Of Fleetwood Mac By Candlelight"
 venue: "ulster-hall"
 date: "2026-11-19"
 status: "on_sale"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:fleetwood-mac-by-candlelight-4"
   url: "https://www.ulsterhall.co.uk/what-s-on/fleetwood-mac-by-candlelight-4/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -9,7 +9,7 @@ price_min: 13.7
 status: "on_sale"
 genres:
 - "Folk/Trad"
-- "Rock"
+- "Country/Americana"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.com/e/whiski-road-tickets-1998361424816"
@@ -18,7 +18,7 @@ sources:
   key: "deershead:whiski-road-4"
   url: "https://www.thedeersheadbelfast.com/whats-on/whiski-road-4/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

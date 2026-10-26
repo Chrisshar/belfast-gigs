@@ -7,8 +7,8 @@ date: "2026-12-05"
 start_time: "20:00"
 status: "on_sale"
 genres:
-- "Folk/Trad"
 - "Contemporary/New Music"
+- "Folk/Trad"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.sg/e/alison-cotton-tickets-2001402342282"
@@ -17,7 +17,7 @@ sources:
   key: "harrison:alison-cotton"
   url: "https://www.chambersofdistinction.com/unified-calendar/alison-cotton"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

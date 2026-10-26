@@ -7,7 +7,7 @@ date: "2027-04-23"
 start_time: "19:30"
 status: "on_sale"
 genres:
-- "Electronic"
+- "Indie/Alternative"
 tickets:
 - source: "Oh Yeah"
   url: "https://www.ohyeahbelfast.com/events/gustaffson"
@@ -16,7 +16,7 @@ sources:
   key: "ohyeah:gustaffson"
   url: "https://www.ohyeahbelfast.com/events/gustaffson"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

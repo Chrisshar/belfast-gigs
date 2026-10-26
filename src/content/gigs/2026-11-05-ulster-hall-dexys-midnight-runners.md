@@ -10,8 +10,8 @@ doors_time: "19:00"
 status: "on_sale"
 age_restriction: "18+"
 genres:
-- "Soul/R&B/Funk"
 - "Pop"
+- "Soul/R&B/Funk"
 tickets:
 - source: "Waterfront box office"
   url: "https://secure.waterfront.co.uk/25852/25853"
@@ -25,7 +25,7 @@ sources:
   key: "ulsterhall:dexys-midnight-runners"
   url: "https://www.ulsterhall.co.uk/what-s-on/dexys-midnight-runners/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

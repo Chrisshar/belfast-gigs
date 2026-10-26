@@ -10,7 +10,6 @@ doors_time: "18:00"
 status: "sold_out"
 genres:
 - "Indie/Alternative"
-- "Rock"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/amble-23-06-2027/event/380064F682FC0AE1"
@@ -19,7 +18,7 @@ sources:
   key: "limelight:11519"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

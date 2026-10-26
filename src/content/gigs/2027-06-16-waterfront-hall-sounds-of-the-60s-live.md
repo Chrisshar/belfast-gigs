@@ -8,7 +8,7 @@ date: "2027-06-16"
 status: "on_sale"
 genres:
 - "Tribute/Covers"
-- "Pop"
+- "Rock"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/sounds-of-the-60s-live/"
@@ -17,7 +17,7 @@ sources:
   key: "ulsterhall:sounds-of-the-60s-live"
   url: "https://www.ulsterhall.co.uk/what-s-on/sounds-of-the-60s-live/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

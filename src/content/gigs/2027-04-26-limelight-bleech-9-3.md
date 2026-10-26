@@ -9,8 +9,7 @@ doors_time: "19:00"
 status: "sold_out"
 age_restriction: "18+"
 genres:
-- "Rock"
-- "Punk/Hardcore"
+- "Electronic"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/artist/5624103?venueId=461484"
@@ -19,7 +18,7 @@ sources:
   key: "limelight:11725"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

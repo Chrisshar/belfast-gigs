@@ -1,7 +1,7 @@
 ---
 id: "4bb2a421-2998-416e-a81b-f51c8321175d"
 title: "Dylan Leblanc"
-headliner: "Dylan LeBlanc"
+headliner: "Dylan Leblanc"
 venue: "deers-head"
 date: "2026-11-19"
 start_time: "19:30"
@@ -18,7 +18,7 @@ sources:
   key: "deershead:dylan-leblanc"
   url: "https://www.thedeersheadbelfast.com/whats-on/dylan-leblanc/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -1,0 +1,2781 @@
+{
+ "mandelaweb": {
+  "https://www.mandelahall.com/events/andrew-strong": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-26",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 36.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:andrew-strong",
+    "source_url": "https://www.mandelahall.com/events/andrew-strong",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/andrew-strong"
+     ]
+    ],
+    "title": "Andrew Strong",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-06-22"
+  },
+  "https://www.mandelahall.com/events/andy-fairweather-low": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-02",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 32.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:andy-fairweather-low",
+    "source_url": "https://www.mandelahall.com/events/andy-fairweather-low",
+    "start_time": "18:45",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/andy-fairweather-low"
+     ]
+    ],
+    "title": "Andy Fairweather Low",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-07-31"
+  },
+  "https://www.mandelahall.com/events/battle-of-the-bands": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-16",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:battle-of-the-bands",
+    "source_url": "https://www.mandelahall.com/events/battle-of-the-bands",
+    "start_time": "19:30",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/battle-of-the-bands"
+     ]
+    ],
+    "title": "Battle of the Bands",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-20"
+  },
+  "https://www.mandelahall.com/events/bell-x1": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-12",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 35.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:bell-x1",
+    "source_url": "https://www.mandelahall.com/events/bell-x1",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/bell-x1"
+     ]
+    ],
+    "title": "Bell X1",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-21"
+  },
+  "https://www.mandelahall.com/events/beyond-the-music%3A-u2-reimagined": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-04-29",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 36.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:beyond-the-music%3A-u2-reimagined",
+    "source_url": "https://www.mandelahall.com/events/beyond-the-music%3A-u2-reimagined",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/beyond-the-music%3A-u2-reimagined"
+     ]
+    ],
+    "title": "Beyond the Music: U2 REIMAGINED",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-08-05"
+  },
+  "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-06",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 27.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:breathe---the-pink-floyd-experience",
+    "source_url": "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience"
+     ]
+    ],
+    "title": "Breathe - The Pink Floyd Experience",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-06-09"
+  },
+  "https://www.mandelahall.com/events/brian-kennedy": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-13",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 30.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:brian-kennedy",
+    "source_url": "https://www.mandelahall.com/events/brian-kennedy",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/brian-kennedy"
+     ]
+    ],
+    "title": "Brian Kennedy",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-21"
+  },
+  "https://www.mandelahall.com/events/chris-kent": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-20",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 22.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:chris-kent",
+    "source_url": "https://www.mandelahall.com/events/chris-kent",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/chris-kent"
+     ]
+    ],
+    "title": "Chris Kent",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.mandelahall.com/events/chris-kent-mandela-hall": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-19",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 22.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:chris-kent-mandela-hall",
+    "source_url": "https://www.mandelahall.com/events/chris-kent-mandela-hall",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/chris-kent-mandela-hall"
+     ]
+    ],
+    "title": "Chris Kent",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.mandelahall.com/events/conleth-mcgeary": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-03",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 27.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:conleth-mcgeary",
+    "source_url": "https://www.mandelahall.com/events/conleth-mcgeary",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/conleth-mcgeary"
+     ]
+    ],
+    "title": "Conleth McGeary",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-21"
+  },
+  "https://www.mandelahall.com/events/corto.alto": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 22.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:corto.alto",
+    "source_url": "https://www.mandelahall.com/events/corto.alto",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/corto.alto"
+     ]
+    ],
+    "title": "corto.alto",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-30"
+  },
+  "https://www.mandelahall.com/events/duke-special": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-14",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 30.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:duke-special",
+    "source_url": "https://www.mandelahall.com/events/duke-special",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/duke-special"
+     ]
+    ],
+    "title": "Duke Special",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-20"
+  },
+  "https://www.mandelahall.com/events/elvana": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-04-16",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 30.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:elvana",
+    "source_url": "https://www.mandelahall.com/events/elvana",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/elvana"
+     ]
+    ],
+    "title": "Elvana",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-01"
+  },
+  "https://www.mandelahall.com/events/gareth": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 27.75,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:gareth",
+    "source_url": "https://www.mandelahall.com/events/gareth",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/gareth"
+     ]
+    ],
+    "title": "Gareth",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-21"
+  },
+  "https://www.mandelahall.com/events/gear%C3%B3id-farrelly": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-27",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 22.75,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:gear%C3%B3id-farrelly",
+    "source_url": "https://www.mandelahall.com/events/gear%C3%B3id-farrelly",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/gear%C3%B3id-farrelly"
+     ]
+    ],
+    "title": "Gearóid Farrelly",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-01-12"
+  },
+  "https://www.mandelahall.com/events/heaven-can-wait-meat-loaf-tribute-belfast": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-13",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 29.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:heaven-can-wait-meat-loaf-tribute-belfast",
+    "source_url": "https://www.mandelahall.com/events/heaven-can-wait-meat-loaf-tribute-belfast",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/heaven-can-wait-meat-loaf-tribute-belfast"
+     ]
+    ],
+    "title": "Heaven Can Wait",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-03-24"
+  },
+  "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-11",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 5.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:irelands-largest-harry-potter-pub-quiz-2026",
+    "source_url": "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026"
+     ]
+    ],
+    "title": "Irelands Largest Harry Potter Pub Quiz 2026",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-15"
+  },
+  "https://www.mandelahall.com/events/jacek-stachursky": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-21",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 45.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:jacek-stachursky",
+    "source_url": "https://www.mandelahall.com/events/jacek-stachursky",
+    "start_time": "18:30",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/jacek-stachursky"
+     ]
+    ],
+    "title": "Jacek Stachursky",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-07-22"
+  },
+  "https://www.mandelahall.com/events/john-cooper-clarke": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-15",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 32.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:john-cooper-clarke",
+    "source_url": "https://www.mandelahall.com/events/john-cooper-clarke",
+    "start_time": "19:30",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/john-cooper-clarke"
+     ]
+    ],
+    "title": "John Cooper Clarke",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2025-12-01"
+  },
+  "https://www.mandelahall.com/events/josh-ritter": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-04",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 40.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:josh-ritter",
+    "source_url": "https://www.mandelahall.com/events/josh-ritter",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/josh-ritter"
+     ]
+    ],
+    "title": "Josh Ritter",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-21"
+  },
+  "https://www.mandelahall.com/events/just-mustard": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-13",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 27.75,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:just-mustard",
+    "source_url": "https://www.mandelahall.com/events/just-mustard",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/just-mustard"
+     ]
+    ],
+    "title": "Just Mustard",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-16"
+  },
+  "https://www.mandelahall.com/events/kate-nash": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-14",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:kate-nash",
+    "source_url": "https://www.mandelahall.com/events/kate-nash",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/kate-nash"
+     ]
+    ],
+    "title": "Kate Nash",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-30"
+  },
+  "https://www.mandelahall.com/events/limehouse-lizzy": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-21",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 29.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:limehouse-lizzy",
+    "source_url": "https://www.mandelahall.com/events/limehouse-lizzy",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/limehouse-lizzy"
+     ]
+    ],
+    "title": "Limehouse Lizzy",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-08-05"
+  },
+  "https://www.mandelahall.com/events/lindisfarne": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-28",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 32.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:lindisfarne",
+    "source_url": "https://www.mandelahall.com/events/lindisfarne",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/lindisfarne"
+     ]
+    ],
+    "title": "Lindisfarne",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-07-28"
+  },
+  "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-30",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 19.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:m%C3%B6rderstein---a-tribute-to-rammstein",
+    "source_url": "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein"
+     ]
+    ],
+    "title": "Mörderstein - a tribute to Rammstein",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-15"
+  },
+  "https://www.mandelahall.com/events/madra-salach": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-11",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 19.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:madra-salach",
+    "source_url": "https://www.mandelahall.com/events/madra-salach",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/madra-salach"
+     ]
+    ],
+    "title": "Madra Salach",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-05-19"
+  },
+  "https://www.mandelahall.com/events/magic-queen": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-08",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 28.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:magic-queen",
+    "source_url": "https://www.mandelahall.com/events/magic-queen",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/magic-queen"
+     ]
+    ],
+    "title": "Magic Queen",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-15"
+  },
+  "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-31",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 8.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:meltdowns-halloween-headbangerz-ball",
+    "source_url": "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball",
+    "start_time": "21:30",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball"
+     ]
+    ],
+    "title": "Meltdown'S Halloween Headbangerz Ball",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-30"
+  },
+  "https://www.mandelahall.com/events/mo-gilligan": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:mo-gilligan",
+    "source_url": "https://www.mandelahall.com/events/mo-gilligan",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/mo-gilligan"
+     ]
+    ],
+    "title": "Mo Gilligan",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-04-21"
+  },
+  "https://www.mandelahall.com/events/national-emo-day-belfast": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-19",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 15.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:national-emo-day-belfast",
+    "source_url": "https://www.mandelahall.com/events/national-emo-day-belfast",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/national-emo-day-belfast"
+     ]
+    ],
+    "title": "RIOT! Presents: Paramór",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-05-05"
+  },
+  "https://www.mandelahall.com/events/nothing-but-a-good-time": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-28",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:nothing-but-a-good-time",
+    "source_url": "https://www.mandelahall.com/events/nothing-but-a-good-time",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/nothing-but-a-good-time"
+     ]
+    ],
+    "title": "Nothing But a Good Time",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-01-12"
+  },
+  "https://www.mandelahall.com/events/oasis-supernova": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-06-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:oasis-supernova",
+    "source_url": "https://www.mandelahall.com/events/oasis-supernova",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/oasis-supernova"
+     ]
+    ],
+    "title": "Oasis Supernova",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-15"
+  },
+  "https://www.mandelahall.com/events/ralph-mctell": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-29",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 34.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:ralph-mctell",
+    "source_url": "https://www.mandelahall.com/events/ralph-mctell",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/ralph-mctell"
+     ]
+    ],
+    "title": "Ralph McTell",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-24"
+  },
+  "https://www.mandelahall.com/events/rodrigo-y-gabriela-": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-03-16",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 33.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:rodrigo-y-gabriela-",
+    "source_url": "https://www.mandelahall.com/events/rodrigo-y-gabriela-",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/rodrigo-y-gabriela-"
+     ]
+    ],
+    "title": "Rodrigo y Gabriela",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-06-22"
+  },
+  "https://www.mandelahall.com/events/ruby-wax": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-25",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 41.95,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:ruby-wax",
+    "source_url": "https://www.mandelahall.com/events/ruby-wax",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/ruby-wax"
+     ]
+    ],
+    "title": "Ruby Wax",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-05-19"
+  },
+  "https://www.mandelahall.com/events/scummy-mummies": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-07",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:scummy-mummies",
+    "source_url": "https://www.mandelahall.com/events/scummy-mummies",
+    "start_time": "18:30",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/scummy-mummies"
+     ]
+    ],
+    "title": "Scummy Mummies",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-01-12"
+  },
+  "https://www.mandelahall.com/events/star-trek-pub-quiz-2026": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-03",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 5.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:star-trek-pub-quiz-2026",
+    "source_url": "https://www.mandelahall.com/events/star-trek-pub-quiz-2026",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/star-trek-pub-quiz-2026"
+     ]
+    ],
+    "title": "Star Trek Pub Quiz 2026",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-15"
+  },
+  "https://www.mandelahall.com/events/star-wars-pub-quiz-2026": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-25",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 5.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:star-wars-pub-quiz-2026",
+    "source_url": "https://www.mandelahall.com/events/star-wars-pub-quiz-2026",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/star-wars-pub-quiz-2026"
+     ]
+    ],
+    "title": "Star Wars Pub Quiz 2026",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-15"
+  },
+  "https://www.mandelahall.com/events/stuart-mitchell-%26-friends": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-03-06",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:stuart-mitchell-%26-friends",
+    "source_url": "https://www.mandelahall.com/events/stuart-mitchell-%26-friends",
+    "start_time": "17:30",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/stuart-mitchell-%26-friends"
+     ]
+    ],
+    "title": "Stuart Mitchell & Friends",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-08-05"
+  },
+  "https://www.mandelahall.com/events/susan-calman": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-18",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 35.25,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:susan-calman",
+    "source_url": "https://www.mandelahall.com/events/susan-calman",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/susan-calman"
+     ]
+    ],
+    "title": "Susan Calman",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-07-20"
+  },
+  "https://www.mandelahall.com/events/susie-dent-%E2%80%93-word-perfect": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-01-23",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:susie-dent-%E2%80%93-word-perfect",
+    "source_url": "https://www.mandelahall.com/events/susie-dent-%E2%80%93-word-perfect",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/susie-dent-%E2%80%93-word-perfect"
+     ]
+    ],
+    "title": "Susie Dent – Word Perfect",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-21"
+  },
+  "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-01",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:the-beast---the-largest-iron-maiden-tribute",
+    "source_url": "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
+     ]
+    ],
+    "title": "The Beast - The Largest Iron Maiden Tribute",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-26"
+  },
+  "https://www.mandelahall.com/events/the-john-martyn-project": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 22.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:the-john-martyn-project",
+    "source_url": "https://www.mandelahall.com/events/the-john-martyn-project",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/the-john-martyn-project"
+     ]
+    ],
+    "title": "The John Martyn Project",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-09-11"
+  },
+  "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-22",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 28.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:the-jury-experience---the-killer-ai-2",
+    "source_url": "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2",
+    "start_time": "16:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2"
+     ]
+    ],
+    "title": "The Jury Experience - The Killer AI",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-07-22"
+  },
+  "https://www.mandelahall.com/events/the-mumford-and-sons-story---awake-my-soul": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-06-04",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 24.98,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:the-mumford-and-sons-story---awake-my-soul",
+    "source_url": "https://www.mandelahall.com/events/the-mumford-and-sons-story---awake-my-soul",
+    "start_time": "20:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/the-mumford-and-sons-story---awake-my-soul"
+     ]
+    ],
+    "title": "The Mumford and Sons Story - Awake My Soul",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-07-30"
+  },
+  "https://www.mandelahall.com/events/the-simpson-halloween-pub-quiz": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-26",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 5.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:the-simpson-halloween-pub-quiz",
+    "source_url": "https://www.mandelahall.com/events/the-simpson-halloween-pub-quiz",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/the-simpson-halloween-pub-quiz"
+     ]
+    ],
+    "title": "The Simpson Halloween Pub Quiz",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-12"
+  }
+ },
+ "voodoo": {
+  "https://www.voodoobelfast.com/events/1000-mods": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-21",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 30.25,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:1000-mods",
+    "source_url": "https://www.voodoobelfast.com/events/1000-mods",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.co.uk/1000mods-belfast-21-11-2026/event/3800644AD8091FEE"
+     ]
+    ],
+    "title": "1000 Mods",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/abigail-williams": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/acid-reign": {
+   "event": null,
+   "lastmod": "2026-04-21"
+  },
+  "https://www.voodoobelfast.com/events/aoa": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/back-to-event-the-voodoo-sessions-026": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-26",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 5.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:back-to-event-the-voodoo-sessions-026",
+    "source_url": "https://www.voodoobelfast.com/events/back-to-event-the-voodoo-sessions-026",
+    "start_time": "20:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/the-voodoo-sessions-026-tickets-1999703540119?aff=oddtdtcreator"
+     ]
+    ],
+    "title": "The Voodoo Sessions 026",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-03"
+  },
+  "https://www.voodoobelfast.com/events/black-waters-redemption": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-03-07",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:black-waters-redemption",
+    "source_url": "https://www.voodoobelfast.com/events/black-waters-redemption",
+    "start_time": "15:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/black-water-redemption-07-03-2027/event/3800654C8C390CAE"
+     ]
+    ],
+    "title": "Black Waters Redemption",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-13"
+  },
+  "https://www.voodoobelfast.com/events/bleach": {
+   "event": null,
+   "lastmod": "2026-08-13"
+  },
+  "https://www.voodoobelfast.com/events/blitz-club": {
+   "event": null,
+   "lastmod": "2026-08-18"
+  },
+  "https://www.voodoobelfast.com/events/bloodsport": {
+   "event": null,
+   "lastmod": "2026-06-23"
+  },
+  "https://www.voodoobelfast.com/events/bloody-kisses": {
+   "event": null,
+   "lastmod": "2026-08-12"
+  },
+  "https://www.voodoobelfast.com/events/brake-loose": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/brigade-loco": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/car-bomb": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-12",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:car-bomb",
+    "source_url": "https://www.voodoobelfast.com/events/car-bomb",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo/Car-Bomb--Frontierer-Thurs-12th-Nov-Voodoo-Belfast/42400996/"
+     ]
+    ],
+    "title": "Car Bomb",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/cavalier-attitude": {
+   "event": null,
+   "lastmod": "2026-06-23"
+  },
+  "https://www.voodoobelfast.com/events/celestial-sanctuary": {
+   "event": null,
+   "lastmod": "2026-07-28"
+  },
+  "https://www.voodoobelfast.com/events/claimed-choice": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/countervela": {
+   "event": null,
+   "lastmod": "2026-09-22"
+  },
+  "https://www.voodoobelfast.com/events/dazgak": {
+   "event": null,
+   "lastmod": "2026-06-23"
+  },
+  "https://www.voodoobelfast.com/events/emo-club": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-30",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:emo-club",
+    "source_url": "https://www.voodoobelfast.com/events/emo-club",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Emo-Club-Halloween-Special/42822134/"
+     ]
+    ],
+    "title": "Emo Club",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-22"
+  },
+  "https://www.voodoobelfast.com/events/emo-rave": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-13",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 15.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:emo-rave",
+    "source_url": "https://www.voodoobelfast.com/events/emo-rave",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/the-emo-rave-tickets-1998428353000?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Emo Rave",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/ereb-altor": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/esmeralda-road": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-01",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:esmeralda-road",
+    "source_url": "https://www.voodoobelfast.com/events/esmeralda-road",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/artist/5499604?venueId=461372"
+     ]
+    ],
+    "title": "Esmeralda Road",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-10"
+  },
+  "https://www.voodoobelfast.com/events/fleadh-caberet": {
+   "event": null,
+   "lastmod": "2026-07-28"
+  },
+  "https://www.voodoobelfast.com/events/frayed-ends": {
+   "event": null,
+   "lastmod": "2026-06-25"
+  },
+  "https://www.voodoobelfast.com/events/ghouls-ghouls-ghouls": {
+   "event": null,
+   "lastmod": "2026-10-22"
+  },
+  "https://www.voodoobelfast.com/events/girl-in-the-year-above": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/girls-girls-girls": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/green-week": {
+   "event": null,
+   "lastmod": "2026-07-28"
+  },
+  "https://www.voodoobelfast.com/events/gun-ghaol": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-03-04",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 15.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:gun-ghaol",
+    "source_url": "https://www.voodoobelfast.com/events/gun-ghaol",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/gun-ghaol-with-support-from-tide-7-evoke-tickets-2002561939669?aff=oddtdtcreator"
+     ]
+    ],
+    "title": "Gun Ghaol",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-30"
+  },
+  "https://www.voodoobelfast.com/events/guns-reloaded": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-01",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:guns-reloaded",
+    "source_url": "https://www.voodoobelfast.com/events/guns-reloaded",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Guns Reloaded",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/h%C3%A6resy": {
+   "event": null,
+   "lastmod": "2026-08-13"
+  },
+  "https://www.voodoobelfast.com/events/hard-bizkit": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:hard-bizkit",
+    "source_url": "https://www.voodoobelfast.com/events/hard-bizkit",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/hard-bizkit-irelands-tribute-to-limp-bizkit-tickets-1992926672325?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Hard Bizkit",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/haywire": {
+   "event": null,
+   "lastmod": "2026-06-23"
+  },
+  "https://www.voodoobelfast.com/events/heavy-halloween": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-29",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:heavy-halloween",
+    "source_url": "https://www.voodoobelfast.com/events/heavy-halloween",
+    "start_time": "20:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/heavy-halloween-ft-triggertone-solothurn-impulse-to-resist-tickets-2002913228383?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Heavy Halloween",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-13"
+  },
+  "https://www.voodoobelfast.com/events/hell-yes": {
+   "event": null,
+   "lastmod": "2026-09-30"
+  },
+  "https://www.voodoobelfast.com/events/hex-appeal": {
+   "event": null,
+   "lastmod": "2026-08-18"
+  },
+  "https://www.voodoobelfast.com/events/hex-club": {
+   "event": null,
+   "lastmod": "2026-08-13"
+  },
+  "https://www.voodoobelfast.com/events/i-am-the-avalanche": {
+   "event": null,
+   "lastmod": "2026-06-23"
+  },
+  "https://www.voodoobelfast.com/events/impulse-to-resist": {
+   "event": null,
+   "lastmod": "2026-07-23"
+  },
+  "https://www.voodoobelfast.com/events/incarcerated": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/inhuman-nature": {
+   "event": null,
+   "lastmod": "2026-04-21"
+  },
+  "https://www.voodoobelfast.com/events/its-always-sunny-in-belfast": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/lansdowne": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-25",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:lansdowne",
+    "source_url": "https://www.voodoobelfast.com/events/lansdowne",
+    "start_time": "20:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/lansdowne-tickets/artist/1502446"
+     ]
+    ],
+    "title": "Lansdowne",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-15"
+  },
+  "https://www.voodoobelfast.com/events/life-is-loud": {
+   "event": null,
+   "lastmod": "2026-04-30"
+  },
+  "https://www.voodoobelfast.com/events/linkin-cork!": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-01-23",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:linkin-cork!",
+    "source_url": "https://www.voodoobelfast.com/events/linkin-cork!",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/linkin-cork-irelands-tribute-to-linkin-park-tickets-1998445289658?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Linkin Cork!",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/master-of-pulpits": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-01-16",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:master-of-pulpits",
+    "source_url": "https://www.voodoobelfast.com/events/master-of-pulpits",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/master-of-pulpits-irelands-number-1-tribute-to-metallica-tickets-1999359736794?aff=oddtdtcreator&keep_tld=true"
+     ]
+    ],
+    "title": "Master of Pulpits",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/matt-lang": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-02",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:matt-lang",
+    "source_url": "https://www.voodoobelfast.com/events/matt-lang",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/matt-lang-tickets/artist/5275951"
+     ]
+    ],
+    "title": "Matt Lang",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-08"
+  },
+  "https://www.voodoobelfast.com/events/mature-cheddar": {
+   "event": null,
+   "lastmod": "2026-06-23"
+  },
+  "https://www.voodoobelfast.com/events/mind-over-matter-fest": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-07",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:mind-over-matter-fest",
+    "source_url": "https://www.voodoobelfast.com/events/mind-over-matter-fest",
+    "start_time": "18:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Mind Over Matter Fest",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-21"
+  },
+  "https://www.voodoobelfast.com/events/morning-glory": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/mortal-backlash": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/motorwrecked": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-04-30",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:motorwrecked",
+    "source_url": "https://www.voodoobelfast.com/events/motorwrecked",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/motorwrecked-the-uks-most-authentic-sounding-tribute-to-motorhead-tickets-1998532634910?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Motorwrecked",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/nightmare-on-fountain-street": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-31",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:nightmare-on-fountain-street",
+    "source_url": "https://www.voodoobelfast.com/events/nightmare-on-fountain-street",
+    "start_time": "21:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/nightmare-on-fountain-street-tickets-1999698153006?aff=oddtdtcreator"
+     ]
+    ],
+    "title": "Nightmare on Fountain Street",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-03"
+  },
+  "https://www.voodoobelfast.com/events/nomadus": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/not-a-phase": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/nu-metal-night": {
+   "event": null,
+   "lastmod": "2026-07-23"
+  },
+  "https://www.voodoobelfast.com/events/pain-program": {
+   "event": null,
+   "lastmod": "2026-09-16"
+  },
+  "https://www.voodoobelfast.com/events/paradise-city": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/partysaurus-rex": {
+   "event": null,
+   "lastmod": "2026-07-01"
+  },
+  "https://www.voodoobelfast.com/events/pet-needs": {
+   "event": null,
+   "lastmod": "2026-05-20"
+  },
+  "https://www.voodoobelfast.com/events/poison-remedy": {
+   "event": null,
+   "lastmod": "2026-08-13"
+  },
+  "https://www.voodoobelfast.com/events/preyrs": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/ravenlight": {
+   "event": null,
+   "lastmod": "2026-04-21"
+  },
+  "https://www.voodoobelfast.com/events/riff-riot": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/room-666": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/sanctium-noctis": {
+   "event": null,
+   "lastmod": "2026-07-28"
+  },
+  "https://www.voodoobelfast.com/events/sanctum-noctis": {
+   "event": null,
+   "lastmod": "2026-08-18"
+  },
+  "https://www.voodoobelfast.com/events/saved-by-the-bell": {
+   "event": null,
+   "lastmod": "2026-05-07"
+  },
+  "https://www.voodoobelfast.com/events/scream": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/silence-me": {
+   "event": null,
+   "lastmod": "2026-04-22"
+  },
+  "https://www.voodoobelfast.com/events/silent-running": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-06",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 15.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:silent-running",
+    "source_url": "https://www.voodoobelfast.com/events/silent-running",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/silent-running-live-in-voodoo-belfast-tickets-1982001613179"
+     ]
+    ],
+    "title": "Silent Running",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-24"
+  },
+  "https://www.voodoobelfast.com/events/slipkorn": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-14",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:slipkorn",
+    "source_url": "https://www.voodoobelfast.com/events/slipkorn",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/slipkorn-tickets-1998972375185?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Slipkorn",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/solitary": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/spaced": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/stitch": {
+   "event": null,
+   "lastmod": "2026-08-13"
+  },
+  "https://www.voodoobelfast.com/events/stripknot": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-15",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:stripknot",
+    "source_url": "https://www.voodoobelfast.com/events/stripknot",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/stripknot-myiasis-burlesque-show-tickets-1998919697625?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "Stripknot",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/sugar-rush": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/summer-slam": {
+   "event": null,
+   "lastmod": "2026-07-01"
+  },
+  "https://www.voodoobelfast.com/events/summerween": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/the-devils-fayre": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/the-devils-flea": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/the-green-room": {
+   "event": null,
+   "lastmod": "2026-08-20"
+  },
+  "https://www.voodoobelfast.com/events/the-meteors": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/the-misfits-cabaret": {
+   "event": null,
+   "lastmod": "2026-07-01"
+  },
+  "https://www.voodoobelfast.com/events/the-misfits-caberet": {
+   "event": null,
+   "lastmod": "2026-04-30"
+  },
+  "https://www.voodoobelfast.com/events/the-voodoo-sessions-021": {
+   "event": null,
+   "lastmod": "2026-05-13"
+  },
+  "https://www.voodoobelfast.com/events/the-voodoo-sessions-022": {
+   "event": null,
+   "lastmod": "2026-06-17"
+  },
+  "https://www.voodoobelfast.com/events/the-voodoo-sessions-023": {
+   "event": null,
+   "lastmod": "2026-07-24"
+  },
+  "https://www.voodoobelfast.com/events/the-voodoo-sessions-024": {
+   "event": null,
+   "lastmod": "2026-08-22"
+  },
+  "https://www.voodoobelfast.com/events/the-voodoo-sessions-025": {
+   "event": null,
+   "lastmod": "2026-09-03"
+  },
+  "https://www.voodoobelfast.com/events/unnatural-order": {
+   "event": null,
+   "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/urne": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-24",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 25.25,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:urne",
+    "source_url": "https://www.voodoobelfast.com/events/urne",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/urne-24-11-2026/event/380064898A0510AA"
+     ]
+    ],
+    "title": "URNE",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/vampir": {
+   "event": null,
+   "lastmod": "2026-09-30"
+  },
+  "https://www.voodoobelfast.com/events/vampires-only": {
+   "event": null,
+   "lastmod": "2026-09-30"
+  },
+  "https://www.voodoobelfast.com/events/velvet-moon": {
+   "event": null,
+   "lastmod": "2026-09-09"
+  },
+  "https://www.voodoobelfast.com/events/wealthy-women": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-11",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:wealthy-women",
+    "source_url": "https://www.voodoobelfast.com/events/wealthy-women",
+    "start_time": "20:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Wealthy-Women-w-OSG--El-Toro/42832052/"
+     ]
+    ],
+    "title": "Wealthy Women",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-22"
+  },
+  "https://www.voodoobelfast.com/events/while-we're-still-young": {
+   "event": null,
+   "lastmod": "2026-05-28"
+  },
+  "https://www.voodoobelfast.com/events/while-were-still-young": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-13",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:while-were-still-young",
+    "source_url": "https://www.voodoobelfast.com/events/while-were-still-young",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/while-were-still-young-emo-tribute-band-tickets-1998640814478?aff=ebdssbdestsearch"
+     ]
+    ],
+    "title": "While We'Re Still Young",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-09-01"
+  },
+  "https://www.voodoobelfast.com/events/wild-heat": {
+   "event": null,
+   "lastmod": "2026-07-28"
+  },
+  "https://www.voodoobelfast.com/events/world-news": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-16",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 16.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:world-news",
+    "source_url": "https://www.voodoobelfast.com/events/world-news",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/artist/5579621?venueId=461372"
+     ]
+    ],
+    "title": "World News",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-08-13"
+  }
+ }
+}

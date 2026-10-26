@@ -8,7 +8,7 @@ start_time: "19:00"
 status: "on_sale"
 genres:
 - "Rock"
-- "Indie/Alternative"
+- "Folk/Trad"
 tickets:
 - source: "Oh Yeah"
   url: "https://www.ohyeahbelfast.com/events/the-last-internationale"
@@ -17,7 +17,7 @@ sources:
   key: "ohyeah:the-last-internationale"
   url: "https://www.ohyeahbelfast.com/events/the-last-internationale"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

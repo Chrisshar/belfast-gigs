@@ -5,8 +5,7 @@ headliner: "BlackGate"
 venue: "crescent-arts-centre"
 date: "2026-10-30"
 start_time: "19:30"
-price_min: 10
-price_max: 15
+price_min: 15
 status: "on_sale"
 genres:
 - "Electronic"
@@ -14,12 +13,17 @@ genres:
 tickets:
 - source: "Citizen Ticket"
   url: "https://www.citizenticket.com/events/moving-on-music/blackgate/"
+- source: "Crescent Arts Centre"
+  url: "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
 sources:
 - name: "movingon"
   key: "movingon:blackgate"
   url: "https://www.movingonmusic.com/whats-on/blackgate/"
+- name: "crescent"
+  key: "crescent:blackgate"
+  url: "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

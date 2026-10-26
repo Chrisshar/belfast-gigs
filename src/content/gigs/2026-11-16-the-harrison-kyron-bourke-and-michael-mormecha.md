@@ -9,6 +9,7 @@ start_time: "20:00"
 status: "on_sale"
 genres:
 - "Jazz/Blues"
+- "Singer-Songwriter"
 tickets:
 - source: "TicketSource"
   url: "https://www.ticketsource.com/monday-club-events/kyron-bourke-amp-michael-mormecha/e-zpevzb"
@@ -17,7 +18,7 @@ sources:
   key: "harrison:blue-room-sessions-kyron-bourke-michael-mormecha-6wk6y"
   url: "https://www.chambersofdistinction.com/unified-calendar/blue-room-sessions-kyron-bourke-michael-mormecha-6wk6y"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

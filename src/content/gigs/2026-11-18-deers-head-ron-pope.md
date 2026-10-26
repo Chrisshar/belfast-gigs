@@ -9,7 +9,7 @@ price_min: 22.5
 status: "on_sale"
 genres:
 - "Singer-Songwriter"
-- "Country/Americana"
+- "Folk/Trad"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.co.uk/e/ron-pope-tickets-1986090609477"
@@ -18,7 +18,7 @@ sources:
   key: "deershead:ron-pope"
   url: "https://www.thedeersheadbelfast.com/whats-on/ron-pope/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -7,8 +7,8 @@ date: "2026-12-06"
 start_time: "20:00"
 status: "on_sale"
 genres:
+- "Folk/Trad"
 - "Rock"
-- "Indie/Alternative"
 tickets:
 - source: "Oh Yeah"
   url: "https://www.ohyeahbelfast.com/events/061226"
@@ -17,7 +17,7 @@ sources:
   key: "ohyeah:061226"
   url: "https://www.ohyeahbelfast.com/events/061226"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

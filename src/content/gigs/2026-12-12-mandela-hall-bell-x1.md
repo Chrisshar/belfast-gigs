@@ -14,15 +14,20 @@ genres:
 tickets:
 - source: "Glistrr"
   url: "https://www.glistrr.com/events/e/bell-x1-32-374"
+- source: "Mandela Hall"
+  url: "https://www.mandelahall.com/events/bell-x1"
 sources:
 - name: "mandela"
   key: "mandela:135904974"
   url: "https://www.glistrr.com/events/e/bell-x1-32-374"
+- name: "mandelaweb"
+  key: "mandelaweb:bell-x1"
+  url: "https://www.mandelahall.com/events/bell-x1"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.97
   method: "llm"
 ---

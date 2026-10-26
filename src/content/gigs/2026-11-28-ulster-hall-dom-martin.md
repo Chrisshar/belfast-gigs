@@ -1,7 +1,7 @@
 ---
 id: "000a3c44-d6cf-4c28-8e1c-503f7a24e50f"
 title: "Dom Martin - Spirit of Gallagher '72"
-headliner: "Dom Martin"
+headliner: "Dom Martin - Spirit of Gallagher '72"
 venue: "ulster-hall"
 date: "2026-11-28"
 status: "on_sale"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:the-legacy-sessions"
   url: "https://www.ulsterhall.co.uk/what-s-on/the-legacy-sessions/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

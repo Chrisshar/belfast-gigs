@@ -1,7 +1,7 @@
 ---
 id: "ebc3ec55-0f93-4695-bcc5-514a91f37494"
 title: "ROCK’N QUO – a tribute to Status Quo"
-headliner: "Rock'N Quo"
+headliner: "ROCK’N QUO – a tribute to Status Quo"
 venue: "deers-head"
 date: "2026-10-31"
 start_time: "14:00"
@@ -18,7 +18,7 @@ sources:
   key: "deershead:rockn-quo-a-tribute-to-status-quo"
   url: "https://www.thedeersheadbelfast.com/whats-on/rockn-quo-a-tribute-to-status-quo/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

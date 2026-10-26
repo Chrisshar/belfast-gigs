@@ -9,7 +9,7 @@ price_min: 13
 status: "on_sale"
 genres:
 - "Folk/Trad"
-- "Soul/R&B/Funk"
+- "Rock"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/the-unholy-gospel-band-autumn-sessions-2/"
@@ -18,7 +18,7 @@ sources:
   key: "blackbox:the-unholy-gospel-band-autumn-sessions-2"
   url: "https://www.blackboxbelfast.com/event/the-unholy-gospel-band-autumn-sessions-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

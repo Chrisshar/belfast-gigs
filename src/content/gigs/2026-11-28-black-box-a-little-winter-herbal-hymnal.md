@@ -18,11 +18,11 @@ sources:
   key: "blackbox:a-little-winter-herbal-hymnal"
   url: "https://www.blackboxbelfast.com/event/a-little-winter-herbal-hymnal/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
+  confidence: 0.4
   method: "llm"
 needs_review: true
 ---

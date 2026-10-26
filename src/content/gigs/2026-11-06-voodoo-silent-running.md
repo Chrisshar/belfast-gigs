@@ -9,7 +9,6 @@ price_min: 15
 status: "on_sale"
 genres:
 - "Rock"
-- "Indie/Alternative"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.co.uk/e/silent-running-live-in-voodoo-belfast-tickets-1982001613179"
@@ -18,7 +17,7 @@ sources:
   key: "voodoo:silent-running"
   url: "https://www.voodoobelfast.com/events/silent-running"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -8,7 +8,6 @@ status: "on_sale"
 genres:
 - "Tribute/Covers"
 - "Pop"
-- "Soul/R&B/Funk"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/the-yacht-rock-show/"
@@ -17,7 +16,7 @@ sources:
   key: "ulsterhall:the-yacht-rock-show"
   url: "https://www.ulsterhall.co.uk/what-s-on/the-yacht-rock-show/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

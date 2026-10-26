@@ -11,15 +11,21 @@ age_restriction: "18+"
 genres:
 - "Singer-Songwriter"
 - "Folk/Trad"
+- "Indie/Alternative"
 tickets:
 - source: "Glistrr"
   url: "https://www.glistrr.com/events/e/josh-ritter-32-373"
+- source: "Mandela Hall"
+  url: "https://www.mandelahall.com/events/josh-ritter"
 sources:
 - name: "mandela"
   key: "mandela:135904306"
   url: "https://www.glistrr.com/events/e/josh-ritter-32-373"
+- name: "mandelaweb"
+  key: "mandelaweb:josh-ritter"
+  url: "https://www.mandelahall.com/events/josh-ritter"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -9,6 +9,7 @@ status: "on_sale"
 genres:
 - "Rock"
 - "Jazz/Blues"
+- "Singer-Songwriter"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/imelda-may-raised-on-songs/"
@@ -17,7 +18,7 @@ sources:
   key: "ulsterhall:imelda-may-raised-on-songs"
   url: "https://www.ulsterhall.co.uk/what-s-on/imelda-may-raised-on-songs/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

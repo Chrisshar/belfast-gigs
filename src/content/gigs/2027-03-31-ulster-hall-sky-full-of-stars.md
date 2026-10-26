@@ -7,6 +7,7 @@ date: "2027-03-31"
 status: "on_sale"
 genres:
 - "Tribute/Covers"
+- "Rock"
 - "Pop"
 tickets:
 - source: "Box office"
@@ -16,7 +17,7 @@ sources:
   key: "ulsterhall:skyfull-of-stars"
   url: "https://www.ulsterhall.co.uk/what-s-on/skyfull-of-stars/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

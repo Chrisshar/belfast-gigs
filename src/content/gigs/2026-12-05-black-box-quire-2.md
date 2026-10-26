@@ -1,7 +1,7 @@
 ---
 id: "1f57c2b9-2f83-4779-ab99-1d996187494b"
 title: "Quire’s Big HoHoHo (Evening Show)"
-headliner: "Quire"
+headliner: "Quire’s Big HoHoHo (Evening Show)"
 venue: "black-box"
 date: "2026-12-05"
 start_time: "19:00"
@@ -18,7 +18,7 @@ sources:
   key: "blackbox:quires-big-hohoho-evening-show"
   url: "https://www.blackboxbelfast.com/event/quires-big-hohoho-evening-show/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

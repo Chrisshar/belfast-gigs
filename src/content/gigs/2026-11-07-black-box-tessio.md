@@ -10,8 +10,7 @@ start_time: "19:00"
 free: true
 status: "on_sale"
 genres:
-- "Folk/Trad"
-- "World"
+- "Electronic"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-tessio-piaras-olorcain/"
@@ -20,7 +19,7 @@ sources:
   key: "blackbox:sound-of-belfast-festival-the-budvar-music-trail-tessio-piaras-olorcain"
   url: "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-tessio-piaras-olorcain/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

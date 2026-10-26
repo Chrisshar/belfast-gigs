@@ -7,7 +7,7 @@ room: "Main Auditorium"
 date: "2026-12-18"
 status: "on_sale"
 genres:
-- "Folk/Trad"
+- "Contemporary/New Music"
 - "World"
 tickets:
 - source: "Box office"
@@ -17,7 +17,7 @@ sources:
   key: "ulsterhall:ireland-in-christmas-praise-6"
   url: "https://www.ulsterhall.co.uk/what-s-on/ireland-in-christmas-praise-6/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

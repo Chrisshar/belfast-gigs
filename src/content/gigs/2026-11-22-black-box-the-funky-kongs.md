@@ -10,7 +10,7 @@ price_max: 20
 status: "on_sale"
 genres:
 - "Tribute/Covers"
-- "Rock"
+- "Electronic"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/the-funky-kongs-video-games-live/"
@@ -19,7 +19,7 @@ sources:
   key: "blackbox:the-funky-kongs-video-games-live"
   url: "https://www.blackboxbelfast.com/event/the-funky-kongs-video-games-live/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

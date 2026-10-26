@@ -19,10 +19,10 @@ sources:
   key: "limelight:11581"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.8
+  confidence: 0.7
   method: "llm"
 ---

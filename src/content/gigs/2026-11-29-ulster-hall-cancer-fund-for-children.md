@@ -15,11 +15,10 @@ sources:
   key: "ulsterhall:cancer-fund-for-children"
   url: "https://www.ulsterhall.co.uk/what-s-on/cancer-fund-for-children/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
+  confidence: 0.9
   method: "llm"
-needs_review: true
 ---

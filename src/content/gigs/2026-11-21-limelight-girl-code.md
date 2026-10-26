@@ -9,6 +9,7 @@ doors_time: "17:00"
 status: "on_sale"
 age_restriction: "18+"
 genres:
+- "Pop"
 - "Electronic"
 tickets:
 - source: "locomotivelive.com"
@@ -18,11 +19,10 @@ sources:
   key: "limelight:11718"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
+  confidence: 0.9
   method: "llm"
-needs_review: true
 ---

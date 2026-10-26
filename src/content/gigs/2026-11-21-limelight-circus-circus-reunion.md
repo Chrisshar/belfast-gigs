@@ -1,7 +1,7 @@
 ---
 id: "9a79021b-03aa-4989-a30a-b5b29f7c5e58"
 title: "CIRCUS CIRCUS REUNION"
-headliner: "Circus Circus Reunion"
+headliner: "CIRCUS CIRCUS REUNION"
 support:
 - "Rob Tissera"
 - "Computer"
@@ -24,7 +24,7 @@ sources:
   key: "limelight:11081"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

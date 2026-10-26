@@ -1,1 +1,6360 @@
-{}
+{
+ "0037602701dacdf6": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Chesney Hawkes",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "00bdf1e888c20fae": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Country/Americana"
+  ],
+  "headliner": "Dylan Leblanc",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "00d8e9dcfb7ff065": {
+  "confidence": 0.7,
+  "genres": [
+   "Contemporary/New Music",
+   "World"
+  ],
+  "headliner": "Ireland in Christmas Praise",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "01254f1bbc7e67ce": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "The Molotovs",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Marra"
+  ]
+ },
+ "01534448f8953fbd": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Bon Jovi Experience",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "02660b65966d21cb": {
+  "confidence": 0.9,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Hot Chocolate",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "029ab4e802619581": {
+  "confidence": 0.5,
+  "genres": [
+   "Jazz/Blues",
+   "Contemporary/New Music"
+  ],
+  "headliner": "corto.alto",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "029eada2ba0244d0": {
+  "confidence": 0.97,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "RADIO IN CHAINS (a Radiohead & Alice in Chains Tribute)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "02d8870e350a060a": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "034429b36c93b4fc": {
+  "confidence": 0.9,
+  "genres": [
+   "World",
+   "Folk/Trad"
+  ],
+  "headliner": "Kíla",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0369b347e0e647e1": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers"
+  ],
+  "headliner": "The Three Amigos",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "038a8fe1b591f6dd": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Black Stone Cherry",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0397465e6cb5065a": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Ron Pope",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "03c769c55f71536c": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Lynne Hanson",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "04521b420a894e51": {
+  "confidence": 0.5,
+  "genres": [],
+  "headliner": "Heavy Halloween",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "049a2e61cd0a1f70": {
+  "confidence": 0.6,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Northern Ireland Music Prize",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "049ada2bd7ddc603": {
+  "confidence": 0.6,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "Okus",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Acid Age",
+   "Nomadic Rituals",
+   "Indominus"
+  ]
+ },
+ "0588e9743a38dbe0": {
+  "confidence": 0.8,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "The Tarantinos",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "05923ef13c5a6a53": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Mel Giedroyc in conversation",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "05bfe848c4e35885": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "The Rapparees",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "05ed3981b7830086": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Electronic"
+  ],
+  "headliner": "Rarewitch",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "06847969e28aa630": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Dexy's Midnight Runners",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "David Holmes DJ SET"
+  ]
+ },
+ "07739d78b7ffd211": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "Madra Salach",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "078392bfdf5e7ea4": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Malojian",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "07a73565230c1d88": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Linley Hamilton Trio",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "07ac53f998daee41": {
+  "confidence": 0.8,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Car Bomb",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "07ffa3cb80516c0a": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "083106391188e785": {
+  "confidence": 0.6,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Tenx9 – Disaster",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "08905409abda745e": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "092e2fdcc30829e3": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ricky Warwick & The Fighting Hearts",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Trucker Diablo"
+  ]
+ },
+ "0967955c8d7e41d0": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "No Cigar",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "097ef0ed82a396b0": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Friel Sisters",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0a03d444dc2c72ed": {
+  "confidence": 0.5,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chris Kent",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0a3f6b88d6fadf4f": {
+  "confidence": 0.8,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Peace Proms",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0a82ec43a92d323e": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "The Last Internationale",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0a94d84ab9f4a268": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0ac3330f0f210011": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Just Mustard",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0bd83add4e95aca1": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Nic Cage Against The Machine",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0c0e7857760598d2": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Silent Running",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0cd9dfd326d1740d": {
+  "confidence": 0.85,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Leslie Odom, Jr.",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0d9cf18a2cafc606": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Blue Room Sessions: Joe Krown",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0dc2e56de87d9b32": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Jazz/Blues",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Imelda May",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0dc8b4454489cd1a": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Milo Korbenski",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0e310e48e0d348d7": {
+  "confidence": 0.75,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Johns’ Boys Welsh Male Voice Choir",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0e84ae3bb5753017": {
+  "confidence": 0.6,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "Black Waters Redemption",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0f3a42cb9e9dbb6d": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Josh Ritter",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0f49660a6080a7f4": {
+  "confidence": 0.9,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Lee Hedley Trio",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0f5c2e6ccfba1050": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Black Box Open Mic",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "0fec40f9189e1362": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Country/Americana",
+   "Tribute/Covers"
+  ],
+  "headliner": "The Seeger Sessions Revival",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "103d54b67c23b4c5": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Slash",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Myles Kennedy",
+   "The Conspirators"
+  ]
+ },
+ "106bc6cf6f8ea7c1": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Chris Barron (Spin Doctors)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "114104baadf1d022": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "Craic Sabbath & Ozzified",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "11938ef9c21ba104": {
+  "confidence": 0.6,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Pearl Scam",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1215227c419e9899": {
+  "confidence": 0.85,
+  "genres": [
+   "Country/Americana",
+   "Tribute/Covers"
+  ],
+  "headliner": "One Night In Nashville",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Maria Jordan",
+   "Robbie McMinn",
+   "DJ Chris Armstrong"
+  ]
+ },
+ "124d499aad04584f": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Ocean Colour Scene",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "127ed5fffe3490a2": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "1297685dab2e33f4": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Saturday Afternoon Trad Session",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "129ff6c6325e91cd": {
+  "confidence": 0.98,
+  "genres": [
+   "Electronic",
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Enter Shikari",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "12d5a615a5c3e0ed": {
+  "confidence": 0.8,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Alexandra Kay",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "12e29af9278bab3e": {
+  "confidence": 0.93,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "South Arcade",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1314fea554e807e3": {
+  "confidence": 0.7,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Legends of the 60's Show",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "13448523ce10ad0e": {
+  "confidence": 0.97,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "134ab5274a5397e6": {
+  "confidence": 0.9,
+  "genres": [
+   "Indie/Alternative",
+   "Folk/Trad"
+  ],
+  "headliner": "AJJ",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "143df5fe81cb3d0f": {
+  "confidence": 0.7,
+  "genres": [],
+  "headliner": "Joshua Idehen",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1496d065aceeb258": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues",
+   "Pop"
+  ],
+  "headliner": "Let It Snow: From Bing to Bublé with Ruth McGinley",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Patrick Smyth"
+  ]
+ },
+ "14be3db2ebd0f70c": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Mark Hegan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "15ac6b11d425b838": {
+  "confidence": 0.8,
+  "genres": [
+   "Country/Americana",
+   "Rock"
+  ],
+  "headliner": "The Whiskey Brothers",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "165bbf0f88b85ca5": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Hail The Sun",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Blight Town"
+  ]
+ },
+ "166bf9ea55202ddc": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Simple Things",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "16717b5e14020a54": {
+  "confidence": 0.97,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "ROCK’N QUO – a tribute to Status Quo",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1671a16d4ae37496": {
+  "confidence": 0.8,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Peace Proms",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1680bb78eb158e22": {
+  "confidence": 0.7,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Gifted: Foreign Mornings",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "16a0cfc44a5cd8ab": {
+  "confidence": 0.85,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "TC.KYLIE",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "170b2c5a0038a319": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Motorwrecked",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1815b2b714fb8e1e": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Lansdowne",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "18e836f7f32e21f4": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Onóir",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "192b698232308120": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Bjorn Identity - Abba Christmas",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "192c9f114f31ea1c": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "Lindisfarne",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1944a5affa9460dc": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Eagles of Death Metal",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Yächtley Crëw"
+  ]
+ },
+ "1952f1257d171ee9": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "197eecc09bf51f48": {
+  "confidence": 0.5,
+  "genres": [
+   "Contemporary/New Music",
+   "Pop"
+  ],
+  "headliner": "Christmas by Candlelight",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "19b7ecd4e7531f51": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "B.Y.O.B - Tribute to System of a Down",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "UNTIL 9"
+  ]
+ },
+ "19c2a2c56f6ea949": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Fray",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "19ead03d25c2bc29": {
+  "confidence": 0.9,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
+  ],
+  "headliner": "Christmas with The Motown Sensations",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1a653301df1805f3": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Andy Irvine & Quilty",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1a6f1d5e0e73fd26": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Highstool Prophets",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1ae149afc47d5223": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "NOUGHTIE NINETIES – 90’s – 00’s",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1b946977bfc232c2": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Dani Larkin",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1c3fe73e4a582f00": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Bleech 9:3",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1c40f29796bcdf15": {
+  "confidence": 0.97,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "The Snuts",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1d73c9dc1b17e5b8": {
+  "confidence": 0.9,
+  "genres": [
+   "Punk/Hardcore",
+   "Indie/Alternative"
+  ],
+  "headliner": "Basement",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Fleshwater",
+   "Béton Armé"
+  ]
+ },
+ "1d76b476ef07bf76": {
+  "confidence": 0.93,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1d81ab12c91ebab4": {
+  "confidence": 0.98,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Razorlight",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Molotovs"
+  ]
+ },
+ "1e8b125d8034eb29": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: The Snowman",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1e9db9e878afd6bf": {
+  "confidence": 0.8,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Orbital",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "216b04d71670c237": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Classic Album Night: Snow Patrol – Eyes Open (20th Anniversary)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "218ac3a228ce1830": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Beauty & Brilliance",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "220cca1170f23cc7": {
+  "confidence": 0.7,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "220d1e278bd289d5": {
+  "confidence": 0.85,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Pinsleep",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Lord Jane",
+   "The Thing Is...",
+   "GUSH"
+  ]
+ },
+ "222c13455fba9315": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Late Night Thoughts",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "23018699a4c5a668": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Spielberg At 80",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2315dc29eb06b974": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Picture This",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "236699f2337925e3": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative"
+  ],
+  "headliner": "Margaret Glaspy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "23dff64ea1987914": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Blackberry Path",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Clare Galway"
+  ]
+ },
+ "23fb346171fe3f0b": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Tom Remon",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "240177e0c341e5ac": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "BEOGA",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "240d1afe508bacf8": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Celtic Soul",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "247a7fb74d7258f0": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Duke Special",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "24a390abafa24615": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Radio Free Alice",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "24f0ab6bfafb206c": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "THE PAUL WELLER EXPERIENCE",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "PROPER"
+  ]
+ },
+ "24f92004cc8c8a93": {
+  "confidence": 0.85,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Panchiko",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "256dfeb441fdf709": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "Stripknot",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "25f5fed837b13ec6": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Dirty Dc",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "266146fcf2cb7455": {
+  "confidence": 0.8,
+  "genres": [
+   "World",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Birsen Tezer",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "267e52fd7517b5f8": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Scott Bennett",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "270df97d177667c2": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Picture This",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "27ce73b4dea1df66": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Good Health Good Wealth",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "27fffe2d8a6f1fd3": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Country/Americana"
+  ],
+  "headliner": "Tommy Emmanuel, CGP",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "29a0954de6539ddd": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Sounds of the 60s Live",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2a38ecfca12f5a5d": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Esmeralda Road",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2aaabcbfb5187c4a": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Jazz/Blues",
+   "Pop"
+  ],
+  "headliner": "The Rat Pack",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2b1f3da33ee7b6b3": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "The Chicago Blues Brothers",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2c91e3b5e10396c1": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "DMA's",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Guest List"
+  ]
+ },
+ "2cf3a080dae72014": {
+  "confidence": 0.6,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "How R U",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ghoulgirl"
+  ]
+ },
+ "2e2f55468e997286": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Delta Goodrem",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2e50cebdcf63c468": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Martin Stephenson & The Daintees",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2ec39a47a86a0661": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "High Kings",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2f2901666fd42d2c": {
+  "confidence": 0.6,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Jazz Room",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2f6b6b6dbe12d793": {
+  "confidence": 0.8,
+  "genres": [],
+  "headliner": "Matt Lang",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2f73b32c11450dcb": {
+  "confidence": 0.6,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2fda17144d59be99": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Take It To The Limit",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "30312b4d5f56de30": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "Lindisfarne",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "30db83c81f3d17f7": {
+  "confidence": 0.8,
+  "genres": [
+   "Country/Americana",
+   "Folk/Trad"
+  ],
+  "headliner": "The Boondocks",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "30f78566fa86ad18": {
+  "confidence": 0.7,
+  "genres": [],
+  "headliner": "Emo Rave",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "310a722f6ba0d9e6": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "31921f9aa35a397c": {
+  "confidence": 0.95,
+  "genres": [
+   "Punk/Hardcore",
+   "Metal"
+  ],
+  "headliner": "Lawnmower Deth",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "31a6235b16f87b0c": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "A Night for Jamesy Kilpatrick",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3308aa223772cddb": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "A Night of Christmas Music and Song",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3318baa67eae10d1": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Jacek Stachursky",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3345fdb6bcdbfb3c": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Dermot Kennedy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "334be304ec83ea04": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Clash of the New Breeds 2026",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "33c272d79c62e953": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Songs of Glen Hansard: In Support of Simon Community",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3416bc6a61506edb": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: The Rite Of Spring",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "34185a0eeab6057a": {
+  "confidence": 0.9,
+  "genres": [],
+  "headliner": "The Acting Bug Showcase",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "344f50e3fb81949f": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "RIOT! Presents: Paramór",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "34ef02f33f1a8227": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Bat Out of Hell 50th Anniversary Concert",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "34f7151109f4f818": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Angeline Ball",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "34fa26aa03902d93": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "35bbf975c45b5fe4": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Script",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "James Morrison"
+  ]
+ },
+ "3645d5a8248354a5": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Linkin Cork!",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "37056e466a3ee865": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Kings of Lyon & The UK Strokes",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3866a6cb9b32367b": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Electric Six",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "38dfcdb5073875e3": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "The Celine Experience",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3932aab21d97b887": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Roll With It",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "39e5811761ce904e": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Dock Street Jazz Jam",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3a1a106858deb54b": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Defying Gravity",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3a2f3fc086a369f0": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Hard Bizkit",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3b297e50e3753252": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Rushified Presents: The Music of Rush",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3b400a3b79480c06": {
+  "confidence": 0.5,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chris Kent",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3c0a53214d780e00": {
+  "confidence": 0.93,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3c3845555902d81b": {
+  "confidence": 0.9,
+  "genres": [
+   "Hip-Hop/Rap",
+   "Pop"
+  ],
+  "headliner": "Goldie Lookin Chain",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3c6b68a941fb8465": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Wrong Jovi",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3c7932f897b94d37": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "John Spillane",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3c8eb81e17504df2": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Irelands Largest Harry Potter Pub Quiz 2026",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3caf168c13672b56": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Florence Road",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3cc08b6fc0d2ba65": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Garron Noone",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3cf5530e013015aa": {
+  "confidence": 0.8,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Volume Control presents: HallowEMO",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3dfca9345f08d803": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Dock Street Jazz Jam",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3e074685aea1a40d": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Breathe - The Pink Floyd Experience",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3e5a848bd36c04a4": {
+  "confidence": 0.5,
+  "genres": [],
+  "headliner": "Keg",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3ebe067889836acf": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Mörderstein - a tribute to Rammstein",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3ec9590c65993b2f": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Gearóid Farrelly",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3ed277d3ccd64035": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Fuego Fatale – Women of Horror",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4028223ade4a2c18": {
+  "confidence": 0.85,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Ariel Posen",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "40b5e565ea06f880": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Cardinal Black",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "40e6a94a33ae6bed": {
+  "confidence": 0.5,
+  "genres": [
+   "Pop",
+   "Contemporary/New Music"
+  ],
+  "headliner": "O Holy Night",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "418c2521e65835f2": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Mind Over Matter Fest",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "41d8750a155c0c48": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Dire Straits Experience",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "433f4e77c7609102": {
+  "confidence": 0.6,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "43f6a8c24ccaec28": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Darragh Ennis: The Ultimate Pub Quiz",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "458165f024860a35": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Country/Americana"
+  ],
+  "headliner": "Thunder Rolls",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "45b352d868315ef6": {
+  "confidence": 0.98,
+  "genres": [
+   "Folk/Trad",
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "The Pogues",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Wran",
+   "Maicín"
+  ]
+ },
+ "45c0585d359d8859": {
+  "confidence": 0.85,
+  "genres": [
+   "Punk/Hardcore",
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Riot! Presents: National Emo Day 2026 with Paramór, Ireland's top Paramore tribute",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "46c5b5ca08c2b21d": {
+  "confidence": 0.9,
+  "genres": [],
+  "headliner": "Bingo Loco Pres. Juke Box Jam",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4768e2c3e319c729": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Total Stone Roses & Oaysis Live",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4792e589fbad460c": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop",
+   "Indie/Alternative"
+  ],
+  "headliner": "Sombr",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Suki Waterhouse"
+  ]
+ },
+ "47d403a25c03b696": {
+  "confidence": 0.5,
+  "genres": [
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "SexyTadhg",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "47e75e755b08a5f5": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "The Outcasts",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Tramp",
+   "Éabha"
+  ]
+ },
+ "486971c2aff3e435": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal",
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "Skindred",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Alien Ant Farm",
+   "Survivalist"
+  ]
+ },
+ "497fe4a3ba5d6cd9": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Heist",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "49aed181b2b1e395": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Rachel Tucker",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "49bef1d83370e1ba": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Bell X1",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "49cf280f556cf772": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic",
+   "Pop"
+  ],
+  "headliner": "L1NKN P4RK",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4b6a757f34b9c194": {
+  "confidence": 0.75,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "The Sabres of Paradise",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4c19ae9b3d94b183": {
+  "confidence": 0.97,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Niall Horan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Flowerovlove"
+  ]
+ },
+ "4c1b53f7591a28e4": {
+  "confidence": 0.7,
+  "genres": [],
+  "headliner": "Outburst Festival 2026: Artistic Interference – Array Collective X David Hoyle Queereoke",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4cce95674512db1b": {
+  "confidence": 0.5,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Will Atkinson Vs The Rocketman",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4d1740af4c81e5c1": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Ruby Wax",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4d487bc2b5539b24": {
+  "confidence": 0.97,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Scouting For Girls",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4d65e0051a2a6ce4": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Aslan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Wolfhound"
+  ]
+ },
+ "4e32cf6984cb7a97": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Blue Room Sessions: Kyron Bourke & Michael Mormecha",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4f7401cf434f2394": {
+  "confidence": 0.85,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Kirsteen Harvey",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4ff7d11fe1dc8631": {
+  "confidence": 0.4,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Casper Walsh",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "50672d1e7877cc4b": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Eyehategod",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "516bc1c30c20e00d": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Glory Days: Bruce Springsteen Tribute",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "51f77bf44a15209e": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "52a748531e0e5e54": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Susan Calman",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "533f6cfd10204672": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "The Tumbling Paddies",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5475eeb25c108b9f": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Blossoms",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "54ce7a63ffcfe53a": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Rick Margitza",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "555a0c8a20593667": {
+  "confidence": 0.5,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Let The Music Play",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "55a0bad3f021433e": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "HUMAN TOUCH (a tribute to Bruce Springsteen)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "55abd89a2663dc8c": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: The Magic Of Christmas",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5601a8a9e94bba76": {
+  "confidence": 0.9,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Delines",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5689d00ff31f98f2": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Mama's Broke",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "56eb4b0a4c8975bf": {
+  "confidence": 0.95,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Teenage Bottlerocket",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Good Friend",
+   "Sam Russo"
+  ]
+ },
+ "572896de16786e3f": {
+  "confidence": 0.7,
+  "genres": [
+   "Country/Americana"
+  ],
+  "headliner": "Nashville Live",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5763eddc81558230": {
+  "confidence": 0.85,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "TESSIO",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Piaras O’Lorcain"
+  ]
+ },
+ "57927ed7ce8d08d0": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Madra Salach",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "57e0630fc686e653": {
+  "confidence": 0.9,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chris Andreucci & The Longneck Losers: A Night From Nashville",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "59818755374ea652": {
+  "confidence": 0.85,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "ANVIL",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "KILLER"
+  ]
+ },
+ "59bfce985351c482": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Aaron Rowe",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Scarlett Loran"
+  ]
+ },
+ "5b5d0dbd73c473f1": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "The Wanted 2.0",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5b6f3b1adaf75dfd": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Big Ass Truck",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "PINTGLASS",
+   "IFITBLEEDS"
+  ]
+ },
+ "5bf0ed85de8f7330": {
+  "confidence": 0.9,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Kyron Bourke",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Michael Mormecha"
+  ]
+ },
+ "5c9415f74fae38b3": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "David Essex",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5cc65d4175a715b8": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Cora Harkin",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5d1457a810c2225e": {
+  "confidence": 0.9,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "McKowski DJ Night - Sound of Belfast 2026",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5ee3b95b9c6e6ea5": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Teenage Fanclub",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5ffb06ede5297893": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "The Stranger - A Tribute to Billy Joel",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6015789e440266f5": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic",
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "Slipknowt",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6095af4ce6519193": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Indie/Alternative",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Ash",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "60ead449bb523f54": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Dylan Flynn & The Dead Poets",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "61824e1a6ff4cd36": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Giant Spirits",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "61c4b677019bda63": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "The Darkness",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Florentenes"
+  ]
+ },
+ "61f9d69a977f9284": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "The Mersey Beatles",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "63249dbb51578048": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Basht",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6372e52ef269923a": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Swervedriver",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6463f55f99cd4efa": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Transvision Vamp",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Susi Pagel"
+  ]
+ },
+ "649fbe7fc09b6e16": {
+  "confidence": 0.8,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "64df4a03e8fd4f1f": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Phil Coulter",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "64eb5021985d7d95": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Magic Queen - The Ultimate Tribute to Queen",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "656fd1f72c96c1da": {
+  "confidence": 0.98,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Editors",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "658212427270a089": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6636462f17e42003": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "While We'Re Still Young",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "663c61e447b5a3ff": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Seasons & Splendour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6761d235de565353": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Andy Fairweather Low",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "67c329282eafd6fc": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Don McLean",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "68ab429f51b6f556": {
+  "confidence": 0.97,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "AVATAR",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Neckbreakker"
+  ]
+ },
+ "694bbaaf33703bdd": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Deacon Blue",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6ad02073dd227205": {
+  "confidence": 0.7,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Divides Unfold",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Saffron Gorman",
+   "The Black Eagle Band"
+  ]
+ },
+ "6b7711700449874f": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Take That",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6ea786bca649d394": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Playback Presents: 'Station To Station' Turns 50",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "6f0736b4083ee978": {
+  "confidence": 0.97,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Niall Horan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Flowerovlove"
+  ]
+ },
+ "7005c522ce245e34": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Rock Anthems Show - Nothing But a Good Time",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "71678acd6773d572": {
+  "confidence": 0.97,
+  "genres": [
+   "Tribute/Covers",
+   "Electronic",
+   "Pop"
+  ],
+  "headliner": "The Devout: Depeche Mode Tribute",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7363738861eef48d": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Jobi Riccio",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7454322983263f02": {
+  "confidence": 0.85,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "NI Music Prize 2026",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "748a3853f1ab6033": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Gurriers",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "749171aa541f0bba": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
+  ],
+  "headliner": "The Style Councillors",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7529f7d370a70006": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Springsteen Spectacular",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "75634a8668933727": {
+  "confidence": 0.97,
+  "genres": [
+   "Country/Americana"
+  ],
+  "headliner": "Cody Johnson",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7563f9f983d555a2": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Kingfishr",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7575799e0256c7e9": {
+  "confidence": 0.5,
+  "genres": [],
+  "headliner": "The Voodoo Sessions 026",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7647ca33bf33c598": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Limehouse Lizzy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "77e9603b3aeb1b2d": {
+  "confidence": 0.8,
+  "genres": [
+   "World",
+   "Folk/Trad"
+  ],
+  "headliner": "Elaha Soroor",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Kefaya"
+  ]
+ },
+ "78cafd79f9db2142": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Elvana",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7901fe89b3c64f48": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Gun Ghaol",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "793fa59cd8351b36": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Wild Echoes",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7ac7c40d95a8d8dd": {
+  "confidence": 0.5,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Thistle",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7b1752f51e7cb5f8": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative"
+  ],
+  "headliner": "Tom Gee",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7c2cd79289ec99c2": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Emilio Santoro as Elvis",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7c881a3865aa6a5b": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Elephant Sessions",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7cb831c3db60ef6c": {
+  "confidence": 0.98,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "SEVENDUST",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Overgrown"
+  ]
+ },
+ "7cc8faa2caecac84": {
+  "confidence": 0.97,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Bell X1",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7d5bbc3cc8109484": {
+  "confidence": 0.85,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Andrew Strong",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7d78854e5137aecb": {
+  "confidence": 0.6,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Bleech 9:3",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7da2871fb02b1c72": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Country/Americana"
+  ],
+  "headliner": "All the Best: A John Prine Christmas",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7de55f39c1d95780": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7ecfa38faf5f8321": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Dirty Honey",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7ef32efba7e33da1": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "SOFY",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7f0a7e5a7fc8a5a2": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Warrington-Runcorn New Town Development Plan",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7f2248fb32ce2d1d": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk",
+   "Electronic"
+  ],
+  "headliner": "Nubiyan Twist",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7fa275d745200a8a": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Magic Queen",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7fc2b19ea98decb7": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Wilt",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7fe88bc1d4bcc21b": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Callum Beattie",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "806f29434f3b03b9": {
+  "confidence": 0.7,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "The Belfast Jazz Swing Orchestra",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "80c65c554a87001f": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Jingle Belles: A Cabaret Christmas Spectacular!",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "810b4b4e97967d21": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "Country/Americana"
+  ],
+  "headliner": "Whiski Road",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "81248a1f47834ebd": {
+  "confidence": 0.97,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "819fb29ab2565b0f": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Nothing But a Good Time",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "81ee1b31cd43ec48": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Gráinne Meyer",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Atóg"
+  ]
+ },
+ "82a8b68f80ec5044": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Guns Reloaded",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "82ebdb0c5c2c881f": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "The Eminem Experience",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "834e243db1ae224d": {
+  "confidence": 0.6,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "CIRCUS CIRCUS REUNION",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Rob Tissera",
+   "Computer",
+   "Gleave",
+   "Jacko",
+   "Robbie Nelson"
+  ]
+ },
+ "8367421e1274d778": {
+  "confidence": 0.98,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "The Undertones",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Outcasts",
+   "The Marra"
+  ]
+ },
+ "84a5af05c23a6f78": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Rock N Christmas",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "84b4d6543b117bfc": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Pop"
+  ],
+  "headliner": "The Shamrocks",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Talisk",
+   "Keith Harkin",
+   "Niall McNamee"
+  ]
+ },
+ "853f0d47411b257e": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Sky Full of Stars",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "86b36b060d909edb": {
+  "confidence": 0.7,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Proud Mary",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "87096c9b7bcc7f9f": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Jazz/Blues",
+   "Pop"
+  ],
+  "headliner": "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "88ee7e36fc60529d": {
+  "confidence": 0.97,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "James Blunt",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "894c8a006871de12": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Folk/Trad"
+  ],
+  "headliner": "The John Martyn Project",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8d9663fed6681253": {
+  "confidence": 0.7,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Contention",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8dec60e5a3d49c9e": {
+  "confidence": 0.9,
+  "genres": [
+   "World",
+   "Folk/Trad"
+  ],
+  "headliner": "Kíla",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8e540988ee187965": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Texas",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Del Amitri"
+  ]
+ },
+ "8e6f98e87cefd11c": {
+  "confidence": 0.85,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Mauvey",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8f286c8dfebe0c75": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "OLE 60",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8fd8ae72289b84fa": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Punk/Hardcore"
+  ],
+  "headliner": "ICE AGE",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "908515d73457be5f": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9204a70ce413fb39": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Susie Dent – Word Perfect",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "92a53b2d6579e20a": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Electronic"
+  ],
+  "headliner": "The Music of Stranger Things",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "93869c8533231a01": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Outburst Festival 2026: No Apologies",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "93ea7b916d12affe": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Songs of Noel Gallagher",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "942986d375df7b6f": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "Mörderstein - a tribute to Rammstein",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "942aaeae98cad2b6": {
+  "confidence": 0.97,
+  "genres": [
+   "Tribute/Covers",
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "SEVENTH SON (IRON MAIDEN TRIBUTE)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "SOUND OF SABBATH"
+  ]
+ },
+ "942ac9af2db003f2": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Black Parade Halloween Party",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "94e89a0711cbae96": {
+  "confidence": 0.9,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Curtis Stigers",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "94f27b675c55c201": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Jean Toussaint",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "950ed73115382b81": {
+  "confidence": 0.45,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "The Ties That Bind - SUPER SONG SUNDAY & ABAIR AMHRÁN",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "950f51cbc0373a23": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ria Rua",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9536fc631b5e2506": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Brian Kennedy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "953e5256f1f44bfb": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Pork Pie",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9747548ecd0202ba": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Nerina Pallot",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9759d73ffa432435": {
+  "confidence": 0.85,
+  "genres": [
+   "Pop",
+   "Indie/Alternative"
+  ],
+  "headliner": "Melrose Avenue",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Arankai",
+   "Call Me Amour"
+  ]
+ },
+ "9809beb9013f9b81": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Tommy Fleming",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "986cb45150213a0f": {
+  "confidence": 0.97,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "SAXON",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "99ebc5054922e843": {
+  "confidence": 0.9,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Iceage",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9a5e0e1d71496878": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "London Symphonic Rock Orchestra",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9ad073fdc6eb7099": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Macc Lads",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9adeaa81e0862386": {
+  "confidence": 0.98,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Megadeth",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Black Label Society",
+   "Testament"
+  ]
+ },
+ "9b11a9d3ee1726a7": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ed Cosens",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9c16228b6fc91aa5": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "The Yacht Rock Show",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9c58bdd90bd2864f": {
+  "confidence": 0.9,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Meltdown'S Halloween Headbangerz Ball",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9cfaac570dea00f0": {
+  "confidence": 0.97,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "Evergrey",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "IGNEA",
+   "STELLAR CIRCUITS"
+  ]
+ },
+ "9d9bf1a49697f861": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Beyond the Music: U2 REIMAGINED",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9db57f3995ba6d4d": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Mammoth",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Florence Black"
+  ]
+ },
+ "9f3ef8cc0c1aff67": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Kirk MacDonald",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "9f611d0142dab3e9": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Fionn Regan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a04c3b7e487a1922": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana",
+   "Folk/Trad"
+  ],
+  "headliner": "Nathan Carter",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a06fbc4ef0c4aaef": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "Britallica: Britney Spears Metal Tribute",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a07748b752c58f0f": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "Outburst Festival 2026: Public Domain – IAF Podcast Live",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a0a918f52c2e1d00": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ralph McTell",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a0e1c2a9df62652d": {
+  "confidence": 0.97,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "The Undertones",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Moondogs",
+   "Esmeralda Road"
+  ]
+ },
+ "a16449b396628fa8": {
+  "confidence": 0.85,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Chorus! An Evening with the Northern Ireland Opera Chorus",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a1dcec36c6fe4719": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Roll It Studios Open Mic",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a1e4596539bd2abf": {
+  "confidence": 0.9,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Indie/Alternative"
+  ],
+  "headliner": "THE BONES OF J.R. JONES",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "CONCHUR WHITE"
+  ]
+ },
+ "a2ad72b1f2f8a02f": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "Pop"
+  ],
+  "headliner": "Quire’s Big HoHoHo (Afternoon Show)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a2ee396552f969de": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "The Beast - The Largest Iron Maiden Tribute",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a2fa01ed77eb1fb3": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Katherine Jenkins",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a30db6edfef67cba": {
+  "confidence": 0.7,
+  "genres": [
+   "Tribute/Covers",
+   "Electronic"
+  ],
+  "headliner": "The Funky Kongs",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a3bb2906a29c3286": {
+  "confidence": 0.7,
+  "genres": [
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "Slipkorn",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a3d7ebbc2a02110a": {
+  "confidence": 0.85,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Sweet Savage",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Special guests"
+  ]
+ },
+ "a40b0d914980ca74": {
+  "confidence": 0.97,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Kate Nash",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a41e91f801c9ac99": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Colin Graham",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a43adb8eafa3e63a": {
+  "confidence": 0.85,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Chamber Choir Ireland",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a49baf5920886617": {
+  "confidence": 0.7,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Belfast Music Walking Tour + Performance",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a4cd989a0243f4e6": {
+  "confidence": 0.95,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Dexy's Midnight Runners",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a5525f808047678b": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop",
+   "Indie/Alternative"
+  ],
+  "headliner": "DAY FEVER",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a56b5c7bf024d3d7": {
+  "confidence": 0.85,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Choir! Choir! Choir!",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a74ee3a94f70acb7": {
+  "confidence": 0.9,
+  "genres": [
+   "Jazz/Blues",
+   "Rock"
+  ],
+  "headliner": "Crow Black Chicken",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a78c60a6846f30e6": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "GAZEFEST",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a7b4ba0113e4bc62": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Alex Warren",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a81739727dcf0425": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Big Country",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a853c3f6c878eb92": {
+  "confidence": 0.5,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "KEO",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a930d560f6092b0a": {
+  "confidence": 0.98,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a95fc7405cc8469b": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "Pop"
+  ],
+  "headliner": "Quire’s Big HoHoHo (Evening Show)",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a9d4b2518933807f": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jack Savoretti",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a9e530165baadc85": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Stunning",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "aa33034bfe7ee6f8": {
+  "confidence": 0.75,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Arborist",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "aa8a693309b4615d": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Mike Massé",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ab12ebe1ead0e4bf": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Music Of Fleetwood Mac By Candlelight",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ab309a9b79411a95": {
+  "confidence": 0.9,
+  "genres": [
+   "Punk/Hardcore"
+  ],
+  "headliner": "Discharge",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ab64ed43086d6305": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Eoghan Ó Ceannabháin & Niamh Keady-Tabbal",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ac7135334c4f63ff": {
+  "confidence": 0.4,
+  "genres": [
+   "Folk/Trad",
+   "Contemporary/New Music"
+  ],
+  "headliner": "A Little Winter Herbal Hymnal",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ae67ee832053caa4": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "World News",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ae73e8017f1d23a9": {
+  "confidence": 0.4,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Ahh...Freak Out!",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "aefa2135cfe1d897": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Frank & The Walters",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "af2590b3b4ac7366": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "EA Music Dundonald Christmas Concert",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "afb557bdb2aad3f7": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Amble",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Dylan Gossett"
+  ]
+ },
+ "b1b742d12d0d693b": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "Harakiri for the Sky",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Sunken"
+  ]
+ },
+ "b2286fb2ec421cfc": {
+  "confidence": 0.6,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "EMO FEST",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b2a02bb6c3cc1fec": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Sorcha Richardson",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b3498ba09169a4ef": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Wealthy Women",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b3770de8790cd848": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "Bingo Loco Pres. Juke Box Jam",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b4607f735496eb49": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad",
+   "Indie/Alternative"
+  ],
+  "headliner": "Josh Ritter",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b462fb91164e8269": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Conor Mallon",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Dara Dubh"
+  ]
+ },
+ "b46ad202c35de3c2": {
+  "confidence": 0.85,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Black Box Open Mic",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b486f42df3de646e": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Liv Monaghan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b6655bf03b3ca99f": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Tyketto",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b679a0c10e4b13cc": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Garron Noone",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b6cf8d74a991225f": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic",
+   "Pop"
+  ],
+  "headliner": "PLEASUREDOME 80's / 90's CHRISTMAS CRACKERS",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b70013748c1b7e05": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b759a522107df87a": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Marquee Square Heroes: A Tribute To The Music of Fish-era Marillion",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b80bcc765b8fe34b": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b93fafc70d78fbfa": {
+  "confidence": 0.4,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Ties That Bind - Secret Song",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ba5bc625e542098e": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Duke Special - Songs From The Deep Forest 20th Anniversary",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ba97b706973e9425": {
+  "confidence": 0.9,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Drake Milligan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "babcd60b54d1c977": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues",
+   "Pop",
+   "Tribute/Covers"
+  ],
+  "headliner": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bb54a41b76d569dd": {
+  "confidence": 0.75,
+  "genres": [
+   "Contemporary/New Music",
+   "Folk/Trad"
+  ],
+  "headliner": "Alison Cotton",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bc0a28156da4ea96": {
+  "confidence": 0.97,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "SKERRYVORE",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bc344b52fbe1ffdf": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "bc3b009ef99d6618": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Diamonds Are Forever",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bc5f5b6873d73a47": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Fillers",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bcc3580eb9ff3cec": {
+  "confidence": 0.5,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Gareth",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "be41a75c1ff64d45": {
+  "confidence": 0.9,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Signs of The Swarm",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ten56",
+   "Oceans Ate Alaska",
+   "Face Yourself"
+  ]
+ },
+ "becb5303a39b3e42": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Elvis Spectacular",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bf7add77aeebbd5d": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Erasured",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c006a77e76e92231": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues",
+   "Folk/Trad"
+  ],
+  "headliner": "Martin Taylor",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c0acf77ab3401665": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Tribute/Covers"
+  ],
+  "headliner": "For the Love of Shane MacGowan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c236f971789ecf11": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "BlackGate",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c2525547e9049144": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Delivery",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c2864f7c1b259146": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Lighthouse Family",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c28a664d449583c1": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Scummy Mummies",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c290c5559266c350": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana",
+   "Pop"
+  ],
+  "headliner": "Ashley Cooke",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Niamh McCrystal"
+  ]
+ },
+ "c3a9efe42b5c6272": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Battle of the Bands",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c4fc82ff8d217f2d": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "Xentrix",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Nervosa",
+   "Tortured Demon"
+  ]
+ },
+ "c576ade317300775": {
+  "confidence": 0.5,
+  "genres": [
+   "Metal"
+  ],
+  "headliner": "URNE",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c605507ca1f99a4e": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Rod Stewart",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Howard Jones"
+  ]
+ },
+ "c61baf2127b44e5f": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c65090deb609bda6": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Sharon Shannon",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Mary Coughlan",
+   "Frances Black"
+  ]
+ },
+ "c7e19a749658621d": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Forest Murmurs",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c7f32cebfeda0036": {
+  "confidence": 0.5,
+  "genres": [
+   "Pop",
+   "Indie/Alternative"
+  ],
+  "headliner": "KhakiKid",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c878678b2cad37a4": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Oasis Supernova",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c9abba6c0b08ace3": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Saturday Afternoon Trad Session",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c9ad1dda4181c5b6": {
+  "confidence": 0.97,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Two Door Cinema Club",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c9c05288a9f44d5b": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Outburst Arts Festival 2027: Catflap #6 LIVE",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c9f840b1772e222b": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Once Upon A Time",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ca0494071d993473": {
+  "confidence": 0.85,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Huey Morgan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cb88ff79d97e7d4c": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Bat’s Womb – The Lost Boys Themed Halloween Party",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cb8d42ec5bfb9c17": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Stop Making Sense Live",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cbd66c0092782113": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Celtic Symphonies",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ccd157a2fa1aee2f": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Briana Corrigan",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cd7e06980bc2e738": {
+  "confidence": 0.8,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Dead on a Sunday",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cdbd6bb96f018668": {
+  "confidence": 0.95,
+  "genres": [
+   "World",
+   "Rock"
+  ],
+  "headliner": "Rodrigo y Gabriela",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cdd36147429dfd0b": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Little Angels",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cdf4ac8f25fabbc4": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "EA Music Belfast Christmas Concert",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cf1bc71a4039a72a": {
+  "confidence": 0.7,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
+  ],
+  "headliner": "THE R&B ORCHESTRA",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cf75e7af0c959c3f": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Metal"
+  ],
+  "headliner": "MORETALLICA",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cf787abbb7f3399c": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Tribute/Covers"
+  ],
+  "headliner": "Dubliner The Legend of Luke Kelly Story",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cfb7537d56a6ffa5": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Bicurious",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d06803cd470768ee": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "An Intimate Evening With First Aid Kit",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d0d1fd046f5d0e9f": {
+  "confidence": 0.85,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Hannah Grace",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d10f8025f9094662": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "David Graham",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d1134a707bb1fe8a": {
+  "confidence": 0.4,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Gustaffson",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d1158e5469222c81": {
+  "confidence": 0.8,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Drew Baldridge",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d21247e3404c5d00": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Adult DVD",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d2c1c8047c2e6c51": {
+  "confidence": 0.4,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Stray Gaiters",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d2ec3dbb49d6d377": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Björn Again",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d39afeca1797474a": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "Playback Presents: Stop Making Sense",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d44e6c15c9981f6a": {
+  "confidence": 0.8,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "Mount Kimbie",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d5da3fdc6a6db34e": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Star Wars Pub Quiz 2026",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d67cda985c50e320": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Dylan John Thomas",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d6d1460731677ab4": {
+  "confidence": 0.85,
+  "genres": [
+   "Punk/Hardcore",
+   "Tribute/Covers"
+  ],
+  "headliner": "Marky Ramone's Blitzkrieg",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d6d4e99775cdaa1a": {
+  "confidence": 0.6,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Master of Pulpits",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d70a3e6511ef498d": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Magpie Comedy: Birthday Party!",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d780ad3af466bedb": {
+  "confidence": 0.7,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "1000 Mods",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d806c22957f1c43a": {
+  "confidence": 0.6,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The Whileaways",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d869e6a02329d973": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Man in the Mirror",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d890a40fef905296": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Chapterhouse",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d8a65735a21c00b5": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Beoga - With Friends",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d92997937d6076a6": {
+  "confidence": 0.45,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "The Ties That Bind - Sing for your Supper",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d93c3587f09d46d7": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d992d253685f1195": {
+  "confidence": 0.97,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Westlife",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Ana Sky"
+  ]
+ },
+ "d9d75d696c98ae13": {
+  "confidence": 0.8,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "da8e81a0b18f8e4c": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Folk/Trad"
+  ],
+  "headliner": "The Mumford and Sons Story - Awake My Soul",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "db51a2461940cb51": {
+  "confidence": 0.93,
+  "genres": [
+   "Jazz/Blues",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Anthony Gomes",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "dc08f11b73696ddf": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie Duffy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "dc2c2dae0111ca42": {
+  "confidence": 0.9,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Pop"
+  ],
+  "headliner": "Stone Foundation",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "dc74919cfab5bd28": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal",
+   "Folk/Trad"
+  ],
+  "headliner": "Alestorm",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "dd82949289d59d1b": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "FM",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "de3eeeaa9e49bb90": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "John Cooper Clarke",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "dea694ffbc8b54ef": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Emo Club",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "decb027ab3011e60": {
+  "confidence": 0.96,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Haken",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "IHLO",
+   "Black Orchid Empire"
+  ]
+ },
+ "df2056ce720dffad": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Hear'say + Liberty X",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "dfdd2adba1658ad1": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "Alabama 3 Acoustic",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e00a854695225172": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chuck Prophet",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e04f529590e6f34d": {
+  "confidence": 0.85,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Arborist",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e0a724713fdef23c": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Fat Dog",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Stratford Rise"
+  ]
+ },
+ "e31617de9de2d9a2": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ruth McGinley",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Jordan Arnold"
+  ]
+ },
+ "e374be9532a3d548": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Winter in the Sun: Cardinals",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Theatre",
+   "Croíthe",
+   "Madams Last Discovery"
+  ]
+ },
+ "e3b789d47886be04": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Darren Kiely",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e3e1ddab20bfcb5e": {
+  "confidence": 0.5,
+  "genres": [
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "Black Moon",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e44c9e834aec0223": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Conleth McGeary",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e4dcd975bd6296eb": {
+  "confidence": 0.9,
+  "genres": [],
+  "headliner": "The Simpson Halloween Pub Quiz",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e5537455bc9a560a": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Dom Martin - Spirit of Gallagher '72",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e5fa62a5d44fc95e": {
+  "confidence": 0.7,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "James Bond Concert Spectacular",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e5fa87727ba628dd": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Mo Gilligan",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e642515bfd2f80d8": {
+  "confidence": 0.85,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Susy Good: Album Launch",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e681a6bf31ee9e68": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Star Trek Pub Quiz 2026",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e6b27d43693bb267": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "John Garrity Band",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e71f94386e3a4535": {
+  "confidence": 0.93,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Tyler Braden",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Chanel Yates"
+  ]
+ },
+ "e75a4482106c36db": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "André Rieu",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e7f09a897a53809c": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues",
+   "Pop"
+  ],
+  "headliner": "Swing Gals at Christmas",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e7f3ec651f23823b": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "The Unholy Gospel Band",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e840898e03c16c8d": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Country/Americana"
+  ],
+  "headliner": "Foster and Allen",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e89a4c99c9b36007": {
+  "confidence": 0.4,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Cancer Fund For Children",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e9913ee0f39e7841": {
+  "confidence": 0.9,
+  "genres": [
+   "Country/Americana",
+   "Folk/Trad"
+  ],
+  "headliner": "Special Consensus",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ea60e96fd4af9dde": {
+  "confidence": 0.6,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Chloe Slater",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ecb47a7db52608ee": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Pa Sheehy",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ed3aed1cac4c1c29": {
+  "confidence": 0.7,
+  "genres": [
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "NOW THE 90's",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f085560c6c0eecbb": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Vintage Explosion",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f0ec5b5fdf5ece2d": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Stuart Mitchell & Friends",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f1b690c1351314c6": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Morgan Jay",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f1c1779c184b0b72": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "New Éire",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "With A Fada"
+  ]
+ },
+ "f207485adc47fd9d": {
+  "confidence": 0.6,
+  "genres": [
+   "Contemporary/New Music",
+   "Folk/Trad"
+  ],
+  "headliner": "Maccana",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f21323a9293d659e": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana"
+  ],
+  "headliner": "Luke Combs UK",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "DJ Chris Armstrong"
+  ]
+ },
+ "f2c5c7d10efc70f9": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Jury Experience - The Killer AI",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f33d763772e0593b": {
+  "confidence": 0.5,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "Girl Code",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f425b35e606d3dc9": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie McIntyre",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f5304f92a99c7006": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Martyn Joseph",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f58805b8a360c433": {
+  "confidence": 0.93,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Chop Sueys",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Hard Bizkit"
+  ]
+ },
+ "f67d4422683e0b02": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "BlackGate",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f6de858461fda913": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "The 9075",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f851b42524f9a887": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Jazz/Blues",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Bonnie Raitt - A Celebration",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "f9c68e9e0bb17245": {
+  "confidence": 0.95,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "The Menzingers",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Flatliners"
+  ]
+ },
+ "fa25dd395caa122d": {
+  "confidence": 0.96,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Holly Humberstone",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Chloe Qisha"
+  ]
+ },
+ "fa26df60f7e4860d": {
+  "confidence": 0.95,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Cleveland Watkiss",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fa92be933f148ca2": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Beoga",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fab2bf88ed2045f7": {
+  "confidence": 0.9,
+  "genres": [
+   "Jazz/Blues",
+   "Rock"
+  ],
+  "headliner": "Black Rose",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fbee777df7448822": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "Alison Moyet",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fc13348e7bbc44f0": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Chris de Burgh",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fc291dbc6fb2a7df": {
+  "confidence": 0.93,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Paul Heaton",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Rianne Downey",
+   "Lightning Seeds"
+  ]
+ },
+ "fc32448a3d381ef0": {
+  "confidence": 0.95,
+  "genres": [
+   "World",
+   "Rock"
+  ],
+  "headliner": "Joachim Cooder with Adriano Viterbini",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fc5ca83299091332": {
+  "confidence": 0.5,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "BCGC Christmas Concert",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fd8f2e0b9b81d9da": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Heaven Can Wait",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fe16d2c1fe4bbae7": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Youth Open Mic",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fe1acfdbc27a18ac": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Passenger",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fe33f11a10819c8a": {
+  "confidence": 0.5,
+  "genres": [],
+  "headliner": "Nightmare on Fountain Street",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fe79a2f3e53a2b45": {
+  "confidence": 0.98,
+  "genres": [],
+  "headliner": "Belfast Street Art Walking Tour",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ffa2fa77987e970e": {
+  "confidence": 0.95,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Ulster Orchestra: Messiah",
+  "is_music": false,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ffddc2da03134d1d": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues",
+   "Rock"
+  ],
+  "headliner": "Guinness Blues Cafe – The Davy K Project",
+  "is_music": true,
+  "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ }
+}

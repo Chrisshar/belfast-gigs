@@ -9,7 +9,6 @@ free: true
 status: "on_sale"
 genres:
 - "Singer-Songwriter"
-- "Folk/Trad"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/sound-of-belfast-the-budvar-music-trail-mark-hegan-plus-support/"
@@ -18,7 +17,7 @@ sources:
   key: "blackbox:sound-of-belfast-the-budvar-music-trail-mark-hegan-plus-support"
   url: "https://www.blackboxbelfast.com/event/sound-of-belfast-the-budvar-music-trail-mark-hegan-plus-support/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

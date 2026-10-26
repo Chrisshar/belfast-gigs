@@ -7,7 +7,6 @@ date: "2027-01-02"
 status: "on_sale"
 genres:
 - "Tribute/Covers"
-- "Pop"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/the-three-amigos-5/"
@@ -16,7 +15,7 @@ sources:
   key: "ulsterhall:the-three-amigos-5"
   url: "https://www.ulsterhall.co.uk/what-s-on/the-three-amigos-5/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

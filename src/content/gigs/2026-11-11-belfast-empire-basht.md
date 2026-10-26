@@ -8,14 +8,14 @@ start_time: "19:30"
 price_min: 18.5
 status: "on_sale"
 genres:
+- "Folk/Trad"
 - "Rock"
-- "Indie/Alternative"
 sources:
 - name: "empire"
   key: "empire:basht"
   url: "https://www.thebelfastempire.com/music-hall/basht/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

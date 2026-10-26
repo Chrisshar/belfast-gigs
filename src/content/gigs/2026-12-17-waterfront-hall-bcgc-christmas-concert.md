@@ -7,7 +7,6 @@ room: "Main Auditorium"
 date: "2026-12-17"
 status: "on_sale"
 genres:
-- "Contemporary/New Music"
 - "Pop"
 tickets:
 - source: "Box office"
@@ -17,7 +16,7 @@ sources:
   key: "ulsterhall:bcgc-christmas-concert-2"
   url: "https://www.ulsterhall.co.uk/what-s-on/bcgc-christmas-concert-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

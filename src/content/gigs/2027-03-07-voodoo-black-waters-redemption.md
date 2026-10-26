@@ -8,7 +8,6 @@ start_time: "15:00"
 status: "on_sale"
 genres:
 - "Metal"
-- "Rock"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/black-water-redemption-07-03-2027/event/3800654C8C390CAE"
@@ -17,7 +16,7 @@ sources:
   key: "voodoo:black-waters-redemption"
   url: "https://www.voodoobelfast.com/events/black-waters-redemption"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

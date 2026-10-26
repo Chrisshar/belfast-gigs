@@ -8,6 +8,7 @@ status: "on_sale"
 genres:
 - "Tribute/Covers"
 - "Pop"
+- "Rock"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/bjorn-again/"
@@ -16,7 +17,7 @@ sources:
   key: "ulsterhall:bjorn-again"
   url: "https://www.ulsterhall.co.uk/what-s-on/bjorn-again/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

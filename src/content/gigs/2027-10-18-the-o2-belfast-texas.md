@@ -10,13 +10,13 @@ doors_time: "18:30"
 status: "on_sale"
 genres:
 - "Rock"
-- "Indie/Alternative"
+- "Pop"
 sources:
 - name: "o2belfast"
   key: "o2belfast:314444:2027-10-18"
   url: "https://theo2belfast.com/events/texas-30th-anniversary-of-white-on-blonde-the-hits"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

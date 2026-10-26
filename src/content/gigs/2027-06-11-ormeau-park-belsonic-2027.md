@@ -7,7 +7,7 @@ date: "2027-06-11"
 doors_time: "18:00"
 status: "sold_out"
 genres:
-- "Electronic"
+- "Rock"
 - "Indie/Alternative"
 tickets:
 - source: "Ticketmaster"
@@ -17,7 +17,7 @@ sources:
   key: "limelight:11139"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -1,7 +1,7 @@
 ---
 id: "3d3ad14d-8d1c-45f3-895b-81efe94741a5"
 title: "SAXON"
-headliner: "Saxon"
+headliner: "SAXON"
 venue: "telegraph-building"
 date: "2027-02-16"
 doors_time: "19:00"
@@ -18,10 +18,10 @@ sources:
   key: "limelight:11146"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.98
+  confidence: 0.97
   method: "llm"
 ---

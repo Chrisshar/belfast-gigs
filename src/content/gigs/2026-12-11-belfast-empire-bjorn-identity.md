@@ -1,7 +1,7 @@
 ---
 id: "5356a3e3-c20c-43df-a652-25a1313314ea"
 title: "Bjorn Identity - Abba Christmas"
-headliner: "Bjorn Identity"
+headliner: "Bjorn Identity - Abba Christmas"
 venue: "belfast-empire"
 date: "2026-12-11"
 start_time: "19:30"
@@ -18,7 +18,7 @@ sources:
   key: "empire:bjorn-identity-abba-tribute"
   url: "https://www.thebelfastempire.com/music-hall/bjorn-identity-abba-tribute/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

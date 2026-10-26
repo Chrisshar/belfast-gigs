@@ -1,7 +1,7 @@
 ---
 id: "4292d383-4457-4fd4-b172-ba8adf4dad50"
 title: "SKERRYVORE"
-headliner: "Skerryvore"
+headliner: "SKERRYVORE"
 venue: "limelight"
 room: "Limelight 1"
 date: "2026-12-10"
@@ -19,10 +19,10 @@ sources:
   key: "limelight:11178"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.97
   method: "llm"
 ---

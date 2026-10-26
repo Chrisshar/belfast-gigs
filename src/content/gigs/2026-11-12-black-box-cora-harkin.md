@@ -8,7 +8,6 @@ start_time: "19:00"
 free: true
 status: "on_sale"
 genres:
-- "Folk/Trad"
 - "Singer-Songwriter"
 tickets:
 - source: "Black Box"
@@ -18,7 +17,7 @@ sources:
   key: "blackbox:sound-of-belfast-festival-the-budvar-music-trail-cora-harkin"
   url: "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-cora-harkin/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

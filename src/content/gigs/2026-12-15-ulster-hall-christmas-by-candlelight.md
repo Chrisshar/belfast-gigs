@@ -6,8 +6,8 @@ venue: "ulster-hall"
 date: "2026-12-15"
 status: "on_sale"
 genres:
-- "Pop"
 - "Contemporary/New Music"
+- "Pop"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/christmas-by-candlelight-6/"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:christmas-by-candlelight-6"
   url: "https://www.ulsterhall.co.uk/what-s-on/christmas-by-candlelight-6/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

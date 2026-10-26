@@ -7,7 +7,6 @@ date: "2027-01-01"
 status: "on_sale"
 genres:
 - "Country/Americana"
-- "Tribute/Covers"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/nashville-live-3/"
@@ -16,7 +15,7 @@ sources:
   key: "ulsterhall:nashville-live-3"
   url: "https://www.ulsterhall.co.uk/what-s-on/nashville-live-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

@@ -7,6 +7,7 @@ date: "2027-04-15"
 status: "on_sale"
 genres:
 - "Rock"
+- "Indie/Alternative"
 tickets:
 - source: "Box office"
   url: "https://www.ulsterhall.co.uk/what-s-on/ahh-freak-out/"
@@ -15,11 +16,10 @@ sources:
   key: "ulsterhall:ahh-freak-out"
   url: "https://www.ulsterhall.co.uk/what-s-on/ahh-freak-out/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
+  confidence: 0.9
   method: "llm"
-needs_review: true
 ---

@@ -1,7 +1,7 @@
 ---
 id: "919ab001-959f-4313-8c3f-a7fb67cdbbaa"
 title: "Luke Combs UK"
-headliner: "Luke Combs"
+headliner: "Luke Combs UK"
 support:
 - "DJ Chris Armstrong"
 venue: "limelight"
@@ -12,7 +12,6 @@ status: "on_sale"
 age_restriction: "18+"
 genres:
 - "Country/Americana"
-- "Pop"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/luke-combs-uk-21-05-2027/event/380065227AAC095A"
@@ -21,7 +20,7 @@ sources:
   key: "limelight:11577"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

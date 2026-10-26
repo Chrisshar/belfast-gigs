@@ -1,9 +1,9 @@
 ---
 id: "4896d519-4eea-4eb8-9cb0-e134f0488fff"
 title: "ANVIL / Special Guest KILLER"
-headliner: "Anvil"
+headliner: "ANVIL"
 support:
-- "Killer"
+- "KILLER"
 venue: "deers-head"
 date: "2026-11-11"
 start_time: "19:00"
@@ -20,10 +20,10 @@ sources:
   key: "deershead:anvil-special-guest-killer"
   url: "https://www.thedeersheadbelfast.com/whats-on/anvil-special-guest-killer/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.93
+  confidence: 0.9
   method: "llm"
 ---

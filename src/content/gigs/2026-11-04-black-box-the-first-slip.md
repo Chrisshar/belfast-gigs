@@ -10,7 +10,6 @@ free: true
 status: "on_sale"
 genres:
 - "Indie/Alternative"
-- "Rock"
 tickets:
 - source: "Black Box"
   url: "https://www.blackboxbelfast.com/event/the-first-slip-57/"
@@ -19,7 +18,7 @@ sources:
   key: "blackbox:the-first-slip-57"
   url: "https://www.blackboxbelfast.com/event/the-first-slip-57/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

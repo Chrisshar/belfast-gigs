@@ -8,8 +8,8 @@ start_time: "19:30"
 price_min: 20
 status: "on_sale"
 genres:
-- "Singer-Songwriter"
-- "Folk/Trad"
+- "Indie/Alternative"
+- "Rock"
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.co.uk/e/ariel-posen-tickets-1991200307722"
@@ -18,7 +18,7 @@ sources:
   key: "deershead:ariel-posen"
   url: "https://www.thedeersheadbelfast.com/whats-on/ariel-posen/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

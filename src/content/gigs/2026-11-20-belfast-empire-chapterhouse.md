@@ -8,8 +8,8 @@ start_time: "19:30"
 price_min: 24.5
 status: "on_sale"
 genres:
-- "Indie/Alternative"
 - "Rock"
+- "Indie/Alternative"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/artist/1015881?venueId=459510"
@@ -18,7 +18,7 @@ sources:
   key: "empire:chapterhouse"
   url: "https://www.thebelfastempire.com/music-hall/chapterhouse/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

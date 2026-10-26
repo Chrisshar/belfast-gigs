@@ -10,7 +10,7 @@ status: "on_sale"
 age_restriction: "18+"
 genres:
 - "Soul/R&B/Funk"
-- "Electronic"
+- "Pop"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/artist/2224604?venueId=461484"
@@ -19,7 +19,7 @@ sources:
   key: "limelight:10886"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true

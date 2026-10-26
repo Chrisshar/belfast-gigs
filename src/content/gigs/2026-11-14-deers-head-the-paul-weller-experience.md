@@ -1,17 +1,17 @@
 ---
 id: "b24bc404-63d3-46ec-b52b-9e13cdefb72f"
 title: "THE PAUL WELLER EXPERIENCE / Special Guests PROPER (London)"
-headliner: "The Paul Weller Experience"
+headliner: "THE PAUL WELLER EXPERIENCE"
 support:
-- "Proper"
+- "PROPER"
 venue: "deers-head"
 date: "2026-11-14"
 start_time: "19:30"
 price_min: 19.25
 status: "on_sale"
 genres:
-- "Tribute/Covers"
 - "Rock"
+- "Tribute/Covers"
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/the-paul-weller-experience-belfast-14-11-2026/event/3800646B52010926"
@@ -20,10 +20,10 @@ sources:
   key: "deershead:the-paul-weller-experience-special-guests-proper-london"
   url: "https://www.thedeersheadbelfast.com/whats-on/the-paul-weller-experience-special-guests-proper-london/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-10-26T16:14:13Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.96
+  confidence: 0.95
   method: "llm"
 ---
