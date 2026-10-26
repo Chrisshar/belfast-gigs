@@ -100,7 +100,7 @@ scraper/.venv/Scripts/python.exe -m belfast_gigs benchmark benchmark/inbox
 
 ### 4. CMS login
 The CMS lives at `/admin` (`public/admin/`). It signs in with GitHub through a small Cloudflare Worker.
-1. Open https://deploy.workers.cloudflare.com/?url=https://github.com/sveltia/sveltia-cms-auth and deploy it to your Cloudflare account. Note the Worker's URL (e.g. `https://sveltia-cms-auth.<your-subdomain>.workers.dev`).
+1. Open https://deploy.workers.cloudflare.com/?url=https://github.com/sveltia/sveltia-cms-auth and deploy it to your Cloudflare account. Note the Worker's URL (this site uses `belfast-gigs-cms-auth`, so `https://belfast-gigs-cms-auth.<your-subdomain>.workers.dev`).
 2. On GitHub: **Settings → Developer settings → OAuth Apps → New OAuth App**.
    - Homepage URL: the site's URL.
    - Authorization callback URL: `<worker URL>/callback`.

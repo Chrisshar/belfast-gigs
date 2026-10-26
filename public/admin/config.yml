@@ -7,8 +7,8 @@ backend:
   name: github
   repo: Chrisshar/belfast-gigs
   branch: main
-  # The sign-in Worker (sveltia-cms-auth). Replace with your Worker's URL once it's deployed.
-  base_url: https://sveltia-cms-auth.christopher-sharvin.workers.dev
+  # The sign-in Worker (a deploy of sveltia-cms-auth named belfast-gigs-cms-auth).
+  base_url: https://belfast-gigs-cms-auth.christopher-sharvin.workers.dev
 
 media_folder: public/media
 public_folder: /media
