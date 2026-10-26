@@ -40,8 +40,20 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
   }
 
   <section aria-labelledby="upcoming-h">
-    <div class="sec"><h2 id="upcoming-h">Upcoming</h2></div>
-    <div data-list="upcoming">
+    <div class="sec">
+      <h2 id="upcoming-h">Upcoming</h2>
+      <div class="layout" role="group" aria-label="Layout">
+        <button type="button" data-layout="grid" aria-pressed="true">
+          <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="1.4"><rect x="1.5" y="1.5" width="5" height="5"/><rect x="9.5" y="1.5" width="5" height="5"/><rect x="1.5" y="9.5" width="5" height="5"/><rect x="9.5" y="9.5" width="5" height="5"/></g></svg>
+          Grid
+        </button>
+        <button type="button" data-layout="list" aria-pressed="false">
+          <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="1.4"><path d="M1.5 3.5h13M1.5 8h13M1.5 12.5h13"/></g></svg>
+          List
+        </button>
+      </div>
+    </div>
+    <div data-list="upcoming" data-layout="grid">
       {
         [...byMonth].map(([month, days]) => (
           <section data-group="month">
@@ -63,6 +75,13 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
     <p class="empty" data-empty="upcoming" hidden>No gigs match these filters. <button type="button" class="clear">Clear filters</button></p>
   </section>
 </Base>
+
+<script is:inline>
+  // Set the saved layout before the list paints, so a list-view visitor doesn't see the grid first.
+  try {
+    if (localStorage.getItem('layout') === 'list') document.querySelector('[data-list=upcoming]').dataset.layout = 'list';
+  } catch (e) {}
+</script>
 
 <script>
   import { initFilters } from '../scripts/filters';

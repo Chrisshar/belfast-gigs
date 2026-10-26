@@ -125,7 +125,30 @@ function refreshHero(today: string): void {
   if (panel) panel.hidden = shown === 0;
 }
 
+/** Grid (square cards) or list (rows) for the Upcoming section. Remembered in this browser. */
+function initLayout(): void {
+  const list = document.querySelector<HTMLElement>('[data-list=upcoming]');
+  const buttons = [...document.querySelectorAll<HTMLButtonElement>('[data-layout]')].filter((b) => b.tagName === 'BUTTON');
+  if (!list || buttons.length === 0) return;
+  const show = (layout: string): void => {
+    list.dataset.layout = layout;
+    buttons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.layout === layout)));
+  };
+  show(list.dataset.layout === 'list' ? 'list' : 'grid');
+  for (const b of buttons) {
+    b.addEventListener('click', () => {
+      show(b.dataset.layout ?? 'grid');
+      try {
+        localStorage.setItem('layout', b.dataset.layout ?? 'grid');
+      } catch {
+        /* private window: the choice just isn't remembered */
+      }
+    });
+  }
+}
+
 export function initFilters(): void {
+  initLayout();
   const form = document.querySelector<HTMLFormElement>('#filters');
   if (!form) return;
   refreshHero(londonToday());
