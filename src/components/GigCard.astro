@@ -1,35 +1,22 @@
 ---
-import { getEntry } from 'astro:content';
-import { formatDate } from '../lib/dates';
-import { STATUS_LABELS, formatPrice, type Gig } from '../lib/gigs';
+import Art from './Art.astro';
+import { dayParts } from '../lib/dates';
+import { STATUS_LABELS, filterAttrs, type GigView } from '../lib/gigs';
 
 interface Props {
-  gig: Gig;
+  view: GigView;
 }
-const { gig } = Astro.props;
-const { data } = gig;
-const venue = await getEntry(data.venue);
-const price = formatPrice(data);
+const { view } = Astro.props;
+const d = view.gig.data;
+const p = dayParts(d.date);
+const time = d.start_time ?? d.doors_time;
 ---
 
-<article class="gig-card">
-  <p class="date">{formatDate(data.date)}{data.start_time && ` · ${data.start_time}`}</p>
-  <h3><a href={`/gigs/${gig.id}/`}>{data.headliner}</a></h3>
-  {data.support.length > 0 && <p class="support">+ {data.support.join(', ')}</p>}
-  <p class="meta">
-    {venue?.data.name}{data.room && ` (${data.room})`}
-    {price && <span> · {price}</span>}
-    {data.status !== 'on_sale' && <strong class="status"> · {STATUS_LABELS[data.status]}</strong>}
-  </p>
-  {data.genres.length > 0 && <p class="muted genres">{data.genres.join(' / ')}</p>}
-</article>
-
-<style>
-  .gig-card { border-top: 2px solid var(--fg); padding-block: 0.75rem; }
-  .gig-card p { margin: 0; }
-  h3 { margin: 0.25rem 0; font-size: 1.5rem; text-transform: uppercase; line-height: 1.1; }
-  h3 a { color: var(--fg); text-decoration: none; }
-  .date { color: var(--accent); font-weight: 700; }
-  .status { color: var(--accent); }
-  .genres { font-size: 0.875rem; }
-</style>
+<a class="card" href={`/gigs/${view.slug}/`} {...filterAttrs(view)}>
+  <Art genres={d.genres} shape="banner" />
+  <div class="body">
+    <div class="when">{p.dow} {p.day} {p.mon}{time && `, ${time}`}</div>
+    <h3>{d.headliner}</h3>
+    <div class="venue">{view.venueName}{d.status !== 'on_sale' && <span class="status inline">{STATUS_LABELS[d.status]}</span>}</div>
+  </div>
+</a>

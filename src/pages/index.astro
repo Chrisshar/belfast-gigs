@@ -1,35 +1,71 @@
 ---
 import Base from '../layouts/Base.astro';
+import FilterBar from '../components/FilterBar.astro';
 import GigCard from '../components/GigCard.astro';
-import { formatMonth } from '../lib/dates';
-import { getUpcomingGigs, groupByMonth, recentlyAdded } from '../lib/gigs';
+import GigRow from '../components/GigRow.astro';
+import { GENRES } from '../content.config';
+import { dayParts, formatMonth } from '../lib/dates';
+import { getUpcomingGigs, groupByMonthAndDay, recentlyAdded, toViews } from '../lib/gigs';
 
-const upcoming = await getUpcomingGigs();
-const recent = recentlyAdded(upcoming);
-const byMonth = groupByMonth(upcoming);
+const views = await toViews(await getUpcomingGigs());
+const recent = recentlyAdded(views);
+const byMonth = groupByMonthAndDay(views);
+
+const venues = [...new Map(views.map((v) => [v.gig.data.venue.id, v.venueName])).entries()]
+  .map(([id, name]) => ({ id, name }))
+  .sort((a, b) => a.name.replace(/^The /, '').localeCompare(b.name.replace(/^The /, '')));
+const used = new Set(views.flatMap((v) => v.gig.data.genres));
+const genres = GENRES.filter((g) => used.has(g));
+const areas = [...new Set(views.map((v) => v.area))].sort();
 ---
 
 <Base>
-  <section>
-    <h2>Recently added</h2>
-    {recent.length > 0 ? recent.map((gig) => <GigCard gig={gig} />) : <p class="muted">Nothing new in the last two weeks.</p>}
-  </section>
+  <div class="intro">
+    <h1>Live music in Belfast, all in one place</h1>
+    <p>From the Ulster Hall to the back room of the American Bar. Updated twice a day.</p>
+  </div>
 
-  <section>
-    <h2>Upcoming</h2>
-    {
-      [...byMonth].map(([month, gigs]) => (
-        <section>
-          <h3 class="month">{formatMonth(month)}</h3>
-          {gigs.map((gig) => <GigCard gig={gig} />)}
-        </section>
-      ))
-    }
-    {upcoming.length === 0 && <p class="muted">No upcoming gigs listed yet.</p>}
+  <FilterBar venues={venues} months={[...byMonth.keys()]} genres={genres} areas={areas} />
+
+  {
+    /* Only shown when something has been announced in the last fortnight. */
+    recent.length > 0 && (
+      <section aria-labelledby="recent-h">
+        <div class="sec"><h2 id="recent-h">Just announced</h2><span>Added in the last fortnight</span></div>
+        <div class="cards" data-list="recent">
+          {recent.map((view) => <GigCard view={view} />)}
+        </div>
+        <p class="empty" data-empty="recent" hidden>Nothing newly announced matches these filters.</p>
+      </section>
+    )
+  }
+
+  <section aria-labelledby="upcoming-h">
+    <div class="sec"><h2 id="upcoming-h">Upcoming</h2></div>
+    <div data-list="upcoming">
+      {
+        [...byMonth].map(([month, days]) => (
+          <section data-group="month">
+            <h3 class="month">{formatMonth(month)}</h3>
+            {[...days].map(([date, dayViews]) => {
+              const p = dayParts(date);
+              return (
+                <div class="day" data-group="day">
+                  <div class="date"><div class="n">{p.day}</div><div class="w">{p.dow}</div></div>
+                  <div>{dayViews.map((view) => <GigRow view={view} />)}</div>
+                </div>
+              );
+            })}
+          </section>
+        ))
+      }
+    </div>
+    {views.length === 0 && <p class="empty">No upcoming gigs listed yet.</p>}
+    <p class="empty" data-empty="upcoming" hidden>No gigs match these filters. <button type="button" class="clear">Clear filters</button></p>
   </section>
 </Base>
 
-<style>
-  h2 { font-size: 2.5rem; text-transform: uppercase; margin-block: 2rem 0.5rem; }
-  .month { color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; margin-block: 1.5rem 0.25rem; }
-</style>
+<script>
+  import { initFilters } from '../scripts/filters';
+  initFilters();
+</script>

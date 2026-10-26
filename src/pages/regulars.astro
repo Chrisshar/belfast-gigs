@@ -1,6 +1,7 @@
 ---
 import { getCollection, getEntry } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import Art from '../components/Art.astro';
 import { WEEKDAYS } from '../content.config';
 
 const residencies = await getCollection('residencies');
@@ -12,33 +13,44 @@ const nights = (
     }),
   )
 ).flat();
-const byDay = [
-  ...WEEKDAYS.map((day) => ({ day: day as string, nights: nights.filter((n) => n.weekday === day) })),
-  { day: 'Day to be confirmed', nights: nights.filter((n) => !n.weekday) },
-].filter((d) => d.nights.length > 0);
+const groups = [
+  ...WEEKDAYS.map((day) => ({ key: day as string, label: day[0].toUpperCase() + day.slice(1), nights: nights.filter((n) => n.weekday === day) })),
+  { key: 'unknown', label: 'Day to be confirmed', nights: nights.filter((n) => !n.weekday) },
+].filter((g) => g.nights.length > 0);
 ---
 
 <Base title="Regular nights" description="Weekly sessions, open mics and residencies around Belfast.">
-  <h1>Regular nights</h1>
-  <p class="muted">Weekly sessions and open mics. Check with the venue before you go; these change without much notice.</p>
+  <div class="intro">
+    <h1>Regular nights</h1>
+    <p>Weekly sessions, open mics and residencies. They change without much notice, so check with the venue before you go.</p>
+  </div>
   {
-    byDay.map(({ day, nights }) => (
-      <section>
-        <h2>{day}</h2>
-        <ul>
-          {nights.map((n) => (
-            <li>
-              <strong>{n.title}</strong> at {n.venue}
-              {n.start_time && ` · ${n.start_time}`}
-              {n.notes && <span class="muted"> · {n.notes}</span>}
-            </li>
+    groups.map((g) => (
+      <section data-weekday={g.key}>
+        <div class="sec"><h2>{g.label}</h2></div>
+        <div class="regulars">
+          {g.nights.map((n) => (
+            <div class="regular">
+              <Art genres={n.genres} />
+              <div>
+                <h3>{n.title}</h3>
+                <div class="meta">{n.venue}{n.start_time && ` · ${n.start_time}`}{n.notes && ` · ${n.notes}`}</div>
+              </div>
+            </div>
           ))}
-        </ul>
+        </div>
       </section>
     ))
   }
 </Base>
 
-<style>
-  h2 { text-transform: capitalize; }
-</style>
+<script>
+  // Mark tonight's nights, in Belfast time.
+  const today = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/London', weekday: 'long' }).format(new Date()).toLowerCase();
+  const section = document.querySelector<HTMLElement>(`[data-weekday="${today}"]`);
+  if (section) {
+    section.querySelectorAll('.regular').forEach((el) => el.classList.add('today'));
+    const h = section.querySelector('h2');
+    if (h) h.textContent += ' (tonight)';
+  }
+</script>

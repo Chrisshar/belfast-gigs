@@ -11,10 +11,12 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
+    "test": "node --test src/lib/*.test.ts",
     "deploy": "wrangler deploy"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
+    "@fontsource/jost": "^5.3.0",
     "astro": "^7.4.2"
   },
   "devDependencies": {

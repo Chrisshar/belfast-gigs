@@ -1,10 +1,19 @@
 ---
+import '@fontsource/jost/400.css';
+import '@fontsource/jost/500.css';
+import '@fontsource/jost/600.css';
+import '../styles/global.css';
+import { craneMark } from '../lib/art/logo';
+
 interface Props {
   title?: string;
   description?: string;
+  ogType?: 'website' | 'article';
 }
-const { title, description = 'Upcoming live music in Belfast, updated twice a day.' } = Astro.props;
-const fullTitle = title ? `${title} · Belfast Gigs` : 'Belfast Gigs';
+const { title, description = 'Upcoming live music in Belfast, from the Ulster Hall to the back room of the American Bar. Updated twice a day.', ogType = 'website' } = Astro.props;
+const fullTitle = title ? `${title} · Belfast Gigs` : 'Belfast Gigs · Live music in Belfast';
+const path = Astro.url.pathname;
+const current = (href: string) => (href === '/' ? path === '/' || path.startsWith('/gigs/') : path.startsWith(href)) ? 'page' : undefined;
 ---
 
 <!doctype html>
@@ -14,42 +23,34 @@ const fullTitle = title ? `${title} · Belfast Gigs` : 'Belfast Gigs';
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <link rel="canonical" href={new URL(path, Astro.site)} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta name="theme-color" content="#f6f4ef" />
+    <meta property="og:site_name" content="Belfast Gigs" />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={new URL(path, Astro.site)} />
     <slot name="head" />
   </head>
   <body>
     <header class="site-header">
-      <a href="/" class="logo">Belfast Gigs</a>
-      <nav><a href="/">Gigs</a> <a href="/regulars/">Regular nights</a></nav>
+      <div class="wrap">
+        <a class="brand" href="/"><Fragment set:html={craneMark()} />Belfast Gigs</a>
+        <nav class="site-nav" aria-label="Main">
+          <a href="/" aria-current={current('/')}>Gigs</a>
+          <a href="/regulars/" aria-current={current('/regulars/')}>Regular nights</a>
+        </nav>
+      </div>
     </header>
-    <main>
+    <main class="wrap">
       <slot />
     </main>
     <footer class="site-footer">
-      <p>Listings gathered twice a day from venue sites and Ticketmaster. Always check with the venue before you travel.</p>
+      <div class="wrap">
+        <span>Gathered twice a day from venue websites and ticket sellers. Always check with the venue before you travel.</span>
+        <span><a href="https://github.com/Chrisshar/belfast-gigs">About this site</a></span>
+      </div>
     </footer>
   </body>
 </html>
-
-<style is:global>
-  /* Placeholder styling until the Phase 3 design direction is chosen. */
-  :root {
-    color-scheme: dark;
-    --bg: #111;
-    --fg: #f4f1ea;
-    --muted: #a9a49a;
-    --accent: #ffcc00;
-    font-family: system-ui, sans-serif;
-  }
-  body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.5; }
-  a { color: var(--accent); }
-  main, .site-header, .site-footer { max-width: 60rem; margin: 0 auto; padding: 0 1rem; }
-  .site-header { display: flex; justify-content: space-between; align-items: baseline; padding-block: 1rem; }
-  .site-header nav a { margin-left: 1rem; }
-  .logo { font-weight: 900; font-size: 1.5rem; text-transform: uppercase; text-decoration: none; }
-  .site-footer { color: var(--muted); font-size: 0.875rem; padding-block: 2rem; }
-  .muted { color: var(--muted); }
-</style>

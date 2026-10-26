@@ -1,0 +1,26 @@
+---
+import Art from './Art.astro';
+import { STATUS_LABELS, filterAttrs, formatPrice, type GigView } from '../lib/gigs';
+
+interface Props {
+  view: GigView;
+}
+const { view } = Astro.props;
+const d = view.gig.data;
+const time = d.start_time ?? d.doors_time;
+const price = formatPrice(d);
+const meta = [d.room, time, d.genres.join(', ')].filter(Boolean).join(' · ');
+---
+
+<a class="row" href={`/gigs/${view.slug}/`} {...filterAttrs(view)}>
+  <Art genres={d.genres} />
+  <div>
+    <h3>{d.headliner}</h3>
+    {d.support.length > 0 && <div class="support">with {d.support.join(', ')}</div>}
+    <div class="meta"><b>{view.venueName}</b>{meta && ` · ${meta}`}</div>
+  </div>
+  <div class="side">
+    {price}
+    {d.status !== 'on_sale' && <span class="status">{STATUS_LABELS[d.status]}</span>}
+  </div>
+</a>

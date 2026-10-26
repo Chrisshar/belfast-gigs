@@ -17,6 +17,12 @@ export function formatDate(date: string, opts: Intl.DateTimeFormatOptions = { we
   return new Intl.DateTimeFormat('en-GB', { ...opts, timeZone: 'UTC' }).format(asCalendarDay(date));
 }
 
+export function dayParts(date: string) {
+  const d = asCalendarDay(date);
+  const f = (o: Intl.DateTimeFormatOptions) => new Intl.DateTimeFormat('en-GB', { ...o, timeZone: 'UTC' }).format(d);
+  return { day: d.getUTCDate(), dow: f({ weekday: 'short' }), dowLong: f({ weekday: 'long' }), mon: f({ month: 'short' }), monLong: f({ month: 'long' }), year: d.getUTCFullYear() };
+}
+
 export function monthKey(date: string): string {
   return date.slice(0, 7);
 }

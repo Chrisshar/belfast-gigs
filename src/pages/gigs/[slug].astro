@@ -1,60 +1,100 @@
 ---
-import { getCollection, getEntry, render } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Art from '../../components/Art.astro';
 import { formatDate } from '../../lib/dates';
-import { STATUS_LABELS, formatPrice } from '../../lib/gigs';
+import { STATUS_LABELS, formatPrice, toViews } from '../../lib/gigs';
 
 export async function getStaticPaths() {
-  const gigs = await getCollection('gigs');
-  return gigs.map((gig) => ({ params: { slug: gig.id }, props: { gig } }));
+  const views = await toViews(await getCollection('gigs'));
+  return views.map((view) => ({ params: { slug: view.slug }, props: { view } }));
 }
 
-const { gig } = Astro.props;
-const { data } = gig;
-const venue = await getEntry(data.venue);
-const { Content } = await render(gig);
-const price = formatPrice(data);
-const mapQuery = venue && encodeURIComponent([venue.data.name, venue.data.address, venue.data.postcode].filter(Boolean).join(', '));
+const { view } = Astro.props;
+const d = view.gig.data;
+const venue = view.venue?.data;
+const { Content } = await render(view.gig);
+const price = formatPrice(d);
+const longDate = formatDate(d.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+const dateRange = d.end_date ? `${longDate} to ${formatDate(d.end_date, { weekday: 'long', day: 'numeric', month: 'long' })}` : longDate;
+const address = [venue?.address, venue?.postcode].filter(Boolean).join(', ');
+const mapQuery = encodeURIComponent([view.venueName, address || 'Belfast'].join(', '));
+const tickets = d.tickets;
+
+// schema.org MusicEvent, so search engines can show the gig as an event.
+const STATUS_SCHEMA: Record<string, string> = {
+  on_sale: 'EventScheduled',
+  sold_out: 'EventScheduled',
+  cancelled: 'EventCancelled',
+  postponed: 'EventPostponed',
+  rescheduled: 'EventRescheduled',
+};
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'MusicEvent',
+  name: d.title,
+  startDate: d.start_time ? `${d.date}T${d.start_time}` : d.date,
+  ...(d.end_date && { endDate: d.end_date }),
+  ...(d.doors_time && { doorTime: `${d.date}T${d.doors_time}` }),
+  eventStatus: `https://schema.org/${STATUS_SCHEMA[d.status]}`,
+  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+  location: {
+    '@type': 'MusicVenue',
+    name: view.venueName,
+    address: { '@type': 'PostalAddress', streetAddress: venue?.address, postalCode: venue?.postcode, addressLocality: 'Belfast', addressCountry: 'GB' },
+  },
+  performer: [d.headliner, ...d.support].map((name) => ({ '@type': 'MusicGroup', name })),
+  ...(tickets[0] && {
+    offers: {
+      '@type': 'Offer',
+      url: tickets[0].url,
+      ...(d.price_min !== undefined && { price: d.price_min, priceCurrency: 'GBP' }),
+      ...(d.free && { price: 0, priceCurrency: 'GBP' }),
+      availability: d.status === 'sold_out' ? 'https://schema.org/SoldOut' : 'https://schema.org/InStock',
+    },
+  }),
+  url: new URL(`/gigs/${view.slug}/`, Astro.site).href,
+};
+const description = `${d.headliner}${d.support.length ? ` with ${d.support.join(', ')}` : ''} at ${view.venueName}, ${longDate}.`;
 ---
 
-<Base title={`${data.headliner}, ${formatDate(data.date)}`} description={`${data.headliner} at ${venue?.data.name}, ${formatDate(data.date)}.`}>
-  <article>
-    <p class="date">{formatDate(data.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</p>
-    <h1>{data.headliner}</h1>
-    {data.support.length > 0 && <p class="support">with {data.support.join(', ')}</p>}
-    {data.status !== 'on_sale' && <p class="status">{STATUS_LABELS[data.status]}</p>}
-
-    <dl>
-      <dt>Venue</dt>
-      <dd>
-        {venue?.data.name}{data.room && ` (${data.room})`}
-        {venue?.data.address && <br />}{venue?.data.address}
-        {mapQuery && <><br /><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`}>Map</a></>}
-      </dd>
-      {data.doors_time && <><dt>Doors</dt><dd>{data.doors_time}</dd></>}
-      {data.start_time && <><dt>Starts</dt><dd>{data.start_time}</dd></>}
-      {price && <><dt>Price</dt><dd>{price}</dd></>}
-      {data.age_restriction && <><dt>Age</dt><dd>{data.age_restriction}</dd></>}
-      {data.genres.length > 0 && <><dt>Genre</dt><dd>{data.genres.join(' / ')}</dd></>}
-    </dl>
-
-    {
-      data.tickets.length > 0 && (
-        <ul class="tickets">
-          {data.tickets.map((t) => (
-            <li><a href={t.url} rel="noopener">Tickets: {t.source}</a></li>
-          ))}
-        </ul>
-      )
-    }
-    <Content />
+<Base title={`${d.headliner}, ${formatDate(d.date, { day: 'numeric', month: 'short' })}`} description={description} ogType="article">
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify(jsonLd)} />
+  <a class="back" href="/">← All gigs</a>
+  <article class="detail">
+    <Art genres={d.genres} shape="wide" />
+    <div class="body">
+      <div>
+        <div class="when">{dateRange}</div>
+        <h1>{d.headliner}</h1>
+        {d.support.length > 0 && <p class="support">with {d.support.join(', ')}</p>}
+        <p class="where">
+          {view.venueName}{d.room && ` · ${d.room}`}{address && <>, {address}</>}
+          <br /><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`} rel="noopener">Directions</a>
+        </p>
+        <div class="about"><Content /></div>
+      </div>
+      <div>
+        <dl class="facts">
+          {d.status !== 'on_sale' && <div><dt>Status</dt><dd class="status">{STATUS_LABELS[d.status]}</dd></div>}
+          {d.doors_time && <div><dt>Doors</dt><dd>{d.doors_time}</dd></div>}
+          <div><dt>Starts</dt><dd>{d.start_time ?? (d.doors_time ? 'After doors' : 'To be confirmed')}</dd></div>
+          <div><dt>{d.free ? 'Entry' : 'Tickets from'}</dt><dd>{price ?? 'See ticket seller'}</dd></div>
+          {d.age_restriction && <div><dt>Age</dt><dd>{d.age_restriction}</dd></div>}
+          {d.genres.length > 0 && <div><dt>Genre</dt><dd>{d.genres.join(', ')}</dd></div>}
+        </dl>
+        <div class="actions">
+          {
+            tickets.map((t, i) => (
+              <a class:list={['btn', { primary: i === 0 }]} href={t.url} rel="noopener">
+                {d.status === 'sold_out' && i === 0 ? 'Check resale' : 'Tickets'} from {t.source}
+              </a>
+            ))
+          }
+          <a class:list={['btn', { primary: tickets.length === 0 }]} href={`/gigs/${view.slug}.ics`} download>Add to calendar</a>
+        </div>
+        <p class="note">Details can change. Check with the venue or ticket seller before you go.</p>
+      </div>
+    </div>
   </article>
 </Base>
-
-<style>
-  h1 { font-size: clamp(2.5rem, 8vw, 5rem); text-transform: uppercase; line-height: 1; margin: 0.25rem 0; }
-  .date, .status { color: var(--accent); font-weight: 700; }
-  dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.25rem 1rem; }
-  dt { color: var(--muted); }
-  dd { margin: 0; }
-</style>

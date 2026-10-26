@@ -1,0 +1,12 @@
+---
+import { instrumentFor, instrumentSvg, type ArtShape } from '../lib/art/instruments';
+
+interface Props {
+  genres: readonly string[];
+  shape?: ArtShape;
+}
+const { genres, shape = 'square' } = Astro.props;
+const svg = instrumentSvg(instrumentFor(genres), shape);
+---
+
+<div class="art" set:html={svg} />

@@ -1,0 +1,52 @@
+---
+import { formatMonth } from '../lib/dates';
+
+interface Props {
+  venues: { id: string; name: string }[];
+  months: string[];
+  genres: string[];
+  areas: string[];
+}
+const { venues, months, genres, areas } = Astro.props;
+---
+
+<form class="filters" id="filters" role="search" aria-label="Filter gigs" onsubmit="return false">
+  <div class="quick">
+    <button type="button" class="chip" data-when="tonight" aria-pressed="false">Tonight</button>
+    <button type="button" class="chip" data-when="weekend" aria-pressed="false">This weekend</button>
+    <button type="button" class="chip" data-when="week" aria-pressed="false">Next 7 days</button>
+    <button type="button" class="more" aria-expanded="false" aria-controls="filters-body">Filters</button>
+  </div>
+  <div class="filters-body" id="filters-body">
+    <div class="fields">
+      <label><span class="visually-hidden">Search</span><input type="search" name="q" placeholder="Search acts or venues" autocomplete="off" /></label>
+      <label>Venue
+        <select name="venue">
+          <option value="">All venues</option>
+          {venues.map((v) => <option value={v.id}>{v.name}</option>)}
+        </select>
+      </label>
+      <label>Month
+        <select name="month">
+          <option value="">Any month</option>
+          {months.map((m) => <option value={m}>{formatMonth(m)}</option>)}
+        </select>
+      </label>
+      {
+        areas.length > 1 && (
+          <label>Area
+            <select name="area">
+              <option value="">Anywhere</option>
+              {areas.map((a) => <option value={a}>{a}</option>)}
+            </select>
+          </label>
+        )
+      }
+      <button type="button" class="clear" hidden>Clear filters</button>
+    </div>
+    <div class="genres" role="group" aria-label="Genres">
+      {genres.map((g) => <button type="button" class="chip genre" data-genre={g} aria-pressed="false">{g}</button>)}
+    </div>
+  </div>
+</form>
+<p class="count" id="count" aria-live="polite"></p>
