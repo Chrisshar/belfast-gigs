@@ -16,6 +16,7 @@ from belfast_gigs.adapters import (
     ulsterhall,
     usc,
     voodoo,
+    wix,
 )
 
 
@@ -203,7 +204,7 @@ class TestUlsterSportsClub:
 
 class TestVoodoo:
     def test_most_recently_edited_pages_first(self):
-        urls = voodoo.recent_event_urls(load_text("voodoo", "events-sitemap.xml"))
+        urls = wix.recent_event_urls(load_text("voodoo", "events-sitemap.xml"), 30)
         assert len(urls) == 30 and all("/events/" in u for u in urls)
 
     def test_event_page(self):
@@ -302,3 +303,9 @@ class TestMovingOnMusic:
         ev = self.parse("chamber-choir-ireland")
         assert (ev.venue_name, ev.room, ev.price_min, ev.price_max) == ("Titanic Hotel", "Drawing Office One", 10.0, 15.0)
         assert "Belfast" in (ev.address or "")
+
+    def test_venue_site_event_page(self):
+        ev = mandela.parse_wix_event("https://www.mandelahall.com/events/corto.alto", load_text("mandela", "wix-event.html"))
+        assert ev and (ev.title, ev.date, ev.start_time, ev.price_min) == ("corto.alto", "2026-11-05", "19:00", 22.0)
+        assert ev.status == "on_sale"  # "SOLD OUT" is in every page's template
+        assert ev.venue_name == "Mandela Hall" and ev.is_music_hint is None

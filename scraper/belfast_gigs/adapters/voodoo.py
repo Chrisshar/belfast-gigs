@@ -15,8 +15,9 @@ from ..http import Http, parse_html
 from ..models import RawEvent
 from ..text import recase, ticket_provider
 from .base import Adapter
+from .wix import event_urls
 
-SITEMAP = "https://www.voodoobelfast.com/sitemap.xml"
+SITE = "https://www.voodoobelfast.com"
 VENUE = "Voodoo"
 RECENT_PAGES = 30
 _DATE = re.compile(r"(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*\|\s*(\d{1,2}:\d{2}\s*[AP]M)?", re.I)
@@ -29,23 +30,8 @@ class Voodoo(Adapter):
     licence = "Public pages on voodoobelfast.com; robots.txt only disallows ?lightbox=."
 
     def fetch(self, http: Http) -> list[RawEvent]:
-        index = http.get_text(SITEMAP)
-        events_map = next((u for u in re.findall(r"<loc>([^<]+)</loc>", index) if "dynamic-events" in u), None)
-        if not events_map:
-            return []
-        events = []
-        for url in recent_event_urls(http.get_text(events_map)):
-            event = parse_event(url, http.get_text(url))
-            if event:
-                events.append(event)
-        return events
-
-
-def recent_event_urls(sitemap: str, limit: int = RECENT_PAGES) -> list[str]:
-    entries = re.findall(r"<url>\s*<loc>([^<]+)</loc>(?:\s*<lastmod>([^<]+)</lastmod>)?", sitemap)
-    entries = [(u, m) for u, m in entries if "/events/" in u]
-    entries.sort(key=lambda e: e[1], reverse=True)
-    return [u for u, _ in entries[:limit]]
+        events = [parse_event(url, http.get_text(url)) for url in event_urls(http, SITE, RECENT_PAGES)]
+        return [e for e in events if e]
 
 
 def parse_event(url: str, html: str) -> RawEvent | None:

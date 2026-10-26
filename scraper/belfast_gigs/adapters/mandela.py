@@ -1,32 +1,46 @@
-"""Queen's Students' Union venues (Mandela Hall, the Union Bar) from their Glistrr box office page.
+"""Queen's Students' Union venues (Mandela Hall, the Union Bar): the SU's Glistrr box office page,
+plus mandelahall.com for shows that outside promoters sell through their own ticketing.
 
-glistrr.com/events/l/qub embeds every upcoming event as a JSON array (`var events = [...]`), with
-categories, prices, sold-out status and ages. That's richer than the schema.org data the page
-builds from it, so the array is read directly.
+glistrr.com/events/l/qub embeds every event the SU sells as a JSON array (`var events = [...]`),
+with categories, prices, sold-out status and ages, so the array is read directly.
+mandelahall.com is a Wix site: its event pages (found through the sitemap) carry a line like
+"Thursday | 5 Nov 2026 | 19:00 | DOORS: | SOLD OUT | TICKETS | £22". "SOLD OUT" is part of the
+page template and shows on every event, so it's ignored. Shows on both are merged downstream.
 """
 
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime
 
 from ..dates import to_london
-from ..http import Http
+from ..http import Http, parse_html
 from ..models import RawEvent
+from ..text import recase
 from .base import Adapter
+from .wix import event_urls
 
 PAGE = "https://glistrr.com/events/l/qub"
 TICKETS = "https://www.glistrr.com/events/e/{slug}"
 VENUES = {"union bar": "The Union Bar"}  # anything else is Mandela Hall
+SITE = "https://www.mandelahall.com"
+RECENT_PAGES = 40
+_WIX_LINE = re.compile(r"\| (?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) \| (\d{1,2} [A-Za-z]{3} \d{4}) \| (\d{1,2}:\d{2})(.*?)< BACK \| ([^|]+)")
 
 
 class MandelaHall(Adapter):
     name = "mandela"
     authority = 1
-    licence = "QUB Students' Union's public box office page on glistrr.com; robots.txt allows it."
+    licence = "QUB SU's public box office page on glistrr.com and the public pages of mandelahall.com; robots.txt allows both."
 
     def fetch(self, http: Http) -> list[RawEvent]:
-        return parse(http.get_text(PAGE))
+        events = parse(http.get_text(PAGE))
+        for url in event_urls(http, SITE, RECENT_PAGES):
+            event = parse_wix_event(url, http.get_text(url))
+            if event:
+                events.append(event)
+        return events
 
 
 def _events(html: str) -> list[dict]:
@@ -86,3 +100,28 @@ def parse(html: str) -> list[RawEvent]:
             )
         )
     return [e for e in out if e.title]
+
+
+def parse_wix_event(url: str, html: str) -> RawEvent | None:
+    text = re.sub(r"\s+", " ", parse_html(html).get_all_text(separator=" | ")).replace("​", "")
+    m = _WIX_LINE.search(text)
+    if not m:
+        return None
+    try:
+        date = datetime.strptime(m[1], "%d %b %Y").date().isoformat()
+    except ValueError:
+        return None
+    prices = [float(p) for p in re.findall(r"£\s?(\d+(?:\.\d{1,2})?)", m[3])]
+    return RawEvent(
+        source="mandela",
+        source_key=f"mandela:web:{url.rstrip('/').rsplit('/', 1)[-1]}",
+        source_url=url,
+        title=recase(m[4].strip()),
+        venue_name="Mandela Hall",
+        date=date,
+        start_time=m[2].zfill(5),
+        price_min=min(prices) if prices else None,
+        price_max=max(prices) if len(set(prices)) > 1 else None,
+        tickets=[("Mandela Hall", url)],
+        is_music_hint=None,  # gigs, comedy and quizzes share the listing
+    )
