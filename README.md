@@ -123,6 +123,7 @@ The CMS lives at `/admin` (`public/admin/`). It signs in with GitHub through a s
 | Ulster Sports Club | `usc` | The calendar widget's public JSON |
 | Voodoo | `voodoo` | Event pages via its sitemap; each read once, again only when edited (`data/page_cache.json`) |
 | Mandela Hall, The Union Bar (QUB SU) | `mandela` | The SU's Glistrr box office page |
+| Crescent Arts Centre | `crescent` | Events & Live Gigs page (schema.org markup) |
 | Mandela Hall shows sold by outside promoters | `mandelaweb` | mandelahall.com event pages, via its sitemap, cached like Voodoo's |
 | Black Box | `blackbox` | Paged event listing, by category |
 | Oh Yeah Music Centre | `ohyeah` | Events page HTML |

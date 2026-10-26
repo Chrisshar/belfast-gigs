@@ -1,6 +1,7 @@
 from .base import Adapter, MissingCredentials
 from .blackbox import BlackBox
 from .citizenticket import CitizenTicket
+from .crescent import Crescent
 from .deershead import DeersHead
 from .duncairn import Duncairn
 from .empire import Empire
@@ -19,7 +20,7 @@ ADAPTERS: dict[str, type[Adapter]] = {
     a.name: a
     for a in (
         Limelight, O2Belfast, UlsterHall, Empire, UlsterSportsClub, Voodoo, MandelaHall, MandelaHallWeb, BlackBox, OhYeah,
-        Duncairn, DeersHead, MovingOnMusic,
+        Duncairn, DeersHead, MovingOnMusic, Crescent,
         Harrison, CitizenTicket, Ticketmaster,
     )
 }

@@ -5,6 +5,7 @@ from conftest import load_json, load_text
 from belfast_gigs.adapters import (
     blackbox,
     citizenticket,
+    crescent,
     deershead,
     duncairn,
     empire,
@@ -387,3 +388,22 @@ class TestWixPageCache:
         cache = {}
         events = wix.events(site, "https://x.test", cache, page_event, self.today)
         assert len(events) == 3 and cache["https://x.test/events/we're-gone"]["event"] is None
+
+
+class TestCrescent:
+    events = crescent.parse(load_text("crescent", "events.html"))
+
+    def test_reads_every_card(self):
+        assert len(self.events) == 17
+
+    def test_gig(self):
+        ev = next(e for e in self.events if e.title == "Martin Taylor")
+        assert (ev.date, ev.start_time, ev.venue_name, ev.price_min) == ("2026-10-29", "20:00", "Crescent Arts Centre", 27.5)
+        assert ev.is_music_hint is True and ev.source_key == "crescent:martin-taylor" and ev.source_url.startswith("https://www.crescentarts.org/")
+
+    def test_categories_and_sold_out(self):
+        by = {e.title: e for e in self.events}
+        assert by["Saturday Afternoon Trad Session"].is_music_hint is True
+        assert by["Late Night Art at The Crescent"].is_music_hint is False
+        assert by["Dani Larkin"].status == "on_sale"
+        assert by["The Songs of Glen Hansard: In Support of Simon Community"].status == "sold_out"
