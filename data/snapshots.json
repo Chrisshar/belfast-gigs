@@ -13028,7 +13028,7 @@
    }
   ],
   "start_time": "19:30",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -14298,6 +14298,40 @@
   ],
   "title": "Bonnie Raitt - A Celebration",
   "venue": "belfast-empire"
+ },
+ "ddbf50ff-3b8e-4aff-a9e0-50bd1179429c": {
+  "age_restriction": null,
+  "date": "2027-06-04",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Ryan Sheridan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 21.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "blackbox:ryan-sheridan-paper-sails-tour",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/ryan-sheridan-paper-sails-tour/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/ryan-sheridan-paper-sails-tour/"
+   }
+  ],
+  "title": "Ryan Sheridan – Paper Sails Tour",
+  "venue": "black-box"
  },
  "ddeeab73-0f5a-4f88-99b4-7dd762417ebe": {
   "age_restriction": null,
@@ -16887,7 +16921,7 @@
    "Pop"
   ],
   "headliner": "Westlife",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,

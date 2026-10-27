@@ -18,7 +18,7 @@ sources:
   key: "blackbox:outburst-arts-festival-2027-catflap-6-live"
   url: "https://www.blackboxbelfast.com/event/outburst-arts-festival-2027-catflap-6-live/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-27T12:09:17Z"
+updated_at: "2026-10-27T21:18:21Z"
 backfill: true
 classification:
   is_music: true

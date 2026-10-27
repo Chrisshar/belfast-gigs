@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:battle-of-the-bands"
   url: "https://www.mandelahall.com/events/battle-of-the-bands"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-27T18:08:37Z"
+updated_at: "2026-10-27T21:18:21Z"
 backfill: true
 classification:
   is_music: true

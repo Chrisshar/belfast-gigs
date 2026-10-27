@@ -19,7 +19,7 @@ sources:
   key: "mandelaweb:the-beast---the-largest-iron-maiden-tribute"
   url: "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-27T18:08:37Z"
+updated_at: "2026-10-27T21:18:21Z"
 backfill: true
 classification:
   is_music: true

@@ -18,7 +18,7 @@ sources:
   key: "voodoo:wealthy-women"
   url: "https://www.voodoobelfast.com/events/wealthy-women"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-27T18:08:37Z"
+updated_at: "2026-10-27T21:18:21Z"
 backfill: true
 classification:
   is_music: true
