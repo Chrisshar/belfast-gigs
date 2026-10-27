@@ -5142,7 +5142,7 @@
     "url": "https://www.limelightbelfast.com/"
    }
   ],
-  "start_time": null,
+  "start_time": "18:30",
   "status": "on_sale",
   "support": null,
   "tickets": [
@@ -14967,6 +14967,40 @@
   "title": "O Holy Night",
   "venue": "ulster-hall"
  },
+ "e8f15d76-5e1b-4ec7-bb03-aadd39c05056": {
+  "age_restriction": null,
+  "date": "2027-02-14",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Muireann Bradley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:140227",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/140227"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/140227"
+   }
+  ],
+  "title": "Muireann Bradley: Blackwood Pew 2027 Tour",
+  "venue": "oh-yeah"
+ },
  "e91ad04e-e7b8-4710-a4df-747a06e3af4f": {
   "age_restriction": null,
   "date": "2026-11-13",
@@ -16086,6 +16120,40 @@
   ],
   "title": "Guinness Blues Cafe – Crow Black Chicken",
   "venue": "deers-head"
+ },
+ "f4030b51-a26a-43c5-9b5e-c2548362155c": {
+  "age_restriction": null,
+  "date": "2026-11-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Romeopathy",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:281126",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/281126"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/281126"
+   }
+  ],
+  "title": "Romeopathy: Celebrating 10 Years of Riffs",
+  "venue": "oh-yeah"
  },
  "f42305d2-e619-453b-a6f9-65f27193ab60": {
   "age_restriction": null,

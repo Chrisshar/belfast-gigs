@@ -6,6 +6,7 @@ venue: "limelight"
 room: "Limelight 2"
 date: "2026-10-31"
 doors_time: "19:00"
+start_time: "18:30"
 status: "on_sale"
 age_restriction: "18+"
 genres:
@@ -19,7 +20,7 @@ sources:
   key: "limelight:10886"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-10-27T12:09:17Z"
 backfill: true
 classification:
   is_music: true
