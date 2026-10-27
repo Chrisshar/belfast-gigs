@@ -3022,6 +3022,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "65a1af1d929197a2": {
+  "confidence": 0.6,
+  "genres": [
+   "Punk/Hardcore",
+   "Tribute/Covers"
+  ],
+  "headliner": "Punkoween Daytime Show",
+  "is_music": true,
+  "last_seen": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6636462f17e42003": {
   "confidence": 0.5,
   "genres": [
@@ -3117,6 +3129,20 @@
   "last_seen": "2026-10-27",
   "model": "claude-haiku-5-5",
   "support": []
+ },
+ "69e7d03f6eedf6f2": {
+  "confidence": 0.9,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Apes Of The State",
+  "is_music": true,
+  "last_seen": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Pigeon Pit"
+  ]
  },
  "6ad02073dd227205": {
   "confidence": 0.7,
@@ -5096,6 +5122,18 @@
    "Tribute/Covers"
   ],
   "headliner": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
+  "is_music": true,
+  "last_seen": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "babdcb433844c8ef": {
+  "confidence": 0.97,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Glasvegas",
   "is_music": true,
   "last_seen": "2026-10-27",
   "model": "claude-haiku-5-5",

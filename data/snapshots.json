@@ -6339,6 +6339,40 @@
   "title": "Black Box Open Mic",
   "venue": "black-box"
  },
+ "585f9c05-0144-448c-822f-fe6e6df89dab": {
+  "age_restriction": "18+",
+  "date": "2027-09-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Glasvegas",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11821",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1243253?venueId=461484"
+   }
+  ],
+  "title": "Glasvegas",
+  "venue": "limelight"
+ },
  "586072eb-45cb-4397-9dab-4e9609fb1071": {
   "age_restriction": null,
   "date": "2027-04-23",
@@ -10805,6 +10839,42 @@
   "title": "The Undertones",
   "venue": "limelight"
  },
+ "a6c331e2-7621-48c7-a5ab-88ff20e2afff": {
+  "age_restriction": null,
+  "date": "2027-04-01",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Apes Of The State",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:010427",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/010427"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": [
+   "Pigeon Pit"
+  ],
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/010427"
+   }
+  ],
+  "title": "Apes Of The State & Pigeon Pit",
+  "venue": "oh-yeah"
+ },
  "a7669152-2d17-4e7c-a89f-94396bdf7c20": {
   "age_restriction": "18+",
   "date": "2026-11-19",
@@ -12587,6 +12657,40 @@
    }
   ],
   "title": "Volume Control presents: HallowEMO",
+  "venue": "oh-yeah"
+ },
+ "c32dee0b-3677-4df2-bda3-035a410d8e8f": {
+  "age_restriction": null,
+  "date": "2026-10-31",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Tribute/Covers"
+  ],
+  "headliner": "Punkoween Daytime Show",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:311026",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/311026"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/311026"
+   }
+  ],
+  "title": "Punkoween Daytime Show",
   "venue": "oh-yeah"
  },
  "c37ccb2d-063f-4124-aab0-e44ed7b0107b": {

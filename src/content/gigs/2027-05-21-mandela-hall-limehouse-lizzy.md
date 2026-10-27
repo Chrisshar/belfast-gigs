@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:limehouse-lizzy"
   url: "https://www.mandelahall.com/events/limehouse-lizzy"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-27T12:09:17Z"
+updated_at: "2026-10-27T18:08:37Z"
 backfill: true
 classification:
   is_music: true
