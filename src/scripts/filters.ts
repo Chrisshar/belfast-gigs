@@ -4,6 +4,8 @@
 //   ?when=weekend&venue=limelight&month=2026-11&genre=Rock&genre=Metal&area=Belfast&q=ash
 // Genres combine with OR; the other filters combine with AND.
 
+import { replay, withTransition } from './motion';
+
 type When = '' | 'tonight' | 'weekend' | 'week';
 
 interface State {
@@ -137,7 +139,7 @@ function initLayout(): void {
   show(list.dataset.layout === 'list' ? 'list' : 'grid');
   for (const b of buttons) {
     b.addEventListener('click', () => {
-      show(b.dataset.layout ?? 'grid');
+      withTransition(() => show(b.dataset.layout ?? 'grid'));
       try {
         localStorage.setItem('layout', b.dataset.layout ?? 'grid');
       } catch {
@@ -195,16 +197,26 @@ export function initFilters(): void {
       if (list.dataset.list === 'upcoming') upcoming = shown;
     }
     const filtered = isFiltered(state);
-    if (count) count.textContent = `${upcoming} ${upcoming === 1 ? 'gig' : 'gigs'}${filtered ? ' match' : ' coming up'}`;
+    if (count) {
+      const text = `${upcoming} ${upcoming === 1 ? 'gig' : 'gigs'}${filtered ? ' match' : ' coming up'}`;
+      if (count.textContent !== text && count.textContent) replay(count, 'settle');
+      count.textContent = text;
+    }
     clearButtons.forEach((b) => (b.hidden = !filtered && !b.closest('[data-empty]')));
     writeUrl(state);
   }
 
+  // Discrete changes cross-fade the results; typing in the search box doesn't, as it would flicker.
+  const update = (): void =>
+    withTransition(() => {
+      syncControls();
+      apply();
+    });
+
   whenButtons.forEach((b) =>
     b.addEventListener('click', () => {
       state.when = state.when === b.dataset.when ? '' : ((b.dataset.when ?? '') as When);
-      syncControls();
-      apply();
+      update();
     }),
   );
   genreButtons.forEach((b) =>
@@ -212,8 +224,7 @@ export function initFilters(): void {
       const g = b.dataset.genre ?? '';
       if (state.genres.has(g)) state.genres.delete(g);
       else state.genres.add(g);
-      syncControls();
-      apply();
+      update();
     }),
   );
   fields.q?.addEventListener('input', () => {
@@ -223,18 +234,18 @@ export function initFilters(): void {
   for (const key of ['venue', 'month', 'area'] as const) {
     fields[key]?.addEventListener('change', () => {
       state[key] = fields[key]!.value;
-      apply();
+      update();
     });
   }
   clearButtons.forEach((b) =>
     b.addEventListener('click', () => {
       Object.assign(state, { when: '', q: '', venue: '', month: '', area: '', genres: new Set() });
-      syncControls();
-      apply();
+      update();
     }),
   );
   // The hero's Tonight / This weekend / Next 7 days links set the same quick filter, then jump to
-  // the list. Without JavaScript they still work, as plain ?when= links.
+  // the list. Without JavaScript they still work, as plain ?when= links. No cross-fade here: the
+  // smooth scroll is the motion.
   for (const link of document.querySelectorAll<HTMLAnchorElement>('[data-jump]')) {
     link.addEventListener('click', (event) => {
       event.preventDefault();
