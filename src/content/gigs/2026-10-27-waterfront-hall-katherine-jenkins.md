@@ -5,7 +5,7 @@ headliner: "Katherine Jenkins"
 venue: "waterfront-hall"
 room: "Main Auditorium"
 date: "2026-10-27"
-status: "sold_out"
+status: "on_sale"
 genres:
 - "Pop"
 - "Contemporary/New Music"
@@ -17,7 +17,7 @@ sources:
   key: "ulsterhall:katherine-jenkins"
   url: "https://www.ulsterhall.co.uk/what-s-on/katherine-jenkins/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-10-27T10:10:42Z"
 backfill: true
 classification:
   is_music: true

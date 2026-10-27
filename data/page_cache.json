@@ -1,4 +1,42 @@
 {
+ "empire": {
+  "hidden_ids": [
+   "7355",
+   "7545",
+   "3634",
+   "7357",
+   "650",
+   "7563",
+   "5438",
+   "7557",
+   "5886",
+   "7465",
+   "7620",
+   "7459",
+   "7512",
+   "7530",
+   "3667",
+   "6785",
+   "6828",
+   "3201",
+   "7567",
+   "7244",
+   "7578",
+   "7612",
+   "7550",
+   "7561",
+   "7462",
+   "7615",
+   "7372",
+   "6999",
+   "7575",
+   "7383",
+   "7397",
+   "7262",
+   "6324",
+   "4210"
+  ]
+ },
  "mandelaweb": {
   "https://www.mandelahall.com/events/andrew-strong": {
    "event": {
@@ -559,6 +597,41 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-03-24"
+  },
+  "https://www.mandelahall.com/events/hothouse-flowers": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-08-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 35.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:hothouse-flowers",
+    "source_url": "https://www.mandelahall.com/events/hothouse-flowers",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/hothouse-flowers"
+     ]
+    ],
+    "title": "Hothouse Flowers",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-25"
   },
   "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026": {
    "event": {
@@ -1574,41 +1647,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-07-30"
-  },
-  "https://www.mandelahall.com/events/the-simpson-halloween-pub-quiz": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-26",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 5.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:the-simpson-halloween-pub-quiz",
-    "source_url": "https://www.mandelahall.com/events/the-simpson-halloween-pub-quiz",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/the-simpson-halloween-pub-quiz"
-     ]
-    ],
-    "title": "The Simpson Halloween Pub Quiz",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-10-12"
   }
  },
  "voodoo": {

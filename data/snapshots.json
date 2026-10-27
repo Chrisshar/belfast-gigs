@@ -841,7 +841,7 @@
    }
   ],
   "start_time": null,
-  "status": "sold_out",
+  "status": "on_sale",
   "support": null,
   "tickets": [
    {
@@ -1288,6 +1288,42 @@
    }
   ],
   "title": "Pearl Scam",
+  "venue": "limelight"
+ },
+ "0c430e7c-bb24-4338-b16c-ca6855e42c27": {
+  "age_restriction": "18+",
+  "date": "2027-10-22",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Fratellis",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11818",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "Trampolene"
+  ],
+  "tickets": [
+   {
+    "source": "venuecloud.net",
+    "url": "https://www.venuecloud.net/s/f/10/273"
+   }
+  ],
+  "title": "The Fratellis",
   "venue": "limelight"
  },
  "0dd61aff-f8b5-43fe-9642-8982fd7eaaae": {
@@ -3001,39 +3037,6 @@
   ],
   "title": "Linkin Cork!",
   "venue": "voodoo"
- },
- "26fbc1f9-84a8-43fe-8336-3b14a39290ac": {
-  "age_restriction": null,
-  "date": "2026-10-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Roll It Studios Open Mic",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 5.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:roll-it-studios-open-mic",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/roll-it-studios-open-mic/"
-   }
-  ],
-  "start_time": "18:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/roll-it-studios-open-mic/"
-   }
-  ],
-  "title": "Roll It Studios Open Mic",
-  "venue": "black-box"
  },
  "26fc71d6-2484-4fab-845a-a321d7fd4eb7": {
   "age_restriction": null,
@@ -4830,6 +4833,40 @@
   ],
   "title": "The Whileaways",
   "venue": "crescent-arts-centre"
+ },
+ "45b461fc-8b19-4caa-889e-b5e85184145a": {
+  "age_restriction": null,
+  "date": "2027-06-14",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Bruce Dickinson",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:bruce-dickinson",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/bruce-dickinson/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/bruce-dickinson/"
+   }
+  ],
+  "title": "Bruce Dickinson",
+  "venue": "ulster-hall"
  },
  "45e317fd-aeb9-4baf-89ba-7c968aabe97a": {
   "age_restriction": "18+",
@@ -9427,6 +9464,42 @@
   "title": "Curtis Stigers in Concert",
   "venue": "ulster-hall"
  },
+ "8fc153f5-493e-4f42-8576-030fd49438b0": {
+  "age_restriction": null,
+  "date": "2027-02-17",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
+  "headliner": "MALEVOLENCE",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11816",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "GUILTTRIP + BODYWEB"
+  ],
+  "tickets": [
+   {
+    "source": "venuecloud.net",
+    "url": "https://www.venuecloud.net/s/f/10/272"
+   }
+  ],
+  "title": "MALEVOLENCE",
+  "venue": "limelight"
+ },
  "908c5fc9-a6d0-4bf2-820f-fd46c6c4ba0a": {
   "age_restriction": "18+",
   "date": "2027-03-07",
@@ -11213,6 +11286,40 @@
   ],
   "title": "The Budvar Music Trail presents: Ode to Misinformation: Rarewitch Live hosted by Stephen McCauley",
   "venue": "oh-yeah"
+ },
+ "ad6b40e4-ad2f-4098-87f6-deed66e7807c": {
+  "age_restriction": null,
+  "date": "2027-05-02",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Chasing Abbey",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:chasing-abbey",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/chasing-abbey/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/chasing-abbey/"
+   }
+  ],
+  "title": "Chasing Abbey",
+  "venue": "ulster-hall"
  },
  "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
   "age_restriction": null,
@@ -13680,6 +13787,40 @@
   "title": "Sky Full of Stars",
   "venue": "ulster-hall"
  },
+ "d3273d8f-9e43-4cfa-8b74-19fd13af88b0": {
+  "age_restriction": null,
+  "date": "2027-02-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "The Whistlin Donkeys",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:the-whistlin-donkeys-2",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/the-whistlin-donkeys-2/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/the-whistlin-donkeys-2/"
+   }
+  ],
+  "title": "The Whistlin Donkeys",
+  "venue": "ulster-hall"
+ },
  "d4a0f40e-c521-4936-954c-60119117714b": {
   "age_restriction": null,
   "date": "2026-10-28",
@@ -15473,6 +15614,40 @@
   ],
   "title": "The Darkness",
   "venue": "telegraph-building"
+ },
+ "efd9c207-ba0f-4e98-918f-867d1564d586": {
+  "age_restriction": null,
+  "date": "2027-08-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Folk/Trad"
+  ],
+  "headliner": "Hothouse Flowers",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 35.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:hothouse-flowers",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/hothouse-flowers"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/hothouse-flowers"
+   }
+  ],
+  "title": "Hothouse Flowers",
+  "venue": "mandela-hall"
  },
  "f02f130c-101f-4888-8a85-cadaf7cf0a63": {
   "age_restriction": null,
