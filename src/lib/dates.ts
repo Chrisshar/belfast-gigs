@@ -20,7 +20,10 @@ export function formatDate(date: string, opts: Intl.DateTimeFormatOptions = { we
 export function dayParts(date: string) {
   const d = asCalendarDay(date);
   const f = (o: Intl.DateTimeFormatOptions) => new Intl.DateTimeFormat('en-GB', { ...o, timeZone: 'UTC' }).format(d);
-  return { day: d.getUTCDate(), dow: f({ weekday: 'short' }), dowLong: f({ weekday: 'long' }), mon: f({ month: 'short' }), monLong: f({ month: 'long' }), year: d.getUTCFullYear() };
+  const year = d.getUTCFullYear();
+  // " 2027" for a date outside the current year, so "Sat 9 Jan" isn't read as this January.
+  const otherYear = String(year) === londonToday().slice(0, 4) ? '' : ` ${year}`;
+  return { day: d.getUTCDate(), dow: f({ weekday: 'short' }), dowLong: f({ weekday: 'long' }), mon: f({ month: 'short' }), monLong: f({ month: 'long' }), year, otherYear };
 }
 
 export function monthKey(date: string): string {

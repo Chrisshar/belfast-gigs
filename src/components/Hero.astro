@@ -53,7 +53,7 @@ for (const v of candidates) byDay.set(v.gig.data.date, [...(byDay.get(v.gig.data
           const p = dayParts(date);
           return (
             <div data-coming-day hidden={!dayViews.some((v) => initiallyShown.has(v))}>
-              <p class="cday">{p.dowLong} {p.day} {p.mon}</p>
+              <p class="cday">{p.dowLong} {p.day} {p.mon}{p.otherYear}</p>
               {dayViews.map((v) => (
                 <a class="mini" href={`/gigs/${v.slug}/`} data-end={v.gig.data.end_date ?? v.gig.data.date} data-run={runKey(v)} hidden={!initiallyShown.has(v)}>
                   <Art genres={v.gig.data.genres} />

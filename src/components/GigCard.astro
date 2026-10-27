@@ -15,7 +15,7 @@ const time = d.start_time ?? d.doors_time;
 <a class="card" href={`/gigs/${view.slug}/`} {...filterAttrs(view)}>
   <Art genres={d.genres} shape="banner" />
   <div class="body">
-    <div class="when">{p.dow} {p.day} {p.mon}{time && `, ${time}`}</div>
+    <div class="when">{p.dow} {p.day} {p.mon}{p.otherYear}{time && `, ${time}`}</div>
     <h3>{d.headliner}</h3>
     <div class="venue">{view.venueName}{d.status !== 'on_sale' && <span class="status inline">{STATUS_LABELS[d.status]}</span>}</div>
     {d.genres[0] && <div class="tag">{d.genres[0]}</div>}
