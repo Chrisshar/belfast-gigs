@@ -18,7 +18,7 @@ sources:
   key: "empire:now-the-90s-3-3"
   url: "https://www.thebelfastempire.com/music-hall/now-the-90s-3-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T07:08:33Z"
+updated_at: "2026-10-28T12:52:21Z"
 backfill: true
 classification:
   is_music: true

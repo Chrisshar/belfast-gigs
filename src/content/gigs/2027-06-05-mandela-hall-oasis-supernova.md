@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:oasis-supernova"
   url: "https://www.mandelahall.com/events/oasis-supernova"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-28T07:08:33Z"
+updated_at: "2026-10-28T12:52:21Z"
 backfill: true
 classification:
   is_music: true

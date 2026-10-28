@@ -885,6 +885,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "17cb4d2f2694deab": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "1815b2b714fb8e1e": {
   "confidence": 0.6,
   "genres": [
@@ -1425,6 +1434,15 @@
   ],
   "headliner": "Picture This",
   "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "275ce52b6ccbaaa0": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
   "last_seen": "2026-10-28",
   "model": "claude-haiku-5-5",
   "support": []
@@ -2834,6 +2852,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "5caf02e2ebb1cb9b": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "5cc65d4175a715b8": {
   "confidence": 0.7,
   "genres": [
@@ -2900,6 +2927,18 @@
    "Punk/Hardcore"
   ],
   "headliner": "Ash",
+  "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "60a2f870f967bf82": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "STUDENT XMAS DAY 2026",
   "is_music": true,
   "last_seen": "2026-10-28",
   "model": "claude-haiku-5-5",
@@ -3748,6 +3787,15 @@
   ],
   "headliner": "Nothing But a Good Time",
   "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "81e650ddbdab7b4c": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
   "last_seen": "2026-10-28",
   "model": "claude-haiku-5-5",
   "support": []
@@ -4715,6 +4763,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "a63fbb470f1df32e": {
+  "confidence": 0.95,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "The Chats",
+  "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "a74ee3a94f70acb7": {
   "confidence": 0.9,
   "genres": [
@@ -5262,6 +5322,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "bbf2f9883db2e398": {
+  "confidence": 0.45,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "In The Air Tonight",
+  "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "bc0a28156da4ea96": {
   "confidence": 0.97,
   "genres": [
@@ -5466,6 +5538,15 @@
   ],
   "headliner": "Bjorn Identity – Abba Christmas",
   "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c36ac77cd92d0412": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
   "last_seen": "2026-10-28",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6061,6 +6142,18 @@
   "genres": [],
   "headliner": "Belfast Street Art Walking Tour",
   "is_music": false,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d95033faf0b0fcaa": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Rock Icons Show",
+  "is_music": true,
   "last_seen": "2026-10-28",
   "model": "claude-haiku-5-5",
   "support": []

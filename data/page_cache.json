@@ -1236,6 +1236,41 @@
    },
    "lastmod": "2026-09-24"
   },
+  "https://www.mandelahall.com/events/rock-icons-show": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-04-08",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 28.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:rock-icons-show",
+    "source_url": "https://www.mandelahall.com/events/rock-icons-show",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/rock-icons-show"
+     ]
+    ],
+    "title": "Rock Icons Show",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-27"
+  },
   "https://www.mandelahall.com/events/rodrigo-y-gabriela-": {
    "event": {
     "address": null,

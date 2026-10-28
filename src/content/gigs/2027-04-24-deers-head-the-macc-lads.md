@@ -18,7 +18,7 @@ sources:
   key: "deershead:the-macc-lads"
   url: "https://www.thedeersheadbelfast.com/whats-on/the-macc-lads/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T07:08:33Z"
+updated_at: "2026-10-28T12:52:21Z"
 backfill: true
 classification:
   is_music: true

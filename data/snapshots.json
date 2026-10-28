@@ -2517,7 +2517,12 @@
   "support": [
    "Del Amitri"
   ],
-  "tickets": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/texas-belfast-18-10-2027/event/3800653ECF2E290F?camefrom=CFC_IE_CLI_THEO2BELFAST_TexasWeb&brand=ie_theo2belfast"
+   }
+  ],
   "title": "Texas: 30th Anniversary of White on Blonde + the hits",
   "venue": "the-o2-belfast"
  },
@@ -2799,6 +2804,40 @@
   ],
   "title": "The Summer Series 2027 - Slash",
   "venue": "custom-house-square"
+ },
+ "22b323df-09aa-44a0-8ee5-a225fff63a1a": {
+  "age_restriction": "18+",
+  "date": "2027-10-10",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "The Chats",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11826",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5272826?venueId=459772"
+   }
+  ],
+  "title": "The Chats",
+  "venue": "limelight"
  },
  "22e792e6-988e-4909-a3e9-1bca7917303a": {
   "age_restriction": null,
@@ -3637,6 +3676,35 @@
   "title": "Man in the Mirror",
   "venue": "waterfront-hall"
  },
+ "343fe12a-b404-4425-af2e-a2b52e12644d": {
+  "age_restriction": "18+",
+  "date": "2026-11-18",
+  "doors_time": "21:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "STUDENT XMAS DAY 2026",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11832",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": null,
+  "tickets": null,
+  "title": "STUDENT XMAS DAY 2026 -- THE TELEGRAPH BUILDING",
+  "venue": "telegraph-building"
+ },
  "35b13a5a-d401-4979-a54b-0306add687a5": {
   "age_restriction": null,
   "date": "2026-10-30",
@@ -3739,6 +3807,40 @@
   ],
   "title": "The Highstool Prophets",
   "venue": "ulster-hall"
+ },
+ "37de9bae-4787-4cf5-85e1-42da9383eb9b": {
+  "age_restriction": null,
+  "date": "2027-04-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Rock Icons Show",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 28.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:rock-icons-show",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/rock-icons-show"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/rock-icons-show"
+   }
+  ],
+  "title": "Rock Icons Show",
+  "venue": "mandela-hall"
  },
  "3868bfad-818f-42ba-bf76-3e4f7a85dc1e": {
   "age_restriction": "18+",
@@ -4221,6 +4323,40 @@
   ],
   "title": "SEVENTH SON (IRON MAIDEN TRIBUTE) with SOUND OF SABBATH",
   "venue": "deers-head"
+ },
+ "3ecd70e2-1d9c-415d-9a53-fc2ee90352f3": {
+  "age_restriction": null,
+  "date": "2027-04-04",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "In The Air Tonight",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:in-the-air-tonight",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/in-the-air-tonight/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/in-the-air-tonight/"
+   }
+  ],
+  "title": "In The Air Tonight",
+  "venue": "ulster-hall"
  },
  "3ed6120c-5570-4d83-bbb4-d3f3e5a81ab3": {
   "age_restriction": null,

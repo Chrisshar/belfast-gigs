@@ -18,7 +18,7 @@ sources:
   key: "empire:a-night-for-jamesy-kilpatrick"
   url: "https://www.thebelfastempire.com/music-hall/a-night-for-jamesy-kilpatrick/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T07:08:33Z"
+updated_at: "2026-10-28T12:52:21Z"
 backfill: true
 classification:
   is_music: true
