@@ -1655,6 +1655,41 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-07-30"
+  },
+  "https://www.mandelahall.com/events/tindersticks": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-08",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 40.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:tindersticks",
+    "source_url": "https://www.mandelahall.com/events/tindersticks",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/tindersticks"
+     ]
+    ],
+    "title": "Tindersticks",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-28"
   }
  },
  "voodoo": {

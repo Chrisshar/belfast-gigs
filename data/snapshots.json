@@ -3008,6 +3008,41 @@
   "title": "Bat’s Womb – The Lost Boys Themed Halloween Party",
   "venue": "deers-head"
  },
+ "2504e998-cd34-47c9-b2a8-caf3f3f638bb": {
+  "age_restriction": null,
+  "date": "2027-05-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Singer-Songwriter",
+   "Rock"
+  ],
+  "headliner": "Tindersticks",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 40.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:tindersticks",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/tindersticks"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/tindersticks"
+   }
+  ],
+  "title": "Tindersticks",
+  "venue": "mandela-hall"
+ },
  "26600d82-8bfa-450a-9d34-b997e19d1ead": {
   "age_restriction": null,
   "date": "2027-01-23",
@@ -10322,6 +10357,40 @@
   "title": "Leslie Odom, Jr.",
   "venue": "waterfront-hall"
  },
+ "9dd9725d-3126-4d07-b5b6-e0ecb794c83d": {
+  "age_restriction": null,
+  "date": "2026-11-25",
+  "doors_time": null,
+  "end_date": null,
+  "free": true,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Green Room",
+  "sources": [
+   {
+    "key": "blackbox:the-first-slip-58",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/the-first-slip-58/"
+   }
+  ],
+  "start_time": "17:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/the-first-slip-58/"
+   }
+  ],
+  "title": "The First Slip",
+  "venue": "black-box"
+ },
  "9e259da5-2c23-478a-83fd-2bfe4173bf77": {
   "age_restriction": null,
   "date": "2027-02-13",
@@ -10424,6 +10493,40 @@
   ],
   "title": "B.Y.O.B - Tribute to System of a Down",
   "venue": "limelight"
+ },
+ "9ebf9f6c-7234-43e1-9872-0b9295124ba3": {
+  "age_restriction": "18+",
+  "date": "2026-11-26",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Belgian Blue",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "duncairn:belgian-blue",
+    "name": "duncairn",
+    "url": "https://www.theduncairn.com/events/belgian-blue"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketsolve",
+    "url": "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173695409"
+   }
+  ],
+  "title": "The Belgian Blue",
+  "venue": "the-duncairn"
  },
  "9ec215ec-4042-4e61-a91a-2839b0c743b6": {
   "age_restriction": null,

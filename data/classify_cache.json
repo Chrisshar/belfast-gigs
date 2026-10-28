@@ -964,6 +964,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "196f72c4629fdad7": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Belgian Blue",
+  "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "197eecc09bf51f48": {
   "confidence": 0.5,
   "genres": [
@@ -4309,6 +4321,19 @@
    "Call Me Amour"
   ]
  },
+ "978378fb58bfc6a6": {
+  "confidence": 0.97,
+  "genres": [
+   "Indie/Alternative",
+   "Singer-Songwriter",
+   "Rock"
+  ],
+  "headliner": "Tindersticks",
+  "is_music": true,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "9809beb9013f9b81": {
   "confidence": 0.9,
   "genres": [
@@ -5190,6 +5215,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "b6ff5f7b192f6a59": {
+  "confidence": 0.8,
+  "genres": [],
+  "headliner": "Purely Poetry Open Mic Night",
+  "is_music": false,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "b70013748c1b7e05": {
   "confidence": 0.95,
   "genres": [
@@ -5939,6 +5973,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "d19aed527f66ab69": {
+  "confidence": 0.8,
+  "genres": [],
+  "headliner": "Purely Poetry Open Mic Night",
+  "is_music": false,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "d21247e3404c5d00": {
   "confidence": 0.5,
   "genres": [
@@ -6397,6 +6440,18 @@
   ],
   "headliner": "Rock Day Party",
   "is_music": false,
+  "last_seen": "2026-10-28",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e3ad6c955121f860": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "is_music": true,
   "last_seen": "2026-10-28",
   "model": "claude-haiku-5-5",
   "support": []

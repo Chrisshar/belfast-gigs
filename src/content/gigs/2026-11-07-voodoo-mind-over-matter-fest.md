@@ -14,7 +14,7 @@ sources:
   key: "voodoo:mind-over-matter-fest"
   url: "https://www.voodoobelfast.com/events/mind-over-matter-fest"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T12:52:21Z"
+updated_at: "2026-10-28T18:08:35Z"
 backfill: true
 classification:
   is_music: true
