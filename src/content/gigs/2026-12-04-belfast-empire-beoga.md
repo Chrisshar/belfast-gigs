@@ -15,10 +15,10 @@ sources:
   key: "empire:beoga-with-friends-2"
   url: "https://www.thebelfastempire.com/music-hall/beoga-with-friends-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-27T21:18:21Z"
+updated_at: "2026-10-28T07:08:33Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.9
   method: "llm"
 ---

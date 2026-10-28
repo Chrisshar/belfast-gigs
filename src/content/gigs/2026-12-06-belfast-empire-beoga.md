@@ -1,6 +1,6 @@
 ---
 id: "433ba63a-4acc-433d-a486-f14f0281eb72"
-title: "Beoga - With Friends"
+title: "Beoga – With Friends"
 headliner: "Beoga"
 venue: "belfast-empire"
 date: "2026-12-06"
@@ -18,7 +18,7 @@ sources:
   key: "empire:beoga-with-friends-3"
   url: "https://www.thebelfastempire.com/music-hall/beoga-with-friends-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-27T21:18:21Z"
+updated_at: "2026-10-28T07:08:33Z"
 backfill: true
 classification:
   is_music: true

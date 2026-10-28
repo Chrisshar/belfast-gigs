@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:corto.alto"
   url: "https://www.mandelahall.com/events/corto.alto"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-27T21:18:21Z"
+updated_at: "2026-10-28T07:08:33Z"
 backfill: true
 classification:
   is_music: true

@@ -818,40 +818,6 @@
   "title": "Dock Street Jazz Club: Tom Remon (UK)",
   "venue": "american-bar"
  },
- "076f5cf1-2716-4630-bbed-a073f7a0fb98": {
-  "age_restriction": null,
-  "date": "2026-10-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Contemporary/New Music"
-  ],
-  "headliner": "Katherine Jenkins",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Main Auditorium",
-  "sources": [
-   {
-    "key": "ulsterhall:katherine-jenkins",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/katherine-jenkins/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/katherine-jenkins/"
-   }
-  ],
-  "title": "Katherine Jenkins",
-  "venue": "waterfront-hall"
- },
  "07bf3b9b-719b-4329-9224-ba1b4f622c0c": {
   "age_restriction": null,
   "date": "2026-11-15",
@@ -4730,7 +4696,7 @@
     "url": "https://www.ticketmaster.ie/beoga-belfast-06-12-2026/event/3800654288BF1012"
    }
   ],
-  "title": "Beoga - With Friends",
+  "title": "Beoga – With Friends",
   "venue": "belfast-empire"
  },
  "43ac109e-f32c-4737-869c-9e37ca92df05": {
@@ -6044,7 +6010,7 @@
    "Tribute/Covers",
    "Pop"
   ],
-  "headliner": "Bjorn Identity - Abba Christmas",
+  "headliner": "Bjorn Identity – Abba Christmas",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -6065,7 +6031,7 @@
     "url": "https://www.ticketmaster.ie/the-bjorn-identity-abba-christmas-show-belfast-11-12-2026/event/380064C3A90F2262"
    }
   ],
-  "title": "Bjorn Identity - Abba Christmas",
+  "title": "Bjorn Identity – Abba Christmas",
   "venue": "belfast-empire"
  },
  "55590a01-562d-4e56-ad9e-5f95939dc9c1": {
@@ -12626,39 +12592,6 @@
   "title": "Susy Good: Album Launch",
   "venue": "black-box"
  },
- "c3114386-03ef-46da-b626-23ef946b1310": {
-  "age_restriction": null,
-  "date": "2026-10-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic"
-  ],
-  "headliner": "Volume Control presents: HallowEMO",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:271026",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/271026"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/271026"
-   }
-  ],
-  "title": "Volume Control presents: HallowEMO",
-  "venue": "oh-yeah"
- },
  "c32dee0b-3677-4df2-bda3-035a410d8e8f": {
   "age_restriction": null,
   "date": "2026-10-31",
@@ -16910,41 +16843,6 @@
   ],
   "title": "Arborist",
   "venue": "belfast-empire"
- },
- "fca2d074-9c98-4819-950b-c370471a6719": {
-  "age_restriction": null,
-  "date": "2026-10-27",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "Westlife",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:260525:2026-10-27",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/westlife-25-years"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Ana Sky"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-27-10-2026/event/38006348D93F2812?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
-  "venue": "the-o2-belfast"
  },
  "fdd3db53-0cc1-40cf-a6df-79870ef52913": {
   "age_restriction": null,

@@ -1,10 +1,18 @@
 {
  "empire": {
   "hidden_ids": [
+   "7142",
+   "7593",
+   "6000",
+   "7595",
+   "7667",
+   "4286",
    "7355",
+   "7669",
    "7545",
    "3634",
    "7357",
+   "7671",
    "650",
    "7563",
    "5438",
@@ -1332,41 +1340,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-01-12"
-  },
-  "https://www.mandelahall.com/events/star-trek-pub-quiz-2026": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-03",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 5.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:star-trek-pub-quiz-2026",
-    "source_url": "https://www.mandelahall.com/events/star-trek-pub-quiz-2026",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/star-trek-pub-quiz-2026"
-     ]
-    ],
-    "title": "Star Trek Pub Quiz 2026",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-09-15"
   },
   "https://www.mandelahall.com/events/star-wars-pub-quiz-2026": {
    "event": {
