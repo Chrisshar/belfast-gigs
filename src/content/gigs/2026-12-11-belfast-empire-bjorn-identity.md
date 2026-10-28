@@ -18,7 +18,7 @@ sources:
   key: "empire:bjorn-identity-abba-tribute"
   url: "https://www.thebelfastempire.com/music-hall/bjorn-identity-abba-tribute/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T18:08:35Z"
+updated_at: "2026-10-28T21:39:28Z"
 backfill: true
 classification:
   is_music: true

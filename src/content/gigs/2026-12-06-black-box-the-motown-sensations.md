@@ -18,7 +18,7 @@ sources:
   key: "blackbox:christmas-with-the-motown-sensations-2"
   url: "https://www.blackboxbelfast.com/event/christmas-with-the-motown-sensations-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T18:08:35Z"
+updated_at: "2026-10-28T21:39:28Z"
 backfill: true
 classification:
   is_music: true
