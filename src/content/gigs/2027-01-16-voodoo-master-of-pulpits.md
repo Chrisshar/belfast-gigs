@@ -18,7 +18,7 @@ sources:
   key: "voodoo:master-of-pulpits"
   url: "https://www.voodoobelfast.com/events/master-of-pulpits"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T21:39:28Z"
+updated_at: "2026-10-29T07:08:34Z"
 backfill: true
 classification:
   is_music: true

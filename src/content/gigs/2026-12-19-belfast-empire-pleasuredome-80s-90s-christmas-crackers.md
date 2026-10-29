@@ -18,7 +18,7 @@ sources:
   key: "empire:pleasuredome-80s-90s-christmas-crackers-part2-2-2"
   url: "https://www.thebelfastempire.com/music-hall/pleasuredome-80s-90s-christmas-crackers-part2-2-2/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-10-28T21:39:28Z"
+updated_at: "2026-10-29T07:08:34Z"
 classification:
   is_music: true
   confidence: 0.5

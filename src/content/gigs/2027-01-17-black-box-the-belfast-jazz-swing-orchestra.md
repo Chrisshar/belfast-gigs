@@ -17,7 +17,7 @@ sources:
   key: "blackbox:cqaf-the-belfast-jazz-swing-orchestra"
   url: "https://www.blackboxbelfast.com/event/cqaf-the-belfast-jazz-swing-orchestra/"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-28T21:39:28Z"
+updated_at: "2026-10-29T07:08:34Z"
 classification:
   is_music: true
   confidence: 0.7

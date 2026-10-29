@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:meltdowns-halloween-headbangerz-ball"
   url: "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-28T21:39:28Z"
+updated_at: "2026-10-29T07:08:34Z"
 backfill: true
 classification:
   is_music: true

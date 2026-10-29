@@ -18,7 +18,7 @@ sources:
   key: "empire:the-stranger-a-tribute-to-billy-joel"
   url: "https://www.thebelfastempire.com/music-hall/the-stranger-a-tribute-to-billy-joel/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-28T21:39:28Z"
+updated_at: "2026-10-29T07:08:34Z"
 backfill: true
 classification:
   is_music: true
