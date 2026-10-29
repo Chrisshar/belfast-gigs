@@ -21,7 +21,7 @@ sources:
   key: "blackbox:otl-elaha-soroor-kefaya"
   url: "https://www.blackboxbelfast.com/event/otl-elaha-soroor-kefaya/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-29T18:08:31Z"
+updated_at: "2026-10-29T21:49:38Z"
 backfill: true
 classification:
   is_music: true

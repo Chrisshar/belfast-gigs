@@ -18,7 +18,7 @@ sources:
   key: "blackbox:the-unholy-gospel-band-autumn-sessions-2"
   url: "https://www.blackboxbelfast.com/event/the-unholy-gospel-band-autumn-sessions-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-29T18:08:31Z"
+updated_at: "2026-10-29T21:49:38Z"
 backfill: true
 classification:
   is_music: true

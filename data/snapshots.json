@@ -10006,7 +10006,7 @@
    "Pop"
   ],
   "headliner": "Westlife",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,

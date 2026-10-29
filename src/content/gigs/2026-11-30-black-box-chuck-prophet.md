@@ -18,7 +18,7 @@ sources:
   key: "blackbox:chuck-prophet"
   url: "https://www.blackboxbelfast.com/event/chuck-prophet/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-29T18:08:31Z"
+updated_at: "2026-10-29T21:49:38Z"
 backfill: true
 classification:
   is_music: true

@@ -18,7 +18,7 @@ sources:
   key: "empire:the-john-mayall-project"
   url: "https://www.thebelfastempire.com/music-hall/the-john-mayall-project/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-10-29T18:08:31Z"
+updated_at: "2026-10-29T21:49:38Z"
 classification:
   is_music: true
   confidence: 0.9
