@@ -18,7 +18,7 @@ sources:
   key: "empire:bad-moon-rising"
   url: "https://www.thebelfastempire.com/music-hall/bad-moon-rising/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-10-29T12:58:50Z"
+updated_at: "2026-10-29T18:08:31Z"
 classification:
   is_music: true
   confidence: 0.9

@@ -167,6 +167,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "042a6a7554a39fcc": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Spirit Bc",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "04521b420a894e51": {
   "confidence": 0.5,
   "genres": [],
@@ -202,6 +213,18 @@
    "Nomadic Rituals",
    "Indominus"
   ]
+ },
+ "0531058aaf4405f1": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Brian Finnegan",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "0588e9743a38dbe0": {
   "confidence": 0.8,
@@ -1177,6 +1200,15 @@
    "Rock"
   ],
   "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
+  "is_music": false,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "20a6acecb01acc93": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "OH DEER! COMEDY CLUB – Ronan Boyle",
   "is_music": false,
   "last_seen": "2026-10-29",
   "model": "claude-haiku-5-5",
@@ -2991,6 +3023,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "6165b85c769014d3": {
+  "confidence": 0.85,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Shes the Riot",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "61824e1a6ff4cd36": {
   "confidence": 0.95,
   "genres": [
@@ -4019,6 +4063,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "89cd3dd2d0efa469": {
+  "confidence": 0.8,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Static Hearts",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "8b4f0f1662274f78": {
   "confidence": 0.8,
   "genres": [
@@ -4612,6 +4668,18 @@
    "Esmeralda Road"
   ]
  },
+ "a11b69e66017b2d5": {
+  "confidence": 0.5,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Sanctium Noctis",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "a16449b396628fa8": {
   "confidence": 0.85,
   "genres": [
@@ -5040,6 +5108,18 @@
    "Indie/Alternative"
   ],
   "headliner": "The Frank & The Walters",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "af2190972ca251c9": {
+  "confidence": 0.85,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Feckin' Raging",
   "is_music": true,
   "last_seen": "2026-10-29",
   "model": "claude-haiku-5-5",
@@ -7092,6 +7172,18 @@
    "Pop"
   ],
   "headliner": "BCGC Christmas Concert",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fc913a9b38b12e29": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Dead Pioneers",
   "is_music": true,
   "last_seen": "2026-10-29",
   "model": "claude-haiku-5-5",

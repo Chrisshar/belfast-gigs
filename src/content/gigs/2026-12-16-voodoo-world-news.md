@@ -18,7 +18,7 @@ sources:
   key: "voodoo:world-news"
   url: "https://www.voodoobelfast.com/events/world-news"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-10-29T12:58:50Z"
+updated_at: "2026-10-29T18:08:31Z"
 backfill: true
 classification:
   is_music: true

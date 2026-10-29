@@ -20,6 +20,7 @@
    "5886",
    "7465",
    "7620",
+   "6391",
    "7459",
    "7512",
    "7530",
@@ -1961,6 +1962,41 @@
    "event": null,
    "lastmod": "2026-06-23"
   },
+  "https://www.voodoobelfast.com/events/dead-pioneers": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-03-22",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:dead-pioneers",
+    "source_url": "https://www.voodoobelfast.com/events/dead-pioneers",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/dead-pioneers-belfast-22-03-2027/event/3800655BE4AA383B"
+     ]
+    ],
+    "title": "Dead Pioneers",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-29"
+  },
   "https://www.voodoobelfast.com/events/denim-%26-leather": {
    "event": null,
    "lastmod": "2026-01-14"
@@ -2109,6 +2145,41 @@
   "https://www.voodoobelfast.com/events/ez%2Fdc": {
    "event": null,
    "lastmod": "2026-03-11"
+  },
+  "https://www.voodoobelfast.com/events/feckin-raging": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-21",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:feckin-raging",
+    "source_url": "https://www.voodoobelfast.com/events/feckin-raging",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/feckin-raging-rage-against-the-machine-tribute-tickets-2002564016882?aff=ebdssbdestsearch&dsrp_sid=1fd9c084-63d3-46a7-9515-37b8e27cb9d5&dsrp_item_id=2002564016882"
+     ]
+    ],
+    "title": "Feckin' Raging",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/fleadh-caberet": {
    "event": null,
@@ -2758,8 +2829,34 @@
    "lastmod": "2025-12-11"
   },
   "https://www.voodoobelfast.com/events/sanctium-noctis": {
-   "event": null,
-   "lastmod": "2026-07-28"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-21",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:sanctium-noctis",
+    "source_url": "https://www.voodoobelfast.com/events/sanctium-noctis",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Sanctium Noctis",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/sanctum-noctis": {
    "event": null,
@@ -2776,6 +2873,36 @@
   "https://www.voodoobelfast.com/events/she%2Fhell": {
    "event": null,
    "lastmod": "2025-10-29"
+  },
+  "https://www.voodoobelfast.com/events/shes-the-riot": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-27",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:shes-the-riot",
+    "source_url": "https://www.voodoobelfast.com/events/shes-the-riot",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Shes the Riot",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/silence-me": {
    "event": null,
@@ -2867,9 +2994,74 @@
    "event": null,
    "lastmod": "2026-08-26"
   },
+  "https://www.voodoobelfast.com/events/spirit-bc": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-10-30",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:spirit-bc",
+    "source_url": "https://www.voodoobelfast.com/events/spirit-bc",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/spirit-bc-northern-irelands-tribute-to-ghost-tickets-1995701950256?aff=ebdssbdestsearch&dsrp_sid=25110396-8ca1-4857-b4bf-2a8e3e6e83de&dsrp_item_id=1995701950256"
+     ]
+    ],
+    "title": "Spirit Bc",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-29"
+  },
   "https://www.voodoobelfast.com/events/stamping-ground": {
    "event": null,
    "lastmod": "2026-03-11"
+  },
+  "https://www.voodoobelfast.com/events/static-hearts": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-20",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:static-hearts",
+    "source_url": "https://www.voodoobelfast.com/events/static-hearts",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Static Hearts",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/stitch": {
    "event": null,

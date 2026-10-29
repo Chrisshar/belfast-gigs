@@ -269,6 +269,35 @@
   "title": "Lawnmower Deth",
   "venue": "deers-head"
  },
+ "02b68116-ee62-402d-aa60-9caaf739e5ca": {
+  "age_restriction": null,
+  "date": "2026-11-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Shes the Riot",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:shes-the-riot",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/shes-the-riot"
+   }
+  ],
+  "start_time": "22:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Shes the Riot",
+  "venue": "voodoo"
+ },
  "02dfe210-6e20-430c-b02e-122a22620e2c": {
   "age_restriction": null,
   "date": "2027-06-18",
@@ -4529,6 +4558,35 @@
   "title": "Slipknowt",
   "venue": "limelight"
  },
+ "40cdbc65-569f-47bb-99a0-6c8e4fd6836c": {
+  "age_restriction": null,
+  "date": "2026-11-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Sanctium Noctis",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:sanctium-noctis",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/sanctium-noctis"
+   }
+  ],
+  "start_time": "22:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Sanctium Noctis",
+  "venue": "voodoo"
+ },
  "416083dd-312d-4920-be07-dad0e6a55771": {
   "age_restriction": null,
   "date": "2027-03-07",
@@ -5932,6 +5990,35 @@
   "tickets": null,
   "title": "BEOGA (other dates available)",
   "venue": "belfast-empire"
+ },
+ "4dff2c62-9aae-4d3f-9262-5ccb9a924c52": {
+  "age_restriction": null,
+  "date": "2026-11-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Static Hearts",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:static-hearts",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/static-hearts"
+   }
+  ],
+  "start_time": "22:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Static Hearts",
+  "venue": "voodoo"
  },
  "4e7934ba-f962-4e20-8801-61bc2aed35cc": {
   "age_restriction": "18+",
@@ -8786,6 +8873,40 @@
   "title": "L1NKN P4RK",
   "venue": "limelight"
  },
+ "832840a2-5822-46c7-8907-21e135afb2aa": {
+  "age_restriction": null,
+  "date": "2027-05-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Feckin' Raging",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:feckin-raging",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/feckin-raging"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/feckin-raging-rage-against-the-machine-tribute-tickets-2002564016882?aff=ebdssbdestsearch&dsrp_sid=1fd9c084-63d3-46a7-9515-37b8e27cb9d5&dsrp_item_id=2002564016882"
+   }
+  ],
+  "title": "Feckin' Raging",
+  "venue": "voodoo"
+ },
  "83748e1c-14e3-4cba-a23d-2bd3f0b0aefb": {
   "age_restriction": null,
   "date": "2027-04-27",
@@ -10724,6 +10845,39 @@
   ],
   "title": "The Fray",
   "venue": "ulster-hall"
+ },
+ "a33988a4-7c06-4dd3-99db-8b350fb9c751": {
+  "age_restriction": null,
+  "date": "2026-10-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Spirit Bc",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:spirit-bc",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/spirit-bc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/spirit-bc-northern-irelands-tribute-to-ghost-tickets-1995701950256?aff=ebdssbdestsearch&dsrp_sid=25110396-8ca1-4857-b4bf-2a8e3e6e83de&dsrp_item_id=1995701950256"
+   }
+  ],
+  "title": "Spirit Bc",
+  "venue": "voodoo"
  },
  "a3497f8d-5877-4e8c-a75f-cf1fb8b52cd5": {
   "age_restriction": null,
@@ -12762,6 +12916,40 @@
   "title": "Susy Good: Album Launch",
   "venue": "black-box"
  },
+ "c2d28e5c-b186-41fd-a613-4af77dbf042b": {
+  "age_restriction": null,
+  "date": "2027-03-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Dead Pioneers",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:dead-pioneers",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/dead-pioneers"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/dead-pioneers-belfast-22-03-2027/event/3800655BE4AA383B"
+   }
+  ],
+  "title": "Dead Pioneers",
+  "venue": "voodoo"
+ },
  "c32dee0b-3677-4df2-bda3-035a410d8e8f": {
   "age_restriction": null,
   "date": "2026-10-31",
@@ -12898,6 +13086,35 @@
   ],
   "title": "The Mersey Beatles",
   "venue": "ulster-hall"
+ },
+ "c4531369-fa83-4dee-a88b-4888501bc7bf": {
+  "age_restriction": null,
+  "date": "2027-01-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Brian Finnegan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 22.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:yama",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/yama/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Brian Finnegan – Yama",
+  "venue": "belfast-empire"
  },
  "c4582a4a-a8e1-4f45-b14e-9c8e7d03b7cb": {
   "age_restriction": null,
