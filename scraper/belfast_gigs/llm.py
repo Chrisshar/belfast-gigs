@@ -45,6 +45,11 @@ Belongs (is_music = true):
 
 Does not belong (is_music = false):
 - DJ sets, club nights, raves
+- party nights, even when a live band plays: themed parties (Halloween, Christmas, student nights),
+  decade and nostalgia nights ("80s / 90s night", "Now the 90s", "Noughties"), emo, indie and rock
+  club nights ("Emo Fest", "Headbangers Ball"), day parties. The theme or the night is the draw, not
+  a named act. A tribute to one artist ("The Bon Jovi Experience") or a touring show of a decade's
+  hits ("Legends of the 60s Show") is still a gig
 - orchestras, symphony concerts, opera, choirs (including touring orchestral shows)
 - comedy, theatre, musicals, pantomime, spoken word, talks, podcasts, quizzes, bingo
 - film screenings, workshops, markets, family or children's shows, sport

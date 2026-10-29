@@ -118,6 +118,7 @@ def collect(
                     continue
                 if is_pass(raw.title) or state.overrides.blocked(raw.title):
                     report.dropped_blocked += 1
+                    out.rejected_keys.add(raw.source_key)  # so a gig already on the site goes too
                     continue
                 prepared = prepare(raw, venues, create_stubs=True, write_stubs=False)
                 if prepared is None:

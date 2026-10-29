@@ -2,8 +2,9 @@
 (Phase 2 sends those to Claude Haiku before falling back to the flag).
 
 In scope: live music, including tribute/covers acts, trad sessions, open mics and small-venue
-contemporary/new-classical concerts. Out: DJ/club nights, orchestral/opera/choral, comedy, theatre,
-panto, quizzes, talks, film, family shows.
+contemporary/new-classical concerts. Out: DJ/club nights, party nights (themed, decade, student and
+day parties, even with a band on), orchestral/opera/choral, comedy, theatre, panto, quizzes, talks,
+film, family shows.
 """
 
 from __future__ import annotations
@@ -39,6 +40,19 @@ _STRONG = re.compile(
     re.I,
 )
 _WEAK = re.compile(r"\b(band|acoustic|session|singer|gig|concert|in concert|live|tour)\b", re.I)
+# Party and club nights. Venues list these with their gigs (often with a covers band on), so
+# they're dropped even when the source says music; only a strong gig signal saves one
+# ("Tom Gee: EP Launch Party", "Exhibition Party: The Outcasts plus special guests").
+_PARTY = re.compile(
+    r"(?<!dinner )\bpart(y|ies)\b|"
+    r"\b(halloween|hallowe'?en|christmas|xmas|headbanger\w*|masked|masquerade) ball\b|"
+    r"\bstudents?\b|\bday (rave|fever)\b|\bsilent disco\b|\bdisco night\b|\bthemed\b|"
+    r"\bemo (fest|night)\b|\bnought(y|ie|ies)\b|"
+    # Decade nights: "80's / 90's", "90’s – 00’s".
+    r"\b\d0['’]?s\s*[-–/&+]\s*\d0['’]?s\b",
+    re.I,
+)
+_STRONG_PARTY = re.compile(r"\b(album launch|ep launch|single launch|special guests?|plus support|\+ support)\b", re.I)
 
 REVIEW_BELOW = 0.7
 
@@ -47,6 +61,7 @@ REVIEW_BELOW = 0.7
 class Verdict:
     classification: Classification
     reason: str
+    party: bool = False  # rejected as a party/club night: Claude needs to be sure to bring it back
 
     @property
     def publish(self) -> bool:
@@ -68,6 +83,11 @@ def classify(p: Prepared, always_music: bool = False) -> Verdict:
         return v(True, 0.95, "source lists only music")
     if p.raw.is_music_hint is False:
         return v(False, 0.95, "source marks it as non-music")
+    party = _PARTY.search(text)
+    if party and not _STRONG_PARTY.search(text):
+        verdict = v(False, 0.85, f"party night: title says '{party.group(0)}'")
+        verdict.party = True
+        return verdict
     if p.raw.is_music_hint is True:
         if blocked:
             return v(True, 0.5, f"music source, but title says '{blocked.group(0)}'")
@@ -99,6 +119,8 @@ def with_llm(rules: Verdict, llm: dict | None, always_music: bool = False) -> Ve
     if llm is None or always_music:
         return rules
     confidence = round(float(llm["confidence"]), 2)
+    if rules.party and llm["is_music"] and confidence < OVERRULE_SOURCE_AT:
+        return rules
     source_said_music = rules.classification.is_music and rules.classification.confidence >= 0.9
     if not llm["is_music"] and source_said_music and confidence < OVERRULE_SOURCE_AT:
         return Verdict(Classification(is_music=True, confidence=0.5, method="llm"), f"source says music, Claude doubts it ({confidence})")

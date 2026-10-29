@@ -4,6 +4,10 @@
 # Example: - "^Bingo Loco"
 block_titles:
   - "^Fuego Fatale"
+  # Party nights whose names don't say so.
+  - "^Pleasuredome"
+  - "^Now the \\d0"
+  - "^Day Fever"
 
 # Regular expressions for listings that are always gigs, whatever the rules or Claude think.
 # Example: - "^Stop Making Sense Live$"

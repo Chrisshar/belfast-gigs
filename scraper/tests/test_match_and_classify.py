@@ -55,6 +55,18 @@ def venues():
         ("Example Comedy Night", "Limelight 2", True, True, True),  # music source, comedy title
         ("Mystery Thing", "The Sunflower", None, True, False),  # music-only venue
         ("Ulster Orchestra: Example Symphony", "Ulster Hall", None, False, False),
+        # Party nights go even when the source lists them as music.
+        ("Black Parade Halloween Party", "Belfast Empire", True, False, False),
+        ("Meltdown'S Halloween Headbangerz Ball", "Mandela Hall", True, False, False),
+        ("NOUGHTIE NINETIES – 90’s – 00’s", "Belfast Empire", True, False, False),
+        ("PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS", "Belfast Empire", True, False, False),
+        ("EMO FEST", "Limelight", True, False, False),
+        ("STUDENT XMAS DAY 2026", "Limelight", True, False, False),
+        ("Mystery Party", "The Sunflower", None, False, False),  # even at a music-only venue
+        ("Tom Gee: EP Launch Party", "Crescent Arts Centre", True, True, False),
+        ("Niall Horan: Dinner Party Live on Tour", "The O2 Belfast", True, True, False),
+        ("Angeline Ball", "The Harrison", True, True, False),
+        ("Legends of the 60s Show", "Ulster Hall", True, True, False),
     ],
 )
 def test_classify(venues, title, venue, hint, is_music, review):
