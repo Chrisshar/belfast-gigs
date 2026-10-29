@@ -3413,6 +3413,39 @@
   "title": "Blaze Bayley",
   "venue": "belfast-empire"
  },
+ "2ee841a6-15a1-4ea5-90be-7867942cb57b": {
+  "age_restriction": null,
+  "date": "2026-11-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Seanchoíche Belfast",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:seancho%C3%ADche-belfast-%7C-luck",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
+   }
+  ],
+  "start_time": "12:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
+   }
+  ],
+  "title": "Seanchoíche Belfast",
+  "venue": "mandela-hall"
+ },
  "2f2766d4-1b46-4767-a5a6-1ccbd2023dcd": {
   "age_restriction": null,
   "date": "2027-03-03",
@@ -7607,6 +7640,40 @@
   ],
   "title": "Birsen Tezer",
   "venue": "oh-yeah"
+ },
+ "6c77faec-c013-4c48-802b-94eb951d57b7": {
+  "age_restriction": null,
+  "date": "2027-03-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Swiftogeddon – The Reputation Special",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:swiftogeddon-3",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/swiftogeddon-3/"
+   }
+  ],
+  "start_time": "21:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Fixr",
+    "url": "https://fixr.co/event/swiftogeddon-the-reputation-special-belfast-tickets-562029355?lang=en-US"
+   }
+  ],
+  "title": "Swiftogeddon – The Reputation Special",
+  "venue": "belfast-empire"
  },
  "6c8122e8-5e8a-4a36-bc27-cfd55822d93e": {
   "age_restriction": null,
@@ -14130,6 +14197,40 @@
   ],
   "title": "Magic Queen - The Ultimate Tribute to Queen",
   "venue": "mandela-hall"
+ },
+ "d8b92f19-e42e-4d75-bbc1-b5ae0bbe20c4": {
+  "age_restriction": null,
+  "date": "2027-06-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "House of Fun",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:house-of-fun",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/house-of-fun/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/house-of-fun/"
+   }
+  ],
+  "title": "House of Fun",
+  "venue": "ulster-hall"
  },
  "d986257c-523d-4aea-bace-39a2faca766c": {
   "age_restriction": null,

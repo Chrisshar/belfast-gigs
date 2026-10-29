@@ -905,6 +905,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "18e7bfdd93db5639": {
+  "confidence": 0.55,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Seanchoíche Belfast",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "18e836f7f32e21f4": {
   "confidence": 0.85,
   "genres": [
@@ -1893,6 +1904,18 @@
   "support": [
    "James Morrison"
   ]
+ },
+ "35cdfd4f7c3c4d0c": {
+  "confidence": 0.8,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "House of Fun",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "3645d5a8248354a5": {
   "confidence": 0.85,
@@ -4876,7 +4899,7 @@
   ],
   "headliner": "Quire’s Big HoHoHo (Evening Show)",
   "is_music": true,
-  "last_seen": "2026-10-28",
+  "last_seen": "2026-10-29",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -5477,6 +5500,18 @@
    "Pop"
   ],
   "headliner": "Erasured",
+  "is_music": true,
+  "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bfa1536ff652188b": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Swiftogeddon – The Reputation Special",
   "is_music": true,
   "last_seen": "2026-10-29",
   "model": "claude-haiku-5-5",

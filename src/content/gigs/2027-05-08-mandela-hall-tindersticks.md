@@ -19,7 +19,7 @@ sources:
   key: "mandelaweb:tindersticks"
   url: "https://www.mandelahall.com/events/tindersticks"
 first_seen: "2026-10-28T18:08:35Z"
-updated_at: "2026-10-29T07:08:34Z"
+updated_at: "2026-10-29T12:58:50Z"
 classification:
   is_music: true
   confidence: 0.97

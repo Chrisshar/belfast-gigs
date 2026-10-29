@@ -31,6 +31,7 @@
    "7244",
    "7578",
    "7612",
+   "6640",
    "7550",
    "7561",
    "7462",
@@ -1375,6 +1376,41 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-01-12"
+  },
+  "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-21",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:seancho%C3%ADche-belfast-%7C-luck",
+    "source_url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck",
+    "start_time": "12:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
+     ]
+    ],
+    "title": "Seanchoíche Belfast",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-29"
   },
   "https://www.mandelahall.com/events/star-wars-pub-quiz-2026": {
    "event": {
