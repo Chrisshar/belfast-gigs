@@ -6,5 +6,7 @@
   "assets": {
     "directory": "./dist",
     "not_found_handling": "404-page"
-  }
+  },
+  // Lets Workers Builds run `wrangler preview` for branches other than main, so PRs get a preview.
+  "previews": {}
 }
