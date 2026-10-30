@@ -2252,6 +2252,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "407d23a0778824db": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ruth McGinley",
+  "is_music": true,
+  "last_seen": "2026-10-30",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "40b5e565ea06f880": {
   "confidence": 0.9,
   "genres": [
@@ -6301,6 +6313,18 @@
    "Singer-Songwriter"
   ],
   "headliner": "The Ties That Bind - Sing for your Supper",
+  "is_music": true,
+  "last_seen": "2026-10-30",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d936be56b1ec6366": {
+  "confidence": 0.6,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ruth McGinley",
   "is_music": true,
   "last_seen": "2026-10-30",
   "model": "claude-haiku-5-5",

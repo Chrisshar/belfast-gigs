@@ -5,7 +5,8 @@ headliner: "BlackGate"
 venue: "crescent-arts-centre"
 date: "2026-10-30"
 start_time: "19:30"
-price_min: 15
+price_min: 10
+price_max: 15
 status: "on_sale"
 genres:
 - "Electronic"
@@ -23,7 +24,7 @@ sources:
   key: "crescent:blackgate"
   url: "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-30T18:08:35Z"
+updated_at: "2026-10-30T21:29:26Z"
 backfill: true
 classification:
   is_music: true

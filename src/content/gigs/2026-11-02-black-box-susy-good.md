@@ -17,7 +17,7 @@ sources:
   key: "blackbox:susy-good-album-launch"
   url: "https://www.blackboxbelfast.com/event/susy-good-album-launch/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-30T18:08:35Z"
+updated_at: "2026-10-30T21:29:26Z"
 backfill: true
 classification:
   is_music: true

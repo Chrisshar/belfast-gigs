@@ -946,6 +946,35 @@
   "title": "James Bond Concert Spectacular",
   "venue": "ulster-hall"
  },
+ "08920716-1712-4a38-9ad1-e771d7191951": {
+  "age_restriction": null,
+  "date": "2026-12-03",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ruth McGinley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:ruth-mcginley-a-charlie-brown-christmas-reimagined-1",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/ruth-mcginley-a-charlie-brown-christmas-reimagined-1"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Ruth McGinley - A Charlie Brown Christmas: Reimagined",
+  "venue": "the-harrison"
+ },
  "08d1a295-c3e7-483f-9715-0d3e150caf63": {
   "age_restriction": "18+",
   "date": "2026-11-03",
@@ -3171,6 +3200,40 @@
   "title": "Stray Gaiters",
   "venue": "deers-head"
  },
+ "2a309621-7c49-4c9e-a661-577f4fef5d98": {
+  "age_restriction": null,
+  "date": "2026-12-02",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ruth McGinley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:ruth-mcginley-a-charlie-brown-christmas-reimagined",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/ruth-mcginley-a-charlie-brown-christmas-reimagined"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/a-charlie-brown-christmas-reimagined-tickets-2003081699284"
+   }
+  ],
+  "title": "Ruth McGinley - A Charlie Brown Christmas: Reimagined",
+  "venue": "the-harrison"
+ },
  "2a4ae5e8-3435-4ff4-96fb-b32fc16db09f": {
   "age_restriction": null,
   "date": "2026-11-22",
@@ -3648,7 +3711,7 @@
    "Pop"
   ],
   "headliner": "Westlife",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -10692,8 +10755,8 @@
   ],
   "headliner": "BlackGate",
   "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
+  "price_max": 15.0,
+  "price_min": 10.0,
   "room": null,
   "sources": [
    {
