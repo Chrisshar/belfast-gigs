@@ -106,27 +106,20 @@ main:focus { outline: none; }
 .sec span { color: var(--soft); font-size: .9rem; }
 .empty { color: var(--soft); background: var(--card); border: 1px dashed var(--line); border-radius: var(--radius-row); padding: 24px; text-align: center; }
 
-/* Just announced cards */
-.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); gap: 18px; }
-.card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-card); overflow: hidden; text-decoration: none; display: block; }
-.card:hover, .card:focus-visible { border-color: var(--ink); }
-.card .art { aspect-ratio: 2 / 1; }
-.card .body { padding: 14px 16px 16px; }
-.card .when { color: var(--red-text); font-weight: 500; font-size: .85rem; }
-.card h3 { font-size: 1.1rem; font-weight: 600; margin: 2px 0; line-height: 1.25; }
-.card .venue { color: var(--soft); font-size: .9rem; }
-.card .tag { margin-top: 4px; color: var(--slate); font-size: .68rem; font-weight: 500; letter-spacing: .07em; text-transform: uppercase; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-/* One scrolling row with arrows either side (src/scripts/carousel.ts). The track's padding leaves
-   room for the 2px hover lift and focus rings, which overflow scrolling would otherwise clip. */
-.carousel { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 12px; align-items: center; position: relative; }
-.carousel .cards { display: flex; gap: 18px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: 4px; overscroll-behavior-x: contain; scrollbar-width: none; padding: 4px; margin: -4px; border-radius: var(--radius-card); }
+/* Just announced: one scrolling row of the Upcoming grid's square cards (the track carries
+   data-layout='grid'), each as wide as a grid column, with arrows over the row's edges
+   (src/scripts/carousel.ts). The track's padding leaves room for the 2px hover lift and focus
+   rings, which overflow scrolling would otherwise clip. */
+.carousel { --cols: 5; --gap: 16px; --art: 2; container-type: inline-size; position: relative; }
+.carousel .cards { display: flex; align-items: start; gap: var(--gap); overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: 4px; overscroll-behavior-x: contain; scrollbar-width: none; padding: 4px; margin: -4px; border-radius: var(--radius-card); }
 .carousel .cards::-webkit-scrollbar { display: none; }
 .carousel .cards:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
-.carousel .card { flex: 0 0 16rem; scroll-snap-align: start; }
-.carousel .nav { display: grid; place-items: center; width: 40px; height: 40px; padding: 0; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 50%; cursor: pointer; }
-.carousel .nav:hover:not(:disabled) { border-color: var(--ink); }
-.carousel .nav:disabled { color: var(--line); cursor: default; }
-.carousel.fits .nav { visibility: hidden; }
+.carousel .row { flex: 0 0 calc((100cqw - (var(--cols) - 1) * var(--gap)) / var(--cols)); scroll-snap-align: start; }
+.carousel .nav { position: absolute; z-index: 1; top: calc((100cqw - (var(--cols) - 1) * var(--gap)) / var(--cols) / var(--art) / 2 - 18px); display: grid; place-items: center; width: 36px; height: 36px; padding: 0; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 50%; box-shadow: 0 1px 4px rgb(0 0 0 / .12); cursor: pointer; }
+.carousel .prev { left: -12px; }
+.carousel .next { right: -12px; }
+.carousel .nav:hover { border-color: var(--ink); }
+.carousel .nav:disabled, .carousel.fits .nav { visibility: hidden; }
 
 /* Upcoming list */
 .month { font-size: 1.25rem; font-weight: 500; margin: 36px 0 6px; }
@@ -211,8 +204,8 @@ main:focus { outline: none; }
 :is(.coming h2 a, .detail .where a, .site-footer a) { text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
 :is(.coming h2 a, .detail .where a, .site-footer a):is(:hover, :focus-visible) { text-decoration-color: currentColor; }
 
-@media (max-width: 1040px) { [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
-@media (max-width: 820px) { [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 1040px) { [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(4, minmax(0, 1fr)); } .carousel { --cols: 4; } }
+@media (max-width: 820px) { [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(3, minmax(0, 1fr)); } .carousel { --cols: 3; } }
 @media (max-width: 560px) {
   [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   [data-layout='grid'] .row .text { padding: 8px 10px 0; }
@@ -220,6 +213,7 @@ main:focus { outline: none; }
   [data-layout='grid'] .row .when { font-size: .75rem; }
   [data-layout='grid'] .row .venue, [data-layout='grid'] .row .tag { display: block; margin-top: 3px; color: var(--slate); font-size: .68rem; font-weight: 500; letter-spacing: .07em; text-transform: uppercase; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   [data-layout='grid'] .row .art { aspect-ratio: 5 / 2; }
+  .carousel { --cols: 2; --gap: 10px; --art: 2.5; }
 }
 
 @media (max-width: 760px) {
@@ -240,20 +234,20 @@ main:focus { outline: none; }
   :is(.mini b, .coming h2 a, .detail .where a, .site-footer a) { transition: text-decoration-color var(--dur-fast) var(--ease-out); }
 
   /* Cards lift 2px; list rows only firm their border, since they're stacked close. */
-  :is(.card, .row) { transition: border-color var(--dur-base) var(--ease-out), transform var(--dur-base) var(--ease-out); }
-  :is(.card, [data-layout='grid'] .row):focus-visible { transform: translateY(-2px); }
+  .row { transition: border-color var(--dur-base) var(--ease-out), transform var(--dur-base) var(--ease-out); }
+  [data-layout='grid'] .row:focus-visible { transform: translateY(-2px); }
 
   /* The drawing leans in. Strokes are non-scaling, so the hairlines stay hairlines. */
-  :is(.card, .row, .mini) .art-svg { transition: transform var(--dur-slow) var(--ease-out); }
-  :is(.card, .row, .mini):focus-visible .art-svg { transform: scale(1.04); }
+  :is(.row, .mini) .art-svg { transition: transform var(--dur-slow) var(--ease-out); }
+  :is(.row, .mini):focus-visible .art-svg { transform: scale(1.04); }
   /* The one red detail rests a touch lighter and comes up with the drawing. */
-  :is(.card, .row, .mini) .art-svg [fill='#c8452f'] { opacity: .85; transition: opacity var(--dur-slow) var(--ease-out); }
-  :is(.card, .row, .mini):focus-visible .art-svg [fill='#c8452f'] { opacity: 1; }
+  :is(.row, .mini) .art-svg [fill='#c8452f'] { opacity: .85; transition: opacity var(--dur-slow) var(--ease-out); }
+  :is(.row, .mini):focus-visible .art-svg [fill='#c8452f'] { opacity: 1; }
 
   @media (hover: hover) {
-    :is(.card, [data-layout='grid'] .row):hover { transform: translateY(-2px); }
-    :is(.card, .row, .mini):hover .art-svg { transform: scale(1.04); }
-    :is(.card, .row, .mini):hover .art-svg [fill='#c8452f'] { opacity: 1; }
+    [data-layout='grid'] .row:hover { transform: translateY(-2px); }
+    :is(.row, .mini):hover .art-svg { transform: scale(1.04); }
+    :is(.row, .mini):hover .art-svg [fill='#c8452f'] { opacity: 1; }
   }
 
   /* Filter results cross-fade (src/scripts/filters.ts), and pages cross-fade into each other.
@@ -279,14 +273,6 @@ main:focus { outline: none; }
 
 @media (max-width: 640px) {
   .filters { border-radius: 22px; }
-  /* Cards get the full width, the next one peeking in; the arrows sit over the drawings. */
-  .carousel { display: block; }
-  .carousel .card { flex-basis: 78%; }
-  .carousel .nav { position: absolute; z-index: 1; top: 3.5rem; width: 34px; height: 34px; box-shadow: 0 1px 4px rgb(0 0 0 / .12); }
-  .carousel .prev { left: 6px; }
-  .carousel .next { right: 6px; }
-  .carousel .nav:disabled { visibility: hidden; }
-  .carousel.fits .nav { display: none; }
   .filters input[type='search'] { min-width: 0; width: 100%; }
   .filters .fields label:has(input) { flex: 1 1 100%; }
   .day { grid-template-columns: 1fr; gap: 8px; }
