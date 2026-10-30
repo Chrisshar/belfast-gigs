@@ -15,9 +15,8 @@ const { venues, months, genres, areas } = Astro.props;
     <button type="button" class="chip" data-when="tonight" aria-pressed="false">Tonight</button>
     <button type="button" class="chip" data-when="weekend" aria-pressed="false">This weekend</button>
     <button type="button" class="chip" data-when="week" aria-pressed="false">Next 7 days</button>
-    <button type="button" class="more" aria-expanded="false" aria-controls="filters-body">Filters</button>
   </div>
-  <div class="filters-body" id="filters-body">
+  <div class="filters-body">
     <div class="fields">
       <label><span class="visually-hidden">Search</span><input type="search" name="q" placeholder="Search acts or venues" autocomplete="off" /></label>
       <label>Venue

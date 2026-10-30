@@ -111,5 +111,6 @@ class VenueIndex:
             data = {"name": venue.name, "aliases": [name] if name != venue.name else [], "area": "Belfast", "needs_review": True}
             if address:
                 data["address"] = address
-            frontmatter.write(self.directory / f"{slug}.md", data, "Created automatically by the scraper. Check the details and add aliases.\n")
+            # needs_review flags it in the CMS. The body is the venue blurb on gig pages, left for a human to write.
+            frontmatter.write(self.directory / f"{slug}.md", data, "")
         return venue

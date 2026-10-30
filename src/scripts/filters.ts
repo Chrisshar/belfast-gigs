@@ -166,7 +166,6 @@ export function initFilters(): void {
     area: form.querySelector<HTMLSelectElement>('[name=area]'),
   };
   const clearButtons = [...document.querySelectorAll<HTMLButtonElement>('.clear')];
-  const more = form.querySelector<HTMLButtonElement>('.more');
 
   function syncControls(): void {
     whenButtons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.when === state.when)));
@@ -204,6 +203,8 @@ export function initFilters(): void {
     }
     clearButtons.forEach((b) => (b.hidden = !filtered && !b.closest('[data-empty]')));
     writeUrl(state);
+    // The Just announced carousel resets its scroll and arrows when its cards change.
+    document.dispatchEvent(new Event('filters:applied'));
   }
 
   // Discrete changes cross-fade the results; typing in the search box doesn't, as it would flicker.
@@ -255,16 +256,6 @@ export function initFilters(): void {
       document.querySelector('#upcoming-h')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   }
-  more?.addEventListener('click', () => {
-    const open = form.classList.toggle('open');
-    more.setAttribute('aria-expanded', String(open));
-  });
-  // On phones the extra filters start folded; open them if the URL already uses one.
-  if (state.q || state.venue || state.month || state.area || state.genres.size) {
-    form.classList.add('open');
-    more?.setAttribute('aria-expanded', 'true');
-  }
-
   syncControls();
   apply();
 }

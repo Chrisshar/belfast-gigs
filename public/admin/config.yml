@@ -132,7 +132,7 @@ collections:
       - { name: website, label: Website, widget: string, type: url, required: false }
       - { name: music_only, label: Music-only venue, widget: boolean, default: false, required: false, hint: "Everything listed here counts as a gig." }
       - { name: needs_review, label: Needs review, widget: boolean, default: false, required: false }
-      - { name: body, label: Notes, widget: markdown, required: false }
+      - { name: body, label: About the venue, widget: markdown, required: false, hint: "One short paragraph, shown on this venue's gig pages." }
 
   - name: residencies
     label: Regular nights

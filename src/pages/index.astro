@@ -31,8 +31,16 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
     recent.length > 0 && (
       <section aria-labelledby="recent-h">
         <div class="sec"><h2 id="recent-h">Just announced</h2><span>Added in the last fortnight</span></div>
-        <div class="cards" data-list="recent">
-          {recent.map((view) => <GigCard view={view} />)}
+        <div class="carousel">
+          <button type="button" class="nav prev" aria-label="Previous gigs" aria-controls="recent-track" disabled>
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><path d="M10 3 5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div class="cards" id="recent-track" data-list="recent" role="region" aria-label="Just announced gigs" tabindex="0">
+            {recent.map((view) => <GigCard view={view} />)}
+          </div>
+          <button type="button" class="nav next" aria-label="More gigs" aria-controls="recent-track">
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><path d="m6 3 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
         </div>
         <p class="empty" data-empty="recent" hidden>Nothing newly announced matches these filters.</p>
       </section>
@@ -84,8 +92,10 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
 </script>
 
 <script>
+  import { initCarousel } from '../scripts/carousel';
   import { initFilters } from '../scripts/filters';
   import { initMotion } from '../scripts/motion';
+  initCarousel();
   initFilters();
   initMotion();
 </script>
