@@ -23,7 +23,7 @@ sources:
   key: "crescent:blackgate"
   url: "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-30T07:08:29Z"
+updated_at: "2026-10-30T12:52:41Z"
 backfill: true
 classification:
   is_music: true

@@ -235,6 +235,39 @@
   "title": "Dani Larkin",
   "venue": "crescent-arts-centre"
  },
+ "01acf22c-33a7-460e-a225-46e222165cd4": {
+  "age_restriction": null,
+  "date": "2026-11-09",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Aoife Dunne",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 32.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:aoife-dunne",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/aoife-dunne"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/aoife-dunne"
+   }
+  ],
+  "title": "Aoife Dunne",
+  "venue": "mandela-hall"
+ },
  "02144a1e-b854-42e4-900a-8799bfeef79c": {
   "age_restriction": null,
   "date": "2027-05-22",
@@ -3847,6 +3880,39 @@
   ],
   "title": "Car Bomb",
   "venue": "voodoo"
+ },
+ "3a0de904-02ed-4508-873e-1129458c4254": {
+  "age_restriction": null,
+  "date": "2027-10-25",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "S Club",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:317344:2027-10-25",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/s-club-2027"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1914588?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_SClubWeb&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "S Club",
+  "venue": "the-o2-belfast"
  },
  "3ad4bf82-8cdc-4623-a605-ab6c75472c62": {
   "age_restriction": null,
@@ -11800,7 +11866,7 @@
   "venue": "belfast-empire"
  },
  "b746d119-eab8-46fb-b108-ec37f5cec30a": {
-  "age_restriction": "18+",
+  "age_restriction": null,
   "date": "2027-02-28",
   "doors_time": null,
   "end_date": null,
@@ -14538,7 +14604,9 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "Anemoia"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",

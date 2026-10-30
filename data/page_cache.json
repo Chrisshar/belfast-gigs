@@ -118,6 +118,41 @@
    },
    "lastmod": "2026-07-31"
   },
+  "https://www.mandelahall.com/events/aoife-dunne": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-09",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 32.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:aoife-dunne",
+    "source_url": "https://www.mandelahall.com/events/aoife-dunne",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/aoife-dunne"
+     ]
+    ],
+    "title": "Aoife Dunne",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-10-30"
+  },
   "https://www.mandelahall.com/events/battle-of-the-bands": {
    "event": {
     "address": null,

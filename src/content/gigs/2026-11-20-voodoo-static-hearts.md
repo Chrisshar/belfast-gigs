@@ -15,7 +15,7 @@ sources:
   key: "voodoo:static-hearts"
   url: "https://www.voodoobelfast.com/events/static-hearts"
 first_seen: "2026-10-29T18:08:31Z"
-updated_at: "2026-10-30T07:08:29Z"
+updated_at: "2026-10-30T12:52:41Z"
 classification:
   is_music: true
   confidence: 0.8

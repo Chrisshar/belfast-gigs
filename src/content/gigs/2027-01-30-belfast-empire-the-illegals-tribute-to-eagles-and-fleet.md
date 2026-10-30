@@ -15,7 +15,7 @@ sources:
   key: "empire:the-illegals-tribute-to-eagles-fleetwood-mac"
   url: "https://www.thebelfastempire.com/music-hall/the-illegals-tribute-to-eagles-fleetwood-mac/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-10-30T07:08:29Z"
+updated_at: "2026-10-30T12:52:41Z"
 classification:
   is_music: true
   confidence: 0.95

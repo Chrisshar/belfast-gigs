@@ -5361,6 +5361,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "b8392d65447d6fa2": {
+  "confidence": 0.5,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Aoife Dunne",
+  "is_music": true,
+  "last_seen": "2026-10-30",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "b93fafc70d78fbfa": {
   "confidence": 0.4,
   "genres": [
@@ -7241,6 +7252,17 @@
   "genres": [],
   "headliner": "Nightmare on Fountain Street",
   "is_music": false,
+  "last_seen": "2026-10-30",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fe60574afd4f85ba": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "S Club",
+  "is_music": true,
   "last_seen": "2026-10-30",
   "model": "claude-haiku-5-5",
   "support": []
