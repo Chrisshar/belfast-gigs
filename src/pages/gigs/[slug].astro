@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Art from '../../components/Art.astro';
 import { formatDate } from '../../lib/dates';
 import { STATUS_LABELS, formatPrice, toViews } from '../../lib/gigs';
+import { venueEventUrl } from '../../lib/links';
 
 export async function getStaticPaths() {
   const views = await toViews(await getCollection('gigs'));
@@ -22,6 +23,8 @@ const dateRange = d.end_date ? `${longDate} to ${formatDate(d.end_date, { weekda
 const address = [venue?.address, venue?.postcode].filter(Boolean).join(', ');
 const mapQuery = encodeURIComponent([view.venueName, address || 'Belfast'].join(', '));
 const tickets = d.tickets;
+// Until gig pages have their own blurb about the act, point to the venue's write-up.
+const venuePage = venueEventUrl(d.sources, venue?.website);
 
 // schema.org MusicEvent, so search engines can show the gig as an event.
 const STATUS_SCHEMA: Record<string, string> = {
@@ -75,6 +78,7 @@ const description = `${d.headliner}${d.support.length ? ` with ${d.support.join(
           <br /><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`} rel="noopener">Directions</a>
         </p>
         <div class="about"><Content /></div>
+        {venuePage && <p class="more-info"><a href={venuePage} rel="noopener">More about this gig on {view.venueName}'s website</a> ↗</p>}
         {
           VenueAbout && (
             <section class="venue-about" aria-labelledby="venue-about-h">

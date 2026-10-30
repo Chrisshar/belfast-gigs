@@ -176,6 +176,8 @@ main:focus { outline: none; }
 .detail .where { color: var(--soft); margin: 0; }
 .detail .where a { color: var(--slate); }
 .detail .about { margin-top: 20px; color: var(--soft); max-width: 60ch; }
+.detail .more-info { margin: 16px 0 0; color: var(--soft); max-width: 60ch; }
+.detail .more-info a { color: var(--slate); }
 .detail .venue-about { margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--soft); max-width: 60ch; }
 .detail .venue-about h2 { font-size: .85rem; font-weight: 500; color: var(--ink); margin: 0 0 6px; }
 .detail .venue-about p { margin: 0; }
@@ -201,8 +203,8 @@ main:focus { outline: none; }
 .site-footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; border-top: 1px solid var(--line); padding-top: 20px; }
 .site-footer a { color: var(--soft); }
 /* Text links rest with a faint underline that firms up on hover. */
-:is(.coming h2 a, .detail .where a, .site-footer a) { text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
-:is(.coming h2 a, .detail .where a, .site-footer a):is(:hover, :focus-visible) { text-decoration-color: currentColor; }
+:is(.coming h2 a, .detail .where a, .detail .more-info a, .site-footer a) { text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+:is(.coming h2 a, .detail .where a, .detail .more-info a, .site-footer a):is(:hover, :focus-visible) { text-decoration-color: currentColor; }
 
 @media (max-width: 1040px) { [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(4, minmax(0, 1fr)); } .carousel { --cols: 4; } }
 @media (max-width: 820px) { [data-layout='grid'] > [data-group='month'] { grid-template-columns: repeat(3, minmax(0, 1fr)); } .carousel { --cols: 3; } }
@@ -231,7 +233,7 @@ main:focus { outline: none; }
     transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out), border-color var(--dur-fast) var(--ease-out), filter var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
   }
   :is(.chip, .carousel .nav, .layout button, .jump a, .btn):active { transform: scale(.97); }
-  :is(.mini b, .coming h2 a, .detail .where a, .site-footer a) { transition: text-decoration-color var(--dur-fast) var(--ease-out); }
+  :is(.mini b, .coming h2 a, .detail .where a, .detail .more-info a, .site-footer a) { transition: text-decoration-color var(--dur-fast) var(--ease-out); }
 
   /* Cards lift 2px; list rows only firm their border, since they're stacked close. */
   .row { transition: border-color var(--dur-base) var(--ease-out), transform var(--dur-base) var(--ease-out); }
