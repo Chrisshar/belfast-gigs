@@ -1,7 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
 import FilterBar from '../components/FilterBar.astro';
-import GigCard from '../components/GigCard.astro';
 import GigRow from '../components/GigRow.astro';
 import Hero from '../components/Hero.astro';
 import { GENRES } from '../content.config';
@@ -35,8 +34,8 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
           <button type="button" class="nav prev" aria-label="Previous gigs" aria-controls="recent-track" disabled>
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><path d="M10 3 5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </button>
-          <div class="cards" id="recent-track" data-list="recent" role="region" aria-label="Just announced gigs" tabindex="0">
-            {recent.map((view) => <GigCard view={view} />)}
+          <div class="cards" id="recent-track" data-list="recent" data-layout="grid" role="region" aria-label="Just announced gigs" tabindex="0">
+            {recent.map((view) => <GigRow view={view} />)}
           </div>
           <button type="button" class="nav next" aria-label="More gigs" aria-controls="recent-track">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><path d="m6 3 5 5-5 5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
