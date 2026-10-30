@@ -14,7 +14,7 @@ sources:
   key: "empire:rockabilly-alldayer"
   url: "https://www.thebelfastempire.com/music-hall/rockabilly-alldayer/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-10-30T12:52:41Z"
+updated_at: "2026-10-30T18:08:35Z"
 classification:
   is_music: true
   confidence: 0.9
