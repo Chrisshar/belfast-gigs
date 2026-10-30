@@ -85,11 +85,10 @@ main:focus { outline: none; }
 /* Filters */
 .filters { background: var(--card); border: 1px solid var(--line); border-radius: 28px; padding: 10px; display: grid; gap: 10px; }
 .filters .quick { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-.chip, .more { font: 500 .9rem var(--font); color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 7px 14px; cursor: pointer; }
-.chip:hover, .more:hover { border-color: var(--ink); }
+.chip { font: 500 .9rem var(--font); color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 7px 14px; cursor: pointer; }
+.chip:hover { border-color: var(--ink); }
 .chip[aria-pressed='true'] { background: var(--ink); color: #fff; border-color: var(--ink); }
 .quick .chip[aria-pressed='true'] { background: var(--slate); border-color: var(--slate); }
-.more { display: none; margin-left: auto; }
 .filters-body { display: grid; gap: 10px; padding: 0 4px 4px; }
 .filters .fields { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
 .filters label { display: flex; align-items: center; gap: 8px; font-size: .85rem; color: var(--soft); }
@@ -117,6 +116,17 @@ main:focus { outline: none; }
 .card h3 { font-size: 1.1rem; font-weight: 600; margin: 2px 0; line-height: 1.25; }
 .card .venue { color: var(--soft); font-size: .9rem; }
 .card .tag { margin-top: 4px; color: var(--slate); font-size: .68rem; font-weight: 500; letter-spacing: .07em; text-transform: uppercase; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* One scrolling row with arrows either side (src/scripts/carousel.ts). The track's padding leaves
+   room for the 2px hover lift and focus rings, which overflow scrolling would otherwise clip. */
+.carousel { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 12px; align-items: center; position: relative; }
+.carousel .cards { display: flex; gap: 18px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: 4px; overscroll-behavior-x: contain; scrollbar-width: none; padding: 4px; margin: -4px; border-radius: var(--radius-card); }
+.carousel .cards::-webkit-scrollbar { display: none; }
+.carousel .cards:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.carousel .card { flex: 0 0 16rem; scroll-snap-align: start; }
+.carousel .nav { display: grid; place-items: center; width: 40px; height: 40px; padding: 0; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 50%; cursor: pointer; }
+.carousel .nav:hover:not(:disabled) { border-color: var(--ink); }
+.carousel .nav:disabled { color: var(--line); cursor: default; }
+.carousel.fits .nav { visibility: hidden; }
 
 /* Upcoming list */
 .month { font-size: 1.25rem; font-weight: 500; margin: 36px 0 6px; }
@@ -173,6 +183,9 @@ main:focus { outline: none; }
 .detail .where { color: var(--soft); margin: 0; }
 .detail .where a { color: var(--slate); }
 .detail .about { margin-top: 20px; color: var(--soft); max-width: 60ch; }
+.detail .venue-about { margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--soft); max-width: 60ch; }
+.detail .venue-about h2 { font-size: .85rem; font-weight: 500; color: var(--ink); margin: 0 0 6px; }
+.detail .venue-about p { margin: 0; }
 .facts { margin: 0; display: grid; gap: 14px; }
 .facts dt { font-size: .85rem; color: var(--soft); }
 .facts dd { margin: 0; font-weight: 500; }
@@ -220,10 +233,10 @@ main:focus { outline: none; }
   html { scroll-behavior: smooth; }
 
   /* Controls: colours ease, presses give a little. */
-  :is(.chip, .more, .clear, .layout button, .jump a, .btn, .back, .site-nav a) {
+  :is(.chip, .carousel .nav, .clear, .layout button, .jump a, .btn, .back, .site-nav a) {
     transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out), border-color var(--dur-fast) var(--ease-out), filter var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
   }
-  :is(.chip, .more, .layout button, .jump a, .btn):active { transform: scale(.97); }
+  :is(.chip, .carousel .nav, .layout button, .jump a, .btn):active { transform: scale(.97); }
   :is(.mini b, .coming h2 a, .detail .where a, .site-footer a) { transition: text-decoration-color var(--dur-fast) var(--ease-out); }
 
   /* Cards lift 2px; list rows only firm their border, since they're stacked close. */
@@ -265,10 +278,15 @@ main:focus { outline: none; }
 @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
 
 @media (max-width: 640px) {
-  .more { display: inline-block; }
-  .filters-body { display: none; }
-  .filters.open .filters-body { display: grid; }
   .filters { border-radius: 22px; }
+  /* Cards get the full width, the next one peeking in; the arrows sit over the drawings. */
+  .carousel { display: block; }
+  .carousel .card { flex-basis: 78%; }
+  .carousel .nav { position: absolute; z-index: 1; top: 3.5rem; width: 34px; height: 34px; box-shadow: 0 1px 4px rgb(0 0 0 / .12); }
+  .carousel .prev { left: 6px; }
+  .carousel .next { right: 6px; }
+  .carousel .nav:disabled { visibility: hidden; }
+  .carousel.fits .nav { display: none; }
   .filters input[type='search'] { min-width: 0; width: 100%; }
   .filters .fields label:has(input) { flex: 1 1 100%; }
   .day { grid-template-columns: 1fr; gap: 8px; }

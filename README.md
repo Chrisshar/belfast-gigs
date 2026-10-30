@@ -24,7 +24,7 @@ Upcoming live music in Belfast and greater Belfast. A static [Astro](https://ast
 | Path | What's there |
 |---|---|
 | `src/content/gigs/` | One `.md` per gig. Written by the scraper and the CMS. |
-| `src/content/venues/` | Hand-curated venues: name, aliases the scraper matches on, group, address. |
+| `src/content/venues/` | Hand-curated venues: name, aliases the scraper matches on, group, address. The body is a one-paragraph blurb shown on the venue's gig pages; venues the scraper adds start without one. |
 | `src/content/residencies/` | Weekly regular nights (open mics, trad sessions). |
 | `src/content.config.ts` | Schemas for all three. Keep the genre and status lists in sync with the scraper. |
 | `src/pages/` | Home (Recently added + Upcoming), gig detail pages, Regular nights, 404. |

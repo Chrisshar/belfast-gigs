@@ -14,6 +14,8 @@ const { view } = Astro.props;
 const d = view.gig.data;
 const venue = view.venue?.data;
 const { Content } = await render(view.gig);
+// The venue file's body is a short blurb about the venue; new venues have none until someone writes one.
+const VenueAbout = view.venue?.body?.trim() ? (await render(view.venue)).Content : null;
 const price = formatPrice(d);
 const longDate = formatDate(d.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 const dateRange = d.end_date ? `${longDate} to ${formatDate(d.end_date, { weekday: 'long', day: 'numeric', month: 'long' })}` : longDate;
@@ -73,6 +75,14 @@ const description = `${d.headliner}${d.support.length ? ` with ${d.support.join(
           <br /><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`} rel="noopener">Directions</a>
         </p>
         <div class="about"><Content /></div>
+        {
+          VenueAbout && (
+            <section class="venue-about" aria-labelledby="venue-about-h">
+              <h2 id="venue-about-h">About {view.venueName}</h2>
+              <VenueAbout />
+            </section>
+          )
+        }
       </div>
       <div>
         <dl class="facts">
