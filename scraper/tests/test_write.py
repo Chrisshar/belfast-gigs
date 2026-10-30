@@ -79,6 +79,14 @@ def test_venue_and_ticketmaster_listings_merge_into_one_gig(site):
     assert {s["key"] for s in data["sources"]} == {"venue:1", "ticketmaster:9"}
 
 
+def test_moved_event_page_updates_the_source_url(site):
+    r = Runner(site)
+    r.run(raw(source_url="https://www.ulsterhall.co.uk/what-s-on/example-act/"))
+    r.run(raw(source_url="https://www.ulsterhall.co.uk/what-s-on/example-act-2026/"))
+    _, data = r.only()
+    assert data["sources"] == [{"name": "venue", "key": "venue:1", "url": "https://www.ulsterhall.co.uk/what-s-on/example-act-2026/"}]
+
+
 def test_rescheduled_gig_keeps_its_file_id_and_first_seen(site):
     r = Runner(site)
     r.run(raw(date="2026-11-14"))

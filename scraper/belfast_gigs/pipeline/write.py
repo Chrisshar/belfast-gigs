@@ -320,6 +320,10 @@ def _update(
         merged = list(data.get(f) or [])
         known = {item.get(ident) for item in merged if isinstance(item, dict)}
         merged += [item for item in new.get(f) or [] if item.get(ident) not in known]
+        if f == "sources":
+            # A venue that moves its event page: keep the link on the gig page pointing at the new one.
+            urls = {item["key"]: item["url"] for item in new.get(f) or [] if item.get("url")}
+            merged = [{**item, "url": urls[item.get("key")]} if isinstance(item, dict) and item.get("key") in urls else item for item in merged]
         if f == "tickets":
             merged = [t for t in merged if not (isinstance(t, dict) and t.get("url") in excluded_ticket_urls)]
         data[f] = merged
