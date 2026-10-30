@@ -18,7 +18,7 @@ sources:
   key: "blackbox:a-little-winter-herbal-hymnal"
   url: "https://www.blackboxbelfast.com/event/a-little-winter-herbal-hymnal/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-29T21:49:38Z"
+updated_at: "2026-10-30T07:08:29Z"
 backfill: true
 classification:
   is_music: true

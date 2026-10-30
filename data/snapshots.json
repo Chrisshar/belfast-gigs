@@ -880,40 +880,6 @@
   "title": "London Symphonic Rock Orchestra",
   "venue": "ulster-hall"
  },
- "0878d20b-9b33-4831-a4a5-a22e4b32cc9a": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": "15:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Indie/Alternative"
-  ],
-  "headliner": "DAY FEVER",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11603",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5450069?venueId=459772"
-   }
-  ],
-  "title": "DAY FEVER",
-  "venue": "limelight"
- },
  "087992c9-6254-48ef-bc1a-e4c611f4bcff": {
   "age_restriction": null,
   "date": "2026-11-08",
@@ -2419,39 +2385,6 @@
   "title": "Skindred",
   "venue": "telegraph-building"
  },
- "1d07d70f-ce19-41f8-ae27-3eb660f5434e": {
-  "age_restriction": null,
-  "date": "2027-03-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "Rock Day Party",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 20.29,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:rock-day-party",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/rock-day-party/"
-   }
-  ],
-  "start_time": "16:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/rock-day-party-in-belfast-tickets-1997676280531?ae_ref=w-e100001997676280531&a=mhr&sharedid=&irpid=6596656&aff=ebmkmxperformance&irgwc=1&afsrc=1&irclickid=SjR1j60L-xyPW4YzPkSULyhEUkr24tU5hUuNUM0"
-   }
-  ],
-  "title": "Rock Day Party",
-  "venue": "belfast-empire"
- },
  "1d1a409d-fffb-4bec-80d9-470b19349efb": {
   "age_restriction": "18+",
   "date": "2026-11-18",
@@ -2970,39 +2903,6 @@
   "title": "Jamie McIntyre",
   "venue": "limelight"
  },
- "24d67be1-9e8c-4873-b089-19f47ad820c3": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic"
-  ],
-  "headliner": "Bat’s Womb – The Lost Boys Themed Halloween Party",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:bats-womb-the-lost-boys-themed-halloween-party",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/bats-womb-the-lost-boys-themed-halloween-party/"
-   }
-  ],
-  "start_time": "22:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/bats-womb-the-lost-boys-themed-halloween-party-at-the-deers-head-tickets-1985552387641?aff=erellivmlt"
-   }
-  ],
-  "title": "Bat’s Womb – The Lost Boys Themed Halloween Party",
-  "venue": "deers-head"
- },
  "2504e998-cd34-47c9-b2a8-caf3f3f638bb": {
   "age_restriction": null,
   "date": "2027-05-08",
@@ -3273,40 +3173,6 @@
   ],
   "title": "Mighty Good Leader Presents: How R U & Ghoulgirl",
   "venue": "black-box"
- },
- "2ac83397-cc66-4a5f-be94-4a1c393cf8f9": {
-  "age_restriction": null,
-  "date": "2027-02-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Electronic"
-  ],
-  "headliner": "PLEASUREDOME 80s",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:pleasuredome-80s",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/pleasuredome-80s-belfast-06-02-2027/event/38006545DBD72170"
-   }
-  ],
-  "title": "PLEASUREDOME 80s",
-  "venue": "belfast-empire"
  },
  "2b300e65-44ca-445e-8080-dff831497be5": {
   "age_restriction": null,
@@ -3739,35 +3605,6 @@
   "title": "Man in the Mirror",
   "venue": "waterfront-hall"
  },
- "343fe12a-b404-4425-af2e-a2b52e12644d": {
-  "age_restriction": "18+",
-  "date": "2026-11-18",
-  "doors_time": "21:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "STUDENT XMAS DAY 2026",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "limelight:11832",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": null,
-  "tickets": null,
-  "title": "STUDENT XMAS DAY 2026 -- THE TELEGRAPH BUILDING",
-  "venue": "telegraph-building"
- },
  "35b13a5a-d401-4979-a54b-0306add687a5": {
   "age_restriction": null,
   "date": "2026-10-30",
@@ -3942,39 +3779,6 @@
   ],
   "title": "One Night In Nashville",
   "venue": "limelight"
- },
- "38997304-836a-428a-a103-afb68c02cb21": {
-  "age_restriction": null,
-  "date": "2027-07-24",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "70’s Day Party",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 13.69,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:70s-day-party",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/70s-day-party/"
-   }
-  ],
-  "start_time": "16:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/70s-day-party-comes-to-belfast-tickets-1999694784932?aff=erellivmlt"
-   }
-  ],
-  "title": "70’s Day Party",
-  "venue": "belfast-empire"
  },
  "39762019-d6e8-4e31-96bf-1a18416f9921": {
   "age_restriction": null,
@@ -8537,40 +8341,6 @@
   "title": "Wilt",
   "venue": "ulster-sports-club"
  },
- "7c9ced44-c37c-4d90-a1dc-124a68114969": {
-  "age_restriction": null,
-  "date": "2026-10-31",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Rock"
-  ],
-  "headliner": "Black Parade Halloween Party",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 8.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:black-parade-halloween-party",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/black-parade-halloween-party/"
-   }
-  ],
-  "start_time": "21:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Skiddle",
-    "url": "https://www.skiddle.com/whats-on/Belfast/The-Empire/Black-Parade---00s-Emo-Anthems-Halloween-Party--Belfast/42515504/#tickets"
-   }
-  ],
-  "title": "Black Parade Halloween Party",
-  "venue": "belfast-empire"
- },
  "7d409f47-2a75-4b28-9a9e-b5a55ae0ef2b": {
   "age_restriction": null,
   "date": "2027-01-30",
@@ -9217,38 +8987,6 @@
   ],
   "title": "Signs of The Swarm",
   "venue": "limelight"
- },
- "87eaf5cb-a76f-4fd3-ab0d-f9f80e888046": {
-  "age_restriction": null,
-  "date": "2026-10-29",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative"
-  ],
-  "headliner": "Delivery",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "usc:event_5MQJT8EHE4MdpMBnq2YKK",
-    "name": "usc"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "DICE",
-    "url": "https://dice.fm/event/wwmerv-delivery-melbourne-aus-29th-oct-ulster-sports-club-belfast-tickets"
-   }
-  ],
-  "title": "Delivery (Melbourne, AUS)",
-  "venue": "ulster-sports-club"
  },
  "8810c1ff-438c-41d9-bd48-30af99fe870f": {
   "age_restriction": null,
@@ -9996,41 +9734,6 @@
   "title": "The Frank & The Walters",
   "venue": "limelight"
  },
- "95eb8543-2f4d-4e7f-8d07-efec0d2ddc06": {
-  "age_restriction": null,
-  "date": "2026-10-29",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "Westlife",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:260525:2026-10-29",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/westlife-25-years"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Ana Sky"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-29-10-2026/event/38006348E25E292E?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
-  "venue": "the-o2-belfast"
- },
  "961c0b20-f883-4c24-bf47-3b0a1e43a04f": {
   "age_restriction": null,
   "date": "2027-08-28",
@@ -10681,40 +10384,6 @@
   ],
   "title": "Delta Goodrem",
   "venue": "limelight"
- },
- "9fd438d1-de18-46bc-86a9-a93dea7a2928": {
-  "age_restriction": null,
-  "date": "2026-12-05",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic",
-   "Pop"
-  ],
-  "headliner": "PLEASUREDOME 80's / 90's CHRISTMAS CRACKERS",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 16.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:pleasuredome-80s-90s-christmas-crackers-part2",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s-90s-christmas-crackers-part2/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5300076?venueId=459510"
-   }
-  ],
-  "title": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
-  "venue": "belfast-empire"
  },
  "a0672a9c-efc1-4ceb-a4ac-62fc16cf1f57": {
   "age_restriction": null,
@@ -12780,41 +12449,6 @@
   "title": "Youth Open Mic",
   "venue": "oh-yeah"
  },
- "c035d02f-1abf-41d3-93c5-293745922bf5": {
-  "age_restriction": "18+",
-  "date": "2026-12-11",
-  "doors_time": "18:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Punk/Hardcore",
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "EMO FEST",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:10964",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/event/380064A5B4F213D5"
-   }
-  ],
-  "title": "EMO FEST",
-  "venue": "limelight"
- },
  "c05adec7-b74c-4f1f-a79d-d986a695a0a7": {
   "age_restriction": null,
   "date": "2026-11-27",
@@ -13144,40 +12778,6 @@
   "title": "The Jazz Room",
   "venue": "belfast-empire"
  },
- "c495aa86-4710-4b6a-b552-72ef5e4ab7fc": {
-  "age_restriction": null,
-  "date": "2026-10-29",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues",
-   "Folk/Trad"
-  ],
-  "headliner": "Martin Taylor",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 27.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:martin-taylor",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martin-taylor"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martin-taylor"
-   }
-  ],
-  "title": "Martin Taylor",
-  "venue": "crescent-arts-centre"
- },
  "c55a3a43-2897-4fcc-8c2b-b7af9740954b": {
   "age_restriction": null,
   "date": "2027-01-02",
@@ -13392,40 +12992,6 @@
   ],
   "title": "Stone Foundation",
   "venue": "oh-yeah"
- },
- "c7691df2-a323-416d-bc5d-52fc0f829142": {
-  "age_restriction": null,
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Rock"
-  ],
-  "headliner": "NOUGHTIE NINETIES – 90’s – 00’s",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:noughtie-nineties-90s-00s",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/noughtie-nineties-90s-00s/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/noughtie-nineties-90s-00s-at-the-deers-head-belfast-131126-tickets-2003266187092"
-   }
-  ],
-  "title": "NOUGHTIE NINETIES – 90’s – 00’s",
-  "venue": "deers-head"
  },
  "c7df32f6-b941-49ad-a20d-ce7bbd3ad150": {
   "age_restriction": null,
@@ -13764,40 +13330,6 @@
   "title": "Mauvey: Real Life No Digital Tour",
   "venue": "black-box"
  },
- "cb8b44a4-bb6f-4aa5-83f3-0afeb5786c5e": {
-  "age_restriction": null,
-  "date": "2026-10-29",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Ralph McTell",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 34.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:ralph-mctell",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/ralph-mctell"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/ralph-mctell"
-   }
-  ],
-  "title": "Ralph McTell",
-  "venue": "mandela-hall"
- },
  "cb8c0484-8cd8-45ba-a23b-e365df87d12b": {
   "age_restriction": null,
   "date": "2027-02-10",
@@ -14036,40 +13568,6 @@
   ],
   "title": "Hot Chocolate",
   "venue": "ulster-hall"
- },
- "d112d615-b172-4baa-9552-561fd6157491": {
-  "age_restriction": null,
-  "date": "2026-12-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Rock"
-  ],
-  "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 16.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:pleasuredome-80s-90s-christmas-crackers-part2-2",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s-90s-christmas-crackers-part2-2/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5300076?venueId=459510"
-   }
-  ],
-  "title": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
-  "venue": "belfast-empire"
  },
  "d12096c1-deb1-47bc-8dc1-a4e1267fa656": {
   "age_restriction": "18+",
@@ -15494,40 +14992,6 @@
   "title": "Volume Control presents: Clash of the New Breeds 2026",
   "venue": "oh-yeah"
  },
- "e94c3794-923d-4cce-b82e-435c754b04c8": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Rock"
-  ],
-  "headliner": "NOW THE 90's",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:now-the-90s-3-3",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/now-the-90s-3-3/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/now-the-90s-14-11-2026/event/380064CBB8AD294C"
-   }
-  ],
-  "title": "NOW THE 90's",
-  "venue": "belfast-empire"
- },
  "e9edb7e6-01fe-405e-9141-482f97d8d460": {
   "age_restriction": "18+",
   "date": "2026-11-14",
@@ -16647,40 +16111,6 @@
    }
   ],
   "title": "Carsie Blanton",
-  "venue": "belfast-empire"
- },
- "f445b086-48ba-4988-b1b4-a3eb9c5dc833": {
-  "age_restriction": null,
-  "date": "2026-12-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Electronic"
-  ],
-  "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 16.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:pleasuredome-80s-90s-christmas-crackers-part2-2-2",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/pleasuredome-80s-90s-christmas-crackers-part2-2-2/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5300076?venueId=459510"
-   }
-  ],
-  "title": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
   "venue": "belfast-empire"
  },
  "f45d426f-e2db-4989-b256-2269b8bae592": {

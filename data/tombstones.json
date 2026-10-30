@@ -20,17 +20,6 @@
   "reason": "deleted"
  },
  {
-  "id": "7d41648a-19e7-46a2-bd90-0a237c8420ee",
-  "keys": [
-   "voodoo:heavy-halloween"
-  ],
-  "fingerprint": "voodoo|2026-10-29|heavy halloween",
-  "date": "2026-10-29",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
   "id": "acdb7269-61fa-4312-b097-21cb87b130f5",
   "keys": [
    "voodoo:emo-club"
@@ -80,5 +69,148 @@
   "fingerprint": "black-box|2026-10-31|fuego fatale women of horror",
   "date": "2026-10-31",
   "reason": "deleted"
+ },
+ {
+  "id": "24d67be1-9e8c-4873-b089-19f47ad820c3",
+  "keys": [
+   "deershead:bats-womb-the-lost-boys-themed-halloween-party"
+  ],
+  "fingerprint": "deers-head|2026-10-30|bats womb lost boys themed halloween party",
+  "date": "2026-10-30",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "7c9ced44-c37c-4d90-a1dc-124a68114969",
+  "keys": [
+   "empire:black-parade-halloween-party"
+  ],
+  "fingerprint": "belfast-empire|2026-10-31|black parade halloween party",
+  "date": "2026-10-31",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "c7691df2-a323-416d-bc5d-52fc0f829142",
+  "keys": [
+   "deershead:noughtie-nineties-90s-00s"
+  ],
+  "fingerprint": "deers-head|2026-11-13|noughtie nineties 90s 00s",
+  "date": "2026-11-13",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "e94c3794-923d-4cce-b82e-435c754b04c8",
+  "keys": [
+   "empire:now-the-90s-3-3"
+  ],
+  "fingerprint": "belfast-empire|2026-11-14|now 90s",
+  "date": "2026-11-14",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "0878d20b-9b33-4831-a4a5-a22e4b32cc9a",
+  "keys": [
+   "limelight:11603"
+  ],
+  "fingerprint": "limelight|2026-11-14|day fever",
+  "date": "2026-11-14",
+  "first_seen": "2026-10-25T17:32:54Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "343fe12a-b404-4425-af2e-a2b52e12644d",
+  "keys": [
+   "limelight:11832"
+  ],
+  "fingerprint": "telegraph-building|2026-11-18|student xmas day",
+  "date": "2026-11-18",
+  "first_seen": "2026-10-28T12:52:21Z",
+  "backfill": false,
+  "reason": "reclassified"
+ },
+ {
+  "id": "9fd438d1-de18-46bc-86a9-a93dea7a2928",
+  "keys": [
+   "empire:pleasuredome-80s-90s-christmas-crackers-part2"
+  ],
+  "fingerprint": "belfast-empire|2026-12-05|pleasuredome 80s 90s christmas crackers",
+  "date": "2026-12-05",
+  "first_seen": "2026-10-26T13:13:29Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "c035d02f-1abf-41d3-93c5-293745922bf5",
+  "keys": [
+   "limelight:10964"
+  ],
+  "fingerprint": "limelight|2026-12-11|emo fest",
+  "date": "2026-12-11",
+  "first_seen": "2026-10-25T17:32:54Z",
+  "backfill": true,
+  "reason": "reclassified"
+ },
+ {
+  "id": "d112d615-b172-4baa-9552-561fd6157491",
+  "keys": [
+   "empire:pleasuredome-80s-90s-christmas-crackers-part2-2"
+  ],
+  "fingerprint": "belfast-empire|2026-12-12|pleasuredome 80s 90s christmas crackers",
+  "date": "2026-12-12",
+  "first_seen": "2026-10-26T21:39:04Z",
+  "backfill": false,
+  "reason": "reclassified"
+ },
+ {
+  "id": "f445b086-48ba-4988-b1b4-a3eb9c5dc833",
+  "keys": [
+   "empire:pleasuredome-80s-90s-christmas-crackers-part2-2-2"
+  ],
+  "fingerprint": "belfast-empire|2026-12-19|pleasuredome 80s 90s christmas crackers",
+  "date": "2026-12-19",
+  "first_seen": "2026-10-26T21:39:04Z",
+  "backfill": false,
+  "reason": "reclassified"
+ },
+ {
+  "id": "2ac83397-cc66-4a5f-be94-4a1c393cf8f9",
+  "keys": [
+   "empire:pleasuredome-80s"
+  ],
+  "fingerprint": "belfast-empire|2027-02-06|pleasuredome 80s",
+  "date": "2027-02-06",
+  "first_seen": "2026-10-26T21:39:04Z",
+  "backfill": false,
+  "reason": "reclassified"
+ },
+ {
+  "id": "1d07d70f-ce19-41f8-ae27-3eb660f5434e",
+  "keys": [
+   "empire:rock-day-party"
+  ],
+  "fingerprint": "belfast-empire|2027-03-20|rock day party",
+  "date": "2027-03-20",
+  "first_seen": "2026-10-26T21:39:04Z",
+  "backfill": false,
+  "reason": "reclassified"
+ },
+ {
+  "id": "38997304-836a-428a-a103-afb68c02cb21",
+  "keys": [
+   "empire:70s-day-party"
+  ],
+  "fingerprint": "belfast-empire|2027-07-24|70s day party",
+  "date": "2027-07-24",
+  "first_seen": "2026-10-26T21:39:04Z",
+  "backfill": false,
+  "reason": "reclassified"
  }
 ]

@@ -1203,41 +1203,6 @@
    },
    "lastmod": "2026-09-15"
   },
-  "https://www.mandelahall.com/events/ralph-mctell": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-29",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 34.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:ralph-mctell",
-    "source_url": "https://www.mandelahall.com/events/ralph-mctell",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/ralph-mctell"
-     ]
-    ],
-    "title": "Ralph McTell",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-09-24"
-  },
   "https://www.mandelahall.com/events/rock-icons-show": {
    "event": {
     "address": null,
@@ -2338,38 +2303,7 @@
    "lastmod": "2026-06-23"
   },
   "https://www.voodoobelfast.com/events/heavy-halloween": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-29",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:heavy-halloween",
-    "source_url": "https://www.voodoobelfast.com/events/heavy-halloween",
-    "start_time": "20:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/heavy-halloween-ft-triggertone-solothurn-impulse-to-resist-tickets-2002913228383?aff=ebdssbdestsearch"
-     ]
-    ],
-    "title": "Heavy Halloween",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-13"
   },
   "https://www.voodoobelfast.com/events/hell-yes": {
@@ -2756,10 +2690,6 @@
    },
    "lastmod": "2026-09-03"
   },
-  "https://www.voodoobelfast.com/events/nihilanth": {
-   "event": null,
-   "lastmod": "2025-10-29"
-  },
   "https://www.voodoobelfast.com/events/nomadus": {
    "event": null,
    "lastmod": "2026-08-26"
@@ -2869,10 +2799,6 @@
   "https://www.voodoobelfast.com/events/scream": {
    "event": null,
    "lastmod": "2026-08-26"
-  },
-  "https://www.voodoobelfast.com/events/she%2Fhell": {
-   "event": null,
-   "lastmod": "2025-10-29"
   },
   "https://www.voodoobelfast.com/events/shes-the-riot": {
    "event": {
