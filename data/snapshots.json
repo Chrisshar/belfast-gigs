@@ -5588,6 +5588,39 @@
   "title": "Chris Kent",
   "venue": "mandela-hall"
  },
+ "4b606962-66a5-4acd-acbd-edf36d05db2e": {
+  "age_restriction": null,
+  "date": "2027-01-08",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "New Step",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:080127",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/080127"
+   }
+  ],
+  "start_time": "18:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/080127"
+   }
+  ],
+  "title": "New Step",
+  "venue": "oh-yeah"
+ },
  "4b7f9a0b-da7e-4430-a1fc-a557343294c4": {
   "age_restriction": "18+",
   "date": "2026-12-18",

@@ -1615,6 +1615,17 @@
    "Ghoulgirl"
   ]
  },
+ "2df86d37f3eb611d": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "New Step",
+  "is_music": true,
+  "last_seen": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "2e2f55468e997286": {
   "confidence": 0.95,
   "genres": [
@@ -4320,6 +4331,15 @@
    "Rock"
   ],
   "headliner": "Black Parade Halloween Party",
+  "is_music": false,
+  "last_seen": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "94839d32741f2fd4": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "BUCK WILD!",
   "is_music": false,
   "last_seen": "2026-10-31",
   "model": "claude-haiku-5-5",

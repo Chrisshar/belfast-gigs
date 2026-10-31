@@ -17,7 +17,7 @@ sources:
   key: "voodoo:silent-running"
   url: "https://www.voodoobelfast.com/events/silent-running"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-31T12:25:18Z"
+updated_at: "2026-10-31T18:08:36Z"
 backfill: true
 classification:
   is_music: true
