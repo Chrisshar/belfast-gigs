@@ -4026,6 +4026,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "869f0058022927db": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "The Sade Experience",
+  "is_music": true,
+  "last_seen": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "86b36b060d909edb": {
   "confidence": 0.7,
   "genres": [

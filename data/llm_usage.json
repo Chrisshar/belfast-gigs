@@ -1,8 +1,8 @@
 {
  "2026-10": {
-  "calls": 64,
-  "cost_usd": 0.0585,
-  "input_tokens": 193809,
-  "output_tokens": 78237
+  "calls": 65,
+  "cost_usd": 0.05871,
+  "input_tokens": 195498,
+  "output_tokens": 78320
  }
 }

@@ -5487,6 +5487,40 @@
   "title": "Martyn Joseph",
   "venue": "crescent-arts-centre"
  },
+ "4acf21ba-d4f9-4ed9-9306-c54132a83608": {
+  "age_restriction": "18+",
+  "date": "2027-09-04",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "The Sade Experience",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11849",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/a-night-of-sade-in-bristol-tickets-2003193600985?aff=oddtdtcreator"
+   }
+  ],
+  "title": "The Sade Experience",
+  "venue": "limelight"
+ },
  "4b44778f-da4a-4afc-8e8c-2d78db3b73ae": {
   "age_restriction": null,
   "date": "2026-11-14",
