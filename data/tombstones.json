@@ -20,17 +20,6 @@
   "reason": "deleted"
  },
  {
-  "id": "acdb7269-61fa-4312-b097-21cb87b130f5",
-  "keys": [
-   "voodoo:emo-club"
-  ],
-  "fingerprint": "voodoo|2026-10-30|emo club",
-  "date": "2026-10-30",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
   "id": "3d57be6f-cba6-484e-808e-6c0969e1d357",
   "keys": [
    "voodoo:back-to-event-the-voodoo-sessions-026"
@@ -69,17 +58,6 @@
   "fingerprint": "black-box|2026-10-31|fuego fatale women of horror",
   "date": "2026-10-31",
   "reason": "deleted"
- },
- {
-  "id": "24d67be1-9e8c-4873-b089-19f47ad820c3",
-  "keys": [
-   "deershead:bats-womb-the-lost-boys-themed-halloween-party"
-  ],
-  "fingerprint": "deers-head|2026-10-30|bats womb lost boys themed halloween party",
-  "date": "2026-10-30",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
  },
  {
   "id": "7c9ced44-c37c-4d90-a1dc-124a68114969",

@@ -19,7 +19,7 @@ sources:
   key: "voodoo:hard-bizkit"
   url: "https://www.voodoobelfast.com/events/hard-bizkit"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-30T21:29:26Z"
+updated_at: "2026-10-31T07:08:36Z"
 backfill: true
 classification:
   is_music: true

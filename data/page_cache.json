@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7142",
    "7593",
    "6000",
    "7595",
@@ -957,41 +956,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-07-28"
-  },
-  "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-30",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 19.5,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:m%C3%B6rderstein---a-tribute-to-rammstein",
-    "source_url": "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein"
-     ]
-    ],
-    "title": "Mörderstein - a tribute to Rammstein",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-09-15"
   },
   "https://www.mandelahall.com/events/madra-salach": {
    "event": {
@@ -2001,10 +1965,6 @@
    "event": null,
    "lastmod": "2026-01-14"
   },
-  "https://www.voodoobelfast.com/events/doghouse": {
-   "event": null,
-   "lastmod": "2025-10-30"
-  },
   "https://www.voodoobelfast.com/events/domhain": {
    "event": null,
    "lastmod": "2026-02-17"
@@ -2022,38 +1982,7 @@
    "lastmod": "2025-12-10"
   },
   "https://www.voodoobelfast.com/events/emo-club": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-30",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:emo-club",
-    "source_url": "https://www.voodoobelfast.com/events/emo-club",
-    "start_time": "22:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Skiddle",
-      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Emo-Club-Halloween-Special/42822134/"
-     ]
-    ],
-    "title": "Emo Club",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-22"
   },
   "https://www.voodoobelfast.com/events/emo-club---not-a-phase": {
@@ -2956,38 +2885,7 @@
    "lastmod": "2026-08-26"
   },
   "https://www.voodoobelfast.com/events/spirit-bc": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-30",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 20.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:spirit-bc",
-    "source_url": "https://www.voodoobelfast.com/events/spirit-bc",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/spirit-bc-northern-irelands-tribute-to-ghost-tickets-1995701950256?aff=ebdssbdestsearch&dsrp_sid=25110396-8ca1-4857-b4bf-2a8e3e6e83de&dsrp_item_id=1995701950256"
-     ]
-    ],
-    "title": "Spirit Bc",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/stamping-ground": {

@@ -3701,41 +3701,6 @@
   "title": "Man in the Mirror",
   "venue": "waterfront-hall"
  },
- "35b13a5a-d401-4979-a54b-0306add687a5": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "Westlife",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:260525:2026-10-30",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/westlife-25-years"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Ana Sky"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-30-10-2026/event/3800634FF5F7289E?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
-  "venue": "the-o2-belfast"
- },
  "35cbf29a-a00e-4657-9add-c4c5d42786d0": {
   "age_restriction": "18+",
   "date": "2026-11-28",
@@ -4282,43 +4247,6 @@
   ],
   "title": "The Vintage Explosion",
   "venue": "ulster-hall"
- },
- "3dfb89ee-a9a1-4e19-a3e4-b41f38c2d6cb": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Metal",
-   "Rock"
-  ],
-  "headliner": "SEVENTH SON (IRON MAIDEN TRIBUTE)",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:seventh-son-iron-maiden-tribute-2",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/seventh-son-iron-maiden-tribute-2/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": [
-   "SOUND OF SABBATH"
-  ],
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/seventhson-iron-maiden-tribute-at-the-deers-head-belfast-301026-tickets-1985773132896"
-   }
-  ],
-  "title": "SEVENTH SON (IRON MAIDEN TRIBUTE) with SOUND OF SABBATH",
-  "venue": "deers-head"
  },
  "3ecd70e2-1d9c-415d-9a53-fc2ee90352f3": {
   "age_restriction": null,
@@ -7767,40 +7695,6 @@
   "title": "Alter Your Native Land Sounds of the Exhibtion Party: The Outcasts plus Special Guests Tramp, Éabha and Surprise Guests",
   "venue": "oh-yeah"
  },
- "6dad064f-53c9-4e11-824e-bc8acc3fff9c": {
-  "age_restriction": "18+",
-  "date": "2026-10-30",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Metal"
-  ],
-  "headliner": "Craic Sabbath & Ozzified",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11059",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/event/380064BBCA7424A1"
-   }
-  ],
-  "title": "Craic Sabbath & Ozzified - Halloween Special",
-  "venue": "limelight"
- },
  "6e4c8815-19cc-4683-982a-2bead6f96609": {
   "age_restriction": null,
   "date": "2026-11-24",
@@ -8943,40 +8837,6 @@
   ],
   "title": "Playback Presents: Stop Making Sense",
   "venue": "oh-yeah"
- },
- "85424bcb-d413-41cc-bdfe-6f0462b5c75b": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Pop"
-  ],
-  "headliner": "Panchiko",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 31.75,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:panchiko",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/panchiko/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/panchiko-belfast-30-10-2026/event/3800636399A21B33"
-   }
-  ],
-  "title": "Panchiko",
-  "venue": "belfast-empire"
  },
  "8545ec84-58f3-4eab-9a79-f6cba9de5dea": {
   "age_restriction": null,
@@ -10644,39 +10504,6 @@
   "title": "The Fray",
   "venue": "ulster-hall"
  },
- "a33988a4-7c06-4dd3-99db-8b350fb9c751": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "Spirit Bc",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:spirit-bc",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/spirit-bc"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/spirit-bc-northern-irelands-tribute-to-ghost-tickets-1995701950256?aff=ebdssbdestsearch&dsrp_sid=25110396-8ca1-4857-b4bf-2a8e3e6e83de&dsrp_item_id=1995701950256"
-   }
-  ],
-  "title": "Spirit Bc",
-  "venue": "voodoo"
- },
  "a3497f8d-5877-4e8c-a75f-cf1fb8b52cd5": {
   "age_restriction": null,
   "date": "2026-12-15",
@@ -10742,49 +10569,6 @@
   ],
   "title": "Good Health Good Wealth",
   "venue": "ulster-sports-club"
- },
- "a3b0683a-f847-4d14-97e1-794f4a957ea2": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic",
-   "Indie/Alternative"
-  ],
-  "headliner": "BlackGate",
-  "needs_review": null,
-  "price_max": 15.0,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "movingon:blackgate",
-    "name": "movingon",
-    "url": "https://www.movingonmusic.com/whats-on/blackgate/"
-   },
-   {
-    "key": "crescent:blackgate",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Citizen Ticket",
-    "url": "https://www.citizenticket.com/events/moving-on-music/blackgate/"
-   },
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/Belfast-International-Arts-Festival/blackgate"
-   }
-  ],
-  "title": "BlackGate",
-  "venue": "crescent-arts-centre"
  },
  "a4af842f-1f00-43dd-bcd4-8b291a630bf7": {
   "age_restriction": null,
@@ -11065,50 +10849,6 @@
   ],
   "title": "Electric Six",
   "venue": "limelight"
- },
- "a8734f9b-32e7-4643-9212-580fe267fbf8": {
-  "age_restriction": "18+",
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Metal",
-   "Rock"
-  ],
-  "headliner": "Mörderstein - a tribute to Rammstein",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 19.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandela:130440990",
-    "name": "mandela",
-    "url": "https://www.glistrr.com/events/e/mörderstein-a-tribute-to-rammstein-32-369"
-   },
-   {
-    "key": "mandelaweb:m%C3%B6rderstein---a-tribute-to-rammstein",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/mörderstein-a-tribute-to-rammstein-32-369"
-   },
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/m%C3%B6rderstein---a-tribute-to-rammstein"
-   }
-  ],
-  "title": "Mörderstein - a tribute to Rammstein",
-  "venue": "mandela-hall"
  },
  "a8fe124f-de30-4a9d-b8de-26e0ff148857": {
   "age_restriction": null,
@@ -11929,7 +11669,7 @@
   "venue": "belfast-empire"
  },
  "b746d119-eab8-46fb-b108-ec37f5cec30a": {
-  "age_restriction": null,
+  "age_restriction": "18+",
   "date": "2027-02-28",
   "doors_time": null,
   "end_date": null,
@@ -13492,40 +13232,6 @@
   ],
   "title": "Ariel Posen",
   "venue": "deers-head"
- },
- "cca10546-4d67-4dfa-88d3-29263404847a": {
-  "age_restriction": null,
-  "date": "2026-10-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Proud Mary",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:proud-mary",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/proud-mary/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/proud-mary/"
-   }
-  ],
-  "title": "Proud Mary",
-  "venue": "ulster-hall"
  },
  "cd52e56a-76cb-42d2-b825-222a10f43412": {
   "age_restriction": "18 +",
