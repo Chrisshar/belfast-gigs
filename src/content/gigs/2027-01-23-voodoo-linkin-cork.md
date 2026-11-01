@@ -19,7 +19,7 @@ sources:
   key: "voodoo:linkin-cork!"
   url: "https://www.voodoobelfast.com/events/linkin-cork!"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-01T18:08:33Z"
+updated_at: "2026-11-01T21:11:32Z"
 backfill: true
 classification:
   is_music: true
