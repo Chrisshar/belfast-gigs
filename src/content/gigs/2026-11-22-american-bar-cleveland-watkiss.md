@@ -18,7 +18,7 @@ sources:
   key: "citizenticket:dock-street-jazz-club/cleveland-watkiss-uk"
   url: "https://www.citizenticket.com/events/dock-street-jazz-club/cleveland-watkiss-uk/"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-11-01T07:08:29Z"
+updated_at: "2026-11-01T13:20:28Z"
 backfill: true
 classification:
   is_music: true
