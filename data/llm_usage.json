@@ -4,5 +4,11 @@
   "cost_usd": 0.05902,
   "input_tokens": 197301,
   "output_tokens": 78579
+ },
+ "2026-11": {
+  "calls": 0,
+  "cost_usd": 0.0,
+  "input_tokens": 0,
+  "output_tokens": 0
  }
 }

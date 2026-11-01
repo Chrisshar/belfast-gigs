@@ -18,7 +18,7 @@ sources:
   key: "voodoo:car-bomb"
   url: "https://www.voodoobelfast.com/events/car-bomb"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-31T20:27:16Z"
+updated_at: "2026-11-01T07:08:29Z"
 backfill: true
 classification:
   is_music: true

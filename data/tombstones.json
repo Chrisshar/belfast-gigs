@@ -51,26 +51,6 @@
   "reason": "deleted"
  },
  {
-  "id": "654b3d81-b074-4e8b-886b-aff57fe1fef2",
-  "keys": [
-   "blackbox:fuego-fatale-women-of-horror-2"
-  ],
-  "fingerprint": "black-box|2026-10-31|fuego fatale women of horror",
-  "date": "2026-10-31",
-  "reason": "deleted"
- },
- {
-  "id": "7c9ced44-c37c-4d90-a1dc-124a68114969",
-  "keys": [
-   "empire:black-parade-halloween-party"
-  ],
-  "fingerprint": "belfast-empire|2026-10-31|black parade halloween party",
-  "date": "2026-10-31",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
   "id": "c7691df2-a323-416d-bc5d-52fc0f829142",
   "keys": [
    "deershead:noughtie-nineties-90s-00s"

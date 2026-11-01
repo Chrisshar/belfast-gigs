@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7593",
    "6000",
    "7595",
    "7667",
@@ -1026,41 +1025,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-09-15"
-  },
-  "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-31",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 8.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:meltdowns-halloween-headbangerz-ball",
-    "source_url": "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball",
-    "start_time": "21:30",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/meltdowns-halloween-headbangerz-ball"
-     ]
-    ],
-    "title": "Meltdown'S Halloween Headbangerz Ball",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-09-30"
   },
   "https://www.mandelahall.com/events/mo-gilligan": {
    "event": {
@@ -2620,38 +2584,7 @@
    "lastmod": "2026-02-26"
   },
   "https://www.voodoobelfast.com/events/nightmare-on-fountain-street": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-10-31",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:nightmare-on-fountain-street",
-    "source_url": "https://www.voodoobelfast.com/events/nightmare-on-fountain-street",
-    "start_time": "21:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/nightmare-on-fountain-street-tickets-1999698153006?aff=oddtdtcreator"
-     ]
-    ],
-    "title": "Nightmare on Fountain Street",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-03"
   },
   "https://www.voodoobelfast.com/events/nomadus": {

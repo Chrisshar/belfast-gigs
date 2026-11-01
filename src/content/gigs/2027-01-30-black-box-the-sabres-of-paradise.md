@@ -17,7 +17,7 @@ sources:
   key: "blackbox:out-to-lunch-festival-the-sabres-of-paradise-club-show"
   url: "https://www.blackboxbelfast.com/event/out-to-lunch-festival-the-sabres-of-paradise-club-show/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-31T20:27:16Z"
+updated_at: "2026-11-01T07:08:29Z"
 backfill: true
 classification:
   is_music: true

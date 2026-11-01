@@ -19,7 +19,7 @@ sources:
   key: "mandela:130440982"
   url: "https://www.glistrr.com/events/e/magic-queen-the-ultimate-tribute-to-queen-32-368"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-31T20:27:16Z"
+updated_at: "2026-11-01T07:08:29Z"
 backfill: true
 classification:
   is_music: true
