@@ -17,7 +17,7 @@ sources:
   key: "citizenticket:dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca"
   url: "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca/"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-11-01T13:20:28Z"
+updated_at: "2026-11-01T18:08:33Z"
 backfill: true
 classification:
   is_music: true
