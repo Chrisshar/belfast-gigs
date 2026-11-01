@@ -156,11 +156,14 @@ export function initFilters(): void {
   refreshHero(londonToday());
   const count = document.querySelector<HTMLElement>('#count');
   const state = readUrl();
+  // A search from another page lands on /?q=…#upcoming-h. Read it now: writeUrl drops the hash.
+  const fromSearch = location.hash === '#upcoming-h';
 
   const whenButtons = [...form.querySelectorAll<HTMLButtonElement>('[data-when]')];
   const genreButtons = [...form.querySelectorAll<HTMLButtonElement>('[data-genre]')];
+  // Two search boxes, the header's and the filter bar's, kept in step.
+  const searchBoxes = [...document.querySelectorAll<HTMLInputElement>('input[name=q]')];
   const fields = {
-    q: form.querySelector<HTMLInputElement>('[name=q]'),
     venue: form.querySelector<HTMLSelectElement>('[name=venue]'),
     month: form.querySelector<HTMLSelectElement>('[name=month]'),
     area: form.querySelector<HTMLSelectElement>('[name=area]'),
@@ -170,7 +173,7 @@ export function initFilters(): void {
   function syncControls(): void {
     whenButtons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.when === state.when)));
     genreButtons.forEach((b) => b.setAttribute('aria-pressed', String(state.genres.has(b.dataset.genre ?? ''))));
-    if (fields.q) fields.q.value = state.q;
+    searchBoxes.forEach((box) => (box.value = state.q));
     if (fields.venue) fields.venue.value = state.venue;
     if (fields.month) fields.month.value = state.month;
     if (fields.area) fields.area.value = state.area;
@@ -228,9 +231,21 @@ export function initFilters(): void {
       update();
     }),
   );
-  fields.q?.addEventListener('input', () => {
-    state.q = fields.q!.value.trim();
-    apply();
+  for (const box of searchBoxes) {
+    box.addEventListener('input', () => {
+      state.q = box.value.trim();
+      // Copy the raw text, so the other box doesn't lose a trailing space mid-word.
+      searchBoxes.forEach((other) => other !== box && (other.value = box.value));
+      apply();
+    });
+  }
+  // Enter in the header box: stay on the page and bring the results into view. The keyboard closes
+  // on phones.
+  const headerSearch = document.querySelector<HTMLFormElement>('.site-search');
+  headerSearch?.addEventListener('submit', (event) => {
+    event.preventDefault();
+    headerSearch.querySelector('input')?.blur();
+    document.querySelector('#upcoming-h')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
   for (const key of ['venue', 'month', 'area'] as const) {
     fields[key]?.addEventListener('change', () => {
@@ -258,4 +273,6 @@ export function initFilters(): void {
   }
   syncControls();
   apply();
+  // Filtering can collapse the sections above the results, so scroll again once it has.
+  if (fromSearch) document.querySelector('#upcoming-h')?.scrollIntoView({ behavior: 'instant', block: 'start' });
 }

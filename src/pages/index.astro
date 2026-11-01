@@ -3,6 +3,8 @@ import Base from '../layouts/Base.astro';
 import FilterBar from '../components/FilterBar.astro';
 import GigRow from '../components/GigRow.astro';
 import Hero from '../components/Hero.astro';
+import Legend from '../components/Legend.astro';
+import { instrumentFor } from '../lib/art/instruments';
 import { GENRES } from '../content.config';
 import { dayParts, formatMonth } from '../lib/dates';
 import { getUpcomingGigs, groupByMonthAndDay, recentlyAdded, toViews } from '../lib/gigs';
@@ -16,6 +18,7 @@ const venues = [...new Map(views.map((v) => [v.gig.data.venue.id, v.venueName]))
   .sort((a, b) => a.name.replace(/^The /, '').localeCompare(b.name.replace(/^The /, '')));
 const used = new Set(views.flatMap((v) => v.gig.data.genres));
 const genres = GENRES.filter((g) => used.has(g));
+const other = views.some((v) => instrumentFor(v.gig.data.genres) === 'default');
 const areas = [...new Set(views.map((v) => v.area))].sort();
 ---
 
@@ -24,6 +27,7 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
   <div class="hero-rule"></div>
 
   <FilterBar venues={venues} months={[...byMonth.keys()]} genres={genres} areas={areas} />
+  <Legend genres={genres} other={other} />
 
   {
     /* Only shown when something has been announced in the last fortnight. */
