@@ -18,7 +18,7 @@ sources:
   key: "blackbox:quires-big-hohoho-evening-show"
   url: "https://www.blackboxbelfast.com/event/quires-big-hohoho-evening-show/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-02T07:08:30Z"
+updated_at: "2026-11-02T15:47:35Z"
 backfill: true
 classification:
   is_music: true

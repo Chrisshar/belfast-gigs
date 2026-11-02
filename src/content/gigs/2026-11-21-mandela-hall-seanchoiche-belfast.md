@@ -4,7 +4,7 @@ title: "Seanchoíche Belfast"
 headliner: "Seanchoíche Belfast"
 venue: "mandela-hall"
 date: "2026-11-21"
-start_time: "12:00"
+start_time: "19:00"
 status: "on_sale"
 genres:
 - "Folk/Trad"
@@ -16,7 +16,7 @@ sources:
   key: "mandelaweb:seancho%C3%ADche-belfast-%7C-luck"
   url: "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
 first_seen: "2026-10-29T12:58:50Z"
-updated_at: "2026-10-29T12:58:50Z"
+updated_at: "2026-11-02T15:47:35Z"
 classification:
   is_music: true
   confidence: 0.55

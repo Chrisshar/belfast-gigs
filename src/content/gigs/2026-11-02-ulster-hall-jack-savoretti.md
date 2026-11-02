@@ -4,7 +4,7 @@ title: "Jack Savoretti"
 headliner: "Jack Savoretti"
 venue: "ulster-hall"
 date: "2026-11-02"
-status: "sold_out"
+status: "on_sale"
 genres:
 - "Singer-Songwriter"
 - "Pop"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:jack-savoretti"
   url: "https://www.ulsterhall.co.uk/what-s-on/jack-savoretti/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-02T15:47:35Z"
 backfill: true
 classification:
   is_music: true

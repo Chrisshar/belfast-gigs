@@ -18,7 +18,7 @@ sources:
   key: "empire:raised-on-rock-merry-riffmas"
   url: "https://www.thebelfastempire.com/music-hall/raised-on-rock-merry-riffmas/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-02T07:08:30Z"
+updated_at: "2026-11-02T15:47:35Z"
 classification:
   is_music: true
   confidence: 0.9

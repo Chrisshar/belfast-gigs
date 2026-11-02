@@ -19,7 +19,7 @@ sources:
   key: "deershead:radio-in-chains-a-radiohead-alice-in-chains-tribute"
   url: "https://www.thedeersheadbelfast.com/whats-on/radio-in-chains-a-radiohead-alice-in-chains-tribute/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-02T07:08:30Z"
+updated_at: "2026-11-02T15:47:35Z"
 backfill: true
 classification:
   is_music: true

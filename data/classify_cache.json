@@ -285,6 +285,18 @@
    "David Holmes DJ SET"
   ]
  },
+ "06e6b89c40d3df2e": {
+  "confidence": 0.97,
+  "genres": [
+   "Country/Americana",
+   "Pop"
+  ],
+  "headliner": "Shania Twain",
+  "is_music": true,
+  "last_seen": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "07739d78b7ffd211": {
   "confidence": 0.85,
   "genres": [

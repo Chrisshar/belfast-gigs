@@ -3390,7 +3390,7 @@
     "url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
    }
   ],
-  "start_time": "12:00",
+  "start_time": "19:00",
   "status": "on_sale",
   "support": null,
   "tickets": [
@@ -7811,6 +7811,40 @@
   ],
   "title": "Sweet Savage",
   "venue": "limelight"
+ },
+ "76c8d8a5-d903-46ee-bad3-ad37142b660d": {
+  "age_restriction": null,
+  "date": "2027-06-27",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Country/Americana",
+   "Pop"
+  ],
+  "headliner": "Shania Twain",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11853",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "venuecloud.net",
+    "url": "https://www.venuecloud.net/s/f/12/274"
+   }
+  ],
+  "title": "Belsonic 2027 - Shania Twain",
+  "venue": "ormeau-park"
  },
  "76d15556-e91c-46ec-8d15-d966e75bc9e3": {
   "age_restriction": null,
@@ -14410,7 +14444,7 @@
    }
   ],
   "start_time": null,
-  "status": "sold_out",
+  "status": "on_sale",
   "support": null,
   "tickets": [
    {
