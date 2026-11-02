@@ -18,7 +18,7 @@ sources:
   key: "blackbox:tc-kylie-reconciliation-album-release-tour-2026"
   url: "https://www.blackboxbelfast.com/event/tc-kylie-reconciliation-album-release-tour-2026/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-01T21:11:32Z"
+updated_at: "2026-11-02T07:08:30Z"
 backfill: true
 classification:
   is_music: true

@@ -1481,41 +1481,6 @@
    },
    "lastmod": "2026-09-21"
   },
-  "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-01",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 25.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:the-beast---the-largest-iron-maiden-tribute",
-    "source_url": "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
-     ]
-    ],
-    "title": "The Beast - The Largest Iron Maiden Tribute",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-10-26"
-  },
   "https://www.mandelahall.com/events/the-john-martyn-project": {
    "event": {
     "address": null,

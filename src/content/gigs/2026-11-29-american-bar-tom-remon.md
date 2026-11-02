@@ -17,7 +17,7 @@ sources:
   key: "citizenticket:dock-street-jazz-club/dock-street-jazz-club-tom-remon-uk"
   url: "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-tom-remon-uk/"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-11-01T21:11:32Z"
+updated_at: "2026-11-02T07:08:30Z"
 backfill: true
 classification:
   is_music: true

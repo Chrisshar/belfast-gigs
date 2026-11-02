@@ -3532,73 +3532,6 @@
   "title": "corto.alto",
   "venue": "mandela-hall"
  },
- "32552475-bb77-47c0-abff-5760799bfff5": {
-  "age_restriction": null,
-  "date": "2026-11-01",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Country/Americana"
-  ],
-  "headliner": "Tommy Emmanuel, CGP",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:tommy-emmanuel-2",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/tommy-emmanuel-2/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/tommy-emmanuel-2/"
-   }
-  ],
-  "title": "Tommy Emmanuel, CGP",
-  "venue": "ulster-hall"
- },
- "335609a3-ba96-40a6-8385-8a09e9ada159": {
-  "age_restriction": null,
-  "date": "2026-11-01",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues"
-  ],
-  "headliner": "Dock Street Jazz Jam",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 8.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-jam",
-    "name": "citizenticket",
-    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam/"
-   }
-  ],
-  "start_time": "20:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Citizen Ticket",
-    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam/"
-   }
-  ],
-  "title": "Dock Street Jazz Jam",
-  "venue": "american-bar"
- },
  "33a95481-4e91-43da-8ab5-d570afaf9631": {
   "age_restriction": null,
   "date": "2026-12-05",
@@ -5654,37 +5587,6 @@
   "title": "Dylan Leblanc",
   "venue": "deers-head"
  },
- "4bf66406-2021-4243-8eab-4dce581df414": {
-  "age_restriction": "18+",
-  "date": "2026-11-01",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": null,
-  "headliner": "Joshua Idehen",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11477",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5409793?venueId=461484"
-   }
-  ],
-  "title": "Joshua Idehen",
-  "venue": "limelight"
- },
  "4c2f430c-7804-45f3-918a-7565d427922b": {
   "age_restriction": "18+",
   "date": "2027-03-05",
@@ -6011,42 +5913,6 @@
   ],
   "title": "Cody Johnson",
   "venue": "the-o2-belfast"
- },
- "5279395c-ab86-4cc3-993a-5ef016b50e06": {
-  "age_restriction": "18+",
-  "date": "2026-11-01",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "Transvision Vamp",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:10497",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Susi Pagel"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/1176880?venueId=459772"
-   }
-  ],
-  "title": "Transvision Vamp",
-  "venue": "limelight"
  },
  "527ae839-907f-48e7-8832-a5fa59d9f441": {
   "age_restriction": null,
@@ -7236,41 +7102,6 @@
   ],
   "title": "Elephant Sessions",
   "venue": "limelight"
- },
- "6938f24e-b057-4eda-9954-0df01dbc5c2d": {
-  "age_restriction": null,
-  "date": "2026-11-01",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Metal",
-   "Rock"
-  ],
-  "headliner": "The Beast - The Largest Iron Maiden Tribute",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 25.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:the-beast---the-largest-iron-maiden-tribute",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/the-beast---the-largest-iron-maiden-tribute"
-   }
-  ],
-  "title": "The Beast - The Largest Iron Maiden Tribute",
-  "venue": "mandela-hall"
  },
  "6a5994a0-af67-49e8-a3c7-db1cdcac6375": {
   "age_restriction": null,

@@ -18,7 +18,7 @@ sources:
   key: "deershead:dead-on-a-sunday"
   url: "https://www.thedeersheadbelfast.com/whats-on/dead-on-a-sunday/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-01T21:11:32Z"
+updated_at: "2026-11-02T07:08:30Z"
 backfill: true
 classification:
   is_music: true
