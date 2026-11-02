@@ -1310,6 +1310,10 @@
    {
     "source": "venuecloud.net",
     "url": "https://www.venuecloud.net/s/f/10/273"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-fratellis-22-10-2027/event/38006557AB0E1CA4"
    }
   ],
   "title": "The Fratellis",
@@ -3401,6 +3405,40 @@
   ],
   "title": "Seanchoíche Belfast",
   "venue": "mandela-hall"
+ },
+ "2f029da1-59da-49e3-83d1-55e6b201c706": {
+  "age_restriction": null,
+  "date": "2026-11-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Hanna Sisters",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:hanna-sisters-candlelight-concert",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/hanna-sisters-candlelight-concert"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/hanna-sisters-candlelight-concert-tickets-2002918168158"
+   }
+  ],
+  "title": "Hanna Sisters - Candlelight Concert",
+  "venue": "the-harrison"
  },
  "2f2766d4-1b46-4767-a5a6-1ccbd2023dcd": {
   "age_restriction": null,
@@ -9309,6 +9347,10 @@
    {
     "source": "venuecloud.net",
     "url": "https://www.venuecloud.net/s/f/10/272"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/malevolence-17-02-2027/event/380065318B7B0C80"
    }
   ],
   "title": "MALEVOLENCE",
@@ -9551,6 +9593,39 @@
   ],
   "title": "The Frank & The Walters",
   "venue": "limelight"
+ },
+ "95e96d24-dba8-46b1-a89a-496e46ff3808": {
+  "age_restriction": null,
+  "date": "2026-12-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Aidan Connolly",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:trad-at-the-harrison-presents-aidan-connolly",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/trad-at-the-harrison-presents-aidan-connolly"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/trad-at-the-harrison-presents-aidan-connolly-tickets-2003512700420"
+   }
+  ],
+  "title": "Trad at The Harrison Presents: Aidan Connolly",
+  "venue": "the-harrison"
  },
  "961c0b20-f883-4c24-bf47-3b0a1e43a04f": {
   "age_restriction": null,
@@ -12824,6 +12899,40 @@
   "tickets": null,
   "title": "The Jazz Room",
   "venue": "belfast-empire"
+ },
+ "c89777c4-7e52-44af-be81-d2a584bf9541": {
+  "age_restriction": null,
+  "date": "2026-12-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World",
+   "Folk/Trad"
+  ],
+  "headliner": "Duozouk",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:ma3uvtwnt34o9ants2odyofpqnp4ut",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/ma3uvtwnt34o9ants2odyofpqnp4ut"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/duozouk-live-at-mckowski-cafe-tickets-2002303389338"
+   }
+  ],
+  "title": "Duozouk live at McKowski Cafe",
+  "venue": "the-harrison"
  },
  "c8c64dbf-8d75-48d7-baf4-376dc7577ace": {
   "age_restriction": null,

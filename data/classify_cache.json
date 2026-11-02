@@ -2640,6 +2640,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "4f6dec78fbdc1df1": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Hanna Sisters",
+  "is_music": true,
+  "last_seen": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "4f7401cf434f2394": {
   "confidence": 0.85,
   "genres": [
@@ -2858,6 +2870,18 @@
    "Singer-Songwriter"
   ],
   "headliner": "Chris Andreucci & The Longneck Losers: A Night From Nashville",
+  "is_music": true,
+  "last_seen": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5837d91c82c73fa2": {
+  "confidence": 0.8,
+  "genres": [
+   "World",
+   "Folk/Trad"
+  ],
+  "headliner": "Duozouk",
   "is_music": true,
   "last_seen": "2026-11-02",
   "model": "claude-haiku-5-5",
@@ -3420,6 +3444,17 @@
    "Folk/Trad"
   ],
   "headliner": "Jobi Riccio",
+  "is_music": true,
+  "last_seen": "2026-11-02",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "736414dc6d8cf1eb": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Aidan Connolly",
   "is_music": true,
   "last_seen": "2026-11-02",
   "model": "claude-haiku-5-5",

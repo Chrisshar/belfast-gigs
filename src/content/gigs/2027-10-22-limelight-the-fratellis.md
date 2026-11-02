@@ -16,12 +16,14 @@ genres:
 tickets:
 - source: "venuecloud.net"
   url: "https://www.venuecloud.net/s/f/10/273"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/the-fratellis-22-10-2027/event/38006557AB0E1CA4"
 sources:
 - name: "limelight"
   key: "limelight:11818"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-27T10:10:42Z"
-updated_at: "2026-10-27T10:10:42Z"
+updated_at: "2026-11-02T23:52:55Z"
 classification:
   is_music: true
   confidence: 0.98

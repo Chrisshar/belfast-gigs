@@ -17,7 +17,7 @@ sources:
   key: "citizenticket:dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary"
   url: "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary/"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-11-02T15:47:35Z"
+updated_at: "2026-11-02T23:52:55Z"
 backfill: true
 classification:
   is_music: true
