@@ -2425,38 +2425,7 @@
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/matt-lang": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-02",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": null,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:matt-lang",
-    "source_url": "https://www.voodoobelfast.com/events/matt-lang",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Ticketmaster",
-      "https://www.ticketmaster.ie/matt-lang-tickets/artist/5275951"
-     ]
-    ],
-    "title": "Matt Lang",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-08"
   },
   "https://www.voodoobelfast.com/events/mature-cheddar": {

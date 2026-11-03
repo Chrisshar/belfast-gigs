@@ -2625,42 +2625,6 @@
   "title": "Quire’s Big HoHoHo (Evening Show)",
   "venue": "black-box"
  },
- "203adb23-0672-47d6-a142-e156732c2bd4": {
-  "age_restriction": null,
-  "date": "2026-11-02",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "The Script",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:301624:2026-11-02",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/the-script"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "James Morrison"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/the-script-the-man-in-the-belfast-02-11-2026/event/380064AEC95E177C?camefrom=CFC_IE_CLI_THEO2BELFAST_TheScriptWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "The Script - The Man in the Arena Tour",
-  "venue": "the-o2-belfast"
- },
  "21984ab2-5e79-424b-8c32-64ae7cab5c98": {
   "age_restriction": null,
   "date": "2026-11-26",
@@ -12290,39 +12254,6 @@
   "title": "Rock N Christmas",
   "venue": "waterfront-hall"
  },
- "c20be618-12d9-4eff-911c-3ec8e123ad51": {
-  "age_restriction": null,
-  "date": "2026-11-02",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Susy Good: Album Launch",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 12.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:susy-good-album-launch",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/susy-good-album-launch/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/susy-good-album-launch/"
-   }
-  ],
-  "title": "Susy Good: Album Launch",
-  "venue": "black-box"
- },
  "c2d28e5c-b186-41fd-a613-4af77dbf042b": {
   "age_restriction": null,
   "date": "2027-03-22",
@@ -13961,39 +13892,6 @@
   "title": "The New Wave: Gráinne Meyer & Atóg",
   "venue": "oh-yeah"
  },
- "df81ce59-8c5b-4679-91b3-eb2eed687050": {
-  "age_restriction": null,
-  "date": "2026-11-02",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues"
-  ],
-  "headliner": "Linley Hamilton Trio",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "harrison:liney-hamilton-trio",
-    "name": "harrison",
-    "url": "https://www.chambersofdistinction.com/unified-calendar/liney-hamilton-trio"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "TicketSource",
-    "url": "https://www.ticketsource.com/monday-club-events/linley-hamilton-trio/e-ljkvjr"
-   }
-  ],
-  "title": "Linley Hamilton Trio",
-  "venue": "the-harrison"
- },
  "df8476a8-ed17-4889-bcea-2f2852ef4655": {
   "age_restriction": null,
   "date": "2026-11-07",
@@ -14529,40 +14427,6 @@
   ],
   "title": "Slipkorn",
   "venue": "voodoo"
- },
- "e75fe20a-74d6-4d59-875f-8babb7690cc7": {
-  "age_restriction": null,
-  "date": "2026-11-02",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Pop"
-  ],
-  "headliner": "Jack Savoretti",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:jack-savoretti",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/jack-savoretti/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/jack-savoretti/"
-   }
-  ],
-  "title": "Jack Savoretti",
-  "venue": "ulster-hall"
  },
  "e7ed0cc6-c721-46a0-bf3a-abee471660a5": {
   "age_restriction": null,

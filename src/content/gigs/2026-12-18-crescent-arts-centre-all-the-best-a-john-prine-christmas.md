@@ -18,7 +18,7 @@ sources:
   key: "crescent:all-the-best-a-john-prine-christmas"
   url: "https://www.crescentarts.org/events/music-and-drama/gig/all-the-best-a-john-prine-christmas"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-02T23:52:55Z"
+updated_at: "2026-11-03T07:08:36Z"
 backfill: true
 classification:
   is_music: true
