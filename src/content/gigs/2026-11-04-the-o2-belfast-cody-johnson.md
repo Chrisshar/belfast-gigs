@@ -2,6 +2,9 @@
 id: "4fe66732-3c16-47b8-b2e0-8becb23bc5fe"
 title: "Cody Johnson"
 headliner: "Cody Johnson"
+support:
+- "Emily Ann Roberts"
+- "Parker McCollum"
 venue: "the-o2-belfast"
 date: "2026-11-04"
 doors_time: "18:30"
@@ -16,7 +19,7 @@ sources:
   key: "o2belfast:295125:2026-11-04"
   url: "https://theo2belfast.com/events/cody-johnson"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-03T14:10:57Z"
 backfill: true
 classification:
   is_music: true

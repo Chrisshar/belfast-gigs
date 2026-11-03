@@ -2,6 +2,8 @@
 id: "a7669152-2d17-4e7c-a89f-94396bdf7c20"
 title: "Pa Sheehy"
 headliner: "Pa Sheehy"
+support:
+- "David Geraghty"
 venue: "limelight"
 room: "Limelight 2"
 date: "2026-11-19"
@@ -19,7 +21,7 @@ sources:
   key: "limelight:10987"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-11-03T14:10:57Z"
 backfill: true
 classification:
   is_music: true

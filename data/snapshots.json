@@ -2485,6 +2485,35 @@
   "title": "Texas: 30th Anniversary of White on Blonde + the hits",
   "venue": "the-o2-belfast"
  },
+ "1d6ae080-cf64-4100-ae15-8209d2e75a70": {
+  "age_restriction": null,
+  "date": "2027-05-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Spaceacre",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:spaceacre",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/spaceacre"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Spaceacre",
+  "venue": "voodoo"
+ },
  "1eb1ccc8-c16b-42c2-9acf-44f71df415d0": {
   "age_restriction": "18+",
   "date": "2027-01-28",
@@ -5906,7 +5935,10 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "Emily Ann Roberts",
+   "Parker McCollum"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -6557,6 +6589,39 @@
   ],
   "title": "The Total Stone Roses & Oaysis Live",
   "venue": "limelight"
+ },
+ "5dabf06f-5ba4-499f-bad9-3f4aa9ac0e4f": {
+  "age_restriction": null,
+  "date": "2026-12-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Trá Pháidín",
+  "needs_review": null,
+  "price_max": 15.0,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "movingon:tra-phaidin",
+    "name": "movingon",
+    "url": "https://www.movingonmusic.com/whats-on/tra-phaidin/"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/moving-on-music/tra-phaidin/"
+   }
+  ],
+  "title": "Trá Pháidín",
+  "venue": "ulster-sports-club"
  },
  "5e8ac28f-a9a8-4d46-bc85-e8493188141a": {
   "age_restriction": null,
@@ -9280,6 +9345,40 @@
   "title": "Curtis Stigers in Concert",
   "venue": "ulster-hall"
  },
+ "8eac4d8d-1a9b-4d30-b422-f392776df0f6": {
+  "age_restriction": null,
+  "date": "2026-11-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Mississippi Records Presents: A People’s History of Music",
+  "needs_review": null,
+  "price_max": 12.0,
+  "price_min": 8.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "movingon:mississippi-records-presents-a-peoples-history-of-music",
+    "name": "movingon",
+    "url": "https://www.movingonmusic.com/whats-on/mississippi-records-presents-a-peoples-history-of-music/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Citizen Ticket",
+    "url": "https://www.citizenticket.com/events/moving-on-music/mississippi-records-presents-a-people-s-history-of-music/"
+   }
+  ],
+  "title": "Mississippi Records Presents: A People’s History of Music",
+  "venue": "black-box"
+ },
  "8fc153f5-493e-4f42-8576-030fd49438b0": {
   "age_restriction": null,
   "date": "2027-02-17",
@@ -10639,7 +10738,9 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "David Geraghty"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",

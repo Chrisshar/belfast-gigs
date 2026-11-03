@@ -2747,6 +2747,36 @@
    "event": null,
    "lastmod": "2026-08-26"
   },
+  "https://www.voodoobelfast.com/events/spaceacre": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-18",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:spaceacre",
+    "source_url": "https://www.voodoobelfast.com/events/spaceacre",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Spaceacre",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-03"
+  },
   "https://www.voodoobelfast.com/events/spaced": {
    "event": null,
    "lastmod": "2026-08-26"

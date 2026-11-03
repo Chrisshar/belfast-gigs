@@ -1107,6 +1107,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "1b69bc78f6fd98d4": {
+  "confidence": 0.5,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Mississippi Records Presents: A People’s History of Music",
+  "is_music": true,
+  "last_seen": "2026-11-03",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "1b946977bfc232c2": {
   "confidence": 0.8,
   "genres": [
@@ -3621,6 +3633,18 @@
   ],
   "headliner": "Ulster Orchestra: Wild Echoes",
   "is_music": false,
+  "last_seen": "2026-11-03",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7a74584432efbf08": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Spaceacre",
+  "is_music": true,
   "last_seen": "2026-11-03",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6243,6 +6267,17 @@
    "Pop"
   ],
   "headliner": "Playback Presents: Stop Making Sense",
+  "is_music": true,
+  "last_seen": "2026-11-03",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d3bc9077698af137": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Trá Pháidín",
   "is_music": true,
   "last_seen": "2026-11-03",
   "model": "claude-haiku-5-5",
