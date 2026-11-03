@@ -5411,6 +5411,10 @@
    {
     "source": "Eventbrite",
     "url": "https://www.eventbrite.co.uk/e/a-night-of-sade-in-bristol-tickets-2003193600985?aff=oddtdtcreator"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/event/38006563B4041984"
    }
   ],
   "title": "The Sade Experience",
@@ -6387,6 +6391,35 @@
   ],
   "title": "Gustaffson",
   "venue": "oh-yeah"
+ },
+ "595e8d27-aa1e-4f41-bb91-1efc2e432d7f": {
+  "age_restriction": null,
+  "date": "2027-01-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Unpeople",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:unpeople",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/unpeople"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Unpeople",
+  "venue": "voodoo"
  },
  "59a5d799-c1fd-45c4-be3e-02c5b1b559de": {
   "age_restriction": null,
@@ -11153,6 +11186,40 @@
   ],
   "title": "The Budvar Music Trail presents: Ode to Misinformation: Rarewitch Live hosted by Stephen McCauley",
   "venue": "oh-yeah"
+ },
+ "ad535d2a-6b27-4659-bf13-e3119b1dc8b0": {
+  "age_restriction": null,
+  "date": "2027-10-29",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Guns 2 Roses",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:the-guns2roses",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/the-guns2roses/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/guns-2-roses-29-10-2027/event/38006556DE8F2353"
+   }
+  ],
+  "title": "Guns 2 Roses",
+  "venue": "belfast-empire"
  },
  "ad6b40e4-ad2f-4098-87f6-deed66e7807c": {
   "age_restriction": null,

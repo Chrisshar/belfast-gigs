@@ -15,7 +15,7 @@ sources:
   key: "empire:gifted-broncos"
   url: "https://www.thebelfastempire.com/music-hall/gifted-broncos/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-03T14:10:57Z"
+updated_at: "2026-11-03T18:08:44Z"
 backfill: true
 classification:
   is_music: true

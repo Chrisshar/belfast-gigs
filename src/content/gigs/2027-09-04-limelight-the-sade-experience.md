@@ -14,12 +14,14 @@ genres:
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.co.uk/e/a-night-of-sade-in-bristol-tickets-2003193600985?aff=oddtdtcreator"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/event/38006563B4041984"
 sources:
 - name: "limelight"
   key: "limelight:11849"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-31T12:25:18Z"
-updated_at: "2026-10-31T12:25:18Z"
+updated_at: "2026-11-03T18:08:44Z"
 classification:
   is_music: true
   confidence: 0.95

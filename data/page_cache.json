@@ -42,7 +42,8 @@
    "7397",
    "7262",
    "6324",
-   "4210"
+   "4210",
+   "6672"
   ]
  },
  "mandelaweb": {
@@ -289,7 +290,7 @@
     "title": "Breathe - The Pink Floyd Experience",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-06-09"
+   "lastmod": "2026-11-03"
   },
   "https://www.mandelahall.com/events/brian-kennedy": {
    "event": {
@@ -1409,7 +1410,7 @@
     "title": "Stuart Mitchell & Friends",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-08-05"
+   "lastmod": "2026-11-03"
   },
   "https://www.mandelahall.com/events/susan-calman": {
    "event": {
@@ -2965,6 +2966,36 @@
   "https://www.voodoobelfast.com/events/unnatural-order": {
    "event": null,
    "lastmod": "2026-08-26"
+  },
+  "https://www.voodoobelfast.com/events/unpeople": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-01-19",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:unpeople",
+    "source_url": "https://www.voodoobelfast.com/events/unpeople",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Unpeople",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-03"
   },
   "https://www.voodoobelfast.com/events/urne": {
    "event": {
