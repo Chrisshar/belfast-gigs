@@ -18,7 +18,7 @@ sources:
   key: "deershead:guinness-blues-cafe-the-davy-k-project-2"
   url: "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-the-davy-k-project-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-03T18:08:44Z"
+updated_at: "2026-11-03T22:18:59Z"
 backfill: true
 classification:
   is_music: true

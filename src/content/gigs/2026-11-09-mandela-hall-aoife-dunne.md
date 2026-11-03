@@ -17,7 +17,7 @@ sources:
   key: "mandelaweb:aoife-dunne"
   url: "https://www.mandelahall.com/events/aoife-dunne"
 first_seen: "2026-10-30T12:52:41Z"
-updated_at: "2026-11-03T18:08:44Z"
+updated_at: "2026-11-03T22:18:59Z"
 classification:
   is_music: true
   confidence: 0.5

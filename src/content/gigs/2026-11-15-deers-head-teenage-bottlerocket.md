@@ -20,7 +20,7 @@ sources:
   key: "deershead:teenage-bottlerocket-good-friend-sam-russo"
   url: "https://www.thedeersheadbelfast.com/whats-on/teenage-bottlerocket-good-friend-sam-russo/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-03T18:08:44Z"
+updated_at: "2026-11-03T22:18:59Z"
 backfill: true
 classification:
   is_music: true
