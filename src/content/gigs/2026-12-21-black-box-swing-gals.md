@@ -18,7 +18,7 @@ sources:
   key: "blackbox:swing-gals-at-christmas"
   url: "https://www.blackboxbelfast.com/event/swing-gals-at-christmas/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-04T18:08:36Z"
+updated_at: "2026-11-04T22:37:27Z"
 backfill: true
 classification:
   is_music: true
