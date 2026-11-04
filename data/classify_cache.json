@@ -4720,6 +4720,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "9aa64768b1ee618e": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Madra Salach",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "9ab895093d7adf47": {
   "confidence": 0.97,
   "genres": [],

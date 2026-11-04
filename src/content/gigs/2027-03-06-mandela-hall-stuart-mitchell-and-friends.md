@@ -17,7 +17,7 @@ sources:
   key: "mandelaweb:stuart-mitchell-%26-friends"
   url: "https://www.mandelahall.com/events/stuart-mitchell-%26-friends"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-04T14:29:37Z"
+updated_at: "2026-11-04T18:08:36Z"
 backfill: true
 classification:
   is_music: true

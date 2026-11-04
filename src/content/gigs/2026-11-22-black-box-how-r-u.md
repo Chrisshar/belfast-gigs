@@ -21,7 +21,7 @@ sources:
   key: "blackbox:mighty-good-leader-presents-how-r-u"
   url: "https://www.blackboxbelfast.com/event/mighty-good-leader-presents-how-r-u/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-04T14:29:37Z"
+updated_at: "2026-11-04T18:08:36Z"
 backfill: true
 classification:
   is_music: true

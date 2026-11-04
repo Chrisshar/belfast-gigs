@@ -302,6 +302,35 @@
   "title": "Lawnmower Deth",
   "venue": "deers-head"
  },
+ "021f5fb9-90ac-4673-878a-c9ef57ebf58c": {
+  "age_restriction": null,
+  "date": "2027-01-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Madra Salach",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:madra-salach-gorta-live-album-launch-show",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/madra-salach-gorta-live-album-launch-show/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Madra Salach – Gorta – Live Album Launch Show",
+  "venue": "belfast-empire"
+ },
  "027098e8-a065-4200-9ede-0452236337ad": {
   "age_restriction": null,
   "date": "2027-01-23",

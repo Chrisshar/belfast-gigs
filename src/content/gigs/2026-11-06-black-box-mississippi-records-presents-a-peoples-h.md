@@ -19,7 +19,7 @@ sources:
   key: "movingon:mississippi-records-presents-a-peoples-history-of-music"
   url: "https://www.movingonmusic.com/whats-on/mississippi-records-presents-a-peoples-history-of-music/"
 first_seen: "2026-11-03T14:10:57Z"
-updated_at: "2026-11-04T14:29:37Z"
+updated_at: "2026-11-04T18:08:36Z"
 classification:
   is_music: true
   confidence: 0.9

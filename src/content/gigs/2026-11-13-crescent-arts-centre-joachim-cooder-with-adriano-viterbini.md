@@ -18,7 +18,7 @@ sources:
   key: "crescent:joachim-cooder-with-adriano-viterbini"
   url: "https://www.crescentarts.org/events/music-and-drama/gig/joachim-cooder-with-adriano-viterbini"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-04T14:29:37Z"
+updated_at: "2026-11-04T18:08:36Z"
 backfill: true
 classification:
   is_music: true
