@@ -4,7 +4,7 @@ title: "Trá Pháidín"
 headliner: "Trá Pháidín"
 venue: "ulster-sports-club"
 date: "2026-12-05"
-start_time: "20:00"
+start_time: "19:30"
 price_min: 10
 price_max: 15
 status: "on_sale"
@@ -18,7 +18,7 @@ sources:
   key: "movingon:tra-phaidin"
   url: "https://www.movingonmusic.com/whats-on/tra-phaidin/"
 first_seen: "2026-11-03T14:10:57Z"
-updated_at: "2026-11-04T07:08:36Z"
+updated_at: "2026-11-04T14:29:37Z"
 classification:
   is_music: true
   confidence: 0.9

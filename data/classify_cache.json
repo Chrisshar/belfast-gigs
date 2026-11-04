@@ -22,6 +22,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "00d57fb94e1c9aaa": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Natalie Layne",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "00d8e9dcfb7ff065": {
   "confidence": 0.7,
   "genres": [
@@ -363,6 +375,21 @@
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
   "support": []
+ },
+ "088b32b98f7c56c3": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "A Neil Young Afternoon",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "The Stray Gaiters"
+  ]
  },
  "08905409abda745e": {
   "confidence": 0.85,
@@ -837,6 +864,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "163012d33d15abe0": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Opera for Lunch",
+  "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "165bbf0f88b85ca5": {
   "confidence": 0.95,
   "genres": [
@@ -1194,6 +1232,17 @@
   "support": [
    "The Molotovs"
   ]
+ },
+ "1d87c342c3fbf1e8": {
+  "confidence": 0.6,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "OTL: Tales from Dubliners",
+  "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "1e8b125d8034eb29": {
   "confidence": 0.95,
@@ -2346,6 +2395,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "420d7becf74835d3": {
+  "confidence": 0.93,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Out to Lunch with Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "433f4e77c7609102": {
   "confidence": 0.6,
   "genres": [
@@ -2647,6 +2707,17 @@
    "Singer-Songwriter"
   ],
   "headliner": "Blue Room Sessions: Kyron Bourke & Michael Mormecha",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4eb868b885546bd1": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Rockfast 3",
   "is_music": true,
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
@@ -3410,6 +3481,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "6cbacd2b92193841": {
+  "confidence": 0.8,
+  "genres": [
+   "Jazz/Blues",
+   "Tribute/Covers"
+  ],
+  "headliner": "Peggy Lee – That Lady is a Tramp",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6ea786bca649d394": {
   "confidence": 0.85,
   "genres": [
@@ -3479,6 +3562,19 @@
    "Folk/Trad"
   ],
   "headliner": "Aidan Connolly",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "739cb5f2c5ca5612": {
+  "confidence": 0.95,
+  "genres": [
+   "Punk/Hardcore",
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Gilla Band",
   "is_music": true,
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
@@ -3644,6 +3740,17 @@
    "Contemporary/New Music"
   ],
   "headliner": "Ulster Orchestra: Wild Echoes",
+  "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "797c2419ad34f3a4": {
+  "confidence": 0.75,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Optimo (Espacio)",
   "is_music": false,
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
@@ -4054,6 +4161,19 @@
    "The Outcasts",
    "The Marra"
   ]
+ },
+ "846fedcbb37d4167": {
+  "confidence": 0.97,
+  "genres": [
+   "Tribute/Covers",
+   "Pop",
+   "Rock"
+  ],
+  "headliner": "Thunder From Down Under",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "84a5af05c23a6f78": {
   "confidence": 0.7,
@@ -4826,6 +4946,18 @@
   ],
   "headliner": "Chorus! An Evening with the Northern Ireland Opera Chorus",
   "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a1bd9e64f6c22fd1": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Scottish Fish",
+  "is_music": true,
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
   "support": []
@@ -5709,6 +5841,17 @@
    "Trampolene"
   ]
  },
+ "bd48183509842f2c": {
+  "confidence": 0.93,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Out to Lunch with Ulster Orchestra",
+  "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "be41a75c1ff64d45": {
   "confidence": 0.9,
   "genres": [
@@ -5947,6 +6090,17 @@
   "genres": [],
   "headliner": "The Empire Laughs Back Comedy Club",
   "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c7c1fb07b0e75836": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "The Causeway Shantymen",
+  "is_music": true,
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6529,6 +6683,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "d9f4d74b37cf7fb3": {
+  "confidence": 0.96,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad",
+   "Country/Americana"
+  ],
+  "headliner": "Mary Gauthier",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "da8e81a0b18f8e4c": {
   "confidence": 0.9,
   "genres": [
@@ -6621,6 +6788,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "de8a206901dddf91": {
+  "confidence": 0.9,
+  "genres": [
+   "Indie/Alternative",
+   "Rock",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Deer Tick",
+  "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "dea694ffbc8b54ef": {
   "confidence": 0.6,
   "genres": [],
@@ -6705,6 +6885,17 @@
   "support": [
    "Stratford Rise"
   ]
+ },
+ "e152d828f7269f3d": {
+  "confidence": 0.55,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Takers and Users Last Stand",
+  "is_music": false,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "e31617de9de2d9a2": {
   "confidence": 0.8,
@@ -6968,6 +7159,17 @@
   ],
   "headliner": "Special Consensus",
   "is_music": true,
+  "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e9a3ef5851b772b1": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Opera for Lunch (and tea)",
+  "is_music": false,
   "last_seen": "2026-11-04",
   "model": "claude-haiku-5-5",
   "support": []
