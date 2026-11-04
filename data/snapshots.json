@@ -975,42 +975,6 @@
   "title": "Ruth McGinley - A Charlie Brown Christmas: Reimagined",
   "venue": "the-harrison"
  },
- "08d1a295-c3e7-483f-9715-0d3e150caf63": {
-  "age_restriction": "18+",
-  "date": "2026-11-03",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Metal"
-  ],
-  "headliner": "Hail The Sun",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11422",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Blight Town"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/1777787?venueId=461484"
-   }
-  ],
-  "title": "Hail The Sun",
-  "venue": "limelight"
- },
  "090d5c6c-f3a6-4a04-b99a-373e8dd91f2b": {
   "age_restriction": null,
   "date": "2026-12-20",
@@ -5919,11 +5883,12 @@
  "4fe66732-3c16-47b8-b2e0-8becb23bc5fe": {
   "age_restriction": null,
   "date": "2026-11-04",
-  "doors_time": "18:30",
+  "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
-   "Country/Americana"
+   "Country/Americana",
+   "Rock"
   ],
   "headliner": "Cody Johnson",
   "needs_review": null,
@@ -5933,6 +5898,11 @@
   "sources": [
    {
     "key": "o2belfast:295125:2026-11-04",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/cody-johnson"
+   },
+   {
+    "key": "o2belfast:295125",
     "name": "o2belfast",
     "url": "https://theo2belfast.com/events/cody-johnson"
    }
@@ -10435,40 +10405,6 @@
   "tickets": null,
   "title": "The Jazz Room",
   "venue": "belfast-empire"
- },
- "a187e113-39a3-49b7-a49c-5ac9d125ff28": {
-  "age_restriction": null,
-  "date": "2026-11-03",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Electronic"
-  ],
-  "headliner": "Alison Moyet",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Main Auditorium",
-  "sources": [
-   {
-    "key": "ulsterhall:alison-moyet-2",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/alison-moyet-2/"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/alison-moyet-2/"
-   }
-  ],
-  "title": "Alison Moyet",
-  "venue": "waterfront-hall"
  },
  "a3176b7a-eeaa-41bc-85ca-f1577c1e47eb": {
   "age_restriction": null,

@@ -18,7 +18,7 @@ sources:
   key: "empire:raised-on-rock-new-years-eve-eve"
   url: "https://www.thebelfastempire.com/music-hall/raised-on-rock-new-years-eve-eve/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-03T22:18:59Z"
+updated_at: "2026-11-04T07:08:36Z"
 classification:
   is_music: true
   confidence: 0.9
