@@ -1,12 +1,12 @@
 ---
 id: "433ba63a-4acc-433d-a486-f14f0281eb72"
-title: "Beoga - With Friends"
+title: "Beoga"
 headliner: "Beoga"
 venue: "belfast-empire"
 date: "2026-12-06"
 start_time: "19:00"
 price_min: 33
-status: "on_sale"
+status: "sold_out"
 genres:
 - "Folk/Trad"
 - "World"
@@ -18,10 +18,10 @@ sources:
   key: "empire:beoga-with-friends-3"
   url: "https://www.thebelfastempire.com/music-hall/beoga-with-friends-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-05T07:08:36Z"
+updated_at: "2026-11-05T14:37:49Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.9
+  confidence: 0.95
   method: "llm"
 ---

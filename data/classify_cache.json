@@ -852,6 +852,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "14d98173b680bcef": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Beoga",
+  "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "15ac6b11d425b838": {
   "confidence": 0.8,
   "genres": [
@@ -3544,6 +3556,23 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "724db9dd4cee9af9": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Brian Young Tramp",
+  "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Éabha",
+   "DJ Terri Hooley",
+   "Stuart Bailie",
+   "Problem Patterns"
+  ]
+ },
  "7363738861eef48d": {
   "confidence": 0.6,
   "genres": [
@@ -3896,6 +3925,18 @@
   ],
   "headliner": "Ulster Orchestra",
   "is_music": false,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7e441c8b517686a2": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Beoga",
+  "is_music": true,
   "last_seen": "2026-11-05",
   "model": "claude-haiku-5-5",
   "support": []
@@ -4273,6 +4314,17 @@
   ],
   "headliner": "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED",
   "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "88dcccc039882311": {
+  "confidence": 0.45,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "BBC Radio 3 Concert",
+  "is_music": false,
   "last_seen": "2026-11-05",
   "model": "claude-haiku-5-5",
   "support": []
@@ -5035,6 +5087,18 @@
    "Parker McCollum"
   ]
  },
+ "a2e73935f9e2ec43": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Beoga",
+  "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "a2ee396552f969de": {
   "confidence": 0.9,
   "genres": [
@@ -5219,6 +5283,18 @@
    "Pop"
   ],
   "headliner": "Alex Warren",
+  "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a7ec80ba7e335e15": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Joshua Burnside",
   "is_music": true,
   "last_seen": "2026-11-05",
   "model": "claude-haiku-5-5",
@@ -6844,6 +6920,15 @@
   ],
   "headliner": "Hear'say + Liberty X",
   "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "df5dc0d4c781f0eb": {
+  "confidence": 0.97,
+  "genres": [],
+  "headliner": "Spirit of 2016 - The Northern Ireland Football Podcast",
+  "is_music": false,
   "last_seen": "2026-11-05",
   "model": "claude-haiku-5-5",
   "support": []

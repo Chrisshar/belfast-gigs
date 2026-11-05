@@ -4800,7 +4800,7 @@
    }
   ],
   "start_time": "19:00",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -4808,7 +4808,7 @@
     "url": "https://www.ticketmaster.ie/beoga-belfast-06-12-2026/event/3800654288BF1012"
    }
   ],
-  "title": "Beoga - With Friends",
+  "title": "Beoga",
   "venue": "belfast-empire"
  },
  "43ac109e-f32c-4737-869c-9e37ca92df05": {
@@ -4911,6 +4911,35 @@
   ],
   "title": "The Whileaways",
   "venue": "crescent-arts-centre"
+ },
+ "449474d3-3ae6-4d7a-8e4e-885bbcf50bec": {
+  "age_restriction": null,
+  "date": "2026-12-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Joshua Burnside",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:joshua-burnside-hootenanny-2026",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/joshua-burnside-hootenanny-2026/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Joshua Burnside – Hootenanny 2026",
+  "venue": "belfast-empire"
  },
  "45b461fc-8b19-4caa-889e-b5e85184145a": {
   "age_restriction": null,
@@ -5862,7 +5891,7 @@
    "Folk/Trad",
    "World"
   ],
-  "headliner": "BEOGA",
+  "headliner": "Beoga",
   "needs_review": null,
   "price_max": null,
   "price_min": 33.0,
@@ -5878,7 +5907,7 @@
   "status": "sold_out",
   "support": null,
   "tickets": null,
-  "title": "BEOGA (other dates available)",
+  "title": "Beoga",
   "venue": "belfast-empire"
  },
  "4dff2c62-9aae-4d3f-9262-5ccb9a924c52": {
@@ -7614,42 +7643,6 @@
   ],
   "title": "OTL: Elaha Soroor & Kefaya",
   "venue": "black-box"
- },
- "6d18adff-5745-4ace-abea-4b6a0b099941": {
-  "age_restriction": null,
-  "date": "2026-11-05",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Punk/Hardcore"
-  ],
-  "headliner": "The Outcasts",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:051126-2",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/051126-2"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": [
-   "Tramp, Éabha and Surprise Guests"
-  ],
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/051126-2"
-   }
-  ],
-  "title": "Alter Your Native Land Sounds of the Exhibtion Party: The Outcasts plus Special Guests Tramp, Éabha and Surprise Guests",
-  "venue": "oh-yeah"
  },
  "6e4c8815-19cc-4683-982a-2bead6f96609": {
   "age_restriction": null,
@@ -11192,7 +11185,7 @@
    "Folk/Trad",
    "World"
   ],
-  "headliner": "Beoga - With Friends",
+  "headliner": "Beoga",
   "needs_review": null,
   "price_max": null,
   "price_min": 33.0,
@@ -11205,7 +11198,7 @@
    }
   ],
   "start_time": "19:00",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -11213,7 +11206,7 @@
     "url": "https://www.ticketmaster.ie/beoga-belfast-02-12-2026/event/3800654288BD1005"
    }
   ],
-  "title": "Beoga - With Friends",
+  "title": "Beoga",
   "venue": "belfast-empire"
  },
  "aca2c221-255f-478d-bd89-9e5a6b507f9a": {
@@ -14483,6 +14476,39 @@
    }
   ],
   "title": "The Chicago Blues Brothers",
+  "venue": "ulster-hall"
+ },
+ "e417acd3-1171-4918-9d7e-8b0d31335efc": {
+  "age_restriction": null,
+  "date": "2026-11-26",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "BBC Radio 3 Concert",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:dialogue-and-drama",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/dialogue-and-drama/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/dialogue-and-drama/"
+   }
+  ],
+  "title": "BBC Radio 3 Concert",
   "venue": "ulster-hall"
  },
  "e59d10fc-e481-4d4a-80cc-7ddabd995b84": {
