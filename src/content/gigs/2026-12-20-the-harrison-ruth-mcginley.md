@@ -14,12 +14,14 @@ genres:
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.com/e/let-it-snow-from-bing-to-buble-with-ruth-mcginley-patrick-smyth-tickets-2003778482381"
+- source: "Eventbrite"
+  url: "https://www.eventbrite.com/e/let-it-snow-from-bing-to-buble-ruth-mcginley-patrick-smyth-7pm-show-tickets-2004395535002"
 sources:
 - name: "harrison"
   key: "harrison:let-it-snow-from-bing-to-bubl-with-ruth-mcginley-patrick-smyth"
   url: "https://www.chambersofdistinction.com/unified-calendar/let-it-snow-from-bing-to-bubl-with-ruth-mcginley-patrick-smyth"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-05T22:40:40Z"
 backfill: true
 classification:
   is_music: true

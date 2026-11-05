@@ -25,10 +25,10 @@ sources:
   key: "ulsterhall:dexys-midnight-runners"
   url: "https://www.ulsterhall.co.uk/what-s-on/dexys-midnight-runners/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-05T22:40:40Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.9
   method: "llm"
 ---

@@ -5820,6 +5820,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "bb36e25d6f727be7": {
+  "confidence": 0.7,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ruth McGinley",
+  "is_music": true,
+  "last_seen": "2026-11-05",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "bb54a41b76d569dd": {
   "confidence": 0.75,
   "genres": [

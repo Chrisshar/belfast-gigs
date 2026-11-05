@@ -1785,6 +1785,10 @@
    {
     "source": "Eventbrite",
     "url": "https://www.eventbrite.com/e/a-timeless-christmas-from-judy-garland-to-joni-mitchell-tickets-2003742794638"
+   },
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/a-timeless-christmas-from-judy-garland-to-joni-mitchell-7pm-show-tickets-2004386132880"
    }
   ],
   "title": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
@@ -5416,7 +5420,7 @@
    "Pop"
   ],
   "headliner": "Westlife",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -9064,6 +9068,10 @@
    {
     "source": "Eventbrite",
     "url": "https://www.eventbrite.com/e/let-it-snow-from-bing-to-buble-with-ruth-mcginley-patrick-smyth-tickets-2003778482381"
+   },
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/let-it-snow-from-bing-to-buble-ruth-mcginley-patrick-smyth-7pm-show-tickets-2004395535002"
    }
   ],
   "title": "Let It Snow: From Bing to Bublé with Ruth McGinley & Patrick Smyth",
@@ -12006,6 +12014,40 @@
   ],
   "title": "Erasured",
   "venue": "limelight"
+ },
+ "b8a6f74f-57e1-4018-a78d-7bdb3278c725": {
+  "age_restriction": null,
+  "date": "2026-12-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ruth McGinley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:ruth-mcginley-a-charlie-brown-christmas-reimagined-2",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/ruth-mcginley-a-charlie-brown-christmas-reimagined-2"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/e/a-charlie-brown-christmas-reimagined-tickets-2004395737608"
+   }
+  ],
+  "title": "Ruth McGinley - A Charlie Brown Christmas: Reimagined",
+  "venue": "the-harrison"
  },
  "b90c1e0f-77d3-40b8-a543-cb191a4988c3": {
   "age_restriction": null,

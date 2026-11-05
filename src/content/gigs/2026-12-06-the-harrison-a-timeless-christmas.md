@@ -13,12 +13,14 @@ genres:
 tickets:
 - source: "Eventbrite"
   url: "https://www.eventbrite.com/e/a-timeless-christmas-from-judy-garland-to-joni-mitchell-tickets-2003742794638"
+- source: "Eventbrite"
+  url: "https://www.eventbrite.com/e/a-timeless-christmas-from-judy-garland-to-joni-mitchell-7pm-show-tickets-2004386132880"
 sources:
 - name: "harrison"
   key: "harrison:a-timeless-christmas-from-judy-garland-to-joni-mitchell"
   url: "https://www.chambersofdistinction.com/unified-calendar/a-timeless-christmas-from-judy-garland-to-joni-mitchell"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-05T22:40:40Z"
 backfill: true
 classification:
   is_music: true
