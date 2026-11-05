@@ -66,39 +66,6 @@
   "title": "Dom Martin - Spirit of Gallagher '72",
   "venue": "ulster-hall"
  },
- "00978f0f-395d-4446-accd-8dafefcce187": {
-  "age_restriction": null,
-  "date": "2026-11-04",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad"
-  ],
-  "headliner": "Andy Irvine & Quilty",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 25.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:andy-irvine-quilty",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/andy-irvine-quilty/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/andy-irvine-quilty/"
-   }
-  ],
-  "title": "Andy Irvine & Quilty",
-  "venue": "black-box"
- },
  "009a43fb-5e1b-4d39-af07-2844ee97e701": {
   "age_restriction": "18+",
   "date": "2027-03-25",
@@ -4841,7 +4808,7 @@
     "url": "https://www.ticketmaster.ie/beoga-belfast-06-12-2026/event/3800654288BF1012"
    }
   ],
-  "title": "Beoga – With Friends",
+  "title": "Beoga - With Friends",
   "venue": "belfast-empire"
  },
  "43ac109e-f32c-4737-869c-9e37ca92df05": {
@@ -6043,48 +6010,6 @@
   "title": "Cancer Fund For Children",
   "venue": "ulster-hall"
  },
- "4fe66732-3c16-47b8-b2e0-8becb23bc5fe": {
-  "age_restriction": null,
-  "date": "2026-11-04",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Country/Americana",
-   "Rock"
-  ],
-  "headliner": "Cody Johnson",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:295125:2026-11-04",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/cody-johnson"
-   },
-   {
-    "key": "o2belfast:295125",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/cody-johnson"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Emily Ann Roberts",
-   "Parker McCollum"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/cody-johnson-04-11-2026/event/38006443FABA2604?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_CodyJohnsonWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "Cody Johnson",
-  "venue": "the-o2-belfast"
- },
  "527ae839-907f-48e7-8832-a5fa59d9f441": {
   "age_restriction": null,
   "date": "2026-11-27",
@@ -6320,40 +6245,6 @@
   "support": null,
   "tickets": null,
   "title": "St. Lundi",
-  "venue": "belfast-empire"
- },
- "57288788-6c71-4ab3-bb78-a2c26b06ab8e": {
-  "age_restriction": null,
-  "date": "2026-11-04",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Sorcha Richardson",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:sorcha-richardson",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/sorcha-richardson/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/sorcha-richardson-belfast-04-11-2026/event/380064D0C4013698"
-   }
-  ],
-  "title": "Sorcha Richardson",
   "venue": "belfast-empire"
  },
  "5742bd85-259d-49cb-b78e-9a5dc3ce6684": {
@@ -9448,39 +9339,6 @@
   "title": "The Jazz Room",
   "venue": "belfast-empire"
  },
- "8bbaa786-9205-485f-9b3d-ea7416b1e365": {
-  "age_restriction": null,
-  "date": "2026-11-04",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Indie/Alternative"
-  ],
-  "headliner": "The First Slip",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Green Room",
-  "sources": [
-   {
-    "key": "blackbox:the-first-slip-57",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/the-first-slip-57/"
-   }
-  ],
-  "start_time": "17:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/the-first-slip-57/"
-   }
-  ],
-  "title": "The First Slip",
-  "venue": "black-box"
- },
  "8c4cf56c-0595-492c-ab58-cbc3c561b1b5": {
   "age_restriction": null,
   "date": "2026-11-06",
@@ -10376,40 +10234,6 @@
   ],
   "title": "South Arcade",
   "venue": "limelight"
- },
- "9d0ab4fb-2d1d-40d1-9f02-087e4eef2fcc": {
-  "age_restriction": null,
-  "date": "2026-11-04",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Soul/R&B/Funk",
-   "Pop"
-  ],
-  "headliner": "Leslie Odom, Jr.",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Main Auditorium",
-  "sources": [
-   {
-    "key": "ulsterhall:leslie-odom-jr",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/leslie-odom-jr/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/leslie-odom-jr/"
-   }
-  ],
-  "title": "Leslie Odom, Jr.",
-  "venue": "waterfront-hall"
  },
  "9dd9725d-3126-4d07-b5b6-e0ecb794c83d": {
   "age_restriction": null,
@@ -14661,42 +14485,6 @@
   "title": "The Chicago Blues Brothers",
   "venue": "ulster-hall"
  },
- "e3733c56-3f00-4218-94b0-5b64dcd187b7": {
-  "age_restriction": "18+",
-  "date": "2026-11-04",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Swervedriver",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11433",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Anemoia"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/742146?venueId=461484"
-   }
-  ],
-  "title": "Swervedriver",
-  "venue": "limelight"
- },
  "e59d10fc-e481-4d4a-80cc-7ddabd995b84": {
   "age_restriction": "18+",
   "date": "2027-02-19",
@@ -15686,40 +15474,6 @@
   ],
   "title": "Blue Room Sessions: Kyron Bourke & Michael Mormecha",
   "venue": "the-harrison"
- },
- "f0855c48-ceab-4d96-ade8-ea9b8c187751": {
-  "age_restriction": null,
-  "date": "2026-11-04",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Electronic"
-  ],
-  "headliner": "The Music of Stranger Things",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:music-of-stranger-things",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/music-of-stranger-things/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/music-of-stranger-things/"
-   }
-  ],
-  "title": "The Music of Stranger Things",
-  "venue": "ulster-hall"
  },
  "f0eb52c1-203c-47fa-a245-20779c57a439": {
   "age_restriction": null,
