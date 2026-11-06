@@ -18,7 +18,7 @@ sources:
   key: "blackbox:kirsteen-harvey"
   url: "https://www.blackboxbelfast.com/event/kirsteen-harvey/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-06T18:08:35Z"
+updated_at: "2026-11-06T22:06:58Z"
 backfill: true
 classification:
   is_music: true

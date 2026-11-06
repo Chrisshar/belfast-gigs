@@ -16,7 +16,7 @@ sources:
   key: "empire:an-afternoon-of-indie"
   url: "https://www.thebelfastempire.com/music-hall/an-afternoon-of-indie/"
 first_seen: "2026-11-06T14:15:06Z"
-updated_at: "2026-11-06T18:08:35Z"
+updated_at: "2026-11-06T22:06:58Z"
 classification:
   is_music: true
   confidence: 0.5

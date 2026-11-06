@@ -15,7 +15,7 @@ sources:
   key: "voodoo:sanctium-noctis"
   url: "https://www.voodoobelfast.com/events/sanctium-noctis"
 first_seen: "2026-10-29T18:08:31Z"
-updated_at: "2026-11-06T18:08:35Z"
+updated_at: "2026-11-06T22:06:58Z"
 classification:
   is_music: true
   confidence: 0.5
