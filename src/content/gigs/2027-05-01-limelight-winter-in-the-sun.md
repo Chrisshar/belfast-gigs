@@ -3,10 +3,10 @@ id: "0eb017f4-04be-47fd-8cda-26d58d944c7b"
 title: "Winter in the Sun: Cardinals"
 headliner: "Winter in the Sun: Cardinals"
 support:
+- "Esmeralda Road"
 - "Theatre"
 - "Croíthe"
 - "Madams Last Discovery"
-- "special guest TBC"
 venue: "limelight"
 room: "Limelight 1"
 date: "2027-05-01"
@@ -24,7 +24,7 @@ sources:
   key: "limelight:11534"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-06T14:15:06Z"
 backfill: true
 classification:
   is_music: true

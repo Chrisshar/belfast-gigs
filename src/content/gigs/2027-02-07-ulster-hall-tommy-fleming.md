@@ -1,6 +1,6 @@
 ---
 id: "ef992549-2332-454c-8798-5a8898435d4d"
-title: "Aiken Promotion Presents: Tommy Fleming"
+title: "Tommy Fleming"
 headliner: "Tommy Fleming"
 venue: "ulster-hall"
 date: "2027-02-07"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:tommy-fleming-3"
   url: "https://www.ulsterhall.co.uk/what-s-on/tommy-fleming-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-06T14:15:06Z"
 backfill: true
 classification:
   is_music: true

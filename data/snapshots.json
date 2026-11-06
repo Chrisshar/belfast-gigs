@@ -292,10 +292,12 @@
    }
   ],
   "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
+  "status": "sold_out",
+  "support": [
+   "Gorta"
+  ],
   "tickets": null,
-  "title": "Madra Salach – Gorta – Live Album Launch Show",
+  "title": "Madra Salach – Gorta",
   "venue": "belfast-empire"
  },
  "027098e8-a065-4200-9ede-0452236337ad": {
@@ -1438,10 +1440,10 @@
   "start_time": null,
   "status": "on_sale",
   "support": [
+   "Esmeralda Road",
    "Theatre",
    "Croíthe",
-   "Madams Last Discovery",
-   "special guest TBC"
+   "Madams Last Discovery"
   ],
   "tickets": [
    {
@@ -2993,6 +2995,39 @@
   "title": "Tindersticks",
   "venue": "mandela-hall"
  },
+ "255bad90-7ce2-4413-9415-bcf6afbfdf8f": {
+  "age_restriction": null,
+  "date": "2027-04-24",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "An Afternoon of Indie",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:an-afternoon-of-indie",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/an-afternoon-of-indie/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Fixr",
+    "url": "https://fixr.co/event/belfast-an-afternoon-of-indie-indie-for-the-over-3-tickets-921580945?lang=en-US"
+   }
+  ],
+  "title": "An Afternoon of Indie",
+  "venue": "belfast-empire"
+ },
  "26600d82-8bfa-450a-9d34-b997e19d1ead": {
   "age_restriction": null,
   "date": "2027-01-23",
@@ -3897,6 +3932,10 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/1914588?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_SClubWeb&brand=ie_theo2belfast"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/s-club-25-10-2027/event/380065579E521844?camefrom=CFC_IE_CLI_THEO2BELFAST_SClubWeb&brand=ie_theo2belfast"
    }
   ],
   "title": "S Club",
@@ -12138,7 +12177,7 @@
     "url": "https://www.ulsterhall.co.uk/what-s-on/the-legend-of-luke-kelly-2/"
    }
   ],
-  "title": "Aiken Promotions Presents Dubliner The Legend of Luke Kelly Story",
+  "title": "Dubliner The Legend of Luke Kelly Story",
   "venue": "ulster-hall"
  },
  "bcc1deee-8a63-4c12-a400-7232e65745c2": {
@@ -15260,7 +15299,7 @@
     "url": "https://www.ulsterhall.co.uk/what-s-on/tommy-fleming-3/"
    }
   ],
-  "title": "Aiken Promotion Presents: Tommy Fleming",
+  "title": "Tommy Fleming",
   "venue": "ulster-hall"
  },
  "efbde0cf-b3c7-4dfc-96da-bac65e2736c5": {

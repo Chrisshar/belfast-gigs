@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:rodrigo-y-gabriela-"
   url: "https://www.mandelahall.com/events/rodrigo-y-gabriela-"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-06T07:08:36Z"
+updated_at: "2026-11-06T14:15:06Z"
 backfill: true
 classification:
   is_music: true

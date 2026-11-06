@@ -11,12 +11,14 @@ genres:
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/artist/1914588?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_SClubWeb&brand=ie_theo2belfast"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/s-club-25-10-2027/event/380065579E521844?camefrom=CFC_IE_CLI_THEO2BELFAST_SClubWeb&brand=ie_theo2belfast"
 sources:
 - name: "o2belfast"
   key: "o2belfast:317344:2027-10-25"
   url: "https://theo2belfast.com/events/s-club-2027"
 first_seen: "2026-10-30T12:52:41Z"
-updated_at: "2026-10-30T12:52:41Z"
+updated_at: "2026-11-06T14:15:06Z"
 classification:
   is_music: true
   confidence: 0.95

@@ -1406,6 +1406,20 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "236d89caaae65fb2": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Rock"
+  ],
+  "headliner": "Madra Salach",
+  "is_music": true,
+  "last_seen": "2026-11-06",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Gorta"
+  ]
+ },
  "23dff64ea1987914": {
   "confidence": 0.9,
   "genres": [
@@ -2286,6 +2300,18 @@
    "Rock"
   ],
   "headliner": "Breathe - The Pink Floyd Experience",
+  "is_music": true,
+  "last_seen": "2026-11-06",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3e10e91c3867a118": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Tommy Fleming",
   "is_music": true,
   "last_seen": "2026-11-06",
   "model": "claude-haiku-5-5",
@@ -3272,6 +3298,17 @@
   "headliner": "Swervedriver",
   "is_music": true,
   "last_seen": "2026-11-04",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "63e409396cf830d5": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "An Afternoon of Indie",
+  "is_music": false,
+  "last_seen": "2026-11-06",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -5015,6 +5052,18 @@
    "The Moondogs",
    "Esmeralda Road"
   ]
+ },
+ "a0e4d99c34f8a754": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Tribute/Covers"
+  ],
+  "headliner": "Dubliner The Legend of Luke Kelly Story",
+  "is_music": true,
+  "last_seen": "2026-11-06",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "a11b69e66017b2d5": {
   "confidence": 0.5,
