@@ -170,16 +170,5 @@
   "first_seen": "2026-10-26T21:39:04Z",
   "backfill": false,
   "reason": "reclassified"
- },
- {
-  "id": "6d18adff-5745-4ace-abea-4b6a0b099941",
-  "keys": [
-   "ohyeah:051126-2"
-  ],
-  "fingerprint": "oh-yeah|2026-11-05|outcasts",
-  "date": "2026-11-05",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
  }
 ]

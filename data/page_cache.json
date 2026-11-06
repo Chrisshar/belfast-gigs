@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7595",
    "7667",
    "4286",
    "7355",
@@ -434,41 +433,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-09-21"
-  },
-  "https://www.mandelahall.com/events/corto.alto": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-05",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 22.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:corto.alto",
-    "source_url": "https://www.mandelahall.com/events/corto.alto",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/corto.alto"
-     ]
-    ],
-    "title": "corto.alto",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-09-30"
   },
   "https://www.mandelahall.com/events/duke-special": {
    "event": {

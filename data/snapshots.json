@@ -3560,40 +3560,6 @@
   "title": "Wrong Jovi",
   "venue": "limelight"
  },
- "318d6d34-5bbd-4488-b4bb-c6cfc1a1d72b": {
-  "age_restriction": null,
-  "date": "2026-11-05",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues",
-   "Contemporary/New Music"
-  ],
-  "headliner": "corto.alto",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 22.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:corto.alto",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/corto.alto"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/corto.alto"
-   }
-  ],
-  "title": "corto.alto",
-  "venue": "mandela-hall"
- },
  "33a95481-4e91-43da-8ab5-d570afaf9631": {
   "age_restriction": null,
   "date": "2026-12-05",
@@ -4578,40 +4544,6 @@
   "title": "Eagles of Death Metal",
   "venue": "limelight"
  },
- "41e437f8-32f0-43ed-8fe2-687570f3ecb0": {
-  "age_restriction": null,
-  "date": "2026-11-05",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Pop"
-  ],
-  "headliner": "Nerina Pallot",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 22.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:nerina-pallot-2",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/nerina-pallot-2/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/nerina-pallot-05-11-2026/event/380064B5929E0E74"
-   }
-  ],
-  "title": "Nerina Pallot",
-  "venue": "belfast-empire"
- },
  "420d5838-3d58-40e3-af97-42d91cbf96fc": {
   "age_restriction": "18+",
   "date": "2026-12-17",
@@ -5015,51 +4947,6 @@
   "title": "SEVENDUST",
   "venue": "limelight"
  },
- "462622ad-1e91-4ecf-acb8-ab95ab486faf": {
-  "age_restriction": "18+",
-  "date": "2026-11-05",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Soul/R&B/Funk"
-  ],
-  "headliner": "Dexy's Midnight Runners",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "limelight:11452",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   },
-   {
-    "key": "ulsterhall:dexys-midnight-runners",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/dexys-midnight-runners/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "David Holmes DJ SET"
-  ],
-  "tickets": [
-   {
-    "source": "Waterfront box office",
-    "url": "https://secure.waterfront.co.uk/25852/25853"
-   },
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/dexys-midnight-runners/"
-   }
-  ],
-  "title": "Dexy's Midnight Runners",
-  "venue": "ulster-hall"
- },
  "46bf80aa-fd89-4ea3-987d-d49652238a4b": {
   "age_restriction": "18+",
   "date": "2026-11-27",
@@ -5409,41 +5296,6 @@
   ],
   "title": "Second Show: Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
   "venue": "oh-yeah"
- },
- "4a37876b-3db5-4a44-940f-956cbc085809": {
-  "age_restriction": null,
-  "date": "2026-11-05",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "Westlife",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:260525:2026-11-05",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/westlife-25-years"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Ana Sky"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-05-11-2026/event/38006357DF6841DA?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
-  "venue": "the-o2-belfast"
  },
  "4a6eda1a-a9d8-4fbf-8308-c0b4d05f4115": {
   "age_restriction": null,
@@ -6817,40 +6669,6 @@
   ],
   "title": "Kirsteen Harvey",
   "venue": "black-box"
- },
- "5ef00783-cfe8-47af-ab94-75d499001ae2": {
-  "age_restriction": null,
-  "date": "2026-11-05",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Jobi Riccio",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "harrison:k9azqs4ex1huvg4gguthgmbg4fo86l",
-    "name": "harrison",
-    "url": "https://www.chambersofdistinction.com/unified-calendar/k9azqs4ex1huvg4gguthgmbg4fo86l"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.sg/e/jobi-riccio-tickets-2001634840691"
-   }
-  ],
-  "title": "Jobi Riccio",
-  "venue": "the-harrison"
  },
  "5fcdf618-a3f5-477e-88f0-27309fc4aa7b": {
   "age_restriction": null,
@@ -15714,14 +15532,14 @@
  },
  "f21cf01b-2fd5-4c88-b0dd-5da236b5efd2": {
   "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": "18:30",
-  "end_date": null,
+  "date": "2026-10-27",
+  "doors_time": null,
+  "end_date": "2026-11-06",
   "free": null,
   "genres": [
    "Pop"
   ],
-  "headliner": "Westlife",
+  "headliner": "Westlife 25",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -15729,6 +15547,11 @@
   "sources": [
    {
     "key": "o2belfast:260525:2026-11-06",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/westlife-25-years"
+   },
+   {
+    "key": "o2belfast:260525",
     "name": "o2belfast",
     "url": "https://theo2belfast.com/events/westlife-25-years"
    }

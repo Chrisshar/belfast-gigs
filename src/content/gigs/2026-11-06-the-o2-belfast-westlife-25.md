@@ -1,12 +1,12 @@
 ---
 id: "f21cf01b-2fd5-4c88-b0dd-5da236b5efd2"
 title: "Westlife 25: The Anniversary World Tour - 25 Years Of Hits"
-headliner: "Westlife"
+headliner: "Westlife 25"
 support:
 - "Ana Sky"
 venue: "the-o2-belfast"
-date: "2026-11-06"
-doors_time: "18:30"
+date: "2026-10-27"
+end_date: "2026-11-06"
 status: "on_sale"
 genres:
 - "Pop"
@@ -17,8 +17,11 @@ sources:
 - name: "o2belfast"
   key: "o2belfast:260525:2026-11-06"
   url: "https://theo2belfast.com/events/westlife-25-years"
+- name: "o2belfast"
+  key: "o2belfast:260525"
+  url: "https://theo2belfast.com/events/westlife-25-years"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-11-06T07:08:36Z"
 backfill: true
 classification:
   is_music: true
