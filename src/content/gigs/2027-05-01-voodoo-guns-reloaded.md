@@ -15,7 +15,7 @@ sources:
   key: "voodoo:guns-reloaded"
   url: "https://www.voodoobelfast.com/events/guns-reloaded"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-06T14:15:06Z"
+updated_at: "2026-11-06T18:08:35Z"
 backfill: true
 classification:
   is_music: true
