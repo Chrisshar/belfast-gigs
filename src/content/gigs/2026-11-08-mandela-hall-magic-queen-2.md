@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:magic-queen"
   url: "https://www.mandelahall.com/events/magic-queen"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-07T12:58:09Z"
+updated_at: "2026-11-07T18:08:32Z"
 backfill: true
 classification:
   is_music: true
