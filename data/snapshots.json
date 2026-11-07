@@ -489,7 +489,7 @@
     "url": "https://www.ohyeahbelfast.com/events/071126"
    }
   ],
-  "start_time": "20:00",
+  "start_time": "19:30",
   "status": "on_sale",
   "support": [
    "With A Fada"
@@ -1912,7 +1912,7 @@
    "Singer-Songwriter"
   ],
   "headliner": "Ria Rua",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,

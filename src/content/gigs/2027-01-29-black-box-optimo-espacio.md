@@ -17,7 +17,7 @@ sources:
   key: "blackbox:otl-optimo-espacio"
   url: "https://www.blackboxbelfast.com/event/otl-optimo-espacio/"
 first_seen: "2026-11-04T14:29:37Z"
-updated_at: "2026-11-07T07:08:25Z"
+updated_at: "2026-11-07T12:58:09Z"
 classification:
   is_music: true
   confidence: 0.5

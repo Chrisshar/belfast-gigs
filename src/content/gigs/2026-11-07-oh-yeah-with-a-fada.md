@@ -6,7 +6,7 @@ support:
 - "With A Fada"
 venue: "oh-yeah"
 date: "2026-11-07"
-start_time: "20:00"
+start_time: "19:30"
 status: "on_sale"
 genres:
 - "Folk/Trad"
@@ -19,7 +19,7 @@ sources:
   key: "ohyeah:071126"
   url: "https://www.ohyeahbelfast.com/events/071126"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-07T12:58:09Z"
 backfill: true
 classification:
   is_music: true
