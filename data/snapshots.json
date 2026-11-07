@@ -1969,41 +1969,6 @@
   "title": "Motorwrecked",
   "venue": "voodoo"
  },
- "1568de52-1787-46c5-a36c-03560d040fc7": {
-  "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Country/Americana",
-   "Tribute/Covers"
-  ],
-  "headliner": "The Seeger Sessions Revival",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 28.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:the-seeger-sessions-revival-3",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/the-seeger-sessions-revival-3/"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.ie/e/the-seeger-sessions-revival-live-at-the-belfast-empire-tickets-1986435936359?aff=oddtdtcreator"
-   }
-  ],
-  "title": "The Seeger Sessions Revival",
-  "venue": "belfast-empire"
- },
  "1647dc2e-b34a-4f92-b488-8c0d90f74ec8": {
   "age_restriction": null,
   "date": "2026-12-08",
@@ -7086,74 +7051,6 @@
   "title": "Gerry Mcavoy’s Band of Friends",
   "venue": "belfast-empire"
  },
- "68abebad-c44b-4166-aac7-6fd7f9bd39b9": {
-  "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Breathe - The Pink Floyd Experience",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 27.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:breathe---the-pink-floyd-experience",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience"
-   }
-  ],
-  "title": "Breathe - The Pink Floyd Experience",
-  "venue": "mandela-hall"
- },
- "692623f4-1411-4a7a-8dc8-cd10e2edb602": {
-  "age_restriction": "18+",
-  "date": "2026-11-06",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "World"
-  ],
-  "headliner": "Elephant Sessions",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10894",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5249836?venueId=461484"
-   }
-  ],
-  "title": "Elephant Sessions",
-  "venue": "limelight"
- },
  "6a5994a0-af67-49e8-a3c7-db1cdcac6375": {
   "age_restriction": null,
   "date": "2027-03-12",
@@ -9201,41 +9098,6 @@
   "title": "The Jazz Room",
   "venue": "belfast-empire"
  },
- "8c4cf56c-0595-492c-ab58-cbc3c561b1b5": {
-  "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "RADIO IN CHAINS (a Radiohead & Alice in Chains Tribute)",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:radio-in-chains-a-radiohead-alice-in-chains-tribute",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/radio-in-chains-a-radiohead-alice-in-chains-tribute/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/radio-in-chains-at-the-deers-head-belfast-61126-tickets-2003260611415"
-   }
-  ],
-  "title": "RADIO IN CHAINS (a Radiohead & Alice in Chains Tribute)",
-  "venue": "deers-head"
- },
  "8d216046-e91e-4b49-90ca-24a02b394662": {
   "age_restriction": null,
   "date": "2027-02-25",
@@ -9337,40 +9199,6 @@
   ],
   "title": "Curtis Stigers in Concert",
   "venue": "ulster-hall"
- },
- "8eac4d8d-1a9b-4d30-b422-f392776df0f6": {
-  "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "World"
-  ],
-  "headliner": "Mississippi Records Presents: A People’s History of Music",
-  "needs_review": null,
-  "price_max": 12.0,
-  "price_min": 8.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "movingon:mississippi-records-presents-a-peoples-history-of-music",
-    "name": "movingon",
-    "url": "https://www.movingonmusic.com/whats-on/mississippi-records-presents-a-peoples-history-of-music/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Citizen Ticket",
-    "url": "https://www.citizenticket.com/events/moving-on-music/mississippi-records-presents-a-people-s-history-of-music/"
-   }
-  ],
-  "title": "Mississippi Records Presents: A People’s History of Music",
-  "venue": "black-box"
  },
  "8fc153f5-493e-4f42-8576-030fd49438b0": {
   "age_restriction": null,
@@ -9617,39 +9445,6 @@
   ],
   "title": "Ron Pope",
   "venue": "deers-head"
- },
- "9462979b-b9d6-47df-b740-f302fcbbf936": {
-  "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "Silent Running",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:silent-running",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/silent-running"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/silent-running-live-in-voodoo-belfast-tickets-1982001613179"
-   }
-  ],
-  "title": "Silent Running",
-  "venue": "voodoo"
  },
  "9491b792-4514-4602-88f7-b3f698fcefbc": {
   "age_restriction": "18+",
@@ -11461,40 +11256,6 @@
   "title": "An Intimate Evening With First Aid Kit",
   "venue": "waterfront-hall"
  },
- "b43604ab-9954-4c22-add2-1b8f14e3166e": {
-  "age_restriction": null,
-  "date": "2026-11-06",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Classic Album Night: Snow Patrol – Eyes Open (20th Anniversary)",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:061126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/061126"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/061126"
-   }
-  ],
-  "title": "Classic Album Night: Snow Patrol – Eyes Open (20th Anniversary)",
-  "venue": "oh-yeah"
- },
  "b49be322-e671-4cec-b7a7-a46d9915776e": {
   "age_restriction": null,
   "date": "2026-11-21",
@@ -12314,39 +12075,6 @@
   ],
   "title": "Belsonic 2027 - Take That",
   "venue": "ormeau-park"
- },
- "bf089856-426f-4917-92a5-4654cc1df2a1": {
-  "age_restriction": "18+",
-  "date": "2026-11-06",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Casper Walsh",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11513",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5464329?venueId=459772"
-   }
-  ],
-  "title": "Casper Walsh",
-  "venue": "limelight"
  },
  "c0113a63-66ca-4dc2-9069-2fad949980e8": {
   "age_restriction": null,
@@ -15567,46 +15295,6 @@
    }
   ],
   "title": "Peace Proms",
-  "venue": "the-o2-belfast"
- },
- "f21cf01b-2fd5-4c88-b0dd-5da236b5efd2": {
-  "age_restriction": null,
-  "date": "2026-10-27",
-  "doors_time": null,
-  "end_date": "2026-11-06",
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "Westlife 25",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:260525:2026-11-06",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/westlife-25-years"
-   },
-   {
-    "key": "o2belfast:260525",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/westlife-25-years"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Ana Sky"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/westlife-25-the-anniversary-world-tour-belfast-06-11-2026/event/380063571E705EF3?camefrom=CFC_IE_CLI_THEO2BELFAST_WestlifeWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "Westlife 25: The Anniversary World Tour - 25 Years Of Hits",
   "venue": "the-o2-belfast"
  },
  "f25b002f-8821-4c46-8497-a88a165967e4": {

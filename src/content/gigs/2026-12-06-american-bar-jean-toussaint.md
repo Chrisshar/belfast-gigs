@@ -17,7 +17,7 @@ sources:
   key: "citizenticket:dock-street-jazz-club/dock-street-jazz-club-jean-toussaint-us"
   url: "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-jean-toussaint-us/"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-11-06T22:06:58Z"
+updated_at: "2026-11-07T07:08:25Z"
 backfill: true
 classification:
   is_music: true

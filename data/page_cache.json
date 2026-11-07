@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7667",
    "4286",
    "7355",
    "7669",
@@ -259,41 +258,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-08-05"
-  },
-  "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-06",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 27.5,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:breathe---the-pink-floyd-experience",
-    "source_url": "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/breathe---the-pink-floyd-experience"
-     ]
-    ],
-    "title": "Breathe - The Pink Floyd Experience",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-03"
   },
   "https://www.mandelahall.com/events/brian-kennedy": {
    "event": {
@@ -2670,38 +2634,7 @@
    "lastmod": "2026-04-22"
   },
   "https://www.voodoobelfast.com/events/silent-running": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-06",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 15.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:silent-running",
-    "source_url": "https://www.voodoobelfast.com/events/silent-running",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/silent-running-live-in-voodoo-belfast-tickets-1982001613179"
-     ]
-    ],
-    "title": "Silent Running",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-24"
   },
   "https://www.voodoobelfast.com/events/sinocence": {
