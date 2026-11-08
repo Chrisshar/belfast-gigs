@@ -20,7 +20,7 @@ sources:
   key: "deershead:the-bones-of-j-r-jones"
   url: "https://www.thedeersheadbelfast.com/whats-on/the-bones-of-j-r-jones/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-08T13:22:09Z"
+updated_at: "2026-11-08T18:08:28Z"
 backfill: true
 classification:
   is_music: true
