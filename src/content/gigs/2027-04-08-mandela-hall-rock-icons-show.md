@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:rock-icons-show"
   url: "https://www.mandelahall.com/events/rock-icons-show"
 first_seen: "2026-10-28T12:52:21Z"
-updated_at: "2026-11-07T20:52:18Z"
+updated_at: "2026-11-08T07:08:34Z"
 classification:
   is_music: true
   confidence: 0.6

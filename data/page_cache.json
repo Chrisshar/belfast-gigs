@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "4286",
    "7355",
    "7669",
    "7545",
@@ -1239,41 +1238,6 @@
    },
    "lastmod": "2026-05-19"
   },
-  "https://www.mandelahall.com/events/scummy-mummies": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-07",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 25.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:scummy-mummies",
-    "source_url": "https://www.mandelahall.com/events/scummy-mummies",
-    "start_time": "18:30",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/scummy-mummies"
-     ]
-    ],
-    "title": "Scummy Mummies",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-01-12"
-  },
   "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck": {
    "event": {
     "address": null,
@@ -2405,33 +2369,7 @@
    "lastmod": "2026-03-05"
   },
   "https://www.voodoobelfast.com/events/mind-over-matter-fest": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-07",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 20.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:mind-over-matter-fest",
-    "source_url": "https://www.voodoobelfast.com/events/mind-over-matter-fest",
-    "start_time": "18:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [],
-    "title": "Mind Over Matter Fest",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-21"
   },
   "https://www.voodoobelfast.com/events/morning-glory": {

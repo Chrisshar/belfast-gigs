@@ -467,42 +467,6 @@
   "title": "Dock Street Jazz Jam",
   "venue": "american-bar"
  },
- "0426f4c3-338e-45de-95f2-34dfbadda161": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "World"
-  ],
-  "headliner": "New Éire",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:071126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/071126"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": [
-   "With A Fada"
-  ],
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/071126"
-   }
-  ],
-  "title": "The Budvar Music Trail: With A Fada presents New Éire",
-  "venue": "oh-yeah"
- },
  "04dbfae1-83e8-449c-bc8f-584d65aa6d36": {
   "age_restriction": null,
   "date": "2026-11-13",
@@ -2377,43 +2341,6 @@
   "title": "MCD Presents Blossoms",
   "venue": "ulster-hall"
  },
- "1bc702e9-1277-4d2f-a737-687fd3727f56": {
-  "age_restriction": "18+",
-  "date": "2026-11-07",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal",
-   "Hip-Hop/Rap"
-  ],
-  "headliner": "Skindred",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "limelight:10777",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Alien Ant Farm",
-   "Survivalist"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/skindred-you-got-this-tour-belfast-07-11-2026/event/38006478DA0A1D6F"
-   }
-  ],
-  "title": "Skindred",
-  "venue": "telegraph-building"
- },
  "1d1a409d-fffb-4bec-80d9-470b19349efb": {
   "age_restriction": "18+",
   "date": "2026-11-18",
@@ -3296,39 +3223,6 @@
   ],
   "title": "Alison Cotton",
   "venue": "the-harrison"
- },
- "2e50fafc-96a5-4f88-843e-60ed14145d43": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad"
-  ],
-  "headliner": "Saturday Afternoon Trad Session",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:trad-session-nov-26",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/trad-session/trad-session-nov-26"
-   }
-  ],
-  "start_time": "13:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/trad-session/trad-session-nov-26"
-   }
-  ],
-  "title": "Saturday Afternoon Trad Session",
-  "venue": "crescent-arts-centre"
  },
  "2eb0fa38-656c-4beb-9a4e-ba73aa58fbb4": {
   "age_restriction": null,
@@ -5977,7 +5871,7 @@
    "Tribute/Covers",
    "Pop"
   ],
-  "headliner": "Bjorn Identity – Abba Christmas",
+  "headliner": "Bjorn Identity - Abba Christmas",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -5998,7 +5892,7 @@
     "url": "https://www.ticketmaster.ie/the-bjorn-identity-abba-christmas-show-belfast-11-12-2026/event/380064C3A90F2262"
    }
   ],
-  "title": "Bjorn Identity – Abba Christmas",
+  "title": "Bjorn Identity - Abba Christmas",
   "venue": "belfast-empire"
  },
  "55590a01-562d-4e56-ad9e-5f95939dc9c1": {
@@ -6401,40 +6295,6 @@
   "title": "The Eminem Experience",
   "venue": "limelight"
  },
- "5a44ca62-8419-429d-a822-4e7db8ccfde8": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues",
-   "Rock"
-  ],
-  "headliner": "Guinness Blues Cafe – The Davy K Project",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 13.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:guinness-blues-cafe-the-davy-k-project-2",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-the-davy-k-project-2/"
-   }
-  ],
-  "start_time": "14:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "TicketSource",
-    "url": "https://www.ticketsource.com/BelfastCityBluesFestival"
-   }
-  ],
-  "title": "Guinness Blues Cafe – The Davy K Project",
-  "venue": "deers-head"
- },
  "5a4f2fba-3e24-409b-b490-cb864c388e1b": {
   "age_restriction": null,
   "date": "2027-01-08",
@@ -6501,40 +6361,6 @@
   ],
   "title": "Conor Mclain",
   "venue": "belfast-empire"
- },
- "5cdf7b8d-5f12-4cad-93ad-ee188909c3bc": {
-  "age_restriction": "18+",
-  "date": "2026-11-07",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "The Total Stone Roses & Oaysis Live",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10251",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "WeGotTickets",
-    "url": "https://wegottickets.com/event/686099/"
-   }
-  ],
-  "title": "The Total Stone Roses & Oaysis Live",
-  "venue": "limelight"
  },
  "5dabf06f-5ba4-499f-bad9-3f4aa9ac0e4f": {
   "age_restriction": null,
@@ -7627,34 +7453,6 @@
   ],
   "title": "Absolute Amy",
   "venue": "belfast-empire"
- },
- "72dc89fd-1686-4275-957c-679ba8015afe": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "Mind Over Matter Fest",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:mind-over-matter-fest",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/mind-over-matter-fest"
-   }
-  ],
-  "start_time": "18:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": null,
-  "title": "Mind Over Matter Fest",
-  "venue": "voodoo"
  },
  "73d1c340-58db-42dd-be9f-62a6de727e09": {
   "age_restriction": "18+",
@@ -9378,40 +9176,6 @@
   "title": "Thunder From Down Under",
   "venue": "limelight"
  },
- "93a7cc55-5dcd-4f0c-96b2-c393a9cecacf": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Pop"
-  ],
-  "headliner": "The Stranger - A Tribute to Billy Joel",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:the-stranger-a-tribute-to-billy-joel",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/the-stranger-a-tribute-to-billy-joel/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/the-stranger-07-11-2026/event/380064FC7B7E0B47"
-   }
-  ],
-  "title": "The Stranger - A Tribute to Billy Joel",
-  "venue": "belfast-empire"
- },
  "9438f798-c8b8-489c-80e6-b0a114d8e1d0": {
   "age_restriction": null,
   "date": "2026-11-18",
@@ -10674,40 +10438,6 @@
   ],
   "title": "Let The Music Play",
   "venue": "ulster-hall"
- },
- "a98d6805-be93-40f3-94d7-aaa0c9c3f6bb": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "The Friel Sisters",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "duncairn:friel-sisters",
-    "name": "duncairn",
-    "url": "https://www.theduncairn.com/events/friel-sisters"
-   }
-  ],
-  "start_time": "18:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketsolve",
-    "url": "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173690356"
-   }
-  ],
-  "title": "Belfast City Council Teenage Kicks - The Friel Sisters",
-  "venue": "the-duncairn"
  },
  "a9a62c39-45b6-4fff-beba-91d6cd59337a": {
   "age_restriction": null,
@@ -13644,12 +13374,13 @@
   "venue": "belfast-empire"
  },
  "da2357a0-640f-4947-99d3-93582005c0ee": {
-  "age_restriction": null,
+  "age_restriction": "18+",
   "date": "2027-03-16",
   "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
+   "Folk/Trad",
    "World",
    "Rock"
   ],
@@ -13663,6 +13394,11 @@
     "key": "mandelaweb:rodrigo-y-gabriela-",
     "name": "mandelaweb",
     "url": "https://www.mandelahall.com/events/rodrigo-y-gabriela-"
+   },
+   {
+    "key": "mandela:128625283",
+    "name": "mandela",
+    "url": "https://www.glistrr.com/events/e/rodrigo-y-gabriela-32-366"
    }
   ],
   "start_time": "19:00",
@@ -13672,6 +13408,10 @@
    {
     "source": "Mandela Hall",
     "url": "https://www.mandelahall.com/events/rodrigo-y-gabriela-"
+   },
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/rodrigo-y-gabriela-32-366"
    }
   ],
   "title": "Rodrigo y Gabriela",
@@ -13849,41 +13589,6 @@
   ],
   "title": "The New Wave: Gráinne Meyer & Atóg",
   "venue": "oh-yeah"
- },
- "df8476a8-ed17-4889-bcea-2f2852ef4655": {
-  "age_restriction": null,
-  "date": "2026-11-07",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Electronic"
-  ],
-  "headliner": "TESSIO",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:sound-of-belfast-festival-the-budvar-music-trail-tessio-piaras-olorcain",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-tessio-piaras-olorcain/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": [
-   "Piaras O’Lorcain"
-  ],
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-tessio-piaras-olorcain/"
-   }
-  ],
-  "title": "Sound of Belfast Festival: The Budvar Music Trail – TESSIO & Piaras O’Lorcain",
-  "venue": "black-box"
  },
  "e0918558-c711-4d4d-a9a1-14203c737c34": {
   "age_restriction": null,
@@ -15946,40 +15651,6 @@
   ],
   "title": "GUINNESS BLUES CAFE (Christmas Special) – HUMAN TOUCH (a tribute to Bruce Springsteen)",
   "venue": "deers-head"
- },
- "fad28f13-e817-4eba-aaea-5adcfe3c9f69": {
-  "age_restriction": "18+",
-  "date": "2026-11-07",
-  "doors_time": "22:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Pop"
-  ],
-  "headliner": "Will Atkinson Vs The Rocketman",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11681",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/notorious-presents-will-atkinson-vs-the-rocketman-3090-129"
-   }
-  ],
-  "title": "Will Atkinson Vs The Rocketman",
-  "venue": "limelight"
  },
  "faeeb4b8-743a-4fc3-acc1-e8d32786bacb": {
   "age_restriction": "18+",
