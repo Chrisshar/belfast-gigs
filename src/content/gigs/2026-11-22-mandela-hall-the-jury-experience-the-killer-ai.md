@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:the-jury-experience---the-killer-ai-2"
   url: "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-08T07:08:34Z"
+updated_at: "2026-11-08T13:22:09Z"
 backfill: true
 classification:
   is_music: true

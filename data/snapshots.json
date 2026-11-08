@@ -1865,40 +1865,6 @@
   "title": "Oasis Supernova",
   "venue": "mandela-hall"
  },
- "14aa58ba-86db-4c93-8073-a94c156c9d30": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Ria Rua",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:271126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/271126"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/271126"
-   }
-  ],
-  "title": "Ria Rua: S C A P E G.O.A.T. Tour",
-  "venue": "oh-yeah"
- },
  "153fc5d6-6ed7-4bf0-9444-4d02afbb6756": {
   "age_restriction": null,
   "date": "2027-04-30",
