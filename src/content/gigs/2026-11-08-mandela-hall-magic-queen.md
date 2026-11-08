@@ -5,8 +5,7 @@ headliner: "Magic Queen - The Ultimate Tribute to Queen"
 venue: "mandela-hall"
 date: "2026-11-08"
 start_time: "19:00"
-price_min: 28
-status: "on_sale"
+status: "sold_out"
 age_restriction: "18+"
 genres:
 - "Tribute/Covers"
@@ -19,7 +18,7 @@ sources:
   key: "mandela:130440982"
   url: "https://www.glistrr.com/events/e/magic-queen-the-ultimate-tribute-to-queen-32-368"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-08T18:08:28Z"
+updated_at: "2026-11-08T21:10:03Z"
 backfill: true
 classification:
   is_music: true

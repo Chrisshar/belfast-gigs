@@ -13216,7 +13216,7 @@
   "headliner": "Magic Queen - The Ultimate Tribute to Queen",
   "needs_review": null,
   "price_max": null,
-  "price_min": 28.0,
+  "price_min": null,
   "room": null,
   "sources": [
    {
@@ -13226,7 +13226,7 @@
    }
   ],
   "start_time": "19:00",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
