@@ -923,41 +923,6 @@
    },
    "lastmod": "2026-05-19"
   },
-  "https://www.mandelahall.com/events/magic-queen": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-08",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 28.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:magic-queen",
-    "source_url": "https://www.mandelahall.com/events/magic-queen",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/magic-queen"
-     ]
-    ],
-    "title": "Magic Queen",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-09-15"
-  },
   "https://www.mandelahall.com/events/mo-gilligan": {
    "event": {
     "address": null,

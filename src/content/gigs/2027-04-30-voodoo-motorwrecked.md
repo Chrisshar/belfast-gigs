@@ -18,7 +18,7 @@ sources:
   key: "voodoo:motorwrecked"
   url: "https://www.voodoobelfast.com/events/motorwrecked"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-08T21:10:03Z"
+updated_at: "2026-11-09T07:08:32Z"
 backfill: true
 classification:
   is_music: true

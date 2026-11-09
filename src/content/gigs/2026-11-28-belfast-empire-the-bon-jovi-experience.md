@@ -15,7 +15,7 @@ sources:
   key: "empire:the-bon-jovi-experience-3"
   url: "https://www.thebelfastempire.com/music-hall/the-bon-jovi-experience-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-08T21:10:03Z"
+updated_at: "2026-11-09T07:08:32Z"
 backfill: true
 classification:
   is_music: true

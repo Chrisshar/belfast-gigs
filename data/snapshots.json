@@ -909,39 +909,6 @@
   "title": "London Symphonic Rock Orchestra",
   "venue": "ulster-hall"
  },
- "087992c9-6254-48ef-bc1a-e4c611f4bcff": {
-  "age_restriction": null,
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Contemporary/New Music"
-  ],
-  "headliner": "James Bond Concert Spectacular",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:james-bond-concert-spectacular",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/james-bond-concert-spectacular/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/james-bond-concert-spectacular/"
-   }
-  ],
-  "title": "James Bond Concert Spectacular",
-  "venue": "ulster-hall"
- },
  "08920716-1712-4a38-9ad1-e771d7191951": {
   "age_restriction": null,
   "date": "2026-12-03",
@@ -3052,40 +3019,6 @@
   "title": "Swing Gals at Christmas",
   "venue": "black-box"
  },
- "29c17163-1225-4484-b93a-bf27dfb0e0cb": {
-  "age_restriction": null,
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Stray Gaiters",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:stray-gaiters",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/stray-gaiters/"
-   }
-  ],
-  "start_time": "15:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "TicketSource",
-    "url": "https://www.ticketsource.com/stray-gaiters/stray-gaiters-at-the-deers-head/e-pmvded"
-   }
-  ],
-  "title": "Stray Gaiters",
-  "venue": "deers-head"
- },
  "2a309621-7c49-4c9e-a661-577f4fef5d98": {
   "age_restriction": null,
   "date": "2026-12-02",
@@ -3590,17 +3523,17 @@
   "venue": "black-box"
  },
  "37de9bae-4787-4cf5-85e1-42da9383eb9b": {
-  "age_restriction": null,
+  "age_restriction": "18+",
   "date": "2027-04-08",
   "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
-   "Tribute/Covers",
-   "Rock"
+   "Rock",
+   "Tribute/Covers"
   ],
   "headliner": "Rock Icons Show",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": 28.0,
   "room": null,
@@ -3609,6 +3542,11 @@
     "key": "mandelaweb:rock-icons-show",
     "name": "mandelaweb",
     "url": "https://www.mandelahall.com/events/rock-icons-show"
+   },
+   {
+    "key": "mandela:139058782",
+    "name": "mandela",
+    "url": "https://www.glistrr.com/events/e/rock-icons-show-32-378"
    }
   ],
   "start_time": "19:00",
@@ -3618,6 +3556,10 @@
    {
     "source": "Mandela Hall",
     "url": "https://www.mandelahall.com/events/rock-icons-show"
+   },
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/rock-icons-show-32-378"
    }
   ],
   "title": "Rock Icons Show",
@@ -3901,40 +3843,6 @@
   ],
   "title": "Harakiri for the Sky",
   "venue": "limelight"
- },
- "3c2fed1c-ffbe-44be-8b61-d24f42bd99fa": {
-  "age_restriction": null,
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Pop"
-  ],
-  "headliner": "Magic Queen",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 28.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:magic-queen",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/magic-queen"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/magic-queen"
-   }
-  ],
-  "title": "Magic Queen",
-  "venue": "mandela-hall"
  },
  "3c9957d0-7dfe-4f65-a36c-7413dcdf596e": {
   "age_restriction": null,
@@ -7699,42 +7607,6 @@
   "title": "Joachim Cooder with Adriano Viterbini",
   "venue": "crescent-arts-centre"
  },
- "798e98e3-88eb-4059-9c1b-3ca722f14626": {
-  "age_restriction": "18+",
-  "date": "2026-11-08",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Ricky Warwick & The Fighting Hearts",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10968",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Trucker Diablo"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/946853?venueId=461484"
-   }
-  ],
-  "title": "Ricky Warwick & The Fighting Hearts",
-  "venue": "limelight"
- },
  "79ec6f14-e0c6-480f-bef9-15776fe06e49": {
   "age_restriction": null,
   "date": "2027-03-16",
@@ -10604,40 +10476,6 @@
   "title": "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED",
   "venue": "black-box"
  },
- "acbc6a55-585a-4e9b-8ddb-c02d97baf11f": {
-  "age_restriction": null,
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Electronic"
-  ],
-  "headliner": "Rarewitch",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:081126-2",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/081126-2"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/081126-2"
-   }
-  ],
-  "title": "The Budvar Music Trail presents: Ode to Misinformation: Rarewitch Live hosted by Stephen McCauley",
-  "venue": "oh-yeah"
- },
  "ad535d2a-6b27-4659-bf13-e3119b1dc8b0": {
   "age_restriction": null,
   "date": "2027-10-29",
@@ -11262,39 +11100,6 @@
   "title": "Courtnay Reddy As Avril Lavigne",
   "venue": "belfast-empire"
  },
- "b85fbe44-a8a2-49d1-b737-37ea2fb3ea07": {
-  "age_restriction": null,
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues"
-  ],
-  "headliner": "Kirk MacDonald",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 14.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca",
-    "name": "citizenticket",
-    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca/"
-   }
-  ],
-  "start_time": "20:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Citizen Ticket",
-    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-kirk-macdonald-ca/"
-   }
-  ],
-  "title": "Dock Street Jazz Club: Kirk MacDonald (CA)",
-  "venue": "american-bar"
- },
  "b86475ce-3c5b-4bef-8c7b-8eff19c814ee": {
   "age_restriction": "18+",
   "date": "2027-04-30",
@@ -11771,39 +11576,6 @@
   ],
   "title": "Belsonic 2027 - Take That",
   "venue": "ormeau-park"
- },
- "c0113a63-66ca-4dc2-9069-2fad949980e8": {
-  "age_restriction": null,
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Youth Open Mic",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:081126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/081126"
-   }
-  ],
-  "start_time": "12:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/081126"
-   }
-  ],
-  "title": "Youth Open Mic",
-  "venue": "oh-yeah"
  },
  "c05adec7-b74c-4f1f-a79d-d986a695a0a7": {
   "age_restriction": null,
@@ -13202,40 +12974,6 @@
   ],
   "title": "Gilla Band",
   "venue": "belfast-empire"
- },
- "d82a9876-8977-4800-8498-6b976b63154f": {
-  "age_restriction": "18+",
-  "date": "2026-11-08",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Magic Queen - The Ultimate Tribute to Queen",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandela:130440982",
-    "name": "mandela",
-    "url": "https://www.glistrr.com/events/e/magic-queen-the-ultimate-tribute-to-queen-32-368"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "sold_out",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/magic-queen-the-ultimate-tribute-to-queen-32-368"
-   }
-  ],
-  "title": "Magic Queen - The Ultimate Tribute to Queen",
-  "venue": "mandela-hall"
  },
  "d8b92f19-e42e-4d75-bbc1-b5ae0bbe20c4": {
   "age_restriction": null,

@@ -7,21 +7,26 @@ date: "2027-04-08"
 start_time: "19:00"
 price_min: 28
 status: "on_sale"
+age_restriction: "18+"
 genres:
-- "Tribute/Covers"
 - "Rock"
+- "Tribute/Covers"
 tickets:
 - source: "Mandela Hall"
   url: "https://www.mandelahall.com/events/rock-icons-show"
+- source: "Glistrr"
+  url: "https://www.glistrr.com/events/e/rock-icons-show-32-378"
 sources:
 - name: "mandelaweb"
   key: "mandelaweb:rock-icons-show"
   url: "https://www.mandelahall.com/events/rock-icons-show"
+- name: "mandela"
+  key: "mandela:139058782"
+  url: "https://www.glistrr.com/events/e/rock-icons-show-32-378"
 first_seen: "2026-10-28T12:52:21Z"
-updated_at: "2026-11-08T21:10:03Z"
+updated_at: "2026-11-09T07:08:32Z"
 classification:
   is_music: true
-  confidence: 0.6
+  confidence: 0.9
   method: "llm"
-needs_review: true
 ---
