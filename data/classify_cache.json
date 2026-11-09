@@ -527,6 +527,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "0d69fa3443ecea11": {
+  "confidence": 0.9,
+  "genres": [
+   "Hip-Hop/Rap",
+   "Electronic"
+  ],
+  "headliner": "Basht.",
+  "is_music": true,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0d9cf18a2cafc606": {
   "confidence": 0.8,
   "genres": [
@@ -2808,6 +2820,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "510d476d69c0fcaf": {
+  "confidence": 0.8,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Havana Nights Salsa-Ni",
+  "is_music": false,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "516bc1c30c20e00d": {
   "confidence": 0.9,
   "genres": [
@@ -3430,6 +3453,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "6704554501a86ba6": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Sam Barber",
+  "is_music": true,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6761d235de565353": {
   "confidence": 0.9,
   "genres": [
@@ -3601,6 +3636,18 @@
    "Pop"
   ],
   "headliner": "The Devout: Depeche Mode Tribute",
+  "is_music": true,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "71fe4a8dedd6b317": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Newton Faulkner",
   "is_music": true,
   "last_seen": "2026-11-09",
   "model": "claude-haiku-5-5",
@@ -5537,6 +5584,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "ac895683b299819f": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Mission",
+  "is_music": true,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "ae67ee832053caa4": {
   "confidence": 0.6,
   "genres": [
@@ -6115,6 +6174,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "c22bcea73ed53216": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Sam Barber",
+  "is_music": true,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "c236f971789ecf11": {
   "confidence": 0.7,
   "genres": [
@@ -6181,7 +6252,7 @@
   ],
   "headliner": "Bjorn Identity – Abba Christmas",
   "is_music": true,
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-09",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -7576,6 +7647,18 @@
   "support": [
    "Hard Bizkit"
   ]
+ },
+ "f629828cceb4dbb8": {
+  "confidence": 0.85,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
+  ],
+  "headliner": "Robert Arkins Commitments",
+  "is_music": true,
+  "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "f67d4422683e0b02": {
   "confidence": 0.7,

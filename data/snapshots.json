@@ -2274,6 +2274,40 @@
   "title": "MCD Presents Blossoms",
   "venue": "ulster-hall"
  },
+ "1b477ea7-122c-4b65-842e-402b16f1874f": {
+  "age_restriction": "18+",
+  "date": "2027-04-16",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Mission",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11876",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "signup.shine.net",
+    "url": "https://signup.shine.net/PRESALE-THE-MISSION"
+   }
+  ],
+  "title": "The Mission",
+  "venue": "limelight"
+ },
  "1d1a409d-fffb-4bec-80d9-470b19349efb": {
   "age_restriction": "18+",
   "date": "2026-11-18",
@@ -3353,6 +3387,40 @@
   "title": "Wrong Jovi",
   "venue": "limelight"
  },
+ "3359e16c-fd2d-4a84-bb6b-9155f5634c17": {
+  "age_restriction": "18+",
+  "date": "2027-12-04",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Newton Faulkner",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11880",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1196943?venueId=459772"
+   }
+  ],
+  "title": "Newton Faulkner",
+  "venue": "limelight"
+ },
  "33a95481-4e91-43da-8ab5-d570afaf9631": {
   "age_restriction": null,
   "date": "2026-12-05",
@@ -4241,6 +4309,10 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/1509563?venueId=460013"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/peace-proms-07-03-2027/event/38006556940211B6?camefrom=CFC_IE_CLI_THEO2BELFAST_PeacePromsWeb&brand=ie_theo2belfast"
    }
   ],
   "title": "Peace Proms",
@@ -5567,6 +5639,34 @@
   "title": "Static Hearts",
   "venue": "voodoo"
  },
+ "4e53f2f0-a07d-427f-b9fb-30557a95df5c": {
+  "age_restriction": null,
+  "date": "2026-11-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Havana Nights Salsa-Ni",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:havana-nights-salsa-ni",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/havana-nights-salsa-ni/"
+   }
+  ],
+  "start_time": "21:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Havana Nights Salsa-Ni",
+  "venue": "belfast-empire"
+ },
  "4e7934ba-f962-4e20-8801-61bc2aed35cc": {
   "age_restriction": "18+",
   "date": "2027-05-01",
@@ -5745,7 +5845,7 @@
    "Tribute/Covers",
    "Pop"
   ],
-  "headliner": "Bjorn Identity - Abba Christmas",
+  "headliner": "Bjorn Identity – Abba Christmas",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -5766,7 +5866,7 @@
     "url": "https://www.ticketmaster.ie/the-bjorn-identity-abba-christmas-show-belfast-11-12-2026/event/380064C3A90F2262"
    }
   ],
-  "title": "Bjorn Identity - Abba Christmas",
+  "title": "Bjorn Identity – Abba Christmas",
   "venue": "belfast-empire"
  },
  "55590a01-562d-4e56-ad9e-5f95939dc9c1": {
@@ -9995,6 +10095,40 @@
   "title": "KhakiKid",
   "venue": "limelight"
  },
+ "a52b7153-1c72-4c9b-bc13-c92f1dc97b48": {
+  "age_restriction": "18+",
+  "date": "2027-04-28",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Hip-Hop/Rap",
+   "Electronic"
+  ],
+  "headliner": "Basht.",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11875",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "signup.shine.net",
+    "url": "https://signup.shine.net/PRESALE-BASHT."
+   }
+  ],
+  "title": "Basht.",
+  "venue": "limelight"
+ },
  "a5f53eee-9b36-4386-8d2e-d31d4c8891c2": {
   "age_restriction": "18+",
   "date": "2027-01-19",
@@ -12352,6 +12486,10 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/1509563?venueId=460013"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/peace-proms-06-03-2027/event/38006556922E1133?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_PeacePromsWeb&brand=ie_theo2belfast"
    }
   ],
   "title": "Peace Proms",
@@ -12562,6 +12700,40 @@
   ],
   "title": "Big Country",
   "venue": "limelight"
+ },
+ "ce0d613f-2b2f-4871-90b9-d5d2c77a9f19": {
+  "age_restriction": null,
+  "date": "2027-10-10",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Tribute/Covers"
+  ],
+  "headliner": "Robert Arkins Commitments",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 33.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:robert-arkins-commitments-2",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/robert-arkins-commitments-2/"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "See Tickets",
+    "url": "https://www.seetickets.com/event/robert-arkins-commitments/empire-music-hall/3749939"
+   }
+  ],
+  "title": "Robert Arkins Commitments",
+  "venue": "belfast-empire"
  },
  "cf45e1f3-9f5d-4d16-b304-d71e29b52015": {
   "age_restriction": "18+",
@@ -13076,6 +13248,40 @@
   ],
   "title": "Chapterhouse",
   "venue": "belfast-empire"
+ },
+ "d9c51df5-7904-4f90-ae45-ad82f1ea67ce": {
+  "age_restriction": null,
+  "date": "2027-06-15",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Sam Barber",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11877",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "venuecloud.net",
+    "url": "https://www.venuecloud.net/s/f/35/276"
+   }
+  ],
+  "title": "The Summer Series 2027 - Sam Barber",
+  "venue": "custom-house-square"
  },
  "da2357a0-640f-4947-99d3-93582005c0ee": {
   "age_restriction": "18+",
@@ -14701,10 +14907,48 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/1509563?venueId=460013"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/peace-proms-07-03-2027/event/380065569349117E?camefrom=CFC_IE_CLI_THEO2BELFAST_PeacePromsWeb&brand=ie_theo2belfast"
    }
   ],
   "title": "Peace Proms",
   "venue": "the-o2-belfast"
+ },
+ "f1d68770-8fbc-4220-950c-7de7dde3ede0": {
+  "age_restriction": null,
+  "date": "2027-06-27",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Sam Barber",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11883",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "venuecloud.net",
+    "url": "https://www.venuecloud.net/s/f/35/276"
+   }
+  ],
+  "title": "The Summer Series 2027 - Sam Barber",
+  "venue": "limelight"
  },
  "f25b002f-8821-4c46-8497-a88a165967e4": {
   "age_restriction": null,

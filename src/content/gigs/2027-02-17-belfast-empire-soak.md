@@ -18,7 +18,7 @@ sources:
   key: "empire:soak"
   url: "https://www.thebelfastempire.com/music-hall/soak/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-09T07:08:32Z"
+updated_at: "2026-11-09T16:15:01Z"
 classification:
   is_music: true
   confidence: 0.95

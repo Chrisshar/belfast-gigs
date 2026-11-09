@@ -11,12 +11,14 @@ genres:
 tickets:
 - source: "Ticketmaster"
   url: "https://www.ticketmaster.ie/artist/1509563?venueId=460013"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/peace-proms-07-03-2027/event/380065569349117E?camefrom=CFC_IE_CLI_THEO2BELFAST_PeacePromsWeb&brand=ie_theo2belfast"
 sources:
 - name: "o2belfast"
   key: "o2belfast:316740:2027-03-07"
   url: "https://theo2belfast.com/events/peace-proms"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-11-09T16:15:01Z"
 classification:
   is_music: true
   confidence: 0.5
