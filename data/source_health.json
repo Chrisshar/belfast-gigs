@@ -1,81 +1,81 @@
 {
  "blackbox": {
   "consecutive_failures": 0,
-  "last_count": 104,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 57
+  "last_count": 115,
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 58
  },
  "citizenticket": {
   "consecutive_failures": 0,
   "last_count": 5,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 59
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 60
  },
  "crescent": {
   "consecutive_failures": 0,
   "last_count": 15,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 57
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 58
  },
  "deershead": {
   "consecutive_failures": 0,
   "last_count": 16,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "duncairn": {
   "consecutive_failures": 0,
   "last_count": 10,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "empire": {
   "consecutive_failures": 0,
   "last_count": 70,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "harrison": {
   "consecutive_failures": 0,
   "last_count": 18,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 59
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 60
  },
  "limelight": {
   "consecutive_failures": 0,
-  "last_count": 279,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 62
+  "last_count": 277,
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 63
  },
  "mandela": {
   "consecutive_failures": 0,
   "last_count": 12,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "mandelaweb": {
   "consecutive_failures": 0,
   "last_count": 41,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 57
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 58
  },
  "movingon": {
   "consecutive_failures": 0,
   "last_count": 4,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "o2belfast": {
   "consecutive_failures": 0,
   "last_count": 17,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 62
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 63
  },
  "ohyeah": {
   "consecutive_failures": 0,
-  "last_count": 54,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_count": 55,
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "ticketmaster": {
   "consecutive_failures": 0,
@@ -83,20 +83,20 @@
  },
  "ulsterhall": {
   "consecutive_failures": 0,
-  "last_count": 212,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_count": 219,
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  },
  "usc": {
   "consecutive_failures": 0,
   "last_count": 14,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 57
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 58
  },
  "voodoo": {
   "consecutive_failures": 0,
   "last_count": 26,
-  "last_run": "2026-11-10T07:08:36Z",
-  "runs_ok": 58
+  "last_run": "2026-11-10T14:51:03Z",
+  "runs_ok": 59
  }
 }

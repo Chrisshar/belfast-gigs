@@ -170,16 +170,5 @@
   "first_seen": "2026-10-26T21:39:04Z",
   "backfill": false,
   "reason": "reclassified"
- },
- {
-  "id": "14aa58ba-86db-4c93-8073-a94c156c9d30",
-  "keys": [
-   "ohyeah:271126"
-  ],
-  "fingerprint": "oh-yeah|2026-11-27|ria rua",
-  "date": "2026-11-27",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "vanished"
  }
 ]

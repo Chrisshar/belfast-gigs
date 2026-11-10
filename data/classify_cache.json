@@ -72,6 +72,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "01f2f12fc4b3e5bf": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "02660b65966d21cb": {
   "confidence": 0.9,
   "genres": [
@@ -876,6 +885,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "1595cb1ae6efc790": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Rumours of Fleetwood Mac",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "15ac6b11d425b838": {
   "confidence": 0.8,
   "genres": [
@@ -1299,6 +1320,15 @@
   "headliner": "PLEASUREDOME 80’s / 90’s CHRISTMAS CRACKERS",
   "is_music": false,
   "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1f4a19314eba4886": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
+  "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -1781,6 +1811,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "2f11313d516ca2bb": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Dutch Mustard",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "2f2901666fd42d2c": {
   "confidence": 0.6,
   "genres": [
@@ -1844,6 +1886,15 @@
   ],
   "headliner": "Lindisfarne",
   "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "30c36daa04dd8bcb": {
+  "confidence": 0.7,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
   "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
   "support": []
@@ -2089,6 +2140,15 @@
   ],
   "headliner": "Linkin Cork!",
   "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3671749a8e19043f": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
   "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
   "support": []
@@ -4546,6 +4606,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "8e227b3f13c95645": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "8e540988ee187965": {
   "confidence": 0.95,
   "genres": [
@@ -4890,6 +4959,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "9a5443ce490504f3": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "9a5e0e1d71496878": {
   "confidence": 0.7,
   "genres": [
@@ -5037,6 +5118,18 @@
   "support": [
    "Florence Black"
   ]
+ },
+ "9ef464a8abebc9a5": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "9f3ef8cc0c1aff67": {
   "confidence": 0.95,
@@ -5834,6 +5927,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "b693b8e8698c0b59": {
+  "confidence": 0.75,
+  "genres": [
+   "Hip-Hop/Rap",
+   "Electronic"
+  ],
+  "headliner": "Ria Rua",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "b6cf8d74a991225f": {
   "confidence": 0.7,
   "genres": [
@@ -5897,6 +6002,15 @@
   "headliner": "Aoife Dunne",
   "is_music": true,
   "last_seen": "2026-11-09",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b892b0a542fc4b2d": {
+  "confidence": 0.7,
+  "genres": [],
+  "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
+  "is_music": false,
+  "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -6065,6 +6179,18 @@
    "Indie/Alternative"
   ],
   "headliner": "The Fillers",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bc7d6adb296d30b0": {
+  "confidence": 0.7,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Rock"
+  ],
+  "headliner": "The Unholy Gospel Band",
   "is_music": true,
   "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
@@ -6476,6 +6602,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "ca50fc45bf109e04": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "cab9c16a861e8dc2": {
   "confidence": 0.5,
   "genres": [
@@ -6588,6 +6723,15 @@
   ],
   "headliner": "Hothouse Flowers",
   "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ce97d1134e6f5dae": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
   "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6788,6 +6932,15 @@
   "headliner": "Mount Kimbie",
   "is_music": true,
   "last_seen": "2026-10-31",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d47d0f242146a429": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Midweek Magic Club",
+  "is_music": false,
+  "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",
   "support": []
  },

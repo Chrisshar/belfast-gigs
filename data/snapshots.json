@@ -1279,6 +1279,40 @@
   "title": "Chris Kent",
   "venue": "mandela-hall"
  },
+ "0deada20-9708-4799-952f-73b9983fd48c": {
+  "age_restriction": null,
+  "date": "2027-05-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Dutch Mustard",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:200527",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/200527"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/200527"
+   }
+  ],
+  "title": "Dutch Mustard: Surrender To Love Tour",
+  "venue": "oh-yeah"
+ },
  "0e540574-dfec-4447-b0ff-15cff9f8949d": {
   "age_restriction": null,
   "date": "2027-01-27",
@@ -1799,6 +1833,40 @@
   "title": "Oasis Supernova",
   "venue": "mandela-hall"
  },
+ "14aa58ba-86db-4c93-8073-a94c156c9d30": {
+  "age_restriction": null,
+  "date": "2027-05-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Hip-Hop/Rap",
+   "Electronic"
+  ],
+  "headliner": "Ria Rua",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:271126",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/271126"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/271126"
+   }
+  ],
+  "title": "Ria Rua: S C A P E G.O.A.T. Tour",
+  "venue": "oh-yeah"
+ },
  "153fc5d6-6ed7-4bf0-9444-4d02afbb6756": {
   "age_restriction": null,
   "date": "2027-04-30",
@@ -2205,6 +2273,40 @@
   ],
   "title": "Northern Ireland Music Prize",
   "venue": "ulster-hall"
+ },
+ "1a567d6b-02b2-42c8-9fbc-9dafc81babda": {
+  "age_restriction": null,
+  "date": "2026-12-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": true,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Green Room",
+  "sources": [
+   {
+    "key": "blackbox:the-first-slip-60",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/the-first-slip-60/"
+   }
+  ],
+  "start_time": "17:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/the-first-slip-60/"
+   }
+  ],
+  "title": "The First Slip",
+  "venue": "black-box"
  },
  "1b44522a-7d5e-4a3f-869b-8becda690baf": {
   "age_restriction": null,
@@ -4681,8 +4783,8 @@
     "url": "https://www.thebelfastempire.com/music-hall/joshua-burnside-hootenanny-2026/"
    }
   ],
-  "start_time": null,
-  "status": "on_sale",
+  "start_time": "18:00",
+  "status": "sold_out",
   "support": null,
   "tickets": null,
   "title": "Joshua Burnside – Hootenanny 2026",
@@ -6555,7 +6657,7 @@
    "Metal"
   ],
   "headliner": "AVATAR",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -9081,6 +9183,40 @@
   "title": "Thunder From Down Under",
   "venue": "limelight"
  },
+ "9430d081-61ac-44d4-af99-db6efa1bde0d": {
+  "age_restriction": null,
+  "date": "2026-12-02",
+  "doors_time": null,
+  "end_date": null,
+  "free": true,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The First Slip",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Green Room",
+  "sources": [
+   {
+    "key": "blackbox:the-first-slip-59",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/the-first-slip-59/"
+   }
+  ],
+  "start_time": "17:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/the-first-slip-59/"
+   }
+  ],
+  "title": "The First Slip",
+  "venue": "black-box"
+ },
  "9438f798-c8b8-489c-80e6-b0a114d8e1d0": {
   "age_restriction": null,
   "date": "2026-11-18",
@@ -10753,6 +10889,40 @@
   "title": "Sharon Shannon, Mary Coughlan and Frances Black",
   "venue": "ulster-hall"
  },
+ "b1e61dcd-6414-4dfc-a52c-e79e50812a33": {
+  "age_restriction": null,
+  "date": "2027-02-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Rumours of Fleetwood Mac",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Main Auditorium",
+  "sources": [
+   {
+    "key": "ulsterhall:rumours-of-fleetwood-mac",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/rumours-of-fleetwood-mac/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/rumours-of-fleetwood-mac/"
+   }
+  ],
+  "title": "Rumours of Fleetwood Mac",
+  "venue": "waterfront-hall"
+ },
  "b24bc404-63d3-46ec-b52b-9e13cdefb72f": {
   "age_restriction": null,
   "date": "2026-11-14",
@@ -11711,6 +11881,40 @@
   ],
   "title": "Briana Corrigan",
   "venue": "crescent-arts-centre"
+ },
+ "c11033c9-c42e-485f-b4ea-3562a9e92876": {
+  "age_restriction": null,
+  "date": "2026-12-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Soul/R&B/Funk",
+   "Rock"
+  ],
+  "headliner": "The Unholy Gospel Band",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 13.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "blackbox:the-unholy-gospel-band-27",
+    "name": "blackbox",
+    "url": "https://www.blackboxbelfast.com/event/the-unholy-gospel-band-27/"
+   }
+  ],
+  "start_time": "13:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Black Box",
+    "url": "https://www.blackboxbelfast.com/event/the-unholy-gospel-band-27/"
+   }
+  ],
+  "title": "The Unholy Gospel Band",
+  "venue": "black-box"
  },
  "c15e2462-e354-4f64-aedc-2099574d0e83": {
   "age_restriction": null,

@@ -4,8 +4,9 @@ title: "Joshua Burnside – Hootenanny 2026"
 headliner: "Joshua Burnside"
 venue: "belfast-empire"
 date: "2026-12-20"
+start_time: "18:00"
 price_min: 27.5
-status: "on_sale"
+status: "sold_out"
 genres:
 - "Folk/Trad"
 - "Singer-Songwriter"
@@ -14,7 +15,7 @@ sources:
   key: "empire:joshua-burnside-hootenanny-2026"
   url: "https://www.thebelfastempire.com/music-hall/joshua-burnside-hootenanny-2026/"
 first_seen: "2026-11-05T14:37:49Z"
-updated_at: "2026-11-05T14:37:49Z"
+updated_at: "2026-11-10T14:51:03Z"
 classification:
   is_music: true
   confidence: 0.9

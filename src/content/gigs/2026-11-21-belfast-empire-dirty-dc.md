@@ -18,7 +18,7 @@ sources:
   key: "empire:dirty-dc-3"
   url: "https://www.thebelfastempire.com/music-hall/dirty-dc-3/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-10T07:08:36Z"
+updated_at: "2026-11-10T14:51:03Z"
 backfill: true
 classification:
   is_music: true
