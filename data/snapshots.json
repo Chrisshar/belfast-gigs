@@ -6073,6 +6073,40 @@
   "title": "St. Lundi",
   "venue": "belfast-empire"
  },
+ "573f9ca4-d4df-4dba-b2ff-e6b11d6e6cb9": {
+  "age_restriction": null,
+  "date": "2026-12-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ken Haddock & John McCullough",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Blue Room",
+  "sources": [
+   {
+    "key": "harrison:ken-haddock-john-mccullough-an-intimate-evening-of-musical-magic",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/ken-haddock-john-mccullough-an-intimate-evening-of-musical-magic"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/booking/select/wvqdljnpxoeq"
+   }
+  ],
+  "title": "Blue Room Sessions: Ken Haddock & John McCullough",
+  "venue": "the-harrison"
+ },
  "5742bd85-259d-49cb-b78e-9a5dc3ce6684": {
   "age_restriction": null,
   "date": "2026-11-27",
@@ -14780,6 +14814,40 @@
   ],
   "title": "Belsonic 2027 - Alex Warren",
   "venue": "ormeau-park"
+ },
+ "ef65e2b0-bdeb-4f19-a120-29e35e31420f": {
+  "age_restriction": null,
+  "date": "2027-01-23",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative"
+  ],
+  "headliner": "Alex Bayly",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:alex-bayly-solo-show",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/alex-bayly-solo-show"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticket Tailor",
+    "url": "https://www.tickettailor.com/events/alexbayly/2467201?draft_share=050369bc"
+   }
+  ],
+  "title": "Alex Bayly - Solo Show",
+  "venue": "the-harrison"
  },
  "ef992549-2332-454c-8798-5a8898435d4d": {
   "age_restriction": null,

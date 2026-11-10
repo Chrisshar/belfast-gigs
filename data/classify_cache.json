@@ -756,6 +756,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "129fd1882d2a4071": {
+  "confidence": 0.75,
+  "genres": [
+   "Singer-Songwriter",
+   "Indie/Alternative"
+  ],
+  "headliner": "Alex Bayly",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "129ff6c6325e91cd": {
   "confidence": 0.98,
   "genres": [
@@ -4636,6 +4648,18 @@
    "Pop"
   ],
   "headliner": "Mauvey",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8ede0615fd7b6049": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Ken Haddock & John McCullough",
   "is_music": true,
   "last_seen": "2026-11-10",
   "model": "claude-haiku-5-5",

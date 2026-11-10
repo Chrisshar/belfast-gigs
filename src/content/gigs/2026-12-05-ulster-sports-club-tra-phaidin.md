@@ -18,7 +18,7 @@ sources:
   key: "movingon:tra-phaidin"
   url: "https://www.movingonmusic.com/whats-on/tra-phaidin/"
 first_seen: "2026-11-03T14:10:57Z"
-updated_at: "2026-11-10T18:08:50Z"
+updated_at: "2026-11-10T22:22:36Z"
 classification:
   is_music: true
   confidence: 0.9
