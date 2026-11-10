@@ -14356,10 +14356,9 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Jazz/Blues",
    "Singer-Songwriter"
   ],
-  "headliner": "Kyron Bourke & Michael Mormecha",
+  "headliner": "Kyron Bourke & Mateusz Hmmyeahlevysky",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -14380,7 +14379,7 @@
     "url": "https://www.ticketsource.com/monday-club-events/kyron-bourke-amp-michael-mormecha/e-zpevzb"
    }
   ],
-  "title": "Blue Room Sessions: Kyron Bourke & Michael Mormecha",
+  "title": "Blue Room Sessions: Kyron Bourke & Mateusz Hmmyeahlevysky",
   "venue": "the-harrison"
  },
  "eb128268-70da-4ffd-be88-20611ff273d2": {
@@ -15108,7 +15107,7 @@
    "Pop"
   ],
   "headliner": "Sam Barber",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,

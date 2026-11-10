@@ -17,7 +17,7 @@ sources:
   key: "mandelaweb:national-emo-day-belfast"
   url: "https://www.mandelahall.com/events/national-emo-day-belfast"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-10T14:51:03Z"
+updated_at: "2026-11-10T18:08:50Z"
 backfill: true
 classification:
   is_music: true

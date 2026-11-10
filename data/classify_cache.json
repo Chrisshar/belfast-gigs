@@ -5568,6 +5568,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "a95477ccee763e76": {
+  "confidence": 0.5,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Kyron Bourke & Mateusz Hmmyeahlevysky",
+  "is_music": true,
+  "last_seen": "2026-11-10",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "a95fc7405cc8469b": {
   "confidence": 0.6,
   "genres": [

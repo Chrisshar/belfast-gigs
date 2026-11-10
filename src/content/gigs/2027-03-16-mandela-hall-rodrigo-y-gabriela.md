@@ -25,7 +25,7 @@ sources:
   key: "mandela:128625283"
   url: "https://www.glistrr.com/events/e/rodrigo-y-gabriela-32-366"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-10T14:51:03Z"
+updated_at: "2026-11-10T18:08:50Z"
 backfill: true
 classification:
   is_music: true
