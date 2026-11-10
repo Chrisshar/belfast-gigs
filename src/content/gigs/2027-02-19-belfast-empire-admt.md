@@ -15,7 +15,7 @@ sources:
   key: "empire:admt"
   url: "https://www.thebelfastempire.com/music-hall/admt/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-10T00:41:43Z"
+updated_at: "2026-11-10T07:08:36Z"
 classification:
   is_music: true
   confidence: 0.9

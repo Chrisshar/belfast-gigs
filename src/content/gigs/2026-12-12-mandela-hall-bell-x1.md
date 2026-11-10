@@ -24,7 +24,7 @@ sources:
   key: "mandelaweb:bell-x1"
   url: "https://www.mandelahall.com/events/bell-x1"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-10T00:41:43Z"
+updated_at: "2026-11-10T07:08:36Z"
 backfill: true
 classification:
   is_music: true
