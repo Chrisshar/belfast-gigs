@@ -202,39 +202,6 @@
   "title": "Dani Larkin",
   "venue": "crescent-arts-centre"
  },
- "01acf22c-33a7-460e-a225-46e222165cd4": {
-  "age_restriction": null,
-  "date": "2026-11-09",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Aoife Dunne",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 32.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:aoife-dunne",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/aoife-dunne"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/aoife-dunne"
-   }
-  ],
-  "title": "Aoife Dunne",
-  "venue": "mandela-hall"
- },
  "02144a1e-b854-42e4-900a-8799bfeef79c": {
   "age_restriction": null,
   "date": "2027-05-22",
@@ -14681,13 +14648,14 @@
   "venue": "telegraph-building"
  },
  "efd9c207-ba0f-4e98-918f-867d1564d586": {
-  "age_restriction": null,
+  "age_restriction": "18+",
   "date": "2027-08-05",
   "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
    "Rock",
+   "Indie/Alternative",
    "Folk/Trad"
   ],
   "headliner": "Hothouse Flowers",
@@ -14700,6 +14668,11 @@
     "key": "mandelaweb:hothouse-flowers",
     "name": "mandelaweb",
     "url": "https://www.mandelahall.com/events/hothouse-flowers"
+   },
+   {
+    "key": "mandela:138833405",
+    "name": "mandela",
+    "url": "https://www.glistrr.com/events/e/hothouse-flowers-32-376"
    }
   ],
   "start_time": "19:00",
@@ -14709,6 +14682,10 @@
    {
     "source": "Mandela Hall",
     "url": "https://www.mandelahall.com/events/hothouse-flowers"
+   },
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/hothouse-flowers-32-376"
    }
   ],
   "title": "Hothouse Flowers",
