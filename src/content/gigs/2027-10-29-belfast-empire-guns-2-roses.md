@@ -18,7 +18,7 @@ sources:
   key: "empire:the-guns2roses"
   url: "https://www.thebelfastempire.com/music-hall/the-guns2roses/"
 first_seen: "2026-11-03T18:08:44Z"
-updated_at: "2026-11-11T18:08:33Z"
+updated_at: "2026-11-11T23:28:11Z"
 classification:
   is_music: true
   confidence: 0.9

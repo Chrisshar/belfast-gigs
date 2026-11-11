@@ -19,7 +19,7 @@ sources:
   key: "empire:gilla-band-2"
   url: "https://www.thebelfastempire.com/music-hall/gilla-band-2/"
 first_seen: "2026-11-04T14:29:37Z"
-updated_at: "2026-11-11T18:08:33Z"
+updated_at: "2026-11-11T23:28:11Z"
 classification:
   is_music: true
   confidence: 0.95
