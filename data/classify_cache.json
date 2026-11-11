@@ -2889,6 +2889,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "50005d46471fed85": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "John Barrowman",
+  "is_music": false,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "50672d1e7877cc4b": {
   "confidence": 0.95,
   "genres": [
@@ -3671,6 +3680,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "6db92b3441277e9b": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Rick Sheppard and His Drifters",
+  "is_music": true,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6ea786bca649d394": {
   "confidence": 0.85,
   "genres": [
@@ -4006,6 +4027,18 @@
    "Pop"
   ],
   "headliner": "Emilio Santoro as Elvis",
+  "is_music": true,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7c6efaf006949bdf": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Ultimate Nirvana Tribute",
   "is_music": true,
   "last_seen": "2026-11-11",
   "model": "claude-haiku-5-5",
@@ -6984,6 +7017,18 @@
   "genres": [],
   "headliner": "Star Wars Pub Quiz 2026",
   "is_music": false,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "d5f9b483376970be": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Slomosa",
+  "is_music": true,
   "last_seen": "2026-11-11",
   "model": "claude-haiku-5-5",
   "support": []

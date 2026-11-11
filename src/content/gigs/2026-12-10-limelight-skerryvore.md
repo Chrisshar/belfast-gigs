@@ -2,6 +2,9 @@
 id: "4292d383-4457-4fd4-b172-ba8adf4dad50"
 title: "SKERRYVORE"
 headliner: "SKERRYVORE"
+support:
+- "The Guzzlers"
+- "Wolfhound"
 venue: "limelight"
 room: "Limelight 1"
 date: "2026-12-10"
@@ -19,7 +22,7 @@ sources:
   key: "limelight:11178"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-11T14:19:19Z"
 backfill: true
 classification:
   is_music: true

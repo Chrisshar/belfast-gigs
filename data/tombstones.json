@@ -170,5 +170,16 @@
   "first_seen": "2026-10-26T21:39:04Z",
   "backfill": false,
   "reason": "reclassified"
+ },
+ {
+  "id": "6182fdae-2e8c-4f33-8d08-598f7baff4a4",
+  "keys": [
+   "limelight:11024"
+  ],
+  "fingerprint": "limelight|2026-11-25|avatar",
+  "date": "2026-11-25",
+  "first_seen": "2026-10-25T17:32:54Z",
+  "backfill": true,
+  "reason": "vanished"
  }
 ]

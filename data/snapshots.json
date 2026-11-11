@@ -2923,6 +2923,67 @@
   "title": "Tindersticks",
   "venue": "mandela-hall"
  },
+ "25456133-b123-485f-a505-559dbcece933": {
+  "age_restriction": null,
+  "date": "2027-11-07",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": null,
+  "headliner": "John Barrowman",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   },
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   },
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   },
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   },
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   },
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   },
+   {
+    "key": "ulsterhall:john-barrowman",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/john-barrowman/"
+   }
+  ],
+  "title": "John Barrowman",
+  "venue": "ulster-hall"
+ },
  "255bad90-7ce2-4413-9415-bcf6afbfdf8f": {
   "age_restriction": null,
   "date": "2027-04-24",
@@ -4517,7 +4578,10 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "The Guzzlers",
+   "Wolfhound"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -6681,41 +6745,6 @@
   "title": "The Whiskey Brothers: Dust Road Tour",
   "venue": "oh-yeah"
  },
- "6182fdae-2e8c-4f33-8d08-598f7baff4a4": {
-  "age_restriction": "18+",
-  "date": "2026-11-25",
-  "doors_time": "18:15",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal"
-  ],
-  "headliner": "AVATAR",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11024",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Neckbreakker"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/avatar-25-11-2026/event/380064B2E1621BD3"
-   }
-  ],
-  "title": "AVATAR",
-  "venue": "limelight"
- },
  "62bbc6aa-1336-4c66-82f4-3a7bbfe3edc9": {
   "age_restriction": "18+",
   "date": "2027-03-10",
@@ -6953,6 +6982,40 @@
   ],
   "title": "Gerry Mcavoy’s Band of Friends",
   "venue": "belfast-empire"
+ },
+ "68c0daf9-ff15-4973-9f50-a5c8ed063431": {
+  "age_restriction": null,
+  "date": "2027-05-28",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Rick Sheppard and His Drifters",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Main Auditorium",
+  "sources": [
+   {
+    "key": "ulsterhall:rick-sheppard-and-his-drifters",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/rick-sheppard-and-his-drifters/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/rick-sheppard-and-his-drifters/"
+   }
+  ],
+  "title": "Rick Sheppard and His Drifters",
+  "venue": "waterfront-hall"
  },
  "6a5994a0-af67-49e8-a3c7-db1cdcac6375": {
   "age_restriction": null,
@@ -9418,6 +9481,40 @@
   ],
   "title": "EA Music Dundonald Christmas Concert",
   "venue": "ulster-hall"
+ },
+ "970cd5f9-1e59-432e-aa64-8b19dda08c20": {
+  "age_restriction": "18+",
+  "date": "2027-04-11",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Slomosa",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11893",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5343878?venueId=461484"
+   }
+  ],
+  "title": "Slomosa",
+  "venue": "limelight"
  },
  "973da1da-4e2a-49d9-8338-5566a147569b": {
   "age_restriction": "18+",
@@ -15560,6 +15657,40 @@
   "tickets": null,
   "title": "DAVID KITT and THE BIG ROMANCE BAND",
   "venue": "belfast-empire"
+ },
+ "f7238efd-0e19-41b7-8991-52bdf372b251": {
+  "age_restriction": "18+",
+  "date": "2027-10-07",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Ultimate Nirvana Tribute",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11888",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5301673?venueId=461484"
+   }
+  ],
+  "title": "The Ultimate Nirvana Tribute",
+  "venue": "limelight"
  },
  "f81fd92b-1b88-42a3-b5e0-335bc5096f36": {
   "age_restriction": null,

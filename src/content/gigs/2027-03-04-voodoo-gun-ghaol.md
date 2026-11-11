@@ -18,7 +18,7 @@ sources:
   key: "voodoo:gun-ghaol"
   url: "https://www.voodoobelfast.com/events/gun-ghaol"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-11T07:08:33Z"
+updated_at: "2026-11-11T14:19:19Z"
 backfill: true
 classification:
   is_music: true
