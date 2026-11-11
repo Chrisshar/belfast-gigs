@@ -181,5 +181,16 @@
   "first_seen": "2026-10-25T17:32:54Z",
   "backfill": true,
   "reason": "vanished"
+ },
+ {
+  "id": "f1d68770-8fbc-4220-950c-7de7dde3ede0",
+  "keys": [
+   "limelight:11883"
+  ],
+  "fingerprint": "limelight|2027-06-27|sam barber",
+  "date": "2027-06-27",
+  "first_seen": "2026-11-09T16:15:01Z",
+  "backfill": false,
+  "reason": "vanished"
  }
 ]

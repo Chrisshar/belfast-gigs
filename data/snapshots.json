@@ -6883,13 +6883,13 @@
  },
  "660ee11b-adde-468a-b120-010499bfb2a1": {
   "age_restriction": null,
-  "date": "2026-11-13",
+  "date": "2027-01-20",
   "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
    "Pop",
-   "Singer-Songwriter"
+   "Soul/R&B/Funk"
   ],
   "headliner": "Brian Kennedy",
   "needs_review": null,
@@ -6904,7 +6904,7 @@
    }
   ],
   "start_time": "19:00",
-  "status": "on_sale",
+  "status": "rescheduled",
   "support": null,
   "tickets": [
    {
@@ -6912,7 +6912,7 @@
     "url": "https://www.mandelahall.com/events/brian-kennedy"
    }
   ],
-  "title": "Brian Kennedy",
+  "title": "Brian Kennedy date",
   "venue": "mandela-hall"
  },
  "6736bb0c-a69d-4852-8c2a-a218b15e9f17": {
@@ -7660,6 +7660,40 @@
   ],
   "title": "Alabama 3 Acoustic",
   "venue": "oh-yeah"
+ },
+ "757bea5d-1f0f-40da-b4b2-e6390793aee3": {
+  "age_restriction": "18+",
+  "date": "2027-04-25",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Bess Atwell",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11793",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/bess-atwell-25-04-2027/event/38006548A85015D8"
+   }
+  ],
+  "title": "Bess Atwell",
+  "venue": "limelight"
  },
  "769f261d-faaa-4ca4-84cc-88d1d87f4050": {
   "age_restriction": "18+",
@@ -12115,6 +12149,40 @@
   "title": "Dead Pioneers",
   "venue": "voodoo"
  },
+ "c3558852-94f2-442f-805d-5772c7d100c6": {
+  "age_restriction": "18+",
+  "date": "2027-03-14",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ciarán",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11894",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "signup.shine.net",
+    "url": "https://signup.shine.net/PRESALE-CIARAN"
+   }
+  ],
+  "title": "Ciarán",
+  "venue": "limelight"
+ },
  "c40fb8a6-8339-45c9-a102-9099ac81165b": {
   "age_restriction": null,
   "date": "2027-04-15",
@@ -15188,40 +15256,6 @@
   ],
   "title": "Peace Proms",
   "venue": "the-o2-belfast"
- },
- "f1d68770-8fbc-4220-950c-7de7dde3ede0": {
-  "age_restriction": null,
-  "date": "2027-06-27",
-  "doors_time": "18:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Pop"
-  ],
-  "headliner": "Sam Barber",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "limelight:11883",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "venuecloud.net",
-    "url": "https://www.venuecloud.net/s/f/35/276"
-   }
-  ],
-  "title": "The Summer Series 2027 - Sam Barber",
-  "venue": "limelight"
  },
  "f25b002f-8821-4c46-8497-a88a165967e4": {
   "age_restriction": null,

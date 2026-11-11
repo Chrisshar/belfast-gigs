@@ -1,15 +1,15 @@
 ---
 id: "660ee11b-adde-468a-b120-010499bfb2a1"
-title: "Brian Kennedy"
+title: "Brian Kennedy date"
 headliner: "Brian Kennedy"
 venue: "mandela-hall"
-date: "2026-11-13"
+date: "2027-01-20"
 start_time: "19:00"
 price_min: 30
-status: "on_sale"
+status: "rescheduled"
 genres:
 - "Pop"
-- "Singer-Songwriter"
+- "Soul/R&B/Funk"
 tickets:
 - source: "Mandela Hall"
   url: "https://www.mandelahall.com/events/brian-kennedy"
@@ -18,10 +18,10 @@ sources:
   key: "mandelaweb:brian-kennedy"
   url: "https://www.mandelahall.com/events/brian-kennedy"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-11T14:19:19Z"
+updated_at: "2026-11-11T18:08:33Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.9
   method: "llm"
 ---

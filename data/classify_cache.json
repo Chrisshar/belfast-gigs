@@ -536,6 +536,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "0cfac0e8fd802783": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ciarán",
+  "is_music": true,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0d69fa3443ecea11": {
   "confidence": 0.9,
   "genres": [
@@ -1744,6 +1756,18 @@
    "Soul/R&B/Funk"
   ],
   "headliner": "The Chicago Blues Brothers",
+  "is_music": true,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "2bd9e6570e742344": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "Brian Kennedy",
   "is_music": true,
   "last_seen": "2026-11-11",
   "model": "claude-haiku-5-5",
@@ -6329,6 +6353,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "bf44bcc94e322694": {
+  "confidence": 0.9,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Bess Atwell",
+  "is_music": true,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "bf7add77aeebbd5d": {
   "confidence": 0.95,
   "genres": [
@@ -7999,6 +8035,17 @@
   "support": [
    "The Flatliners"
   ]
+ },
+ "fa08dc6c821bfb4e": {
+  "confidence": 0.7,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "The Voodoo Sessions 027",
+  "is_music": false,
+  "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "fa25dd395caa122d": {
   "confidence": 0.96,
