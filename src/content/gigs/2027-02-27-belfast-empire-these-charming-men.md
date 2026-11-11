@@ -18,7 +18,7 @@ sources:
   key: "empire:these-charming-men-4"
   url: "https://www.thebelfastempire.com/music-hall/these-charming-men-4/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-10T22:22:36Z"
+updated_at: "2026-11-11T07:08:33Z"
 classification:
   is_music: true
   confidence: 0.9

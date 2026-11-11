@@ -5914,7 +5914,7 @@
    "Tribute/Covers",
    "Pop"
   ],
-  "headliner": "Bjorn Identity – Abba Christmas",
+  "headliner": "Bjorn Identity - Abba Christmas",
   "needs_review": null,
   "price_max": null,
   "price_min": 20.0,
@@ -5935,7 +5935,7 @@
     "url": "https://www.ticketmaster.ie/the-bjorn-identity-abba-christmas-show-belfast-11-12-2026/event/380064C3A90F2262"
    }
   ],
-  "title": "Bjorn Identity – Abba Christmas",
+  "title": "Bjorn Identity - Abba Christmas",
   "venue": "belfast-empire"
  },
  "55590a01-562d-4e56-ad9e-5f95939dc9c1": {
@@ -8023,7 +8023,7 @@
    "Electronic"
   ],
   "headliner": "Girl Code",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 1",
@@ -12018,40 +12018,6 @@
   "title": "Dead Pioneers",
   "venue": "voodoo"
  },
- "c37ccb2d-063f-4124-aab0-e44ed7b0107b": {
-  "age_restriction": "18+",
-  "date": "2026-11-10",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Little Angels",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:10506",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/little-angels-belfast-10-11-2026/event/38006458A3BE18F6"
-   }
-  ],
-  "title": "Little Angels",
-  "venue": "limelight"
- },
  "c40fb8a6-8339-45c9-a102-9099ac81165b": {
   "age_restriction": null,
   "date": "2027-04-15",
@@ -12391,44 +12357,6 @@
    }
   ],
   "title": "Stone Foundation",
-  "venue": "oh-yeah"
- },
- "c7df32f6-b941-49ad-a20d-ce7bbd3ad150": {
-  "age_restriction": null,
-  "date": "2026-11-10",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Rock"
-  ],
-  "headliner": "Pinsleep",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:101126-2",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/101126-2"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": [
-   "Lord Jane",
-   "The Thing Is...",
-   "GUSH"
-  ],
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/101126-2"
-   }
-  ],
-  "title": "Scratch My Progress Vol 14 Presents: Pinsleep, Lord Jane, The Thing Is... & GUSH",
   "venue": "oh-yeah"
  },
  "c80e48a6-2b1a-417e-95de-6b2f8968ae9f": {
