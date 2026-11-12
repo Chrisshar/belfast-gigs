@@ -6,7 +6,7 @@ from dataclasses import dataclass, field
 from typing import Any
 
 from ..models import Classification, Status
-from ..text import clean_url
+from ..text import clean_url, web_url
 from .classify import REVIEW_BELOW, Verdict
 from .genres import genres_for
 from .match import MATCH, REVIEW, Facts, norm_act, score
@@ -81,7 +81,10 @@ class Candidate:
         tickets, seen_urls = [], set()
         for p in evs:
             for provider, raw_url in p.raw.tickets:
-                url = clean_url(raw_url)
+                valid = web_url(raw_url)
+                if valid is None:
+                    continue  # the site schema rejects anything but an absolute URL, which would block the whole build
+                url = clean_url(valid)
                 if url not in seen_urls and url not in excluded_ticket_urls:
                     seen_urls.add(url)
                     tickets.append({"source": provider, "url": url})

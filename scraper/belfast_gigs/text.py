@@ -71,6 +71,18 @@ def clean_url(url: str) -> str:
     return urlunsplit(parts._replace(query=urlencode(query)))
 
 
+def web_url(href: str) -> str | None:
+    """An absolute http(s) URL, or None. Repairs links a venue typed without the scheme
+    ("www.ticketsource.com/..." or "//host/...") instead of passing them on to fail the site build."""
+    href = str(href).strip()
+    if href.startswith("//"):
+        href = "https:" + href
+    elif "://" not in href and re.match(r"[\w-]+(\.[\w-]+)+(/|$)", href):
+        href = "https://" + href
+    parts = urlsplit(href)
+    return href if parts.scheme in ("http", "https") and parts.netloc and not re.search(r"\s", href) else None
+
+
 def ticket_provider(url: str) -> str:
     host = urlsplit(url).netloc.lower()
     for needle, name in _PROVIDERS.items():

@@ -14,7 +14,7 @@ import time
 
 from ..http import Http, parse_html
 from ..models import RawEvent
-from ..text import ticket_provider
+from ..text import ticket_provider, web_url
 from .base import Adapter
 
 SITE = "https://www.chambersofdistinction.com"
@@ -84,7 +84,8 @@ def parse_event(item: dict, html: str) -> RawEvent | None:
         return None
     end = _LOCAL.match((ld or {}).get("endDate") or "")
     title = item["title"] or re.sub(r"\s+—\s+The Harrison.*$", "", (ld or {}).get("name", "")).strip()
-    tickets = [str(h) for h in parse_html(html).css("a::attr(href)").getall() if _TICKETS.search(str(h))]
+    # Hrefs are hand-typed in Squarespace and sometimes lack the scheme ("www.ticketsource.com/...").
+    tickets = [u for h in parse_html(html).css("a::attr(href)").getall() if _TICKETS.search(str(h)) and (u := web_url(h))]
     series = _SERIES.match(title)
     text = f"{title} {item['excerpt']}"
     return RawEvent(

@@ -155,3 +155,15 @@ def test_claude_may_shorten_a_headliner_but_not_rename_it():
     assert named_in("Volume Control", "Volume Control presents: HallowEMO")
     assert named_in("Rick Margitza & Miles Davis Centenary", "Dock Street Jazz Club: Rick Margitza (US) & Miles Davis Centenary")
     assert not named_in("Slipknot", "Slipkorn")
+
+
+def test_web_url_repairs_missing_scheme_and_rejects_non_urls():
+    from belfast_gigs.text import web_url
+
+    # The Harrison typed this ticket link without https://, which failed the site build (issue #10).
+    assert web_url("www.ticketsource.com/monday-club-events/t-yzpayrj") == "https://www.ticketsource.com/monday-club-events/t-yzpayrj"
+    assert web_url("//www.ticketsource.com/x") == "https://www.ticketsource.com/x"
+    assert web_url(" https://shine.tickets/events/1 ") == "https://shine.tickets/events/1"
+    assert web_url("mailto:box@ticketsource.com") is None
+    assert web_url("/events/ticketsource") is None
+    assert web_url("tickets on the door") is None
