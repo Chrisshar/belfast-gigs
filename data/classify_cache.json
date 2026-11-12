@@ -2212,6 +2212,21 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "37afe7d16ad27a31": {
+  "confidence": 0.7,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "JAZZY",
+  "is_music": true,
+  "last_seen": "2026-11-12",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Joe Rolét",
+   "Kayleigh Glynn"
+  ]
+ },
  "3866a6cb9b32367b": {
   "confidence": 0.9,
   "genres": [

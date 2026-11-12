@@ -2794,6 +2794,38 @@
   "title": "Jamie McIntyre",
   "venue": "limelight"
  },
+ "24c280f4-3a1d-4a3c-8cf2-152b08092c14": {
+  "age_restriction": "18+",
+  "date": "2026-11-14",
+  "doors_time": "22:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "JAZZY",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11904",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "sold_out",
+  "support": [
+   "Joe Rolét",
+   "Kayleigh Glynn"
+  ],
+  "tickets": null,
+  "title": "JAZZY",
+  "venue": "limelight"
+ },
  "2504e998-cd34-47c9-b2a8-caf3f3f638bb": {
   "age_restriction": null,
   "date": "2027-05-08",
