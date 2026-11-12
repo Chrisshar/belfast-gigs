@@ -1388,6 +1388,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "21abc5bd6c87acda": {
+  "confidence": 0.9,
+  "genres": [
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "KOJAQUE",
+  "is_music": true,
+  "last_seen": "2026-11-12",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "220cca1170f23cc7": {
   "confidence": 0.7,
   "genres": [
@@ -7322,6 +7333,18 @@
    "Rock"
   ],
   "headliner": "FM",
+  "is_music": true,
+  "last_seen": "2026-11-12",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ddd1fb17df098c6b": {
+  "confidence": 0.8,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Language Of Flowers",
   "is_music": true,
   "last_seen": "2026-11-12",
   "model": "claude-haiku-5-5",
