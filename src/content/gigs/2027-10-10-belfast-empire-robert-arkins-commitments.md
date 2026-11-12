@@ -18,7 +18,7 @@ sources:
   key: "empire:robert-arkins-commitments-2"
   url: "https://www.thebelfastempire.com/music-hall/robert-arkins-commitments-2/"
 first_seen: "2026-11-09T16:15:01Z"
-updated_at: "2026-11-12T18:08:37Z"
+updated_at: "2026-11-12T23:39:36Z"
 classification:
   is_music: true
   confidence: 0.9

@@ -13,12 +13,14 @@ genres:
 tickets:
 - source: "TicketSource"
   url: "https://www.ticketsource.com/booking/select/wvqdljnpxoeq"
+- source: "TicketSource"
+  url: "https://www.ticketsource.com/monday-club-events/t-yzpayrj"
 sources:
 - name: "harrison"
   key: "harrison:ken-haddock-john-mccullough-an-intimate-evening-of-musical-magic"
   url: "https://www.chambersofdistinction.com/unified-calendar/ken-haddock-john-mccullough-an-intimate-evening-of-musical-magic"
 first_seen: "2026-11-10T22:22:36Z"
-updated_at: "2026-11-10T22:22:36Z"
+updated_at: "2026-11-12T23:39:36Z"
 classification:
   is_music: true
   confidence: 0.9

@@ -18,7 +18,7 @@ sources:
   key: "blackbox:the-boondocks-2"
   url: "https://www.blackboxbelfast.com/event/the-boondocks-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-12T18:08:37Z"
+updated_at: "2026-11-12T23:39:36Z"
 backfill: true
 classification:
   is_music: true
