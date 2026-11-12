@@ -573,41 +573,6 @@
    },
    "lastmod": "2026-11-11"
   },
-  "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-11",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 5.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:irelands-largest-harry-potter-pub-quiz-2026",
-    "source_url": "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/irelands-largest-harry-potter-pub-quiz-2026"
-     ]
-    ],
-    "title": "Irelands Largest Harry Potter Pub Quiz 2026",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
-  },
   "https://www.mandelahall.com/events/jacek-stachursky": {
    "event": {
     "address": null,
@@ -2727,10 +2692,6 @@
    "event": null,
    "lastmod": "2026-04-14"
   },
-  "https://www.voodoobelfast.com/events/the-voodoo-sessions-016": {
-   "event": null,
-   "lastmod": "2025-11-11"
-  },
   "https://www.voodoobelfast.com/events/the-voodoo-sessions-017": {
    "event": null,
    "lastmod": "2026-01-07"
@@ -2892,38 +2853,7 @@
    "lastmod": "2026-01-21"
   },
   "https://www.voodoobelfast.com/events/wealthy-women": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-11",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:wealthy-women",
-    "source_url": "https://www.voodoobelfast.com/events/wealthy-women",
-    "start_time": "20:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Skiddle",
-      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Wealthy-Women-w-OSG--El-Toro/42832052/"
-     ]
-    ],
-    "title": "Wealthy Women",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-22"
   },
   "https://www.voodoobelfast.com/events/while-we're-still-young": {

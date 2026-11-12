@@ -14,7 +14,7 @@ sources:
   key: "empire:the-jazz-room-2"
   url: "https://www.thebelfastempire.com/music-hall/the-jazz-room-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-11T23:28:11Z"
+updated_at: "2026-11-12T07:08:33Z"
 backfill: true
 classification:
   is_music: true
