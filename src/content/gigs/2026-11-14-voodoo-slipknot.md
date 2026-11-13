@@ -17,7 +17,7 @@ sources:
   key: "voodoo:slipkorn"
   url: "https://www.voodoobelfast.com/events/slipkorn"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-13T14:32:56Z"
+updated_at: "2026-11-13T18:08:58Z"
 backfill: true
 classification:
   is_music: true

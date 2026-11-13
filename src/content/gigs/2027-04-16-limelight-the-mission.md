@@ -14,12 +14,14 @@ genres:
 tickets:
 - source: "signup.shine.net"
   url: "https://signup.shine.net/PRESALE-THE-MISSION"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/the-mission-40th-anniversary-tour-belfast-16-04-2027/event/3800656592AA184E"
 sources:
 - name: "limelight"
   key: "limelight:11876"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-09T16:15:01Z"
-updated_at: "2026-11-09T16:15:01Z"
+updated_at: "2026-11-13T18:08:58Z"
 classification:
   is_music: true
   confidence: 0.9
