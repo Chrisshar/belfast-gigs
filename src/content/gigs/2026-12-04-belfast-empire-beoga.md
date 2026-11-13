@@ -15,7 +15,7 @@ sources:
   key: "empire:beoga-with-friends-2"
   url: "https://www.thebelfastempire.com/music-hall/beoga-with-friends-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-13T18:08:58Z"
+updated_at: "2026-11-13T22:36:42Z"
 backfill: true
 classification:
   is_music: true
