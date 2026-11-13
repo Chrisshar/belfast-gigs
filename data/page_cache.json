@@ -1611,38 +1611,7 @@
    "lastmod": "2026-04-14"
   },
   "https://www.voodoobelfast.com/events/car-bomb": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-12",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 25.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:car-bomb",
-    "source_url": "https://www.voodoobelfast.com/events/car-bomb",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Skiddle",
-      "https://www.skiddle.com/whats-on/Belfast/Voodoo/Car-Bomb--Frontierer-Thurs-12th-Nov-Voodoo-Belfast/42400996/"
-     ]
-    ],
-    "title": "Car Bomb",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/cavalier-attitude": {

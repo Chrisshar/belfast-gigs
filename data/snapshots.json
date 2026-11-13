@@ -672,40 +672,6 @@
   "title": "Evergrey",
   "venue": "limelight"
  },
- "06acd4b9-2908-48c5-8e77-b2d5a1637aa3": {
-  "age_restriction": null,
-  "date": "2026-11-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Ed Cosens",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "harrison:ed-cosens",
-    "name": "harrison",
-    "url": "https://www.chambersofdistinction.com/unified-calendar/ed-cosens"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.sg/e/ed-cosens-tickets-1992858623790?aff=ebdsoporgprofile"
-   }
-  ],
-  "title": "Ed Cosens",
-  "venue": "the-harrison"
- },
  "06bfcd12-524e-41bf-a08a-8c1a4f74285c": {
   "age_restriction": null,
   "date": "2026-11-22",
@@ -1587,42 +1553,6 @@
   ],
   "title": "A Little Winter Herbal Hymnal",
   "venue": "black-box"
- },
- "11298abb-4cab-4d27-ac65-32e1b4d39cca": {
-  "age_restriction": null,
-  "date": "2026-11-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Conor Mallon",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:121126-2",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/121126-2"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": [
-   "Dara Dubh"
-  ],
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/121126-2"
-   }
-  ],
-  "title": "The Budvar Music Trail: Conor Mallon & Dara Dubh",
-  "venue": "oh-yeah"
  },
  "1202907b-a712-431d-b58d-b95a8635e6ad": {
   "age_restriction": null,
@@ -2990,40 +2920,6 @@
   "title": "Linkin Cork!",
   "venue": "voodoo"
  },
- "26fc71d6-2484-4fab-845a-a321d7fd4eb7": {
-  "age_restriction": null,
-  "date": "2026-11-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "A Night for Jamesy Kilpatrick",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:a-night-for-jamesy-kilpatrick",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/a-night-for-jamesy-kilpatrick/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "TicketSource",
-    "url": "https://www.ticketsource.com/black-rose-the-band/a-night-for-big-jamesy/2026-11-12/20:00/t-njdjvdx"
-   }
-  ],
-  "title": "A Night for Jamesy Kilpatrick",
-  "venue": "belfast-empire"
- },
  "2822891c-3677-4ed0-9409-ce79ac8606de": {
   "age_restriction": null,
   "date": "2026-12-11",
@@ -3772,40 +3668,6 @@
   ],
   "title": "Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
   "venue": "oh-yeah"
- },
- "397b8564-8abe-4b4d-ad37-fd78255992a4": {
-  "age_restriction": null,
-  "date": "2026-11-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal",
-   "Punk/Hardcore"
-  ],
-  "headliner": "Car Bomb",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 25.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:car-bomb",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/car-bomb"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Skiddle",
-    "url": "https://www.skiddle.com/whats-on/Belfast/Voodoo/Car-Bomb--Frontierer-Thurs-12th-Nov-Voodoo-Belfast/42400996/"
-   }
-  ],
-  "title": "Car Bomb",
-  "venue": "voodoo"
  },
  "3a0de904-02ed-4508-873e-1129458c4254": {
   "age_restriction": null,
@@ -5205,40 +5067,6 @@
   "tickets": null,
   "title": "Niall Horan: Dinner Party Live on Tour",
   "venue": "the-o2-belfast"
- },
- "4aba0186-ffe4-4a44-a5c1-ebb625ef517c": {
-  "age_restriction": null,
-  "date": "2026-11-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Martyn Joseph",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 23.72,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:martyn-joseph",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martyn-joseph"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/martyn-joseph"
-   }
-  ],
-  "title": "Martyn Joseph",
-  "venue": "crescent-arts-centre"
  },
  "4acf21ba-d4f9-4ed9-9306-c54132a83608": {
   "age_restriction": "18+",
@@ -8808,39 +8636,6 @@
   ],
   "title": "Nubiyan Twist",
   "venue": "limelight"
- },
- "8a716556-edc3-4a8f-8c08-d7209c25e94f": {
-  "age_restriction": null,
-  "date": "2026-11-12",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Cora Harkin",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:sound-of-belfast-festival-the-budvar-music-trail-cora-harkin",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-cora-harkin/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/sound-of-belfast-festival-the-budvar-music-trail-cora-harkin/"
-   }
-  ],
-  "title": "Sound of Belfast Festival: The Budvar Music Trail – Cora Harkin",
-  "venue": "black-box"
  },
  "8aa6cec8-8685-4488-b0ed-0f71193eedda": {
   "age_restriction": null,

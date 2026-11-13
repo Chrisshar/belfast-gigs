@@ -17,7 +17,7 @@ sources:
   key: "mandelaweb:rockfast-3"
   url: "https://www.mandelahall.com/events/rockfast-3"
 first_seen: "2026-11-04T14:29:37Z"
-updated_at: "2026-11-12T23:39:36Z"
+updated_at: "2026-11-13T07:08:36Z"
 classification:
   is_music: true
   confidence: 0.6
