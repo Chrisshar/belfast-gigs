@@ -15,12 +15,14 @@ genres:
 tickets:
 - source: "venuecloud.net"
   url: "https://www.venuecloud.net/s/f/35/256"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/artist/771959?venueId=460577"
 sources:
 - name: "limelight"
   key: "limelight:11726"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-11-13T14:32:56Z"
 backfill: true
 classification:
   is_music: true

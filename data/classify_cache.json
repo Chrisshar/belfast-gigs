@@ -863,6 +863,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "142b290cf3fcf62f": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Jeffrey Martin",
+  "is_music": true,
+  "last_seen": "2026-11-13",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "143df5fe81cb3d0f": {
   "confidence": 0.7,
   "genres": [],
@@ -1674,6 +1686,18 @@
   "genres": [],
   "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
   "is_music": false,
+  "last_seen": "2026-11-13",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "278ac1f5778df0ef": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Showhawk Duo",
+  "is_music": true,
   "last_seen": "2026-11-13",
   "model": "claude-haiku-5-5",
   "support": []
@@ -2587,6 +2611,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "4330b23e9090130f": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana",
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Hayseed Dixie",
+  "is_music": true,
+  "last_seen": "2026-11-13",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "433f4e77c7609102": {
   "confidence": 0.6,
   "genres": [
@@ -3068,6 +3105,19 @@
   ],
   "headliner": "Ulster Orchestra: The Magic Of Christmas",
   "is_music": false,
+  "last_seen": "2026-11-13",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "55febea8405cadd3": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Rammlied",
+  "is_music": true,
   "last_seen": "2026-11-13",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6190,6 +6240,17 @@
   ],
   "headliner": "Glasvegas",
   "is_music": true,
+  "last_seen": "2026-11-13",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bac0a1e799ca52ad": {
+  "confidence": 0.7,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "The Summer Series 2027 - The 30+ Club",
+  "is_music": false,
   "last_seen": "2026-11-13",
   "model": "claude-haiku-5-5",
   "support": []

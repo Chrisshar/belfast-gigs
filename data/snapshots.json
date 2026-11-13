@@ -2234,7 +2234,9 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "Reigns"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",
@@ -2547,6 +2549,10 @@
    {
     "source": "venuecloud.net",
     "url": "https://www.venuecloud.net/s/f/35/256"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/771959?venueId=460577"
    }
   ],
   "title": "The Summer Series 2027 - Slash",
@@ -7136,6 +7142,39 @@
   "title": "OTL: Elaha Soroor & Kefaya",
   "venue": "black-box"
  },
+ "6d580974-d8ab-4b52-9ea1-2974fa830f99": {
+  "age_restriction": "30+",
+  "date": "2027-06-26",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "The Summer Series 2027 - The 30+ Club",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11885",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5458418?venueId=460577"
+   }
+  ],
+  "title": "The Summer Series 2027 - The 30+ Club",
+  "venue": "custom-house-square"
+ },
  "6e4c8815-19cc-4683-982a-2bead6f96609": {
   "age_restriction": null,
   "date": "2026-11-24",
@@ -8802,6 +8841,40 @@
   "title": "Picture This",
   "venue": "telegraph-building"
  },
+ "8df59fda-9439-4223-8d53-c375c5e2c936": {
+  "age_restriction": "18+",
+  "date": "2027-05-07",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Showhawk Duo",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11910",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-shadowhawk-duo-the-acoustic-rave-belfast-07-05-2027/event/3800656C867116D7"
+   }
+  ],
+  "title": "The Showhawk Duo",
+  "venue": "limelight"
+ },
  "8e6c19f4-8e34-48cb-bfd5-adba3343a496": {
   "age_restriction": null,
   "date": "2027-03-19",
@@ -8944,41 +9017,6 @@
   ],
   "title": "Teenage Fanclub",
   "venue": "belfast-empire"
- },
- "919ab001-959f-4313-8c3f-a7fb67cdbbaa": {
-  "age_restriction": "18+",
-  "date": "2027-05-21",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Country/Americana"
-  ],
-  "headliner": "Luke Combs UK",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11577",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "DJ Chris Armstrong"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/luke-combs-uk-21-05-2027/event/380065227AAC095A"
-   }
-  ],
-  "title": "Luke Combs UK",
-  "venue": "limelight"
  },
  "930c2d9a-7433-48e6-a8de-c2f50b4add90": {
   "age_restriction": "18+",
@@ -9563,6 +9601,40 @@
   "title": "South Arcade",
   "venue": "limelight"
  },
+ "9da628fa-6a7a-43b5-b0fb-1bfb7ad6bd94": {
+  "age_restriction": "18+",
+  "date": "2027-05-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Jeffrey Martin",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "duncairn:jeffreymartin2027",
+    "name": "duncairn",
+    "url": "https://www.theduncairn.com/events/jeffreymartin2027"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketsolve",
+    "url": "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173695741"
+   }
+  ],
+  "title": "Jeffrey Martin",
+  "venue": "the-duncairn"
+ },
  "9dd9725d-3126-4d07-b5b6-e0ecb794c83d": {
   "age_restriction": null,
   "date": "2026-11-25",
@@ -10093,6 +10165,10 @@
    {
     "source": "signup.shine.net",
     "url": "https://signup.shine.net/PRESALE-BASHT."
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5372632?venueId=459772"
    }
   ],
   "title": "Basht.",
@@ -11879,6 +11955,10 @@
    {
     "source": "signup.shine.net",
     "url": "https://signup.shine.net/PRESALE-CIARAN"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5771647?venueId=459772"
    }
   ],
   "title": "Ciarán",
@@ -12156,6 +12236,41 @@
   ],
   "title": "Josh Ritter",
   "venue": "mandela-hall"
+ },
+ "c6bf4ae3-a311-4d9c-9208-4d309fceb2ff": {
+  "age_restriction": null,
+  "date": "2027-03-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Country/Americana",
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "Hayseed Dixie",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 25.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:hayseed-dixie-3",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/hayseed-dixie-3/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/hayseed-dixie-belfast-05-03-2027/event/3800656A9CF00EF6"
+   }
+  ],
+  "title": "Hayseed Dixie",
+  "venue": "belfast-empire"
  },
  "c6efa597-12fc-4a66-ba09-54a66da8c4f7": {
   "age_restriction": null,
@@ -13277,6 +13392,10 @@
    {
     "source": "venuecloud.net",
     "url": "https://www.venuecloud.net/s/f/35/276"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5418252?venueId=460577"
    }
   ],
   "title": "The Summer Series 2027 - Sam Barber",
@@ -14064,6 +14183,41 @@
   ],
   "title": "O Holy Night",
   "venue": "ulster-hall"
+ },
+ "e8b22e72-fc1f-4513-8991-45b0c298891a": {
+  "age_restriction": "18+",
+  "date": "2027-06-04",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Rammlied",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11911",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/rammlied-belfast-04-06-2027/event/3800656C7C791401"
+   }
+  ],
+  "title": "Rammlied",
+  "venue": "limelight"
  },
  "e8f15d76-5e1b-4ec7-bb03-aadd39c05056": {
   "age_restriction": null,
