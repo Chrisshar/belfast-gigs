@@ -6565,9 +6565,9 @@
    "Soul/R&B/Funk"
   ],
   "headliner": "Brian Kennedy",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
-  "price_min": 30.0,
+  "price_min": 30,
   "room": null,
   "sources": [
    {
