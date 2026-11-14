@@ -74,17 +74,42 @@ input:placeholder-shown + .search-clear { display: none; }
 .intro h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); line-height: 1.15; font-weight: 500; margin: 0; max-width: 24ch; text-wrap: balance; }
 .intro p { color: var(--soft); margin: 8px 0 0; max-width: 60ch; }
 
-/* Home hero: "This week". Headline and counts on the left, the next few days' gigs on the right. */
-.hero { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 48px; align-items: start; padding: 56px 0 8px; }
-.hero .eyebrow { font-size: .85rem; color: var(--red-text); font-weight: 500; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
-.hero h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.05; font-weight: 500; letter-spacing: -.015em; margin: 12px 0 0; text-wrap: balance; }
-.hero .lede { color: var(--soft); font-size: 1.1rem; margin: 16px 0 0; max-width: 34ch; }
-.hero .lede b { color: var(--ink); font-weight: 500; }
-.jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; }
-.jump a { font: 500 .95rem var(--font); text-decoration: none; border: 1px solid var(--ink); border-radius: 999px; padding: 9px 16px; background: var(--card); }
-.jump a.primary { background: var(--slate); border-color: var(--slate); color: #fff; }
-.jump a:hover { filter: brightness(1.08); }
-.coming { background: var(--card); border: 1px solid var(--line); border-radius: 22px; padding: 18px 18px 8px; }
+/* Home hero: "One night out". A full-width band with a looping film (public/hero/) behind the
+   headline, a scrim keeping the copy readable, and the Coming up card inside the band on wide
+   screens. The scrim's numbers are checked against the film by higgsfield/contrast.mjs. */
+.hero { --scrim: 12 14 20; position: relative; margin-bottom: 32px; }
+.hero-band { position: relative; min-height: max(min(78svh, 760px), 560px); color: #fff; background: #151a24; isolation: isolate; display: flex; align-items: flex-end; }
+.hero-inner { width: 100%; }
+/* The poster still is always there; the video fades in over it once it is playing. */
+.hero-media { position: absolute; inset: 0; overflow: hidden; z-index: -1; }
+.hero-media :is(img, video) { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 60% 50%; }
+.hero-media video { opacity: 0; }
+.hero-media video.on { opacity: 1; }
+.hero-media::after { content: ''; position: absolute; inset: 0; background:
+  linear-gradient(90deg, rgb(var(--scrim) / .80) 0%, rgb(var(--scrim) / .55) 45%, rgb(var(--scrim) / .10) 78%, transparent 100%),
+  linear-gradient(0deg, rgb(var(--scrim) / .65) 0%, transparent 45%); }
+
+.hero-copy { position: relative; padding-block: 112px 48px; max-width: 40rem; }
+.hero .eyebrow { display: inline-flex; align-items: center; gap: 10px; margin: 0; padding: 6px 14px 6px 12px; border-radius: 999px; font-size: .9rem; font-weight: 500; background: rgb(255 255 255 / .12); border: 1px solid rgb(255 255 255 / .22); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.hero .eyebrow::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: #e2553c; }
+.hero h1 { font-size: clamp(2.6rem, 6.5vw, 5rem); line-height: 1; font-weight: 600; letter-spacing: -.025em; margin: 20px 0 0; max-width: 13ch; text-wrap: balance; }
+.hero .lede { font-size: 1.15rem; margin: 20px 0 0; max-width: 36ch; color: rgb(255 255 255 / .86); }
+.hero .lede b { color: #fff; font-weight: 600; }
+.jump { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+.jump a { font: 500 1rem var(--font); text-decoration: none; color: #fff; border: 1px solid rgb(255 255 255 / .6); border-radius: 999px; padding: 11px 20px; background: rgb(255 255 255 / .08); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.jump a.primary { background: var(--red-text); border-color: var(--red-text); }
+.jump a:hover { background: rgb(255 255 255 / .18); }
+.jump a.primary:hover { background: #a3361f; }
+.hero-band :focus-visible { outline-color: #fff; outline-offset: 3px; }
+
+/* Pause / play for the film (WCAG 2.2.2). Hidden until the film actually starts. */
+.hero-pause { position: absolute; top: 16px; right: 16px; width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; border: 1px solid rgb(255 255 255 / .45); background: rgb(var(--scrim) / .45); color: #fff; cursor: pointer; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.hero-pause svg { width: 16px; height: 16px; }
+.hero-pause .play, .hero-pause[aria-pressed='true'] .pause { display: none; }
+.hero-pause[aria-pressed='true'] .play { display: block; }
+
+.hero-below { position: relative; } /* paints the card above the band, which is positioned */
+.coming { background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 22px; padding: 18px 18px 8px; box-shadow: 0 1px 2px rgb(22 22 22 / .06), 0 24px 48px -16px rgb(22 22 22 / .28); }
 .coming h2 { font-size: 1rem; font-weight: 500; margin: 0 0 4px; display: flex; justify-content: space-between; align-items: baseline; }
 .coming h2 a { font-size: .85rem; color: var(--soft); }
 .cday { font-size: .78rem; color: var(--soft); text-transform: uppercase; letter-spacing: .08em; margin: 14px 0 6px; }
@@ -96,7 +121,37 @@ input:placeholder-shown + .search-clear { display: none; }
 .mini .t { font-size: .9rem; font-weight: 500; }
 .mini b { text-decoration: underline transparent; }
 .mini:hover b, .mini:focus-visible b { text-decoration-color: currentColor; }
-.hero-rule { height: 1px; background: var(--line); margin: 40px 0 28px; }
+
+/* Wide screens: the card sits inside the band beside the copy. Band and card share one grid cell,
+   so a card made tall by many days stretches the band instead of spilling out of it, and both are
+   centred so the headline and buttons stay up the page. */
+@media (min-width: 1040px) {
+  .hero { display: grid; }
+  .hero-band, .hero-below { grid-area: 1 / 1; }
+  .hero-band { align-items: center; }
+  .hero-copy { padding-block: 48px; max-width: min(40rem, 54%); }
+  .hero-below { width: 100%; align-self: center; padding-block: 40px; pointer-events: none; }
+  .coming { pointer-events: auto; margin-left: auto; width: min(32rem, 42%); }
+  .hero-pause { top: auto; bottom: 16px; }
+}
+/* Narrower: the card drops below the band, in two columns until phone width. */
+@media (max-width: 1039.98px) {
+  .hero-band { min-height: max(62svh, 520px); }
+  .hero-copy { padding-block: 96px 48px; }
+  .coming { margin-top: 24px; columns: 2; column-gap: 32px; }
+  .coming h2 { column-span: all; }
+  .coming > div { break-inside: avoid; }
+}
+@media (max-width: 640px) {
+  .hero-band { min-height: max(84svh, 520px); }
+  .hero-media :is(img, video) { object-position: 70% 50%; }
+  .hero-media::after { background: linear-gradient(0deg, rgb(var(--scrim) / .85) 0%, rgb(var(--scrim) / .55) 50%, rgb(var(--scrim) / .15) 100%); }
+  .hero-copy { padding-block: 88px 32px; }
+  .hero h1 { font-size: clamp(2.4rem, 11vw, 3rem); }
+  .hero .lede { font-size: 1.05rem; }
+  .jump a { padding: 10px 16px; font-size: .95rem; }
+  .coming { columns: 1; }
+}
 
 /* Filters */
 .filters { background: var(--card); border: 1px solid var(--line); border-radius: 28px; padding: 10px; display: grid; gap: 10px; }
@@ -244,11 +299,6 @@ input:placeholder-shown + .search-clear { display: none; }
   .carousel { --cols: 2; --gap: 10px; --art: 2.5; }
 }
 
-@media (max-width: 760px) {
-  .hero { grid-template-columns: 1fr; gap: 28px; padding-top: 32px; }
-  .hero-rule { margin-top: 28px; }
-}
-
 /* Motion. Everything that moves sits in this block, so prefers-reduced-motion turns all of it off.
    States still change, just instantly. Only transform and opacity move; colours cross-fade. */
 @media (prefers-reduced-motion: no-preference) {
@@ -259,6 +309,15 @@ input:placeholder-shown + .search-clear { display: none; }
     transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out), border-color var(--dur-fast) var(--ease-out), filter var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
   }
   :is(.chip, .carousel .nav, .layout button, .jump a, .btn):active { transform: scale(.97); }
+
+  /* Hero: the film fades in over its poster, the copy rises in once, the live dot pulses. */
+  .hero-media video { transition: opacity 900ms ease; }
+  .hero-copy > * { animation: hero-rise 600ms var(--ease-out) both; }
+  .hero-copy > :nth-child(2) { animation-delay: 60ms; }
+  .hero-copy > :nth-child(3) { animation-delay: 120ms; }
+  .hero-copy > :nth-child(4) { animation-delay: 180ms; }
+  .hero .eyebrow::before { animation: hero-live 2.4s ease-out infinite; }
+  .hero-pause { transition: background-color var(--dur-fast) var(--ease-out); }
   :is(.mini b, .coming h2 a, .detail .where a, .detail .more-info a, .site-footer a) { transition: text-decoration-color var(--dur-fast) var(--ease-out); }
 
   /* Cards lift 2px; list rows only firm their border, since they're stacked close. */
@@ -298,6 +357,8 @@ input:placeholder-shown + .search-clear { display: none; }
 
 @keyframes fade-in { from { opacity: .4; } }
 @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+@keyframes hero-rise { from { opacity: 0; transform: translateY(14px); } }
+@keyframes hero-live { 0% { box-shadow: 0 0 0 0 rgb(226 85 60 / .6); } 70%, 100% { box-shadow: 0 0 0 10px rgb(226 85 60 / 0); } }
 
 @media (max-width: 640px) {
   .filters { border-radius: 22px; }

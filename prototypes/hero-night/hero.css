@@ -1,0 +1,105 @@
+/* Hero "One night out": a full-bleed video band with the copy over a scrim, and the Coming up
+   card hanging off the band's bottom edge on wide screens. This file becomes the hero section of
+   src/styles/global.css once the prototype is approved. */
+
+.hero { --band-h: min(78svh, 760px); --overhang: 80px; --scrim: 12 14 20; position: relative; }
+.hero-band { position: relative; min-height: max(var(--band-h), 560px); color: #fff; background: #151a24; isolation: isolate; display: flex; align-items: flex-end; }
+
+/* Media: the poster still is always there; the video fades in over it once it is playing. */
+.hero-media { position: absolute; inset: 0; overflow: hidden; z-index: -1; }
+.hero-media :is(img, video) { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 60% 50%; }
+.hero-media video { opacity: 0; transition: opacity 900ms ease; }
+.hero-media video.on { opacity: 1; }
+/* Stand-in until the stills exist: the grade's two poles, slate night and brick/amber stage light. */
+.hero-media .standin { position: absolute; inset: 0; background:
+  radial-gradient(60% 70% at 78% 62%, rgb(217 164 65 / .85), transparent 60%),
+  radial-gradient(45% 55% at 92% 30%, rgb(200 69 47 / .9), transparent 65%),
+  linear-gradient(160deg, #1b2a40 0%, #2f4a6d 45%, #3b2230 100%); }
+/* The scrim: dark on the copy side and along the bottom, clear over the right-hand picture. */
+.hero-media::after { content: ''; position: absolute; inset: 0; background:
+  linear-gradient(90deg, rgb(var(--scrim) / .80) 0%, rgb(var(--scrim) / .55) 45%, rgb(var(--scrim) / .10) 78%, transparent 100%),
+  linear-gradient(0deg, rgb(var(--scrim) / .65) 0%, transparent 45%); }
+
+.hero-copy { position: relative; padding-block: 112px calc(var(--overhang) + 24px); max-width: 40rem; }
+.hero .eyebrow { display: inline-flex; align-items: center; gap: 10px; margin: 0; padding: 6px 14px 6px 12px; border-radius: 999px; font-size: .9rem; font-weight: 500; color: #fff; background: rgb(255 255 255 / .12); border: 1px solid rgb(255 255 255 / .22); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.hero .eyebrow::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: #e2553c; box-shadow: 0 0 0 0 rgb(226 85 60 / .6); }
+.hero h1 { font-size: clamp(2.6rem, 6.5vw, 5rem); line-height: 1; font-weight: 600; letter-spacing: -.025em; margin: 20px 0 0; max-width: 13ch; text-wrap: balance; }
+.hero .lede { font-size: 1.15rem; margin: 20px 0 0; max-width: 36ch; color: rgb(255 255 255 / .86); }
+.hero .lede b { color: #fff; font-weight: 600; }
+
+.jump { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+.jump a { font: 500 1rem var(--font); text-decoration: none; color: #fff; border: 1px solid rgb(255 255 255 / .6); border-radius: 999px; padding: 11px 20px; background: rgb(255 255 255 / .08); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.jump a.primary { background: #b83e2a; border-color: #b83e2a; }
+.jump a:hover { background: rgb(255 255 255 / .18); }
+.jump a.primary:hover { background: #a3361f; }
+.hero-band :focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+
+/* Pause / play (WCAG 2.2.2). Hidden until the video actually starts. */
+.hero-pause { position: absolute; top: 16px; right: 16px; width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; border: 1px solid rgb(255 255 255 / .45); background: rgb(var(--scrim) / .45); color: #fff; cursor: pointer; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.hero-pause[hidden] { display: none; }
+.hero-pause svg { width: 16px; height: 16px; }
+.hero-pause .play { display: none; }
+.hero-pause[aria-pressed='true'] .play { display: block; }
+.hero-pause[aria-pressed='true'] .pause { display: none; }
+
+/* Coming up: a raised white card. On wide screens it hangs off the band's bottom edge. */
+.hero-below { position: relative; }
+/* The live site's card, unchanged apart from a shadow so it lifts off the video. */
+.coming { background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 22px; padding: 18px 18px 8px; box-shadow: 0 1px 2px rgb(22 22 22 / .06), 0 24px 48px -16px rgb(22 22 22 / .28); }
+.coming h2 { font-size: 1rem; font-weight: 500; margin: 0 0 4px; display: flex; justify-content: space-between; align-items: baseline; }
+.coming h2 a { font-size: .85rem; color: var(--soft); }
+.cday { font-size: .78rem; color: var(--soft); text-transform: uppercase; letter-spacing: .08em; margin: 14px 0 6px; }
+.mini { display: grid; grid-template-columns: 2.75rem 1fr auto; gap: 12px; align-items: center; text-decoration: none; color: inherit; padding: 6px 0; border-top: 1px solid var(--line); }
+.cday + .mini { border-top: 0; }
+.mini .art { width: 2.75rem; height: 2.75rem; border-radius: 6px; overflow: hidden; }
+.mini .art svg { width: 100%; height: 100%; display: block; }
+.mini b { display: block; font-weight: 600; font-size: .98rem; line-height: 1.25; }
+.mini span span { font-size: .85rem; color: var(--soft); }
+.mini .t { font-size: .9rem; font-weight: 500; }
+.mini:hover b { text-decoration: underline; }
+
+@media (min-width: 1040px) {
+  .hero-copy { max-width: min(40rem, 54%); }
+  /* The card sits inside the band, bottom edge level with the copy's. Band and card share one grid
+     cell, so the band grows to fit the card on short screens instead of the card spilling out. */
+  .hero { --overhang: 0px; margin-bottom: 32px; display: grid; }
+  .hero-band, .hero-below { grid-area: 1 / 1; }
+  /* Copy and card are centred in the band, so a band stretched by a tall card (many days) keeps
+     the headline and buttons up the page rather than pushing them towards the fold. */
+  .hero-band { align-items: center; }
+  .hero-copy { padding-block: 48px; }
+  .hero-below { width: 100%; align-self: center; padding-block: 40px; pointer-events: none; }
+  .coming { pointer-events: auto; margin-left: auto; width: min(32rem, 42%); }
+  .hero-pause { top: auto; bottom: 16px; }
+}
+@media (max-width: 1039.98px) {
+  .hero { --overhang: 0px; }
+  .hero-band { min-height: max(62svh, 520px); }
+  .hero-copy { padding-block: 96px 48px; }
+  .coming { margin-top: 24px; columns: 2; column-gap: 32px; }
+  .coming h2 { column-span: all; }
+  .coming > div { break-inside: avoid; }
+  .hero { margin-bottom: 32px; }
+}
+@media (max-width: 640px) {
+  .hero-band { min-height: max(84svh, 520px); }
+  .hero-media :is(img, video) { object-position: 70% 50%; }
+  .hero-media::after { background: linear-gradient(0deg, rgb(var(--scrim) / .85) 0%, rgb(var(--scrim) / .55) 50%, rgb(var(--scrim) / .15) 100%); }
+  .hero-copy { padding-block: 88px 32px; }
+  .hero h1 { font-size: clamp(2.4rem, 11vw, 3rem); }
+  .hero .lede { font-size: 1.05rem; }
+  .jump a { padding: 10px 16px; font-size: .95rem; }
+  .coming { columns: 1; }
+}
+
+/* Motion: the copy rises in once, the live dot pulses. Nothing moves with reduced motion. */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-copy > * { animation: hero-rise 600ms cubic-bezier(.2, .7, .2, 1) both; }
+  .hero-copy > :nth-child(2) { animation-delay: 60ms; }
+  .hero-copy > :nth-child(3) { animation-delay: 120ms; }
+  .hero-copy > :nth-child(4) { animation-delay: 180ms; }
+  .hero .eyebrow::before { animation: hero-live 2.4s ease-out infinite; }
+  .jump a, .hero-pause { transition: background-color 120ms ease; }
+}
+@keyframes hero-rise { from { opacity: 0; transform: translateY(14px); } }
+@keyframes hero-live { 0% { box-shadow: 0 0 0 0 rgb(226 85 60 / .6); } 70%, 100% { box-shadow: 0 0 0 10px rgb(226 85 60 / 0); } }

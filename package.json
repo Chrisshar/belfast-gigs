@@ -12,11 +12,13 @@
     "preview": "astro preview",
     "check": "astro check",
     "test": "node --test src/lib/*.test.ts",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "seedance": "node --env-file-if-exists=.env.local higgsfield/index.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
     "@fontsource/jost": "^5.3.0",
+    "@higgsfield/client": "^0.2.6",
     "astro": "^7.4.2"
   },
   "devDependencies": {

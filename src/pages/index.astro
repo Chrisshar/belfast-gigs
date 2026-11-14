@@ -23,8 +23,7 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
 ---
 
 <Base>
-  <Hero views={views} />
-  <div class="hero-rule"></div>
+  <Hero slot="hero" views={views} />
 
   <FilterBar venues={venues} months={[...byMonth.keys()]} genres={genres} areas={areas} />
   <Legend genres={genres} other={other} />
@@ -97,8 +96,10 @@ const areas = [...new Set(views.map((v) => v.area))].sort();
 <script>
   import { initCarousel } from '../scripts/carousel';
   import { initFilters } from '../scripts/filters';
+  import { initHero } from '../scripts/hero';
   import { initMotion } from '../scripts/motion';
   initCarousel();
   initFilters();
+  initHero();
   initMotion();
 </script>

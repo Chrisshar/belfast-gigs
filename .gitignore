@@ -24,3 +24,11 @@ Thumbs.db
 .vscode/
 .env
 .dev.vars
+
+# Local secrets (Higgsfield HF_CREDENTIALS etc.)
+.env.local
+.env.*.local
+
+# Raw Higgsfield generations (keyframes/ holds the approved stills and is committed)
+higgsfield/out/
+prototypes/hero-night/media/
