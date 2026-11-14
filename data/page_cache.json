@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7545",
    "3634",
    "7357",
    "7706",
@@ -219,41 +218,6 @@
      ]
     ],
     "title": "Beyond the Music: U2 REIMAGINED",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
-  },
-  "https://www.mandelahall.com/events/brian-kennedy": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2027-01-20",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 30.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:brian-kennedy",
-    "source_url": "https://www.mandelahall.com/events/brian-kennedy",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/brian-kennedy"
-     ]
-    ],
-    "title": "Brian Kennedy *rescheduled date*",
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-11"
@@ -1715,38 +1679,7 @@
    "lastmod": "2025-11-19"
   },
   "https://www.voodoobelfast.com/events/emo-rave": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-13",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 15.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:emo-rave",
-    "source_url": "https://www.voodoobelfast.com/events/emo-rave",
-    "start_time": "22:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/the-emo-rave-tickets-1998428353000?aff=ebdssbdestsearch"
-     ]
-    ],
-    "title": "Emo Rave",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/enuff-z'nuff": {
@@ -1939,10 +1872,6 @@
   "https://www.voodoobelfast.com/events/h%C3%A6resy": {
    "event": null,
    "lastmod": "2026-08-13"
-  },
-  "https://www.voodoobelfast.com/events/haint": {
-   "event": null,
-   "lastmod": "2025-11-13"
   },
   "https://www.voodoobelfast.com/events/hard-bizkit": {
    "event": {
@@ -2830,38 +2759,7 @@
    "lastmod": "2026-05-28"
   },
   "https://www.voodoobelfast.com/events/while-were-still-young": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-13",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 20.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:while-were-still-young",
-    "source_url": "https://www.voodoobelfast.com/events/while-were-still-young",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/while-were-still-young-emo-tribute-band-tickets-1998640814478?aff=ebdssbdestsearch"
-     ]
-    ],
-    "title": "While We'Re Still Young",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/whiskey-business": {

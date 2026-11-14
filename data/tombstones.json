@@ -51,17 +51,6 @@
   "reason": "deleted"
  },
  {
-  "id": "c7691df2-a323-416d-bc5d-52fc0f829142",
-  "keys": [
-   "deershead:noughtie-nineties-90s-00s"
-  ],
-  "fingerprint": "deers-head|2026-11-13|noughtie nineties 90s 00s",
-  "date": "2026-11-13",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
   "id": "e94c3794-923d-4cce-b82e-435c754b04c8",
   "keys": [
    "empire:now-the-90s-3-3"

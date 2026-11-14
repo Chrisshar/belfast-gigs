@@ -434,40 +434,6 @@
   "title": "Dock Street Jazz Jam",
   "venue": "american-bar"
  },
- "04dbfae1-83e8-449c-bc8f-584d65aa6d36": {
-  "age_restriction": null,
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Punk/Hardcore"
-  ],
-  "headliner": "While We'Re Still Young",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:while-were-still-young",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/while-were-still-young"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/while-were-still-young-emo-tribute-band-tickets-1998640814478?aff=ebdssbdestsearch"
-   }
-  ],
-  "title": "While We'Re Still Young",
-  "venue": "voodoo"
- },
  "0558cad4-e464-4e4c-9e34-3c2a3fc13ba9": {
   "age_restriction": "18+",
   "date": "2026-12-04",
@@ -4768,40 +4734,6 @@
   "title": "Stop Making Sense Live",
   "venue": "limelight"
  },
- "4705a9ac-d58d-47f0-a65b-29d8ca4d3541": {
-  "age_restriction": "18+",
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "The Ties That Bind - Sing for your Supper",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "duncairn:tatty-sfys-26",
-    "name": "duncairn",
-    "url": "https://www.theduncairn.com/events/tatty-sfys-26"
-   }
-  ],
-  "start_time": "18:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "The Duncairn",
-    "url": "https://www.theduncairn.com/events/tatty-sfys-26"
-   }
-  ],
-  "title": "The Ties That Bind - Sing for your Supper",
-  "venue": "the-duncairn"
- },
  "482ca376-f442-4a46-a1ec-080410f17b25": {
   "age_restriction": "18+",
   "date": "2026-11-26",
@@ -5775,43 +5707,6 @@
   ],
   "title": "CQAF Presents: The Delines",
   "venue": "the-duncairn"
- },
- "5594c6f2-100a-46c6-bd3f-8e9bedc83f7d": {
-  "age_restriction": "18+",
-  "date": "2026-11-13",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Rock"
-  ],
-  "headliner": "Divides Unfold",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11582",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Saffron Gorman",
-   "The Black Eagle Band"
-  ],
-  "tickets": [
-   {
-    "source": "Skiddle",
-    "url": "https://www.skiddle.com/e/42704842"
-   }
-  ],
-  "title": "Divides Unfold",
-  "venue": "limelight"
  },
  "56b0800c-3ca7-40ca-af24-f6e1b7bf73c3": {
   "age_restriction": null,
@@ -7683,40 +7578,6 @@
   ],
   "title": "Belsonic 2027 - Kingfishr",
   "venue": "ormeau-park"
- },
- "794ae8a1-8c42-4b92-a4b1-ec2e8ebc7ac9": {
-  "age_restriction": null,
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "World",
-   "Rock"
-  ],
-  "headliner": "Joachim Cooder with Adriano Viterbini",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 25.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:joachim-cooder-with-adriano-viterbini",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/joachim-cooder-with-adriano-viterbini"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/joachim-cooder-with-adriano-viterbini"
-   }
-  ],
-  "title": "Joachim Cooder with Adriano Viterbini",
-  "venue": "crescent-arts-centre"
  },
  "79ec6f14-e0c6-480f-bef9-15776fe06e49": {
   "age_restriction": null,
@@ -9911,34 +9772,6 @@
   "title": "Defying Gravity",
   "venue": "waterfront-hall"
  },
- "a0caa01c-af7b-436c-915e-9d320b1e8ec9": {
-  "age_restriction": null,
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues"
-  ],
-  "headliner": "The Jazz Room",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 24.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:the-jazz-room-2",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-2/"
-   }
-  ],
-  "start_time": "18:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": null,
-  "title": "The Jazz Room",
-  "venue": "belfast-empire"
- },
  "a21db514-cdee-42b0-82c8-b95bc0a03332": {
   "age_restriction": null,
   "date": "2027-01-14",
@@ -9971,40 +9804,6 @@
   ],
   "title": "OTL: Lunch with The Causeway Shantymen",
   "venue": "black-box"
- },
- "a3176b7a-eeaa-41bc-85ca-f1577c1e47eb": {
-  "age_restriction": null,
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "The Fray",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:the-fray",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/the-fray/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/the-fray/"
-   }
-  ],
-  "title": "The Fray",
-  "venue": "ulster-hall"
  },
  "a3497f8d-5877-4e8c-a75f-cf1fb8b52cd5": {
   "age_restriction": null,
@@ -14255,40 +14054,6 @@
    }
   ],
   "title": "Muireann Bradley: Blackwood Pew 2027 Tour",
-  "venue": "oh-yeah"
- },
- "e91ad04e-e7b8-4710-a4df-747a06e3af4f": {
-  "age_restriction": null,
-  "date": "2026-11-13",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Clash of the New Breeds 2026",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:131126-3",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/131126-3"
-   }
-  ],
-  "start_time": "18:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/131126-3"
-   }
-  ],
-  "title": "Volume Control presents: Clash of the New Breeds 2026",
   "venue": "oh-yeah"
  },
  "e9edb7e6-01fe-405e-9141-482f97d8d460": {
