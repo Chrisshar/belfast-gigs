@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hero · One night out</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../index-base.css">
+<link rel="stylesheet" href="hero.css">
+<style>
+  /* Prototype glue: the live site's names for the base tokens. */
+  :root { --slate: var(--blue); --ochre: var(--yellow); }
+  /* Just announced cards carry the hero's colour down the page: a thin brick-to-ochre top edge. */
+  #recent .card { position: relative; overflow: hidden; }
+  #recent .card::before { content: ''; position: absolute; inset: 0 0 auto; height: 3px; z-index: 1; background: linear-gradient(90deg, var(--red), var(--yellow)); }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="#"><span id="mark"></span>Belfast Gigs</a>
+  <nav><a href="#" aria-current="page">Gigs</a><a href="#">Regular nights</a></nav>
+</div></header>
+
+<section class="hero" aria-labelledby="hero-h">
+  <div class="hero-band">
+    <div class="hero-media" aria-hidden="true">
+      <picture>
+        <source media="(max-width: 640px)" type="image/avif" srcset="media/night-poster-576x720-v1.avif">
+        <source media="(max-width: 640px)" srcset="media/night-poster-576x720-v1.jpg">
+        <source type="image/avif" srcset="media/night-poster-1280-v1.avif">
+        <img src="media/night-poster-1280-v1.jpg" width="1280" height="720" alt="" fetchpriority="high">
+      </picture>
+      <video data-hero-video muted playsinline loop preload="none" aria-hidden="true" tabindex="-1"
+        data-webm="media/night-1280-v1.webm" data-mp4="media/night-1280-v1.mp4"
+        data-phone-webm="media/night-576x720-v1.webm" data-phone-mp4="media/night-576x720-v1.mp4"></video>
+    </div>
+    <button type="button" class="hero-pause" data-hero-pause aria-pressed="false" aria-label="Pause background video" hidden>
+      <svg class="pause" viewBox="0 0 16 16" aria-hidden="true"><path d="M5 3v10M11 3v10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <svg class="play" viewBox="0 0 16 16" aria-hidden="true"><path d="M5 3.2v9.6L12.8 8z" fill="currentColor"/></svg>
+    </button>
+    <div class="wrap" style="width:100%">
+      <div class="hero-copy">
+        <p class="eyebrow" id="today"></p>
+        <h1 id="hero-h">Live music in Belfast, all in one place</h1>
+        <p class="lede" id="lede"></p>
+        <div class="jump"><a class="primary" href="#">Tonight</a><a href="#">This weekend</a><a href="#">Next 7 days</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="wrap hero-below">
+    <aside class="coming" aria-labelledby="coming-h">
+      <h2 id="coming-h">Coming up <a href="#upcoming">See all</a></h2>
+      <div id="week"></div>
+    </aside>
+  </div>
+</section>
+
+<div class="wrap">
+  <section aria-label="Filters"><div id="filters"></div><p id="count"></p></section>
+  <div class="sec"><h2>Just announced</h2><span>Added in the last fortnight</span></div>
+  <div id="recent"></div>
+  <div class="sec"><h2>Upcoming</h2></div>
+  <div id="upcoming"></div>
+  <div id="detail" hidden></div>
+  <footer>Hero · One night out</footer>
+</div>
+<script src="../gigs.js"></script>
+<script src="../instruments.js"></script>
+<script src="../logo.js"></script>
+<script src="../proto.js"></script>
+<script src="../hero-base.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const t = parts(TODAY);
+  document.querySelector("#today").textContent = `${t.dowLong} ${t.day} ${t.monLong}`;
+  const week = upcomingWithin(7);
+  document.querySelector("#lede").innerHTML = `<b>${GIGS.length} gigs</b> listed from venues across the city, <b>${week.length}</b> of them in the next seven days.`;
+  const shown = upcomingWithin(14).slice(0, 6);
+  const byDay = new Map();
+  for (const g of shown) byDay.set(g.date, [...(byDay.get(g.date) || []), g]);
+  // Each day is its own block, as in Hero.astro, so the two-column tablet layout keeps days whole.
+  document.querySelector("#week").outerHTML = [...byDay].map(([d, gigs]) => {
+    const p = parts(d);
+    return `<div><p class="cday">${p.dowLong} ${p.day} ${p.mon}</p>` + gigs.map((g) => `<a class="mini" href="#"><span class="art">${instrument(g.genres)}</span><span><b>${esc(g.headliner)}</b><span>${esc(g.venue)}</span></span><span class="t">${g.time ?? ""}</span></a>`).join("") + `</div>`;
+  }).join("");
+});
+</script>
+<script type="module">
+  import { initHero } from './hero.js';
+  initHero();
+</script>
+</body>
+</html>

@@ -1,3 +1,6 @@
 /gigs/*.ics
   Content-Type: text/calendar; charset=utf-8
   Cache-Control: public, max-age=3600
+
+/hero/*
+  Cache-Control: public, max-age=31536000, immutable

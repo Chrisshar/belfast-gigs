@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "crossfade": 0.6,
+  "loopFade": 1.0,
+  "phoneX": 0.7,
+  "av1Crf": 33,
+  "x264Crf": 25,
+  "shots": [
+    { "file": "out/1-cranes/clip-2026-11-14T02-20-41-0168cc8b.mp4", "in": 0.5, "len": 4.0 },
+    { "file": "out/2-lane/clip-2026-11-14T02-17-42-d8b95579.mp4", "in": 0.5, "len": 4.0 },
+    { "file": "out/3-door/clip-2026-11-14T02-20-10-2206dba0.mp4", "in": 0.5, "len": 3.5 },
+    { "file": "out/4-crowd/clip-2026-11-14T02-18-44-6ba73bd1.mp4", "in": 0.0, "len": 4.0 },
+    { "file": "out/5-stage/clip-2026-11-14T02-20-10-d17dee4c.mp4", "in": 0.5, "len": 4.5 }
+  ]
+}

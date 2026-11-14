@@ -1,0 +1,46 @@
+{
+  "style": "Photoreal cinematic film still, anamorphic 35mm lens, shallow depth of field, fine film grain, colour grade with deep slate-blue shadows and warm amber and brick-red light, no text, no signage, no logos, no faces in focus.",
+  "still": {
+    "endpoint": "higgsfield-ai/soul/cinema",
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "batch_size": 4,
+    "seed": 4242,
+    "enhance_prompt": false
+  },
+  "video": {
+    "endpoint": "bytedance/seedance-2.5/image-to-video",
+    "resolution": "720p",
+    "duration": 5,
+    "draft": { "resolution": "480p", "duration": 4 },
+    "generate_audio": false,
+    "usd_per_second": { "480p": 0.1177, "720p": 0.2647, "1080p": 0.6518 }
+  },
+  "shots": [
+    {
+      "id": "1-cranes",
+      "scene": "Blue hour over Belfast Lough, two enormous yellow Harland and Wolff gantry cranes silhouetted against a deep slate-blue sky with a last thin band of orange on the horizon, city lights beginning to glow along the water, light mist over the lough.",
+      "motion": "Slow, steady push-in toward the two cranes. City lights flicker on one by one and mist drifts across the water. Calm and continuous, no cuts."
+    },
+    {
+      "id": "2-lane",
+      "scene": "A narrow wet cobbled street in Belfast's Cathedral Quarter at night, red-brick and stone buildings, warm amber light spilling from old pub windows, a few people in winter coats seen from behind walking toward a glowing doorway at the end of the lane, reflections on the cobbles.",
+      "motion": "Low, smooth tracking shot following the people from behind as they walk down the lane. A light drizzle glistens in the window light. Continuous, no cuts."
+    },
+    {
+      "id": "3-door",
+      "scene": "A small queue outside the door of a red-brick Victorian music venue at night, a warm lamp above the door, breath visible in the cold air, a hand held out for an ink stamp, people seen from behind and the side with faces out of focus.",
+      "motion": "Gentle handheld drift toward the open door as the queue shuffles forward, breath steaming in the cold. Continuous, no cuts."
+    },
+    {
+      "id": "4-crowd",
+      "scene": "Inside a packed, hazy small music venue, seen from the back of the crowd between shoulders and raised hands, the stage glowing ahead in brick-red and amber light, haze catching beams of light, everyone facing away from the camera.",
+      "motion": "Smooth steadicam push forward through the crowd toward the stage. Light beams sweep through the haze and the crowd sways. Continuous, no cuts."
+    },
+    {
+      "id": "5-stage",
+      "scene": "From inside the crowd looking up at the stage, a guitarist backlit in silhouette, warm amber and brick-red stage lights with a soft lens flare, fans' raised hands in the soft-focus foreground.",
+      "motion": "Slow drift with a rack focus from the raised hands to the guitarist, then the stage lights fade from red and amber down to deep slate blue. Continuous, no cuts."
+    }
+  ]
+}
