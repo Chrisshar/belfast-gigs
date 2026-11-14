@@ -19,7 +19,7 @@ sources:
   key: "empire:hayseed-dixie-3"
   url: "https://www.thebelfastempire.com/music-hall/hayseed-dixie-3/"
 first_seen: "2026-11-13T14:32:56Z"
-updated_at: "2026-11-14T13:29:10Z"
+updated_at: "2026-11-14T18:08:39Z"
 classification:
   is_music: true
   confidence: 0.95
