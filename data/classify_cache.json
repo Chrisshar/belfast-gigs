@@ -3134,6 +3134,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "5656ff1fe81b1144": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Paul Weller Experience",
+  "is_music": true,
+  "last_seen": "2026-11-14",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "5689d00ff31f98f2": {
   "confidence": 0.8,
   "genres": [

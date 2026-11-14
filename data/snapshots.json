@@ -13029,6 +13029,41 @@
   "title": "The Fillers",
   "venue": "limelight"
  },
+ "d74edfe2-f5c6-491d-80d6-e31a2cdcbaa0": {
+  "age_restriction": "18+",
+  "date": "2027-04-23",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Paul Weller Experience",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11912",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5408522?venueId=461484"
+   }
+  ],
+  "title": "The Paul Weller Experience",
+  "venue": "limelight"
+ },
  "d80060da-d48b-4764-9467-8838d815701e": {
   "age_restriction": null,
   "date": "2027-05-06",
