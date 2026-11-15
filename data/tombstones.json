@@ -51,28 +51,6 @@
   "reason": "deleted"
  },
  {
-  "id": "e94c3794-923d-4cce-b82e-435c754b04c8",
-  "keys": [
-   "empire:now-the-90s-3-3"
-  ],
-  "fingerprint": "belfast-empire|2026-11-14|now 90s",
-  "date": "2026-11-14",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
-  "id": "0878d20b-9b33-4831-a4a5-a22e4b32cc9a",
-  "keys": [
-   "limelight:11603"
-  ],
-  "fingerprint": "limelight|2026-11-14|day fever",
-  "date": "2026-11-14",
-  "first_seen": "2026-10-25T17:32:54Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
   "id": "343fe12a-b404-4425-af2e-a2b52e12644d",
   "keys": [
    "limelight:11832"

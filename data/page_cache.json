@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7357",
    "7706",
    "7671",
    "650",
@@ -322,41 +321,6 @@
      ]
     ],
     "title": "Conleth McGeary",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
-  },
-  "https://www.mandelahall.com/events/duke-special": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-14",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 30.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:duke-special",
-    "source_url": "https://www.mandelahall.com/events/duke-special",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/duke-special"
-     ]
-    ],
-    "title": "Duke Special",
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-11"
@@ -1724,10 +1688,6 @@
    },
    "lastmod": "2026-09-10"
   },
-  "https://www.voodoobelfast.com/events/extc": {
-   "event": null,
-   "lastmod": "2025-11-14"
-  },
   "https://www.voodoobelfast.com/events/ez%2Fdc": {
    "event": null,
    "lastmod": "2026-03-11"
@@ -2376,38 +2336,7 @@
    "lastmod": "2026-03-03"
   },
   "https://www.voodoobelfast.com/events/slipkorn": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-14",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 20.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:slipkorn",
-    "source_url": "https://www.voodoobelfast.com/events/slipkorn",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/slipkorn-tickets-1998972375185?aff=ebdssbdestsearch"
-     ]
-    ],
-    "title": "Slipkorn",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/solitary": {

@@ -17,7 +17,7 @@ sources:
   key: "citizenticket:dock-street-jazz-club/dock-street-jazz-jam-1"
   url: "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-jam-1/"
 first_seen: "2026-10-25T22:50:12Z"
-updated_at: "2026-11-14T21:28:47Z"
+updated_at: "2026-11-15T07:08:30Z"
 backfill: true
 classification:
   is_music: true

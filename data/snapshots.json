@@ -2700,38 +2700,6 @@
   "title": "Jamie McIntyre",
   "venue": "limelight"
  },
- "24c280f4-3a1d-4a3c-8cf2-152b08092c14": {
-  "age_restriction": "18+",
-  "date": "2026-11-14",
-  "doors_time": "22:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues",
-   "Soul/R&B/Funk"
-  ],
-  "headliner": "JAZZY",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11904",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": [
-   "Joe Rolét",
-   "Kayleigh Glynn"
-  ],
-  "tickets": null,
-  "title": "JAZZY",
-  "venue": "limelight"
- },
  "2504e998-cd34-47c9-b2a8-caf3f3f638bb": {
   "age_restriction": null,
   "date": "2027-05-08",
@@ -3715,40 +3683,6 @@
   ],
   "title": "The Jury Experience - The Killer AI",
   "venue": "mandela-hall"
- },
- "3b3fc842-1e69-4fcc-a485-296c38a64143": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Ocean Colour Scene",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:ocean-colour-scene-2",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/ocean-colour-scene-2/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/ocean-colour-scene-2/"
-   }
-  ],
-  "title": "Ocean Colour Scene",
-  "venue": "ulster-hall"
  },
  "3b51b9f9-ad58-461a-bc83-3fab02ef4f89": {
   "age_restriction": "18+",
@@ -5047,40 +4981,6 @@
   ],
   "title": "The Sade Experience",
   "venue": "limelight"
- },
- "4b44778f-da4a-4afc-8e8c-2d78db3b73ae": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Indie/Alternative"
-  ],
-  "headliner": "Tom Gee",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:tom-gee-ep-launch-party",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/tom-gee-ep-launch-party"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/tom-gee-ep-launch-party"
-   }
-  ],
-  "title": "Tom Gee: EP Launch Party",
-  "venue": "crescent-arts-centre"
  },
  "4b5ca1ce-fc01-44c0-ad08-4aa0e3864c37": {
   "age_restriction": null,
@@ -7164,40 +7064,6 @@
   "title": "Guns Reloaded",
   "venue": "voodoo"
  },
- "6ffd14f0-a3d7-4155-8550-26ba184bca83": {
-  "age_restriction": "18+",
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "The Ties That Bind - Secret Song",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "duncairn:tttb-secretsong26",
-    "name": "duncairn",
-    "url": "https://www.theduncairn.com/events/tttb-secretsong26"
-   }
-  ],
-  "start_time": "18:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "The Duncairn",
-    "url": "https://www.theduncairn.com/events/tttb-secretsong26"
-   }
-  ],
-  "title": "The Ties That Bind - Secret Song",
-  "venue": "the-duncairn"
- },
  "705b1ab7-edee-43c0-bd2b-c73e0ba1be0f": {
   "age_restriction": null,
   "date": "2027-01-22",
@@ -7883,40 +7749,6 @@
   ],
   "title": "Moving on Music Presents: Mama's Broke",
   "venue": "the-duncairn"
- },
- "80713d57-1515-451e-ac44-b54742b6c291": {
-  "age_restriction": "18+",
-  "date": "2026-11-14",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "Pork Pie",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10401",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5332462?venueId=459772"
-   }
-  ],
-  "title": "Pork Pie",
-  "venue": "limelight"
  },
  "808d6fab-60d4-4841-a9da-2396f3949c55": {
   "age_restriction": null,
@@ -10667,42 +10499,6 @@
   ],
   "title": "Rumours of Fleetwood Mac",
   "venue": "waterfront-hall"
- },
- "b24bc404-63d3-46ec-b52b-9e13cdefb72f": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Tribute/Covers"
-  ],
-  "headliner": "THE PAUL WELLER EXPERIENCE",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 19.25,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:the-paul-weller-experience-special-guests-proper-london",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/the-paul-weller-experience-special-guests-proper-london/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": [
-   "PROPER"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/the-paul-weller-experience-belfast-14-11-2026/event/3800646B52010926"
-   }
-  ],
-  "title": "THE PAUL WELLER EXPERIENCE / Special Guests PROPER (London)",
-  "venue": "deers-head"
  },
  "b2526cc9-a61f-487c-873d-4f01e9076d70": {
   "age_restriction": null,
@@ -13921,39 +13717,6 @@
   "title": "Quire’s Big HoHoHo (Afternoon Show)",
   "venue": "black-box"
  },
- "e677b0e1-6308-4053-a85c-d33847f528e3": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Hip-Hop/Rap"
-  ],
-  "headliner": "Slipkorn",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:slipkorn",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/slipkorn"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/slipkorn-tickets-1998972375185?aff=ebdssbdestsearch"
-   }
-  ],
-  "title": "Slipkorn",
-  "venue": "voodoo"
- },
  "e7ed0cc6-c721-46a0-bf3a-abee471660a5": {
   "age_restriction": null,
   "date": "2027-05-21",
@@ -14090,50 +13853,6 @@
   ],
   "title": "Muireann Bradley: Blackwood Pew 2027 Tour",
   "venue": "oh-yeah"
- },
- "e9edb7e6-01fe-405e-9141-482f97d8d460": {
-  "age_restriction": "18+",
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Indie/Alternative",
-   "Pop"
-  ],
-  "headliner": "Duke Special - Songs From The Deep Forest 20th Anniversary",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 30.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandela:125711461",
-    "name": "mandela",
-    "url": "https://www.glistrr.com/events/e/duke-special-songs-from-the-deep-forest-20th-anniversary-32-364"
-   },
-   {
-    "key": "mandelaweb:duke-special",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/duke-special"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "sold_out",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/duke-special-songs-from-the-deep-forest-20th-anniversary-32-364"
-   },
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/duke-special"
-   }
-  ],
-  "title": "Duke Special - Songs From The Deep Forest 20th Anniversary",
-  "venue": "mandela-hall"
  },
  "eacd40b2-b371-4708-b55a-82eeb806d0f0": {
   "age_restriction": null,
@@ -15739,72 +15458,5 @@
   ],
   "title": "OLE 60",
   "venue": "limelight"
- },
- "ff22aba2-94b0-4639-9d39-4d755c7618e0": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Country/Americana"
-  ],
-  "headliner": "Whiski Road",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 13.7,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:whiski-road-4",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/whiski-road-4/"
-   }
-  ],
-  "start_time": "15:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.com/e/whiski-road-tickets-1998361424816"
-   }
-  ],
-  "title": "Whiski Road",
-  "venue": "deers-head"
- },
- "ffc48d86-abed-4b64-82df-320fd01056bc": {
-  "age_restriction": null,
-  "date": "2026-11-14",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Mark Hegan",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:sound-of-belfast-the-budvar-music-trail-mark-hegan-plus-support",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/sound-of-belfast-the-budvar-music-trail-mark-hegan-plus-support/"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/sound-of-belfast-the-budvar-music-trail-mark-hegan-plus-support/"
-   }
-  ],
-  "title": "Sound of Belfast: The Budvar Music Trail – Mark Hegan plus Support",
-  "venue": "black-box"
  }
 }
