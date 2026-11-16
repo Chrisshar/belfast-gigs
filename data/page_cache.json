@@ -24,6 +24,7 @@
    "7578",
    "7612",
    "7750",
+   "6215",
    "6640",
    "7550",
    "7561",
@@ -218,7 +219,42 @@
     "title": "Beyond the Music: U2 REIMAGINED",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
+  },
+  "https://www.mandelahall.com/events/brian-kennedy": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-01-20",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 30.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:brian-kennedy",
+    "source_url": "https://www.mandelahall.com/events/brian-kennedy",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/brian-kennedy"
+     ]
+    ],
+    "title": "Brian Kennedy *rescheduled date*",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/chris-kent": {
    "event": {
@@ -288,7 +324,7 @@
     "title": "Chris Kent",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/conleth-mcgeary": {
    "event": {
@@ -358,7 +394,7 @@
     "title": "Elvana",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/gareth": {
    "event": {
@@ -498,7 +534,7 @@
     "title": "Hothouse Flowers",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/jacek-stachursky": {
    "event": {
@@ -533,7 +569,7 @@
     "title": "Jacek Stachursky",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/josh-ritter": {
    "event": {
@@ -673,7 +709,7 @@
     "title": "Limehouse Lizzy",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/lindisfarne": {
    "event": {
@@ -708,7 +744,7 @@
     "title": "Lindisfarne",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/madra-salach": {
    "event": {
@@ -883,7 +919,7 @@
     "title": "Oasis Supernova",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/rock-icons-show": {
    "event": {
@@ -918,7 +954,7 @@
     "title": "Rock Icons Show",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/rockfast-3": {
    "event": {
@@ -953,7 +989,7 @@
     "title": "Rockfast 3",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/rodrigo-y-gabriela-": {
    "event": {
@@ -1128,7 +1164,7 @@
     "title": "Stuart Mitchell & Friends",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/susan-calman": {
    "event": {
@@ -1233,7 +1269,7 @@
     "title": "The John Martyn Project",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2": {
    "event": {
@@ -1338,7 +1374,7 @@
     "title": "Tindersticks",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
+   "lastmod": "2026-11-16"
   }
  },
  "voodoo": {

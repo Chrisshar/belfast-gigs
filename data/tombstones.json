@@ -181,16 +181,5 @@
   "first_seen": "2026-10-25T17:32:54Z",
   "backfill": true,
   "reason": "reclassified"
- },
- {
-  "id": "660ee11b-adde-468a-b120-010499bfb2a1",
-  "keys": [
-   "mandelaweb:brian-kennedy"
-  ],
-  "fingerprint": "qub-su|2027-01-20|brian kennedy",
-  "date": "2027-01-20",
-  "first_seen": "2026-10-26T16:14:13Z",
-  "backfill": true,
-  "reason": "vanished"
  }
 ]

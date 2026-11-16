@@ -25,7 +25,7 @@ sources:
   key: "mandelaweb:nothing-but-a-good-time"
   url: "https://www.mandelahall.com/events/nothing-but-a-good-time"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-16T07:08:40Z"
+updated_at: "2026-11-16T15:42:33Z"
 backfill: true
 classification:
   is_music: true

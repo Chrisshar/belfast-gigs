@@ -18,7 +18,7 @@ sources:
   key: "blackbox:the-unholy-gospel-band-27"
   url: "https://www.blackboxbelfast.com/event/the-unholy-gospel-band-27/"
 first_seen: "2026-11-10T14:51:03Z"
-updated_at: "2026-11-16T07:08:40Z"
+updated_at: "2026-11-16T15:42:33Z"
 classification:
   is_music: true
   confidence: 0.9

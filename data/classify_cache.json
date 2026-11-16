@@ -468,6 +468,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "0a511c51d1d66df5": {
+  "confidence": 0.97,
+  "genres": [
+   "Country/Americana",
+   "Pop",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Kacey Musgraves",
+  "is_music": true,
+  "last_seen": "2026-11-16",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0a82ec43a92d323e": {
   "confidence": 0.9,
   "genres": [
@@ -1474,6 +1487,21 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "22585254949e1c86": {
+  "confidence": 0.93,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "The Human League: Dusk 'Til Dawn",
+  "is_music": true,
+  "last_seen": "2026-11-16",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Marc Almond",
+   "Haircut 100"
+  ]
+ },
  "23018699a4c5a668": {
   "confidence": 0.95,
   "genres": [
@@ -1818,7 +1846,7 @@
   ],
   "headliner": "Brian Kennedy",
   "is_music": true,
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-16",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -3757,6 +3785,18 @@
    "Pigeon Pit"
   ]
  },
+ "6a5b3491f9c2cb0a": {
+  "confidence": 0.8,
+  "genres": [
+   "Contemporary/New Music",
+   "World"
+  ],
+  "headliner": "ANÚNA",
+  "is_music": true,
+  "last_seen": "2026-11-16",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6ad02073dd227205": {
   "confidence": 0.7,
   "genres": [
@@ -3794,6 +3834,21 @@
   "last_seen": "2026-11-16",
   "model": "claude-haiku-5-5",
   "support": []
+ },
+ "6c203f9f5a5f604b": {
+  "confidence": 0.97,
+  "genres": [
+   "Metal",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Xentrix",
+  "is_music": true,
+  "last_seen": "2026-11-16",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Nervosa",
+   "Tortured Demon"
+  ]
  },
  "6cbacd2b92193841": {
   "confidence": 0.8,
@@ -5325,6 +5380,20 @@
   "last_seen": "2026-11-08",
   "model": "claude-haiku-5-5",
   "support": []
+ },
+ "9f5a20de0914a6d6": {
+  "confidence": 0.9,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Steps: 30 Live",
+  "is_music": true,
+  "last_seen": "2026-11-16",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "B*Witched",
+   "A1"
+  ]
  },
  "9f611d0142dab3e9": {
   "confidence": 0.95,
