@@ -535,41 +535,6 @@
    },
    "lastmod": "2026-11-11"
   },
-  "https://www.mandelahall.com/events/john-cooper-clarke": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-15",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 32.5,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:john-cooper-clarke",
-    "source_url": "https://www.mandelahall.com/events/john-cooper-clarke",
-    "start_time": "19:30",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/john-cooper-clarke"
-     ]
-    ],
-    "title": "John Cooper Clarke",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
-  },
   "https://www.mandelahall.com/events/josh-ritter": {
    "event": {
     "address": null,

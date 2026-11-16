@@ -15,7 +15,7 @@ sources:
   key: "voodoo:shes-the-riot"
   url: "https://www.voodoobelfast.com/events/shes-the-riot"
 first_seen: "2026-10-29T18:08:31Z"
-updated_at: "2026-11-15T21:47:17Z"
+updated_at: "2026-11-16T07:08:40Z"
 classification:
   is_music: true
   confidence: 0.85

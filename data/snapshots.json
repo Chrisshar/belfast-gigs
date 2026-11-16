@@ -168,40 +168,6 @@
   "title": "High Kings",
   "venue": "waterfront-hall"
  },
- "0135bd1f-bfec-439c-adb8-869a77ed0b10": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Dani Larkin",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 17.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:dani-larkin",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/dani-larkin"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/dani-larkin"
-   }
-  ],
-  "title": "Dani Larkin",
-  "venue": "crescent-arts-centre"
- },
  "02144a1e-b854-42e4-900a-8799bfeef79c": {
   "age_restriction": null,
   "date": "2027-05-22",
@@ -740,39 +706,6 @@
   ],
   "title": "Dock Street Jazz Club: Tom Remon (UK)",
   "venue": "american-bar"
- },
- "07bf3b9b-719b-4329-9224-ba1b4f622c0c": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative"
-  ],
-  "headliner": "Outburst Arts Festival 2027: Catflap #6 LIVE",
-  "needs_review": true,
-  "price_max": 10.0,
-  "price_min": 7.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:outburst-arts-festival-2027-catflap-6-live",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/outburst-arts-festival-2027-catflap-6-live/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/outburst-arts-festival-2027-catflap-6-live/"
-   }
-  ],
-  "title": "Outburst Arts Festival 2027: Catflap #6 LIVE",
-  "venue": "black-box"
  },
  "08632647-4c36-4cd9-b52c-e8ed53031f55": {
   "age_restriction": null,
@@ -4914,36 +4847,6 @@
   "title": "Second Show: Oh Yeah Music Centre & Out To Lunch present: 40 Years of Franks Wild Years",
   "venue": "oh-yeah"
  },
- "4a6eda1a-a9d8-4fbf-8308-c0b4d05f4115": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "Niall Horan",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:298884:2026-11-15",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/niall-horan-dinner-party-live-on-tour"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": [
-   "Flowerovlove"
-  ],
-  "tickets": null,
-  "title": "Niall Horan: Dinner Party Live on Tour",
-  "venue": "the-o2-belfast"
- },
  "4acf21ba-d4f9-4ed9-9306-c54132a83608": {
   "age_restriction": "18+",
   "date": "2027-09-04",
@@ -7615,12 +7518,13 @@
  },
  "7e92e771-fbf1-4525-96e2-018885c98110": {
   "age_restriction": null,
-  "date": "2026-11-16",
-  "doors_time": "18:30",
-  "end_date": null,
+  "date": "2026-11-15",
+  "doors_time": null,
+  "end_date": "2026-11-16",
   "free": null,
   "genres": [
-   "Pop"
+   "Pop",
+   "Singer-Songwriter"
   ],
   "headliner": "Niall Horan",
   "needs_review": null,
@@ -7630,6 +7534,11 @@
   "sources": [
    {
     "key": "o2belfast:298884:2026-11-16",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/niall-horan-dinner-party-live-on-tour"
+   },
+   {
+    "key": "o2belfast:298884",
     "name": "o2belfast",
     "url": "https://theo2belfast.com/events/niall-horan-dinner-party-live-on-tour"
    }
@@ -7989,39 +7898,6 @@
   ],
   "title": "Playback Presents: Stop Making Sense",
   "venue": "oh-yeah"
- },
- "8545ec84-58f3-4eab-9a79-f6cba9de5dea": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues"
-  ],
-  "headliner": "Rick Margitza & Miles Davis Centenary",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 14.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "citizenticket:dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary",
-    "name": "citizenticket",
-    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary/"
-   }
-  ],
-  "start_time": "20:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Citizen Ticket",
-    "url": "https://www.citizenticket.com/events/dock-street-jazz-club/dock-street-jazz-club-rick-margitza-us-and-miles-davis-centenary/"
-   }
-  ],
-  "title": "Dock Street Jazz Club: Rick Margitza (US) & Miles Davis Centenary",
-  "venue": "american-bar"
  },
  "8621f02a-a0cb-4353-8a95-59a510e28df4": {
   "age_restriction": null,
@@ -9702,40 +9578,6 @@
   ],
   "title": "Christmas with The Motown Sensations",
   "venue": "black-box"
- },
- "a4d8b53a-5c79-4db7-a66d-d59572604034": {
-  "age_restriction": "18+",
-  "date": "2026-11-15",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Indie/Alternative"
-  ],
-  "headliner": "KhakiKid",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11204",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5322189?venueId=461484"
-   }
-  ],
-  "title": "KhakiKid",
-  "venue": "limelight"
  },
  "a52b7153-1c72-4c9b-bc13-c92f1dc97b48": {
   "age_restriction": "18+",
@@ -11688,42 +11530,6 @@
   "title": "The Three Amigos",
   "venue": "ulster-hall"
  },
- "c5b69733-dfb7-46aa-880d-09c770810fbc": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "The Blackberry Path",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:151126-2",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/151126-2"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": [
-   "Clare Galway"
-  ],
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/151126-2"
-   }
-  ],
-  "title": "Tia Bow Album Launch: The Blackberry Path with support from Clare Galway",
-  "venue": "oh-yeah"
- },
  "c61893a3-6e20-43b9-a0ce-67235aa9a1b1": {
   "age_restriction": null,
   "date": "2027-06-26",
@@ -13182,42 +12988,6 @@
   "title": "Thistle",
   "venue": "oh-yeah"
  },
- "df60b34e-6114-47f9-9981-9b13a08e1b1b": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Gráinne Meyer",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:151126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/151126"
-   }
-  ],
-  "start_time": "14:00",
-  "status": "on_sale",
-  "support": [
-   "Atóg"
-  ],
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/151126"
-   }
-  ],
-  "title": "The New Wave: Gráinne Meyer & Atóg",
-  "venue": "oh-yeah"
- },
  "e0918558-c711-4d4d-a9a1-14203c737c34": {
   "age_restriction": null,
   "date": "2026-11-28",
@@ -14495,42 +14265,6 @@
   "title": "Gifted: Foreign Mornings",
   "venue": "belfast-empire"
  },
- "f191e98d-1797-4843-9a12-cc3473cad8f5": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Punk/Hardcore",
-   "Rock"
-  ],
-  "headliner": "Teenage Bottlerocket",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 25.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:teenage-bottlerocket-good-friend-sam-russo",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/teenage-bottlerocket-good-friend-sam-russo/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": [
-   "Good Friend & Sam Russo"
-  ],
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/teenage-bottlerocket-at-the-deers-head-belfast-151126-tickets-1998019708734"
-   }
-  ],
-  "title": "Teenage Bottlerocket + Good Friend & Sam Russo",
-  "venue": "deers-head"
- },
  "f196b2d3-0f21-40c5-a48d-8e663c77783e": {
   "age_restriction": null,
   "date": "2027-03-07",
@@ -14911,40 +14645,6 @@
   ],
   "title": "The Undertones",
   "venue": "limelight"
- },
- "f5697b4f-6dfc-4e7d-9bf4-0102b7a91841": {
-  "age_restriction": null,
-  "date": "2026-11-15",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "World"
-  ],
-  "headliner": "The Ties That Bind - SUPER SONG SUNDAY & ABAIR AMHRÁN",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "duncairn:tttb-supersunday",
-    "name": "duncairn",
-    "url": "https://www.theduncairn.com/events/tttb-supersunday"
-   }
-  ],
-  "start_time": "11:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "The Duncairn",
-    "url": "https://www.theduncairn.com/events/tttb-supersunday"
-   }
-  ],
-  "title": "The Ties That Bind - SUPER SONG SUNDAY & ABAIR AMHRÁN",
-  "venue": "the-duncairn"
  },
  "f630d472-f3d8-485f-a1d8-6d25d40bb253": {
   "age_restriction": null,
@@ -15389,40 +15089,6 @@
    }
   ],
   "title": "KOJAQUE",
-  "venue": "limelight"
- },
- "fec5b13a-48fe-412f-8e98-92dc4ea8bb29": {
-  "age_restriction": "18+",
-  "date": "2026-11-15",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "OLE 60",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11002",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5446293?venueId=459772"
-   }
-  ],
-  "title": "OLE 60",
   "venue": "limelight"
  }
 }
