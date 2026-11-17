@@ -19,7 +19,7 @@ sources:
   key: "blackbox:kila-christmas-matinee-special"
   url: "https://www.blackboxbelfast.com/event/kila-christmas-matinee-special/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-16T15:42:33Z"
+updated_at: "2026-11-17T00:48:16Z"
 backfill: true
 classification:
   is_music: true

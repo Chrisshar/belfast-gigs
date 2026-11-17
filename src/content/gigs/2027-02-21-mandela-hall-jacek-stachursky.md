@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:jacek-stachursky"
   url: "https://www.mandelahall.com/events/jacek-stachursky"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-16T15:42:33Z"
+updated_at: "2026-11-17T00:48:16Z"
 backfill: true
 classification:
   is_music: true

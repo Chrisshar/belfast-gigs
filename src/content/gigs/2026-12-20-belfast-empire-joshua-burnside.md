@@ -1,6 +1,6 @@
 ---
 id: "449474d3-3ae6-4d7a-8e4e-885bbcf50bec"
-title: "Joshua Burnside – Hootenanny 2026"
+title: "Joshua Burnside - Hootenanny 2026"
 headliner: "Joshua Burnside"
 venue: "belfast-empire"
 date: "2026-12-20"
@@ -15,9 +15,9 @@ sources:
   key: "empire:joshua-burnside-hootenanny-2026"
   url: "https://www.thebelfastempire.com/music-hall/joshua-burnside-hootenanny-2026/"
 first_seen: "2026-11-05T14:37:49Z"
-updated_at: "2026-11-10T14:51:03Z"
+updated_at: "2026-11-17T00:48:16Z"
 classification:
   is_music: true
-  confidence: 0.9
+  confidence: 0.95
   method: "llm"
 ---
