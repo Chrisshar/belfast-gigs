@@ -18,7 +18,7 @@ sources:
   key: "blackbox:otl-scottish-fish"
   url: "https://www.blackboxbelfast.com/event/otl-scottish-fish/"
 first_seen: "2026-11-04T14:29:37Z"
-updated_at: "2026-11-17T15:58:33Z"
+updated_at: "2026-11-17T23:51:28Z"
 classification:
   is_music: true
   confidence: 0.9
