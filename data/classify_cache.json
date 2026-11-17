@@ -84,6 +84,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "019789fb478a9a69": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "OTL: The Henry Girls",
+  "is_music": true,
+  "last_seen": "2026-11-17",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "01f2f12fc4b3e5bf": {
   "confidence": 0.6,
   "genres": [],
@@ -1360,6 +1372,18 @@
   ],
   "headliner": "OTL: Tales from Dubliners",
   "is_music": false,
+  "last_seen": "2026-11-17",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1df0563873a4ea52": {
+  "confidence": 0.5,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Light",
+  "is_music": true,
   "last_seen": "2026-11-17",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6910,6 +6934,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "ca66f6b1e9e7ce6c": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Contemporary/New Music"
+  ],
+  "headliner": "OTL: The Arco String Quartet perform Classic Pink Floyd",
+  "is_music": true,
+  "last_seen": "2026-11-17",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "cab9c16a861e8dc2": {
   "confidence": 0.5,
   "genres": [
@@ -7994,6 +8030,18 @@
   "headliner": "NOW THE 90's",
   "is_music": false,
   "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "efff977a77a9d94b": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Punk/Hardcore"
+  ],
+  "headliner": "Stick In The Wheel",
+  "is_music": true,
+  "last_seen": "2026-11-17",
   "model": "claude-haiku-5-5",
   "support": []
  },

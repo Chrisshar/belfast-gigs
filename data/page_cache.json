@@ -25,6 +25,7 @@
    "7750",
    "6215",
    "6640",
+   "7457",
    "7550",
    "7561",
    "7462",
@@ -1339,6 +1340,10 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-16"
+  },
+  "https://www.mandelahall.com/events/wednesday": {
+   "event": null,
+   "lastmod": "2026-11-17"
   }
  },
  "voodoo": {

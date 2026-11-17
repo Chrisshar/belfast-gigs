@@ -5,7 +5,7 @@ headliner: "Sam Barber"
 venue: "custom-house-square"
 date: "2027-06-15"
 doors_time: "18:00"
-status: "on_sale"
+status: "sold_out"
 genres:
 - "Singer-Songwriter"
 - "Pop"
@@ -19,7 +19,7 @@ sources:
   key: "limelight:11877"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-09T16:15:01Z"
-updated_at: "2026-11-13T14:32:56Z"
+updated_at: "2026-11-17T15:58:33Z"
 classification:
   is_music: true
   confidence: 0.9
