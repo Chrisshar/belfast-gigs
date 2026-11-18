@@ -2413,6 +2413,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "3a534dabc6eb2540": {
+  "confidence": 0.4,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Tango Red Carpet",
+  "is_music": false,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "3ab4d643a816fb89": {
   "confidence": 0.95,
   "genres": [

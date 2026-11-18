@@ -8174,6 +8174,34 @@
   "title": "Playback Presents: Stop Making Sense",
   "venue": "oh-yeah"
  },
+ "855ee2af-83e1-4166-8b0b-87de7cc28cb1": {
+  "age_restriction": null,
+  "date": "2026-12-09",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "World"
+  ],
+  "headliner": "Tango Red Carpet",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:tango-red-carpet",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/tango-red-carpet"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Tango Red Carpet",
+  "venue": "the-harrison"
+ },
  "8621f02a-a0cb-4353-8a95-59a510e28df4": {
   "age_restriction": null,
   "date": "2026-11-22",
