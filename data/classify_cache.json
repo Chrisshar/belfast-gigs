@@ -538,6 +538,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "0b6a67d727380d80": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Sunn O )))",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0bd83add4e95aca1": {
   "confidence": 0.5,
   "genres": [
@@ -2516,6 +2528,20 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "3cc6ac5d86c560dd": {
+  "confidence": 0.75,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Disorder",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "XL Poncho & Penny's Band"
+  ]
+ },
  "3cf5530e013015aa": {
   "confidence": 0.8,
   "genres": [
@@ -2777,6 +2803,18 @@
   "genres": [],
   "headliner": "Bingo Loco Pres. Juke Box Jam",
   "is_music": false,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "46cfbe43fe6bb9b2": {
+  "confidence": 0.7,
+  "genres": [
+   "Folk/Trad",
+   "Indie/Alternative"
+  ],
+  "headliner": "Paahto & The Bull",
+  "is_music": true,
   "last_seen": "2026-11-18",
   "model": "claude-haiku-5-5",
   "support": []
@@ -3871,6 +3909,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "6bac934f7f0481e5": {
+  "confidence": 0.9,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Lambrini Girls",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6c203f9f5a5f604b": {
   "confidence": 0.97,
   "genres": [
@@ -3989,6 +4039,18 @@
    "Stuart Bailie",
    "Problem Patterns"
   ]
+ },
+ "72636e95be494d5a": {
+  "confidence": 0.75,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Altered Hours",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "7363738861eef48d": {
   "confidence": 0.6,
@@ -4124,6 +4186,18 @@
    "Tribute/Covers"
   ],
   "headliner": "Limehouse Lizzy",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "76e6e366c7450097": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Wednesday",
   "is_music": true,
   "last_seen": "2026-11-18",
   "model": "claude-haiku-5-5",
@@ -5062,6 +5136,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "948e1370be318bdb": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Country/Americana"
+  ],
+  "headliner": "Niall McNamee",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "94e89a0711cbae96": {
   "confidence": 0.9,
   "genres": [
@@ -5443,6 +5529,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "a00fd5af35f43d3d": {
+  "confidence": 0.8,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Late Night Art Takeover: Getner + Byro",
+  "is_music": false,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "a04c3b7e487a1922": {
   "confidence": 0.95,
   "genres": [
@@ -5581,6 +5678,18 @@
   "headliner": "The Empire Laughs Back Comedy Club",
   "is_music": false,
   "last_seen": "2026-11-03",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a2597484e4748854": {
+  "confidence": 0.8,
+  "genres": [
+   "Folk/Trad",
+   "World"
+  ],
+  "headliner": "Trá Pháidín",
+  "is_music": true,
+  "last_seen": "2026-11-18",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -5974,6 +6083,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "abb1f82ae8694b13": {
+  "confidence": 0.85,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Jarrod Dickenson",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "ac7135334c4f63ff": {
   "confidence": 0.4,
   "genres": [
@@ -6203,6 +6324,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "b4cbda9dc3ddda55": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "ET: The Musical Comedy",
+  "is_music": false,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "b6655bf03b3ca99f": {
   "confidence": 0.9,
   "genres": [
@@ -6267,6 +6397,18 @@
   ],
   "headliner": "Ulster Orchestra",
   "is_music": false,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b740890eff47e5b2": {
+  "confidence": 0.85,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Noah Gunderson",
+  "is_music": true,
   "last_seen": "2026-11-18",
   "model": "claude-haiku-5-5",
   "support": []
@@ -6513,6 +6655,17 @@
    "Singer-Songwriter"
   ],
   "headliner": "Gareth",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bd3cfabda0be70e9": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The Next Big Thing Belfast",
   "is_music": true,
   "last_seen": "2026-11-18",
   "model": "claude-haiku-5-5",
@@ -7958,6 +8111,18 @@
    "Pop"
   ],
   "headliner": "Cancer Fund For Children",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e8a80d3651035e4a": {
+  "confidence": 0.95,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Wednesday",
   "is_music": true,
   "last_seen": "2026-11-18",
   "model": "claude-haiku-5-5",

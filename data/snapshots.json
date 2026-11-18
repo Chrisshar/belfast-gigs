@@ -1702,6 +1702,40 @@
   "title": "Motorwrecked",
   "venue": "voodoo"
  },
+ "15f72e07-5585-4c5f-8286-4fc3952647e0": {
+  "age_restriction": null,
+  "date": "2027-03-10",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Lambrini Girls",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.25,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:lambrini-girls",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/lambrini-girls"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/lambrini-girls"
+   }
+  ],
+  "title": "Lambrini Girls",
+  "venue": "mandela-hall"
+ },
  "1647dc2e-b34a-4f92-b488-8c0d90f74ec8": {
   "age_restriction": null,
   "date": "2026-12-08",
@@ -2008,6 +2042,39 @@
   "title": "Dock Street Jazz Club: Jean Toussaint (US)",
   "venue": "american-bar"
  },
+ "19ef00b4-7eb3-4e29-b804-fd455347e467": {
+  "age_restriction": null,
+  "date": "2026-12-17",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Jarrod Dickenson",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_x17NyFBs53yn2jeMWS97G",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "WeGotTickets",
+    "url": "https://wegottickets.com/f/25024"
+   }
+  ],
+  "title": "Jarrod Dickenson",
+  "venue": "ulster-sports-club"
+ },
  "1a567d6b-02b2-42c8-9fbc-9dafc81babda": {
   "age_restriction": null,
   "date": "2026-12-30",
@@ -2146,6 +2213,10 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/750391?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_Steps30Web&brand=ie_theo2belfast"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/steps-04-11-2027/event/380065668EF919E5?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_Steps30Web&brand=ie_theo2belfast"
    }
   ],
   "title": "Steps: 30 Live",
@@ -3033,6 +3104,10 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.ie/artist/735308?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_TheHumanLeagueWeb&brand=ie_theo2belfast"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/the-human-league-dusk-til-dawn-belfast-21-11-2027/event/38006569F3CA2DB8?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_TheHumanLeagueWeb&brand=ie_theo2belfast"
    }
   ],
   "title": "The Human League: Dusk 'Til Dawn",
@@ -3792,6 +3867,39 @@
   ],
   "title": "Callum Beattie",
   "venue": "limelight"
+ },
+ "3d25aa5b-7c55-473d-9e63-05d2bb4dce9a": {
+  "age_restriction": null,
+  "date": "2027-01-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Altered Hours",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_t6siHDOBaell7fckBXKvd",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "cqaf.com",
+    "url": "https://cqaf.com/the-altered-hours/"
+   }
+  ],
+  "title": "CQAF Presents - The Altered Hours",
+  "venue": "ulster-sports-club"
  },
  "3d3ad14d-8d1c-45f3-895b-81efe94741a5": {
   "age_restriction": "18+",
@@ -6026,7 +6134,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Folk/Trad"
+   "Folk/Trad",
+   "World"
   ],
   "headliner": "Trá Pháidín",
   "needs_review": null,
@@ -6038,6 +6147,10 @@
     "key": "movingon:tra-phaidin",
     "name": "movingon",
     "url": "https://www.movingonmusic.com/whats-on/tra-phaidin/"
+   },
+   {
+    "key": "usc:event_6CSk5uZMc4r9PJEMbt7yK",
+    "name": "usc"
    }
   ],
   "start_time": "19:30",
@@ -7857,6 +7970,38 @@
   "title": "L1NKN P4RK",
   "venue": "limelight"
  },
+ "82a38fcf-048a-4481-8f40-d4a6e315e470": {
+  "age_restriction": null,
+  "date": "2027-03-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The Next Big Thing Belfast",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_RBX0UVCvcjWK4DZXDatpq",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Ulster-Sports-Club/The-Next-Big-Thing-Belfast/43154964/"
+   }
+  ],
+  "title": "The Next Big Thing Belfast",
+  "venue": "ulster-sports-club"
+ },
  "832840a2-5822-46c7-8907-21e135afb2aa": {
   "age_restriction": null,
   "date": "2027-05-21",
@@ -8618,6 +8763,39 @@
   ],
   "title": "MALEVOLENCE",
   "venue": "limelight"
+ },
+ "903e25c1-3672-4f7b-a65a-957bb19bed3d": {
+  "age_restriction": null,
+  "date": "2027-01-17",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Noah Gunderson",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_xbvo2Bud2fahkzEkDb3He",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "cqaf.com",
+    "url": "https://cqaf.com/noah-gundersen-2/"
+   }
+  ],
+  "title": "CQAF Presents- Noah Gunderson",
+  "venue": "ulster-sports-club"
  },
  "908c5fc9-a6d0-4bf2-820f-fd46c6c4ba0a": {
   "age_restriction": "18+",
@@ -10087,6 +10265,39 @@
   "title": "Rock’n’roll Alldayer",
   "venue": "belfast-empire"
  },
+ "aa439db9-9dec-4e0a-b170-6403e2020efd": {
+  "age_restriction": null,
+  "date": "2026-12-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Country/Americana"
+  ],
+  "headliner": "Niall McNamee",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_1lIDbNRI9sw9qVuarr9Ts",
+    "name": "usc"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Ulster-Sports-Club/Niall-McNamee---Limited-Edition-Tour/42729505/"
+   }
+  ],
+  "title": "Niall McNamee - Limited Edition Tour",
+  "venue": "ulster-sports-club"
+ },
  "aa834399-8439-4b57-be75-3f7cecc63c1f": {
   "age_restriction": null,
   "date": "2026-12-27",
@@ -10363,6 +10574,40 @@
   ],
   "title": "The Shamrocks",
   "venue": "the-o2-belfast"
+ },
+ "b0059c75-c44e-47a4-90de-bdf3399c3d0c": {
+  "age_restriction": null,
+  "date": "2027-05-04",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Metal",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Sunn O )))",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 36.75,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:sunn-o",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/sunn-o"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/sunn-o"
+   }
+  ],
+  "title": "Sunn O )))",
+  "venue": "mandela-hall"
  },
  "b00ea675-2d3f-4c40-a8c5-c416bd35c1bb": {
   "age_restriction": null,
@@ -11689,6 +11934,41 @@
   ],
   "title": "The Three Amigos",
   "venue": "ulster-hall"
+ },
+ "c5603189-ea91-47ee-82cd-96d61b57b46d": {
+  "age_restriction": null,
+  "date": "2026-12-16",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock"
+  ],
+  "headliner": "Disorder",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_PfR9qzS20c25zOvyHCFkH",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": [
+   "XL Poncho & Penny's Band"
+  ],
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Ulster-Sports-Club/NuMuze-Presents-Disorder--XL-Poncho--Pennys-Band/42793793/"
+   }
+  ],
+  "title": "NuMuze Presents: Disorder + XL Poncho & Penny's Band",
+  "venue": "ulster-sports-club"
  },
  "c61893a3-6e20-43b9-a0ce-67235aa9a1b1": {
   "age_restriction": null,
@@ -14773,6 +15053,49 @@
   "title": "The Undertones",
   "venue": "limelight"
  },
+ "f50671f7-f7a9-41cb-a2b1-fdfddad9482c": {
+  "age_restriction": "18+",
+  "date": "2027-06-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative",
+   "Rock"
+  ],
+  "headliner": "Wednesday",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 27.5,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandela:139843397",
+    "name": "mandela",
+    "url": "https://www.glistrr.com/events/e/wednesday-32-380"
+   },
+   {
+    "key": "mandelaweb:wednesday",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/wednesday"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/wednesday-32-380"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/wednesday"
+   }
+  ],
+  "title": "Wednesday",
+  "venue": "mandela-hall"
+ },
  "f630d472-f3d8-485f-a1d8-6d25d40bb253": {
   "age_restriction": null,
   "date": "2027-03-21",
@@ -14800,6 +15123,39 @@
   "tickets": null,
   "title": "The Jazz Room",
   "venue": "belfast-empire"
+ },
+ "f6430f33-75b5-4556-8b8e-469c07de7e13": {
+  "age_restriction": null,
+  "date": "2027-01-15",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Indie/Alternative"
+  ],
+  "headliner": "Paahto & The Bull",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "usc:event_EBOcbxchzFn0v90C2C2u1",
+    "name": "usc"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "cqaf.com",
+    "url": "https://cqaf.com/paahto-the-bull/"
+   }
+  ],
+  "title": "CQAF Presents- Paahto & The Bull",
+  "venue": "ulster-sports-club"
  },
  "f6b741c6-6c08-4b0e-a070-fa4580870382": {
   "age_restriction": null,

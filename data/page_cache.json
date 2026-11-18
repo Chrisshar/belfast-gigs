@@ -640,6 +640,41 @@
    },
    "lastmod": "2026-11-11"
   },
+  "https://www.mandelahall.com/events/lambrini-girls": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-03-10",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 27.25,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:lambrini-girls",
+    "source_url": "https://www.mandelahall.com/events/lambrini-girls",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/lambrini-girls"
+     ]
+    ],
+    "title": "Lambrini Girls",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-17"
+  },
   "https://www.mandelahall.com/events/limehouse-lizzy": {
    "event": {
     "address": null,
@@ -1130,6 +1165,41 @@
    },
    "lastmod": "2026-11-16"
   },
+  "https://www.mandelahall.com/events/sunn-o": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-05-04",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 36.75,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:sunn-o",
+    "source_url": "https://www.mandelahall.com/events/sunn-o",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/sunn-o"
+     ]
+    ],
+    "title": "Sunn O )))",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-18"
+  },
   "https://www.mandelahall.com/events/susan-calman": {
    "event": {
     "address": null,
@@ -1341,8 +1411,39 @@
    "lastmod": "2026-11-16"
   },
   "https://www.mandelahall.com/events/wednesday": {
-   "event": null,
-   "lastmod": "2026-11-17"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-06-22",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 27.5,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:wednesday",
+    "source_url": "https://www.mandelahall.com/events/wednesday",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/wednesday"
+     ]
+    ],
+    "title": "Wednesday",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-18"
   }
  },
  "voodoo": {

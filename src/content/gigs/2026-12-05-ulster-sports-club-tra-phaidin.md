@@ -10,6 +10,7 @@ price_max: 15
 status: "on_sale"
 genres:
 - "Folk/Trad"
+- "World"
 tickets:
 - source: "Citizen Ticket"
   url: "https://www.citizenticket.com/events/moving-on-music/tra-phaidin/"
@@ -17,8 +18,10 @@ sources:
 - name: "movingon"
   key: "movingon:tra-phaidin"
   url: "https://www.movingonmusic.com/whats-on/tra-phaidin/"
+- name: "usc"
+  key: "usc:event_6CSk5uZMc4r9PJEMbt7yK"
 first_seen: "2026-11-03T14:10:57Z"
-updated_at: "2026-11-18T07:08:34Z"
+updated_at: "2026-11-18T15:38:15Z"
 classification:
   is_music: true
   confidence: 0.9
