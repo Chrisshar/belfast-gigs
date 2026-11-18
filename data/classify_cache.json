@@ -6356,6 +6356,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "b666d03d76ae905f": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter",
+   "Rock"
+  ],
+  "headliner": "Liam Ó Maonlaí",
+  "is_music": true,
+  "last_seen": "2026-11-18",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "b679a0c10e4b13cc": {
   "confidence": 0.7,
   "genres": [

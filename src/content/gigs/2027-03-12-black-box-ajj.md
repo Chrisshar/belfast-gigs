@@ -18,7 +18,7 @@ sources:
   key: "blackbox:ajj-dirty-old-power-tour"
   url: "https://www.blackboxbelfast.com/event/ajj-dirty-old-power-tour/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-18T18:08:31Z"
+updated_at: "2026-11-18T23:23:14Z"
 backfill: true
 classification:
   is_music: true

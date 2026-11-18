@@ -19,7 +19,7 @@ sources:
   key: "blackbox:the-funky-kongs-video-games-live"
   url: "https://www.blackboxbelfast.com/event/the-funky-kongs-video-games-live/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-18T18:08:31Z"
+updated_at: "2026-11-18T23:23:14Z"
 backfill: true
 classification:
   is_music: true
