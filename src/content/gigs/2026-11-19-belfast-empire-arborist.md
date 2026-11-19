@@ -1,6 +1,6 @@
 ---
 id: "fafb325b-2ec5-4c6e-bb48-b5cb432bca2d"
-title: "Arborist"
+title: "Arborist ‘Looking For Love’ Album Launch"
 headliner: "Arborist"
 venue: "belfast-empire"
 date: "2026-11-19"
@@ -21,7 +21,7 @@ sources:
   key: "movingon:arborist-looking-for-love-album-launch"
   url: "https://www.movingonmusic.com/whats-on/arborist-looking-for-love-album-launch/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-11-19T23:34:40Z"
 backfill: true
 classification:
   is_music: true

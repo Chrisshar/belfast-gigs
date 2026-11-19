@@ -3037,6 +3037,42 @@
   "title": "Alison Cotton",
   "venue": "the-harrison"
  },
+ "2d4f1ba9-a2d2-4679-bff3-f6d0ae8b6fe1": {
+  "age_restriction": null,
+  "date": "2027-11-03",
+  "doors_time": "18:30",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Steps",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "o2belfast:319149:2027-11-03",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/steps-30-live"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "B*Witched",
+   "A1"
+  ],
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/steps-belfast-03-11-2027/event/38006570EC1429B7?venueId=460013%3Fcamefrom%3DCFC_IE_CLI_THEO2BELFAST_Steps30Web&brand=ie_theo2belfast"
+   }
+  ],
+  "title": "Steps: 30 Live",
+  "venue": "the-o2-belfast"
+ },
  "2dd58b69-f08a-47b8-999d-5d9f7317c730": {
   "age_restriction": null,
   "date": "2027-11-21",
@@ -5315,7 +5351,7 @@
    }
   ],
   "start_time": "21:00",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": null,
   "title": "Havana Nights Salsa-Ni",
@@ -7760,7 +7796,7 @@
    }
   ],
   "start_time": "14:00",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": null,
   "title": "Light",
@@ -10185,7 +10221,7 @@
    }
   ],
   "start_time": "14:00",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": null,
   "title": "Rock’n’roll Alldayer",
@@ -11828,7 +11864,7 @@
    }
   ],
   "start_time": null,
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": null,
   "title": "Brian Finnegan – Yama",
@@ -14216,7 +14252,7 @@
    }
   ],
   "start_time": "19:30",
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": null,
   "title": "Mack Fleetwood",
@@ -15465,7 +15501,7 @@
     "url": "https://www.citizenticket.com/events/arborist-music/arborist-the-empire-belfast/"
    }
   ],
-  "title": "Arborist",
+  "title": "Arborist ‘Looking For Love’ Album Launch",
   "venue": "belfast-empire"
  },
  "fd591b94-e4b4-4271-b5b6-7cfb36b9f567": {

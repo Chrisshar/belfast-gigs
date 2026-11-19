@@ -5,7 +5,7 @@ headliner: "Brian Finnegan"
 venue: "belfast-empire"
 date: "2027-01-28"
 price_min: 22.5
-status: "on_sale"
+status: "sold_out"
 genres:
 - "Folk/Trad"
 - "Singer-Songwriter"
@@ -14,7 +14,7 @@ sources:
   key: "empire:yama"
   url: "https://www.thebelfastempire.com/music-hall/yama/"
 first_seen: "2026-10-29T18:08:31Z"
-updated_at: "2026-10-29T18:08:31Z"
+updated_at: "2026-11-19T23:34:40Z"
 classification:
   is_music: true
   confidence: 0.9

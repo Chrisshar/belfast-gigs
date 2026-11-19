@@ -8282,6 +8282,20 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "f0d9579c63a474f0": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Steps",
+  "is_music": true,
+  "last_seen": "2026-11-19",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "B*Witched",
+   "A1"
+  ]
+ },
  "f0ec5b5fdf5ece2d": {
   "confidence": 0.6,
   "genres": [

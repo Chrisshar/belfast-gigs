@@ -5,7 +5,7 @@ headliner: "Havana Nights Salsa-Ni"
 venue: "belfast-empire"
 date: "2026-11-27"
 start_time: "21:00"
-status: "on_sale"
+status: "sold_out"
 genres:
 - "World"
 sources:
@@ -13,7 +13,7 @@ sources:
   key: "empire:havana-nights-salsa-ni"
   url: "https://www.thebelfastempire.com/music-hall/havana-nights-salsa-ni/"
 first_seen: "2026-11-09T16:15:01Z"
-updated_at: "2026-11-09T16:15:01Z"
+updated_at: "2026-11-19T23:34:40Z"
 classification:
   is_music: true
   confidence: 0.5
