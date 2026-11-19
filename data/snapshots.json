@@ -2222,41 +2222,6 @@
   "title": "Steps: 30 Live",
   "venue": "the-o2-belfast"
  },
- "1d1a409d-fffb-4bec-80d9-470b19349efb": {
-  "age_restriction": "18+",
-  "date": "2026-11-18",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop"
-  ],
-  "headliner": "The Wanted 2.0",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10890",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Reigns"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/the-wanted-20-belfast-18-11-2026/event/3800648DD759250C"
-   }
-  ],
-  "title": "The Wanted 2.0",
-  "venue": "limelight"
- },
  "1d555c52-90d5-48d7-9288-1f4881948624": {
   "age_restriction": null,
   "date": "2027-10-18",
@@ -4447,40 +4412,6 @@
   "title": "No Cigar",
   "venue": "ulster-sports-club"
  },
- "433ac375-7913-4a9f-95b4-8f8a4b76bd31": {
-  "age_restriction": null,
-  "date": "2026-11-18",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Pop",
-   "Rock"
-  ],
-  "headliner": "David Essex",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Main Auditorium",
-  "sources": [
-   {
-    "key": "ulsterhall:david-essex-2",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/david-essex-2/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/david-essex-2/"
-   }
-  ],
-  "title": "David Essex",
-  "venue": "waterfront-hall"
- },
  "433ba63a-4acc-433d-a486-f14f0281eb72": {
   "age_restriction": null,
   "date": "2026-12-06",
@@ -4782,39 +4713,6 @@
   ],
   "title": "Picture This",
   "venue": "telegraph-building"
- },
- "4886dfbb-7eb4-445a-9c3f-6995cfcec5f3": {
-  "age_restriction": null,
-  "date": "2026-11-18",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Singer-Songwriter"
-  ],
-  "headliner": "Black Box Open Mic",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Green Room",
-  "sources": [
-   {
-    "key": "blackbox:black-box-open-mic-31",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/black-box-open-mic-31/"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/black-box-open-mic-31/"
-   }
-  ],
-  "title": "Black Box Open Mic",
-  "venue": "black-box"
  },
  "49a95df0-136a-4dc3-bf31-088a51601b37": {
   "age_restriction": null,
@@ -8962,40 +8860,6 @@
   ],
   "title": "The First Slip",
   "venue": "black-box"
- },
- "9438f798-c8b8-489c-80e6-b0a114d8e1d0": {
-  "age_restriction": null,
-  "date": "2026-11-18",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Ron Pope",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 22.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:ron-pope",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/ron-pope/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/ron-pope-tickets-1986090609477"
-   }
-  ],
-  "title": "Ron Pope",
-  "venue": "deers-head"
  },
  "9491b792-4514-4602-88f7-b3f698fcefbc": {
   "age_restriction": "18+",
