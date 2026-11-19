@@ -447,6 +447,18 @@
    "Trucker Diablo"
   ]
  },
+ "093d6be96b77dff3": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Glory Days: Bruce Springsteen Tribute",
+  "is_music": true,
+  "last_seen": "2026-11-19",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0967955c8d7e41d0": {
   "confidence": 0.5,
   "genres": [
@@ -3177,6 +3189,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "53882898b3921ffa": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Brudi Brothers",
+  "is_music": true,
+  "last_seen": "2026-11-19",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "5475eeb25c108b9f": {
   "confidence": 0.95,
   "genres": [
@@ -5490,6 +5514,18 @@
   "support": [
    "Florence Black"
   ]
+ },
+ "9e16682e4db9c113": {
+  "confidence": 0.5,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Shaer, Moss & Warnock",
+  "is_music": true,
+  "last_seen": "2026-11-19",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "9ef464a8abebc9a5": {
   "confidence": 0.6,

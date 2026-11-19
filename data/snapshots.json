@@ -6168,6 +6168,40 @@
   "title": "Kirsteen Harvey",
   "venue": "black-box"
  },
+ "5f8f2200-0384-44c3-b972-46978c724ac8": {
+  "age_restriction": "18+",
+  "date": "2027-01-22",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Shaer, Moss & Warnock",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "duncairn:shaer-moss-warnock",
+    "name": "duncairn",
+    "url": "https://www.theduncairn.com/events/shaer-moss-warnock"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketsolve",
+    "url": "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173696233"
+   }
+  ],
+  "title": "Shaer, Moss & Warnock",
+  "venue": "the-duncairn"
+ },
  "5fac365f-9dc3-4291-a9a3-e69bf7d02e5b": {
   "age_restriction": null,
   "date": "2026-12-28",
@@ -10607,7 +10641,7 @@
  },
  "b2526cc9-a61f-487c-873d-4f01e9076d70": {
   "age_restriction": null,
-  "date": "2026-11-21",
+  "date": "2027-03-05",
   "doors_time": null,
   "end_date": null,
   "free": null,
@@ -10740,6 +10774,40 @@
   ],
   "title": "1000 Mods",
   "venue": "voodoo"
+ },
+ "b501cfe6-8f9f-4187-8205-f6163006b819": {
+  "age_restriction": "18+",
+  "date": "2027-01-22",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Brudi Brothers",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11931",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5564294?venueId=461484"
+   }
+  ],
+  "title": "The Brudi Brothers",
+  "venue": "limelight"
  },
  "b59d161f-5139-4235-b271-76b454630da0": {
   "age_restriction": null,
