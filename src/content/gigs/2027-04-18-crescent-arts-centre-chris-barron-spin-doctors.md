@@ -18,7 +18,7 @@ sources:
   key: "crescent:chris-barron"
   url: "https://www.crescentarts.org/events/music-and-drama/gig/chris-barron"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-20T15:26:02Z"
+updated_at: "2026-11-20T18:08:42Z"
 backfill: true
 classification:
   is_music: true
