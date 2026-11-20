@@ -562,6 +562,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "0b88b9635dfaa29a": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Grand Camaros",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0bd83add4e95aca1": {
   "confidence": 0.5,
   "genres": [
@@ -1976,6 +1987,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "2e3783a5a7c2404f": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Speedkings",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "2e50cebdcf63c468": {
   "confidence": 0.9,
   "genres": [
@@ -2672,6 +2694,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "3f6e9e101ad71cc5": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Dead Handsomes",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "4028223ade4a2c18": {
   "confidence": 0.85,
   "genres": [
@@ -3064,6 +3097,17 @@
    "Wolfhound"
   ]
  },
+ "4d68ac82c8afe5c8": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Gareth Hughes Band",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "4dab0a2a2fe03a83": {
   "confidence": 0.97,
   "genres": [],
@@ -3401,6 +3445,18 @@
   "support": [
    "Ana Sky"
   ]
+ },
+ "582ce64a2b128bb5": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Dirty Dc",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
  },
  "5837d91c82c73fa2": {
   "confidence": 0.8,
@@ -4790,7 +4846,7 @@
   ],
   "headliner": "The Shamrocks",
   "is_music": true,
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "model": "claude-haiku-5-5",
   "support": [
    "Talisk",
@@ -6496,6 +6552,18 @@
    "Rock"
   ],
   "headliner": "Marquee Square Heroes: A Tribute To The Music of Fish-era Marillion",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "b7b0e7e467e4d5cb": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad",
+   "Indie/Alternative"
+  ],
+  "headliner": "Cherryholt",
   "is_music": true,
   "last_seen": "2026-11-20",
   "model": "claude-haiku-5-5",
@@ -8238,6 +8306,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "eb7255a8a7bc73cc": {
+  "confidence": 0.85,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Jim “the King” Brown",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "ecb47a7db52608ee": {
   "confidence": 0.6,
   "genres": [
@@ -8271,6 +8350,17 @@
   "headliner": "NOW THE 90's",
   "is_music": false,
   "last_seen": "2026-10-29",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ef9cd996317f592f": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "ADÉLA",
+  "is_music": true,
+  "last_seen": "2026-11-20",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -8764,6 +8854,28 @@
   "genres": [],
   "headliner": "Belfast Street Art Walking Tour",
   "is_music": false,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "fee34b21ce074cda": {
+  "confidence": 0.8,
+  "genres": [
+   "Punk/Hardcore"
+  ],
+  "headliner": "Punk Rock Factory",
+  "is_music": false,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ff096c7d3f7b4f27": {
+  "confidence": 0.85,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Chloe Slater",
+  "is_music": true,
   "last_seen": "2026-11-20",
   "model": "claude-haiku-5-5",
   "support": []

@@ -8,6 +8,7 @@ support:
 - "Niall McNamee"
 venue: "the-o2-belfast"
 date: "2026-11-20"
+doors_time: "18:30"
 status: "on_sale"
 genres:
 - "Folk/Trad"
@@ -23,10 +24,10 @@ sources:
   key: "o2belfast:264177"
   url: "https://theo2belfast.com/events/the-shamrocks"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-11-20T07:08:36Z"
+updated_at: "2026-11-20T15:26:02Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.95
+  confidence: 0.9
   method: "llm"
 ---

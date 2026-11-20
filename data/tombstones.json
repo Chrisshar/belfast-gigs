@@ -170,5 +170,16 @@
   "first_seen": "2026-10-25T17:32:54Z",
   "backfill": true,
   "reason": "reclassified"
+ },
+ {
+  "id": "16c20672-a6fa-4a0c-ab99-a893b6141c2c",
+  "keys": [
+   "usc:event_7Wgo6hByB89T2XPkPeRxT"
+  ],
+  "fingerprint": "ulster-sports-club|2026-11-30|milo korbenski",
+  "date": "2026-11-30",
+  "first_seen": "2026-10-26T16:14:13Z",
+  "backfill": true,
+  "reason": "vanished"
  }
 ]

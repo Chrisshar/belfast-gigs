@@ -5,9 +5,9 @@ headliner: "Chloe Slater"
 venue: "oh-yeah"
 date: "2026-11-20"
 start_time: "19:00"
-status: "on_sale"
+status: "postponed"
 genres:
-- "Pop"
+- "Indie/Alternative"
 tickets:
 - source: "Oh Yeah"
   url: "https://www.ohyeahbelfast.com/events/201126"
@@ -16,11 +16,10 @@ sources:
   key: "ohyeah:201126"
   url: "https://www.ohyeahbelfast.com/events/201126"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-20T15:26:02Z"
 backfill: true
 classification:
   is_music: true
-  confidence: 0.5
+  confidence: 0.9
   method: "llm"
-needs_review: true
 ---

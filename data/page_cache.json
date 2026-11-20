@@ -28,6 +28,7 @@
    "7561",
    "7462",
    "7615",
+   "7766",
    "7372",
    "6999",
    "7575",
@@ -1443,6 +1444,41 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-18"
+  },
+  "https://www.mandelahall.com/events/zebrahead": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-25",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 31.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:zebrahead",
+    "source_url": "https://www.mandelahall.com/events/zebrahead",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/zebrahead"
+     ]
+    ],
+    "title": "Punk Rock Factory",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-20"
   }
  },
  "voodoo": {

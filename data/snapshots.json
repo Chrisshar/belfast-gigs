@@ -1772,38 +1772,6 @@
   "title": "Christmas by Candlelight",
   "venue": "ulster-hall"
  },
- "16c20672-a6fa-4a0c-ab99-a893b6141c2c": {
-  "age_restriction": null,
-  "date": "2026-11-30",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative"
-  ],
-  "headliner": "Milo Korbenski",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "usc:event_7Wgo6hByB89T2XPkPeRxT",
-    "name": "usc"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/milo-korbenski-30-11-2026/event/380064E6AD490D8D"
-   }
-  ],
-  "title": "Milo Korbenski",
-  "venue": "ulster-sports-club"
- },
  "16c92cd7-022c-4b4a-b102-1b1a97a76603": {
   "age_restriction": null,
   "date": "2027-01-22",
@@ -3005,6 +2973,39 @@
   "title": "Steps: 30 Live",
   "venue": "the-o2-belfast"
  },
+ "2d896b61-cfb7-4119-9ac3-a0759ae88765": {
+  "age_restriction": null,
+  "date": "2027-02-20",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Grand Camaros",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "deershead:guinness-blues-cafe-grand-camaros",
+    "name": "deershead",
+    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-grand-camaros/"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "belfastcityblues.com",
+    "url": "https://www.belfastcityblues.com/BC26/"
+   }
+  ],
+  "title": "Guinness Blues Cafe – Grand Camaros",
+  "venue": "deers-head"
+ },
  "2dd58b69-f08a-47b8-999d-5d9f7317c730": {
   "age_restriction": null,
   "date": "2027-11-21",
@@ -3664,6 +3665,39 @@
   ],
   "title": "The Jury Experience - The Killer AI",
   "venue": "mandela-hall"
+ },
+ "3af5a802-5d75-4ed3-95f4-3381c5c21f8f": {
+  "age_restriction": null,
+  "date": "2027-02-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Jim “the King” Brown",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "deershead:guinness-blues-cafe-jim-the-king-brown",
+    "name": "deershead",
+    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-jim-the-king-brown/"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "belfastcityblues.com",
+    "url": "https://www.belfastcityblues.com/BC26/"
+   }
+  ],
+  "title": "Guinness Blues Cafe – Jim “the King” Brown",
+  "venue": "deers-head"
  },
  "3b51b9f9-ad58-461a-bc83-3fab02ef4f89": {
   "age_restriction": "18+",
@@ -4682,6 +4716,35 @@
   "title": "Picture This",
   "venue": "telegraph-building"
  },
+ "48d0f388-07ed-4e08-87d2-ffa76f804747": {
+  "age_restriction": null,
+  "date": "2027-04-03",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "Dirty Dc",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 18.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:dirty-dc-4",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/dirty-dc-4/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "sold_out",
+  "support": null,
+  "tickets": null,
+  "title": "Dirty Dc",
+  "venue": "belfast-empire"
+ },
  "49a95df0-136a-4dc3-bf31-088a51601b37": {
   "age_restriction": null,
   "date": "2026-12-27",
@@ -5226,6 +5289,39 @@
   "tickets": null,
   "title": "Static Hearts",
   "venue": "voodoo"
+ },
+ "4e19d1fb-3068-485a-ba5d-6cb8e4641952": {
+  "age_restriction": null,
+  "date": "2027-02-27",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Dead Handsomes",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "deershead:guinness-blues-cafe-dead-handsomes",
+    "name": "deershead",
+    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-dead-handsomes/"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "belfastcityblues.com",
+    "url": "https://www.belfastcityblues.com/BC26/"
+   }
+  ],
+  "title": "Guinness Blues Cafe – Dead Handsomes",
+  "venue": "deers-head"
  },
  "4e53f2f0-a07d-427f-b9fb-30557a95df5c": {
   "age_restriction": null,
@@ -6274,6 +6370,39 @@
   "title": "The Whiskey Brothers: Dust Road Tour",
   "venue": "oh-yeah"
  },
+ "621a2cde-1222-4d2f-af95-780a30d08e9b": {
+  "age_restriction": null,
+  "date": "2027-01-30",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Speedkings",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 13.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "deershead:guinness-blues-cafe-speedkings",
+    "name": "deershead",
+    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-speedkings/"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "belfastcityblues.com",
+    "url": "https://www.belfastcityblues.com/BC26/"
+   }
+  ],
+  "title": "Guinness Blues Cafe – Speedkings",
+  "venue": "deers-head"
+ },
  "62bbc6aa-1336-4c66-82f4-3a7bbfe3edc9": {
   "age_restriction": "18+",
   "date": "2027-03-10",
@@ -6545,6 +6674,39 @@
   ],
   "title": "Rick Sheppard and His Drifters",
   "venue": "waterfront-hall"
+ },
+ "6916c104-e6ba-404f-abc4-fda2f0ac76e6": {
+  "age_restriction": null,
+  "date": "2027-06-22",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "ADÉLA",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11938",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "signup.shine.net",
+    "url": "https://signup.shine.net/PRESALE-ADELA"
+   }
+  ],
+  "title": "The Summer Series 2027 - ADÉLA",
+  "venue": "custom-house-square"
  },
  "6a5994a0-af67-49e8-a3c7-db1cdcac6375": {
   "age_restriction": null,
@@ -7767,6 +7929,40 @@
   ],
   "title": "Chris Barron (Spin Doctors): Acoustic Tour",
   "venue": "crescent-arts-centre"
+ },
+ "81016c48-e3e5-4d1f-ab21-0a04014bf4a4": {
+  "age_restriction": null,
+  "date": "2027-05-12",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Indie/Alternative"
+  ],
+  "headliner": "Cherryholt",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:120527",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/120527"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/120527"
+   }
+  ],
+  "title": "Cherryholt",
+  "venue": "oh-yeah"
  },
  "81c462f7-654c-4149-af80-c9c431e81961": {
   "age_restriction": "18+",
@@ -10300,7 +10496,7 @@
  "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
   "age_restriction": null,
   "date": "2026-11-20",
-  "doors_time": null,
+  "doors_time": "18:30",
   "end_date": null,
   "free": null,
   "genres": [
@@ -11197,6 +11393,39 @@
   ],
   "title": "James Blunt",
   "venue": "the-o2-belfast"
+ },
+ "bc8f3bf7-e17c-4068-ab2c-df3973561e48": {
+  "age_restriction": null,
+  "date": "2027-02-06",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Jazz/Blues"
+  ],
+  "headliner": "Gareth Hughes Band",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 13.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "deershead:guinness-blues-cafe-gareth-hughes-band",
+    "name": "deershead",
+    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-gareth-hughes-band/"
+   }
+  ],
+  "start_time": "14:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "belfastcityblues.com",
+    "url": "https://www.belfastcityblues.com/BC26/"
+   }
+  ],
+  "title": "Guinness Blues Cafe – Gareth Hughes Band",
+  "venue": "deers-head"
  },
  "bca823b5-d6b2-416d-bc71-cfa7085fe756": {
   "age_restriction": null,
@@ -14006,10 +14235,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop"
+   "Indie/Alternative"
   ],
   "headliner": "Chloe Slater",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -14021,7 +14250,7 @@
    }
   ],
   "start_time": "19:00",
-  "status": "on_sale",
+  "status": "postponed",
   "support": null,
   "tickets": [
    {
