@@ -13,12 +13,14 @@ genres:
 tickets:
 - source: "signup.shine.net"
   url: "https://signup.shine.net/PRESALE-KACEY-MUSGRAVES"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/artist/1668663?venueId=460577"
 sources:
 - name: "limelight"
   key: "limelight:11913"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-16T15:42:33Z"
-updated_at: "2026-11-16T15:42:33Z"
+updated_at: "2026-11-20T07:08:36Z"
 classification:
   is_music: true
   confidence: 0.97

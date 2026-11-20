@@ -18,7 +18,7 @@ sources:
   key: "blackbox:david-graham-live"
   url: "https://www.blackboxbelfast.com/event/david-graham-live/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-19T23:34:40Z"
+updated_at: "2026-11-20T07:08:36Z"
 backfill: true
 classification:
   is_music: true

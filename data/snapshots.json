@@ -469,38 +469,6 @@
   "title": "Marquee Square Heroes: A Tribute To The Music of Fish-era Marillion",
   "venue": "oh-yeah"
  },
- "05f0aa55-73bb-4cd4-bae1-681c9db2f728": {
-  "age_restriction": null,
-  "date": "2026-11-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative"
-  ],
-  "headliner": "Bicurious",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "usc:event_h7VOjNSq87HZwI1kxWYDX",
-    "name": "usc"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Skiddle",
-    "url": "https://www.skiddle.com/whats-on/Belfast/Ulster-Sports-Club/Bicurious/42569289/"
-   }
-  ],
-  "title": "Bicurious",
-  "venue": "ulster-sports-club"
- },
  "0656379d-bec9-4b30-afee-6766a9ff259c": {
   "age_restriction": null,
   "date": "2027-02-17",
@@ -2635,42 +2603,6 @@
   ],
   "title": "Ireland in Christmas Praise",
   "venue": "waterfront-hall"
- },
- "24a2fbe3-26f3-47e5-810c-58125b2258ee": {
-  "age_restriction": "18+",
-  "date": "2026-11-19",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Pop"
-  ],
-  "headliner": "Jamie McIntyre",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11188",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": [
-   "Odhran Murphy"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5585254?venueId=459772"
-   }
-  ],
-  "title": "Jamie McIntyre",
-  "venue": "limelight"
  },
  "2504e998-cd34-47c9-b2a8-caf3f3f638bb": {
   "age_restriction": null,
@@ -5100,40 +5032,6 @@
   ],
   "title": "Editors",
   "venue": "ulster-hall"
- },
- "4bb2a421-2998-416e-a81b-f51c8321175d": {
-  "age_restriction": null,
-  "date": "2026-11-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Country/Americana"
-  ],
-  "headliner": "Dylan Leblanc",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 20.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:dylan-leblanc",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/dylan-leblanc/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketsolve",
-    "url": "https://cqaf.ticketsolve.com/ticketbooth/shows/873686540"
-   }
-  ],
-  "title": "Dylan Leblanc",
-  "venue": "deers-head"
  },
  "4c2f430c-7804-45f3-918a-7565d427922b": {
   "age_restriction": "18+",
@@ -8276,40 +8174,6 @@
   "title": "Signs of The Swarm",
   "venue": "limelight"
  },
- "8810c1ff-438c-41d9-bd48-30af99fe870f": {
-  "age_restriction": null,
-  "date": "2026-11-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Heist",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:191126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/191126"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/191126"
-   }
-  ],
-  "title": "Heist EP Launch",
-  "venue": "oh-yeah"
- },
  "8839ec89-551d-418c-a4be-a26bd94fdfac": {
   "age_restriction": null,
   "date": "2026-12-20",
@@ -8857,6 +8721,10 @@
    {
     "source": "signup.shine.net",
     "url": "https://signup.shine.net/PRESALE-KACEY-MUSGRAVES"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/1668663?venueId=460577"
    }
   ],
   "title": "The Summer Series 2027 - Kacey Musgraves",
@@ -9342,40 +9210,6 @@
   ],
   "title": "MORETALLICA",
   "venue": "limelight"
- },
- "9bee6395-092d-42a0-8e4f-6a50d659ebfc": {
-  "age_restriction": null,
-  "date": "2026-11-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "The Music Of Fleetwood Mac By Candlelight",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:fleetwood-mac-by-candlelight-4",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/fleetwood-mac-by-candlelight-4/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/fleetwood-mac-by-candlelight-4/"
-   }
-  ],
-  "title": "The Music Of Fleetwood Mac By Candlelight",
-  "venue": "ulster-hall"
  },
  "9c4d43f8-40dc-441d-94fc-380f0284a74b": {
   "age_restriction": "18+",
@@ -10026,42 +9860,6 @@
   "title": "Apes Of The State & Pigeon Pit",
   "venue": "oh-yeah"
  },
- "a7669152-2d17-4e7c-a89f-94396bdf7c20": {
-  "age_restriction": "18+",
-  "date": "2026-11-19",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Pa Sheehy",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10987",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "David Geraghty"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5355204?venueId=461484"
-   }
-  ],
-  "title": "Pa Sheehy",
-  "venue": "limelight"
- },
  "a768e39d-5e96-47fb-a62e-8ee7b7862e0b": {
   "age_restriction": null,
   "date": "2027-04-18",
@@ -10502,7 +10300,7 @@
  "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
   "age_restriction": null,
   "date": "2026-11-20",
-  "doors_time": "18:30",
+  "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
@@ -10517,6 +10315,11 @@
   "sources": [
    {
     "key": "o2belfast:264177:2026-11-20",
+    "name": "o2belfast",
+    "url": "https://theo2belfast.com/events/the-shamrocks"
+   },
+   {
+    "key": "o2belfast:264177",
     "name": "o2belfast",
     "url": "https://theo2belfast.com/events/the-shamrocks"
    }
@@ -15464,45 +15267,6 @@
   ],
   "title": "Shine Presents: Natalie Layne",
   "venue": "the-duncairn"
- },
- "fafb325b-2ec5-4c6e-bb48-b5cb432bca2d": {
-  "age_restriction": null,
-  "date": "2026-11-19",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Rock"
-  ],
-  "headliner": "Arborist",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 17.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:arborist-2",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/arborist-2/"
-   },
-   {
-    "key": "movingon:arborist-looking-for-love-album-launch",
-    "name": "movingon",
-    "url": "https://www.movingonmusic.com/whats-on/arborist-looking-for-love-album-launch/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Citizen Ticket",
-    "url": "https://www.citizenticket.com/events/arborist-music/arborist-the-empire-belfast/"
-   }
-  ],
-  "title": "Arborist ‘Looking For Love’ Album Launch",
-  "venue": "belfast-empire"
  },
  "fd591b94-e4b4-4271-b5b6-7cfb36b9f567": {
   "age_restriction": null,
