@@ -17,7 +17,7 @@ sources:
   key: "empire:rock-for-alzheimers"
   url: "https://www.thebelfastempire.com/music-hall/rock-for-alzheimers/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-20T18:08:42Z"
+updated_at: "2026-11-20T23:05:22Z"
 classification:
   is_music: true
   confidence: 0.9

@@ -18,7 +18,7 @@ sources:
   key: "mandelaweb:brian-kennedy"
   url: "https://www.mandelahall.com/events/brian-kennedy"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-20T18:08:42Z"
+updated_at: "2026-11-20T23:05:22Z"
 backfill: true
 classification:
   is_music: true

@@ -18,7 +18,7 @@ sources:
   key: "deershead:guinness-blues-cafe-black-rose"
   url: "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-black-rose/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-20T18:08:42Z"
+updated_at: "2026-11-20T23:05:22Z"
 backfill: true
 classification:
   is_music: true

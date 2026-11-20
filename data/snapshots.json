@@ -3767,6 +3767,40 @@
   "title": "Harakiri for the Sky",
   "venue": "limelight"
  },
+ "3be915a1-cfc6-4f54-bf86-5401f8a489c0": {
+  "age_restriction": null,
+  "date": "2027-01-21",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Mick Flannery",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "duncairn:mickflannery2027",
+    "name": "duncairn",
+    "url": "https://www.theduncairn.com/events/mickflannery2027"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketsolve",
+    "url": "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173696262"
+   }
+  ],
+  "title": "Mick Flannery",
+  "venue": "the-duncairn"
+ },
  "3c9957d0-7dfe-4f65-a36c-7413dcdf596e": {
   "age_restriction": null,
   "date": "2027-04-02",
@@ -10496,7 +10530,7 @@
  "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
   "age_restriction": null,
   "date": "2026-11-20",
-  "doors_time": "18:30",
+  "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [

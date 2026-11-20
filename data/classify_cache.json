@@ -1965,6 +1965,18 @@
    "Ghoulgirl"
   ]
  },
+ "2dba71b46bab3081": {
+  "confidence": 0.95,
+  "genres": [
+   "Singer-Songwriter",
+   "Folk/Trad"
+  ],
+  "headliner": "Mick Flannery",
+  "is_music": true,
+  "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "2df86d37f3eb611d": {
   "confidence": 0.5,
   "genres": [
