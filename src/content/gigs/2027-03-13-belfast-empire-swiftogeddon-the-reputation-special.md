@@ -18,7 +18,7 @@ sources:
   key: "empire:swiftogeddon-3"
   url: "https://www.thebelfastempire.com/music-hall/swiftogeddon-3/"
 first_seen: "2026-10-29T12:58:50Z"
-updated_at: "2026-11-20T23:05:22Z"
+updated_at: "2026-11-21T07:08:32Z"
 classification:
   is_music: true
   confidence: 0.9

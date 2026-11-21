@@ -18,7 +18,7 @@ sources:
   key: "blackbox:ryan-sheridan-paper-sails-tour"
   url: "https://www.blackboxbelfast.com/event/ryan-sheridan-paper-sails-tour/"
 first_seen: "2026-10-27T21:18:21Z"
-updated_at: "2026-11-20T23:05:22Z"
+updated_at: "2026-11-21T07:08:32Z"
 classification:
   is_music: true
   confidence: 0.95

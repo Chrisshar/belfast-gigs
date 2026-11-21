@@ -3243,40 +3243,6 @@
   "title": "Henge",
   "venue": "belfast-empire"
  },
- "3004bed5-86c8-448a-9ce2-8ea3031971ca": {
-  "age_restriction": "18+",
-  "date": "2026-11-20",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Wrong Jovi",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10472",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5158759?venueId=461484"
-   }
-  ],
-  "title": "Wrong Jovi",
-  "venue": "limelight"
- },
  "3359e16c-fd2d-4a84-bb6b-9155f5634c17": {
   "age_restriction": "18+",
   "date": "2027-12-04",
@@ -4416,38 +4382,6 @@
   "title": "Nashville Live",
   "venue": "ulster-hall"
  },
- "4310cbb5-2c51-4aeb-af40-f826b29efe8f": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "No Cigar",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "usc:event_McIc17HValIzBow3LV506",
-    "name": "usc"
-   }
-  ],
-  "start_time": "18:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/no-cigar-tickets-1984130323208"
-   }
-  ],
-  "title": "No Cigar",
-  "venue": "ulster-sports-club"
- },
  "433ba63a-4acc-433d-a486-f14f0281eb72": {
   "age_restriction": null,
   "date": "2026-12-06",
@@ -5294,35 +5228,6 @@
   "tickets": null,
   "title": "Beoga",
   "venue": "belfast-empire"
- },
- "4dff2c62-9aae-4d3f-9262-5ccb9a924c52": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Static Hearts",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:static-hearts",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/static-hearts"
-   }
-  ],
-  "start_time": "22:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": null,
-  "title": "Static Hearts",
-  "venue": "voodoo"
  },
  "4e19d1fb-3068-485a-ba5d-6cb8e4641952": {
   "age_restriction": null,
@@ -7526,42 +7431,6 @@
   ],
   "title": "Kate Nash",
   "venue": "mandela-hall"
- },
- "76eb2424-e2ad-4e5a-b2ea-ad3233ec7ca5": {
-  "age_restriction": "18+",
-  "date": "2026-11-20",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Rock"
-  ],
-  "headliner": "Fat Dog",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11173",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Stratford Rise"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/5426139?venueId=459772"
-   }
-  ],
-  "title": "Fat Dog",
-  "venue": "limelight"
  },
  "771ff68e-ea72-4be1-829c-7f86abdf6c5d": {
   "age_restriction": null,
@@ -10527,49 +10396,6 @@
   "title": "Chasing Abbey",
   "venue": "ulster-hall"
  },
- "af1f26f0-5d22-4876-9e57-69754bcdc32e": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "Pop"
-  ],
-  "headliner": "The Shamrocks",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "o2belfast:264177:2026-11-20",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/the-shamrocks"
-   },
-   {
-    "key": "o2belfast:264177",
-    "name": "o2belfast",
-    "url": "https://theo2belfast.com/events/the-shamrocks"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Talisk",
-   "Keith Harkin",
-   "Niall McNamee"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/the-shamrocks-belfast-20-11-2026/event/38006365D3C42143?camefrom=CFC_IE_CLI_THEO2BELFAST_TheShamrocksWeb&brand=ie_theo2belfast"
-   }
-  ],
-  "title": "The Shamrocks",
-  "venue": "the-o2-belfast"
- },
  "b0059c75-c44e-47a4-90de-bdf3399c3d0c": {
   "age_restriction": null,
   "date": "2027-05-04",
@@ -11528,40 +11354,6 @@
   ],
   "title": "The Unholy Gospel Band: Autumn Sessions",
   "venue": "black-box"
- },
- "bd3fc18e-effb-4629-b3bf-7d57e7b1cc75": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Singer-Songwriter"
-  ],
-  "headliner": "The Songs of Glen Hansard: In Support of Simon Community",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:the-songs-of-glen-hansard-in-support-of-simon-community",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/the-songs-of-glen-hansard-in-support-of-simon-community"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "sold_out",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/the-songs-of-glen-hansard-in-support-of-simon-community"
-   }
-  ],
-  "title": "The Songs of Glen Hansard: In Support of Simon Community",
-  "venue": "crescent-arts-centre"
  },
  "bddbb6f0-5f11-4938-9174-74e014fe35b4": {
   "age_restriction": "18+",
@@ -12620,40 +12412,6 @@
   "title": "The Molotovs",
   "venue": "limelight"
  },
- "cd6c3c80-422d-4628-b6f9-a99a9f21e730": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Liv Monaghan",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "harrison:liv-monaghan",
-    "name": "harrison",
-    "url": "https://www.chambersofdistinction.com/unified-calendar/liv-monaghan"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.sg/e/liv-monaghan-tickets-2002923204221"
-   }
-  ],
-  "title": "Liv Monaghan",
-  "venue": "the-harrison"
- },
  "cd9193b1-2338-4171-976f-8532e6d73988": {
   "age_restriction": "18+",
   "date": "2027-03-14",
@@ -13236,40 +12994,6 @@
   ],
   "title": "Andy Fairweather Low",
   "venue": "mandela-hall"
- },
- "d998383f-0ec2-48e4-97b1-e70aac59a704": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Chapterhouse",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 24.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:chapterhouse",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/chapterhouse/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/1015881?venueId=459510"
-   }
-  ],
-  "title": "Chapterhouse",
-  "venue": "belfast-empire"
  },
  "d9c51df5-7904-4f90-ae45-ad82f1ea67ce": {
   "age_restriction": null,
@@ -14262,39 +13986,6 @@
   "title": "EA Music Belfast Christmas Concert",
   "venue": "ulster-hall"
  },
- "eca3f958-c3f3-4330-99cb-21b5d1f27fc6": {
-  "age_restriction": null,
-  "date": "2026-11-20",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative"
-  ],
-  "headliner": "Chloe Slater",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:201126",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/201126"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "postponed",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/201126"
-   }
-  ],
-  "title": "Chloe Slater: Riot Youth Tour",
-  "venue": "oh-yeah"
- },
  "ed185824-971f-4762-8d39-86ffdfaf79e9": {
   "age_restriction": null,
   "date": "2027-03-27",
@@ -14415,7 +14106,9 @@
   ],
   "start_time": null,
   "status": "on_sale",
-  "support": null,
+  "support": [
+   "Divides Unfold"
+  ],
   "tickets": [
    {
     "source": "Ticketmaster",

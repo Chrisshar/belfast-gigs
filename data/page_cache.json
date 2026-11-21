@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7563",
    "5438",
    "7557",
    "5886",
@@ -2475,33 +2474,7 @@
    "lastmod": "2026-03-11"
   },
   "https://www.voodoobelfast.com/events/static-hearts": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-20",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:static-hearts",
-    "source_url": "https://www.voodoobelfast.com/events/static-hearts",
-    "start_time": "22:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [],
-    "title": "Static Hearts",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/stitch": {
