@@ -4,7 +4,9 @@ title: "Trá Pháidín"
 headliner: "Trá Pháidín"
 venue: "ulster-sports-club"
 date: "2026-12-05"
-start_time: "19:00"
+start_time: "19:30"
+price_min: 10
+price_max: 15
 status: "on_sale"
 genres:
 - "Folk/Trad"
@@ -19,9 +21,9 @@ sources:
 - name: "usc"
   key: "usc:event_6CSk5uZMc4r9PJEMbt7yK"
 first_seen: "2026-11-03T14:10:57Z"
-updated_at: "2026-11-21T14:37:59Z"
+updated_at: "2026-11-21T18:08:33Z"
 classification:
   is_music: true
-  confidence: 0.8
+  confidence: 0.9
   method: "llm"
 ---

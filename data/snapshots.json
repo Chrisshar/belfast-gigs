@@ -6006,8 +6006,8 @@
   ],
   "headliner": "Trá Pháidín",
   "needs_review": null,
-  "price_max": null,
-  "price_min": null,
+  "price_max": 15.0,
+  "price_min": 10.0,
   "room": null,
   "sources": [
    {
@@ -6020,7 +6020,7 @@
     "name": "usc"
    }
   ],
-  "start_time": "19:00",
+  "start_time": "19:30",
   "status": "on_sale",
   "support": null,
   "tickets": [
