@@ -4927,6 +4927,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "86db1bb66ea92e61": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Allie Sherlock",
+  "is_music": true,
+  "last_seen": "2026-11-21",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "87096c9b7bcc7f9f": {
   "confidence": 0.9,
   "genres": [

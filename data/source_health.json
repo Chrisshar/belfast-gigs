@@ -1,81 +1,82 @@
 {
  "blackbox": {
   "consecutive_failures": 0,
-  "last_count": 106,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 98
+  "last_count": 104,
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 99
  },
  "citizenticket": {
   "consecutive_failures": 0,
   "last_count": 4,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 100
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 101
  },
  "crescent": {
   "consecutive_failures": 0,
   "last_count": 9,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 98
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 99
  },
  "deershead": {
   "consecutive_failures": 0,
   "last_count": 14,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "duncairn": {
   "consecutive_failures": 0,
   "last_count": 10,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "empire": {
   "consecutive_failures": 0,
   "last_count": 64,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "harrison": {
   "consecutive_failures": 0,
   "last_count": 18,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "limelight": {
   "consecutive_failures": 0,
-  "last_count": 268,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 103
+  "last_count": 269,
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 104
  },
  "mandela": {
   "consecutive_failures": 0,
   "last_count": 12,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "mandelaweb": {
   "consecutive_failures": 0,
   "last_count": 41,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 98
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 99
  },
  "movingon": {
-  "consecutive_failures": 0,
-  "last_count": 3,
-  "last_run": "2026-11-21T07:08:32Z",
+  "consecutive_failures": 1,
+  "last_count": 0,
+  "last_error": "CertificateVerifyError: Failed to perform, curl: (60) SSL: certificate subject name 'app.opsshield.com' does not match target hostname 'www.movingonmusic.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+  "last_run": "2026-11-21T14:37:59Z",
   "runs_ok": 99
  },
  "o2belfast": {
   "consecutive_failures": 0,
   "last_count": 17,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 103
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 104
  },
  "ohyeah": {
   "consecutive_failures": 0,
   "last_count": 43,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "ticketmaster": {
   "consecutive_failures": 0,
@@ -84,19 +85,19 @@
  "ulsterhall": {
   "consecutive_failures": 0,
   "last_count": 198,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  },
  "usc": {
   "consecutive_failures": 0,
   "last_count": 20,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 98
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 99
  },
  "voodoo": {
   "consecutive_failures": 0,
   "last_count": 21,
-  "last_run": "2026-11-21T07:08:32Z",
-  "runs_ok": 99
+  "last_run": "2026-11-21T14:37:59Z",
+  "runs_ok": 100
  }
 }

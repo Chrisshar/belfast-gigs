@@ -6006,8 +6006,8 @@
   ],
   "headliner": "Trá Pháidín",
   "needs_review": null,
-  "price_max": 15.0,
-  "price_min": 10.0,
+  "price_max": null,
+  "price_min": null,
   "room": null,
   "sources": [
    {
@@ -6020,7 +6020,7 @@
     "name": "usc"
    }
   ],
-  "start_time": "19:30",
+  "start_time": "19:00",
   "status": "on_sale",
   "support": null,
   "tickets": [
@@ -12511,6 +12511,40 @@
    }
   ],
   "title": "Dirty Honey",
+  "venue": "limelight"
+ },
+ "cfe91c3f-d9b1-4933-8787-dba55a6169ff": {
+  "age_restriction": "18+",
+  "date": "2027-05-09",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Allie Sherlock",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11940",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5449629?venueId=461484"
+   }
+  ],
+  "title": "Allie Sherlock",
   "venue": "limelight"
  },
  "d0889387-7e77-460a-b23d-dd4ba234cae4": {

@@ -17,7 +17,7 @@ sources:
   key: "deershead:guinness-blues-cafe-dead-handsomes"
   url: "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-dead-handsomes/"
 first_seen: "2026-11-20T15:26:02Z"
-updated_at: "2026-11-21T07:08:32Z"
+updated_at: "2026-11-21T14:37:59Z"
 classification:
   is_music: true
   confidence: 0.9
