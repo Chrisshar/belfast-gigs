@@ -150,17 +150,6 @@
   "reason": "vanished"
  },
  {
-  "id": "7dae3a78-f53a-452b-b04e-4793c147dff8",
-  "keys": [
-   "limelight:11718"
-  ],
-  "fingerprint": "limelight|2026-11-21|girl code",
-  "date": "2026-11-21",
-  "first_seen": "2026-10-25T17:32:54Z",
-  "backfill": true,
-  "reason": "vanished"
- },
- {
   "id": "919ab001-959f-4313-8c3f-a7fb67cdbbaa",
   "keys": [
    "limelight:11577"

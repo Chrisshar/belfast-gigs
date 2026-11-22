@@ -1320,40 +1320,6 @@
   "title": "Passenger",
   "venue": "ulster-hall"
  },
- "0f865674-95fa-42ae-a8e3-76e848b792d5": {
-  "age_restriction": null,
-  "date": "2026-11-21",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Phil Coulter",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:phil-coulter-2",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/phil-coulter-2/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/phil-coulter-2/"
-   }
-  ],
-  "title": "Phil Coulter",
-  "venue": "ulster-hall"
- },
  "102ef509-ad23-49d7-82e1-61f266690e3a": {
   "age_restriction": null,
   "date": "2026-11-30",
@@ -3114,39 +3080,6 @@
   "title": "Blaze Bayley",
   "venue": "belfast-empire"
  },
- "2ee841a6-15a1-4ea5-90be-7867942cb57b": {
-  "age_restriction": null,
-  "date": "2026-11-21",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad"
-  ],
-  "headliner": "Seanchoíche Belfast",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:seancho%C3%ADche-belfast-%7C-luck",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
-   }
-  ],
-  "title": "Seanchoíche Belfast",
-  "venue": "mandela-hall"
- },
  "2f029da1-59da-49e3-83d1-55e6b201c706": {
   "age_restriction": null,
   "date": "2026-11-22",
@@ -4106,35 +4039,6 @@
   ],
   "title": "Slipknowt",
   "venue": "limelight"
- },
- "40cdbc65-569f-47bb-99a0-6c8e4fd6836c": {
-  "age_restriction": null,
-  "date": "2026-11-21",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal",
-   "Rock"
-  ],
-  "headliner": "Sanctium Noctis",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:sanctium-noctis",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/sanctium-noctis"
-   }
-  ],
-  "start_time": "22:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": null,
-  "title": "Sanctium Noctis",
-  "venue": "voodoo"
  },
  "40d87539-ed5b-4216-a0df-e8f86f9ff934": {
   "age_restriction": null,
@@ -9203,45 +9107,6 @@
   "title": "Blue Room Sessions: Lee Hedley Trio",
   "venue": "the-harrison"
  },
- "9a79021b-03aa-4989-a30a-b5b29f7c5e58": {
-  "age_restriction": "18+",
-  "date": "2026-11-21",
-  "doors_time": "18:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic"
-  ],
-  "headliner": "CIRCUS CIRCUS REUNION",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11081",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Rob Tissera",
-   "Computer",
-   "Gleave",
-   "Jacko",
-   "Robbie Nelson"
-  ],
-  "tickets": [
-   {
-    "source": "Glistrr",
-    "url": "https://www.glistrr.com/events/e/circus-circus-reunion-3090-122"
-   }
-  ],
-  "title": "CIRCUS CIRCUS REUNION",
-  "venue": "limelight"
- },
  "9ad813b6-9d03-4f07-95a4-4a0000c20090": {
   "age_restriction": "18+",
   "date": "2026-12-01",
@@ -10635,40 +10500,6 @@
   ],
   "title": "An Intimate Evening With First Aid Kit",
   "venue": "waterfront-hall"
- },
- "b49be322-e671-4cec-b7a7-a46d9915776e": {
-  "age_restriction": null,
-  "date": "2026-11-21",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Punk/Hardcore",
-   "Rock"
-  ],
-  "headliner": "1000 Mods",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 30.25,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:1000-mods",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/1000-mods"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.co.uk/1000mods-belfast-21-11-2026/event/3800644AD8091FEE"
-   }
-  ],
-  "title": "1000 Mods",
-  "venue": "voodoo"
  },
  "b501cfe6-8f9f-4187-8205-f6163006b819": {
   "age_restriction": "18+",
@@ -13577,40 +13408,6 @@
   "title": "Christmas at the Movies with Ruth McGinley & special guest Jordan Arnold",
   "venue": "the-harrison"
  },
- "e61a4db7-e415-4822-b9d3-67b0a1e8e1fd": {
-  "age_restriction": null,
-  "date": "2026-11-21",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Punk/Hardcore"
-  ],
-  "headliner": "Dirty Dc",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 18.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:dirty-dc-3",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/dirty-dc-3/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/dirty-dc-21-11-2026/event/38006495B9ED1892"
-   }
-  ],
-  "title": "Dirty Dc",
-  "venue": "belfast-empire"
- },
  "e625938d-1901-46d1-9b53-451088e8b066": {
   "age_restriction": null,
   "date": "2027-01-29",
@@ -14601,40 +14398,6 @@
   ],
   "title": "Orbital",
   "venue": "limelight"
- },
- "f399ee91-1c0d-4765-8b49-4ca0c8433a8b": {
-  "age_restriction": null,
-  "date": "2026-11-21",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Jazz/Blues",
-   "Rock"
-  ],
-  "headliner": "Crow Black Chicken",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 15.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "deershead:guinness-blues-cafe-crow-black-chicken-3",
-    "name": "deershead",
-    "url": "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-crow-black-chicken-3/"
-   }
-  ],
-  "start_time": "14:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "TicketSource",
-    "url": "https://www.ticketsource.com/BelfastCityBluesFestival"
-   }
-  ],
-  "title": "Guinness Blues Cafe – Crow Black Chicken",
-  "venue": "deers-head"
  },
  "f4030b51-a26a-43c5-9b5e-c2548362155c": {
   "age_restriction": null,

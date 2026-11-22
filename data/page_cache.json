@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "5438",
    "7557",
    "5886",
    "7465",
@@ -1059,41 +1058,6 @@
    },
    "lastmod": "2026-11-11"
   },
-  "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-21",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": null,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:seancho%C3%ADche-belfast-%7C-luck",
-    "source_url": "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/seancho%C3%ADche-belfast-%7C-luck"
-     ]
-    ],
-    "title": "Seanchoíche Belfast",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
-  },
   "https://www.mandelahall.com/events/star-wars-pub-quiz-2026": {
    "event": {
     "address": null,
@@ -1482,38 +1446,7 @@
  },
  "voodoo": {
   "https://www.voodoobelfast.com/events/1000-mods": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-21",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 30.25,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:1000-mods",
-    "source_url": "https://www.voodoobelfast.com/events/1000-mods",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Ticketmaster",
-      "https://www.ticketmaster.co.uk/1000mods-belfast-21-11-2026/event/3800644AD8091FEE"
-     ]
-    ],
-    "title": "1000 Mods",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/abigail-williams": {
@@ -2336,33 +2269,7 @@
    "lastmod": "2025-12-11"
   },
   "https://www.voodoobelfast.com/events/sanctium-noctis": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-21",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:sanctium-noctis",
-    "source_url": "https://www.voodoobelfast.com/events/sanctium-noctis",
-    "start_time": "22:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [],
-    "title": "Sanctium Noctis",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/sanctum-noctis": {
