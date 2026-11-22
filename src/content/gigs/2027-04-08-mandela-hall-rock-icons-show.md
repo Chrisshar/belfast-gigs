@@ -24,7 +24,7 @@ sources:
   key: "mandela:139058782"
   url: "https://www.glistrr.com/events/e/rock-icons-show-32-378"
 first_seen: "2026-10-28T12:52:21Z"
-updated_at: "2026-11-22T07:08:34Z"
+updated_at: "2026-11-22T14:32:49Z"
 classification:
   is_music: true
   confidence: 0.9
