@@ -1154,6 +1154,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "18f7863cf79fc73e": {
+  "confidence": 0.6,
+  "genres": [
+   "Rock",
+   "Tribute/Covers"
+  ],
+  "headliner": "She Rock",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "192b698232308120": {
   "confidence": 0.95,
   "genres": [
@@ -1295,6 +1307,18 @@
   "headliner": "NOUGHTIE NINETIES – 90’s – 00’s",
   "is_music": true,
   "last_seen": "2026-11-13",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "1b13ac3bf63b1115": {
+  "confidence": 0.85,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "OTL: Andy White: ‘Rave on Andy White’ at 40 (Full Band Show)",
+  "is_music": true,
+  "last_seen": "2026-11-23",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -2328,6 +2352,18 @@
    "Ana Sky"
   ]
  },
+ "351c377d6e9f60f6": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "Remembering Joe Dolan",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "35bbf975c45b5fe4": {
   "confidence": 0.97,
   "genres": [
@@ -2776,6 +2812,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "419911beacfd5aa0": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana",
+   "Pop"
+  ],
+  "headliner": "Hardy",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "41d8750a155c0c48": {
   "confidence": 0.95,
   "genres": [
@@ -3036,6 +3084,17 @@
   ],
   "headliner": "The Sabres of Paradise",
   "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "4c09a4889d4bc614": {
+  "confidence": 0.9,
+  "genres": [
+   "Contemporary/New Music"
+  ],
+  "headliner": "Clare Sands & Ulster Orchestra",
+  "is_music": false,
   "last_seen": "2026-11-23",
   "model": "claude-haiku-5-5",
   "support": []
@@ -3613,6 +3672,18 @@
   "headliner": "McKowski DJ Night - Sound of Belfast 2026",
   "is_music": false,
   "last_seen": "2026-11-11",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "5d9954055992c868": {
+  "confidence": 0.85,
+  "genres": [
+   "Tribute/Covers",
+   "Pop"
+  ],
+  "headliner": "The Greatest 80s Show",
+  "is_music": false,
+  "last_seen": "2026-11-23",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -4903,6 +4974,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "85a24051d20b0819": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Olly Murs",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "869f0058022927db": {
   "confidence": 0.95,
   "genres": [
@@ -4947,6 +5029,18 @@
    "Pop"
   ],
   "headliner": "CHRISTMAS WITH FRANK AND DEAN – RATPACK REVISITED",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "881d421604d0a0b2": {
+  "confidence": 0.95,
+  "genres": [
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "PRONG",
   "is_music": true,
   "last_seen": "2026-11-23",
   "model": "claude-haiku-5-5",
@@ -6238,6 +6332,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "abcc902ea648c162": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The Parachute Testers",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "ac7135334c4f63ff": {
   "confidence": 0.4,
   "genres": [
@@ -6752,6 +6857,18 @@
    "Rock"
   ],
   "headliner": "In The Air Tonight",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bc0744fce72e15c8": {
+  "confidence": 0.97,
+  "genres": [
+   "Rock",
+   "Pop"
+  ],
+  "headliner": "The Corrs",
   "is_music": true,
   "last_seen": "2026-11-23",
   "model": "claude-haiku-5-5",
@@ -8186,6 +8303,18 @@
    "Jazz/Blues"
   ],
   "headliner": "The Jazz Room",
+  "is_music": true,
+  "last_seen": "2026-11-23",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e680632331c5be33": {
+  "confidence": 0.95,
+  "genres": [
+   "Tribute/Covers",
+   "Indie/Alternative"
+  ],
+  "headliner": "The Music of Prefab Sprout performed by Martin McAloon",
   "is_music": true,
   "last_seen": "2026-11-23",
   "model": "claude-haiku-5-5",

@@ -17,7 +17,7 @@ sources:
   key: "deershead:guinness-blues-cafe-grand-camaros"
   url: "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-grand-camaros/"
 first_seen: "2026-11-20T15:26:02Z"
-updated_at: "2026-11-23T07:08:35Z"
+updated_at: "2026-11-23T18:03:52Z"
 classification:
   is_music: true
   confidence: 0.9
