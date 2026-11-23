@@ -15,7 +15,7 @@ sources:
   key: "empire:dirty-dc-4"
   url: "https://www.thebelfastempire.com/music-hall/dirty-dc-4/"
 first_seen: "2026-11-20T15:26:02Z"
-updated_at: "2026-11-22T22:28:12Z"
+updated_at: "2026-11-23T07:08:35Z"
 classification:
   is_music: true
   confidence: 0.9

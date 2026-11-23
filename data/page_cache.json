@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7557",
    "5886",
    "7465",
    "7620",
@@ -1266,41 +1265,6 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-16"
-  },
-  "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-22",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 28.0,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:the-jury-experience---the-killer-ai-2",
-    "source_url": "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2",
-    "start_time": "16:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/the-jury-experience---the-killer-ai-2"
-     ]
-    ],
-    "title": "The Jury Experience - The Killer AI",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
   },
   "https://www.mandelahall.com/events/the-mumford-and-sons-story---awake-my-soul": {
    "event": {
