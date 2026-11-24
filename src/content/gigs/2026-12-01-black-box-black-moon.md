@@ -17,7 +17,7 @@ sources:
   key: "blackbox:black-moon-48"
   url: "https://www.blackboxbelfast.com/event/black-moon-48/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-23T18:03:52Z"
+updated_at: "2026-11-24T07:08:37Z"
 backfill: true
 classification:
   is_music: true

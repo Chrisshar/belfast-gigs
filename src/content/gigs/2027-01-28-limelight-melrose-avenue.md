@@ -6,7 +6,7 @@ support:
 - "Arankai"
 - "Call Me Amour"
 venue: "limelight"
-room: "Limelight 1"
+room: "Limelight 2"
 date: "2027-01-28"
 doors_time: "19:00"
 status: "on_sale"
@@ -22,7 +22,7 @@ sources:
   key: "limelight:11117"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-26T16:14:13Z"
+updated_at: "2026-11-24T07:08:37Z"
 backfill: true
 classification:
   is_music: true

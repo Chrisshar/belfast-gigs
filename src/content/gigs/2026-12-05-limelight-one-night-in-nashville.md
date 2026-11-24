@@ -4,7 +4,6 @@ title: "One Night In Nashville"
 headliner: "One Night In Nashville"
 support:
 - "Maria Jordan"
-- "Robbie McMinn"
 - "DJ Chris Armstrong"
 venue: "limelight"
 room: "Limelight 2"
@@ -23,7 +22,7 @@ sources:
   key: "limelight:10463"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:50:12Z"
+updated_at: "2026-11-24T07:08:37Z"
 backfill: true
 classification:
   is_music: true

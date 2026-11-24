@@ -1974,41 +1974,6 @@
   "title": "The First Slip",
   "venue": "black-box"
  },
- "1b44522a-7d5e-4a3f-869b-8becda690baf": {
-  "age_restriction": null,
-  "date": "2026-11-23",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Pop",
-   "Rock"
-  ],
-  "headliner": "Blossoms",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:blossoms",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/blossoms/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/blossoms/"
-   }
-  ],
-  "title": "MCD Presents Blossoms",
-  "venue": "ulster-hall"
- },
  "1b477ea7-122c-4b65-842e-402b16f1874f": {
   "age_restriction": "18+",
   "date": "2027-04-16",
@@ -3308,7 +3273,6 @@
   "status": "on_sale",
   "support": [
    "Maria Jordan",
-   "Robbie McMinn",
    "DJ Chris Armstrong"
   ],
   "tickets": [
@@ -7544,9 +7508,9 @@
    "Indie/Alternative"
   ],
   "headliner": "Light",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
-  "price_min": 10.0,
+  "price_min": 10,
   "room": null,
   "sources": [
    {
@@ -8843,7 +8807,7 @@
   "needs_review": null,
   "price_max": null,
   "price_min": null,
-  "room": "Limelight 1",
+  "room": "Limelight 2",
   "sources": [
    {
     "key": "limelight:11117",
