@@ -1,6 +1,7 @@
 {
  "empire": {
   "hidden_ids": [
+   "7557",
    "5886",
    "7465",
    "7620",
@@ -29,6 +30,7 @@
    "6999",
    "7575",
    "7383",
+   "7457",
    "7721",
    "5581",
    "7397",
@@ -321,6 +323,41 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-11"
+  },
+  "https://www.mandelahall.com/events/cowboy-hunters": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-02-17",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 15.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:cowboy-hunters",
+    "source_url": "https://www.mandelahall.com/events/cowboy-hunters",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/cowboy-hunters"
+     ]
+    ],
+    "title": "Cowboy Hunters",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-23"
   },
   "https://www.mandelahall.com/events/elvana": {
    "event": {
@@ -776,6 +813,41 @@
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-11"
+  },
+  "https://www.mandelahall.com/events/michael-shannon-jason-narducy-friends": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2027-11-18",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 35.0,
+    "room": null,
+    "source": "mandelaweb",
+    "source_key": "mandelaweb:michael-shannon-jason-narducy-friends",
+    "source_url": "https://www.mandelahall.com/events/michael-shannon-jason-narducy-friends",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Mandela Hall",
+      "https://www.mandelahall.com/events/michael-shannon-jason-narducy-friends"
+     ]
+    ],
+    "title": "Michael Shannon & Jason Narducy & Friends",
+    "venue_name": "Mandela Hall"
+   },
+   "lastmod": "2026-11-23"
   },
   "https://www.mandelahall.com/events/mo-gilligan": {
    "event": {

@@ -2257,6 +2257,35 @@
   "title": "Quire’s Big HoHoHo (Evening Show)",
   "venue": "black-box"
  },
+ "213f20b0-6141-4f98-89c2-d39c4290ee0c": {
+  "age_restriction": null,
+  "date": "2026-12-17",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Sounds of Ni",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 8.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "empire:sounds-of-ni-4",
+    "name": "empire",
+    "url": "https://www.thebelfastempire.com/music-hall/sounds-of-ni-4/"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "sold_out",
+  "support": null,
+  "tickets": null,
+  "title": "Sounds of Ni",
+  "venue": "belfast-empire"
+ },
  "21984ab2-5e79-424b-8c32-64ae7cab5c98": {
   "age_restriction": null,
   "date": "2026-11-26",
@@ -2594,6 +2623,51 @@
   ],
   "title": "An Afternoon of Indie",
   "venue": "belfast-empire"
+ },
+ "255ff517-0e9a-429e-a9e1-c9ff3da87f01": {
+  "age_restriction": "18+",
+  "date": "2027-02-17",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "COWBOY HUNTERS",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 15.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandela:140394498",
+    "name": "mandela",
+    "url": "https://www.glistrr.com/events/e/cowboy-hunters-plus-guests-gans-32-382"
+   },
+   {
+    "key": "mandelaweb:cowboy-hunters",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/cowboy-hunters"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": [
+   "GANS"
+  ],
+  "tickets": [
+   {
+    "source": "Glistrr",
+    "url": "https://www.glistrr.com/events/e/cowboy-hunters-plus-guests-gans-32-382"
+   },
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/cowboy-hunters"
+   }
+  ],
+  "title": "COWBOY HUNTERS plus guests, GANS",
+  "venue": "mandela-hall"
  },
  "26600d82-8bfa-450a-9d34-b997e19d1ead": {
   "age_restriction": null,
@@ -4210,6 +4284,40 @@
   ],
   "title": "The Whileaways",
   "venue": "crescent-arts-centre"
+ },
+ "4448ca05-92de-4f48-9fc9-412b347720ad": {
+  "age_restriction": null,
+  "date": "2026-12-05",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Acoustic Picnic: A Christmas Special",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:051226-2",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/051226-2"
+   }
+  ],
+  "start_time": "12:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/051226-2"
+   }
+  ],
+  "title": "Acoustic Picnic: A Christmas Special",
+  "venue": "oh-yeah"
  },
  "449474d3-3ae6-4d7a-8e4e-885bbcf50bec": {
   "age_restriction": null,
@@ -7499,18 +7607,18 @@
  },
  "7fab5ca7-01f4-40a2-9d6c-581c064a5511": {
   "age_restriction": null,
-  "date": "2027-03-13",
+  "date": "2027-04-17",
   "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
-   "Rock",
+   "Pop",
    "Indie/Alternative"
   ],
   "headliner": "Light",
-  "needs_review": true,
+  "needs_review": null,
   "price_max": null,
-  "price_min": 10,
+  "price_min": 10.0,
   "room": null,
   "sources": [
    {
@@ -7593,6 +7701,40 @@
   ],
   "title": "Chris Barron (Spin Doctors): Acoustic Tour",
   "venue": "crescent-arts-centre"
+ },
+ "8100328c-b1d2-49be-b74c-d2796f4f9f24": {
+  "age_restriction": null,
+  "date": "2027-06-24",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Country/Americana",
+   "Rock"
+  ],
+  "headliner": "Brad Paisley",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11967",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "signup.shine.net",
+    "url": "https://signup.shine.net/PRESALE-BRAD-PAISLEY"
+   }
+  ],
+  "title": "The Summer Series 2027 - Brad Paisley",
+  "venue": "custom-house-square"
  },
  "81016c48-e3e5-4d1f-ab21-0a04014bf4a4": {
   "age_restriction": null,
@@ -8267,7 +8409,7 @@
     "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-4/"
    }
   ],
-  "start_time": "17:15",
+  "start_time": null,
   "status": "on_sale",
   "support": null,
   "tickets": null,
@@ -9367,6 +9509,40 @@
   "title": "Stick In The Wheel",
   "venue": "ulster-sports-club"
  },
+ "a1be448e-268a-483a-9baa-eca66028e776": {
+  "age_restriction": null,
+  "date": "2027-11-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Michael Shannon & Jason Narducy & Friends",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 35.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "mandelaweb:michael-shannon-jason-narducy-friends",
+    "name": "mandelaweb",
+    "url": "https://www.mandelahall.com/events/michael-shannon-jason-narducy-friends"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Mandela Hall",
+    "url": "https://www.mandelahall.com/events/michael-shannon-jason-narducy-friends"
+   }
+  ],
+  "title": "Michael Shannon & Jason Narducy & Friends",
+  "venue": "mandela-hall"
+ },
  "a21db514-cdee-42b0-82c8-b95bc0a03332": {
   "age_restriction": null,
   "date": "2027-01-14",
@@ -10392,6 +10568,39 @@
   "title": "An Intimate Evening With First Aid Kit",
   "venue": "waterfront-hall"
  },
+ "b417cf7d-7b57-4ead-b1b9-158ee7c4251b": {
+  "age_restriction": null,
+  "date": "2027-09-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "The Dubliners",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Main Auditorium",
+  "sources": [
+   {
+    "key": "ulsterhall:the-dubliners-encore-2",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/the-dubliners-encore-2/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/the-dubliners-encore-2/"
+   }
+  ],
+  "title": "The Dubliners Encore",
+  "venue": "waterfront-hall"
+ },
  "b501cfe6-8f9f-4187-8205-f6163006b819": {
   "age_restriction": "18+",
   "date": "2027-01-22",
@@ -10836,6 +11045,40 @@
   "title": "Rockfast 3",
   "venue": "mandela-hall"
  },
+ "b9bbe62b-8b9e-4d45-940a-91f596782616": {
+  "age_restriction": null,
+  "date": "2027-06-05",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Contemporary/New Music",
+   "Rock"
+  ],
+  "headliner": "Lush! Classical",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11961",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "signup.shine.net",
+    "url": "https://signup.shine.net/PRESALE-LUSH-CLASSICAL"
+   }
+  ],
+  "title": "The Summer Series 2027 - Lush! Classical",
+  "venue": "custom-house-square"
+ },
  "ba497f29-d8f9-4d20-93de-b330b28cab57": {
   "age_restriction": null,
   "date": "2027-05-21",
@@ -10905,6 +11148,40 @@
   ],
   "title": "Tyler Braden",
   "venue": "limelight"
+ },
+ "bba3fd16-62fd-46bc-b1bd-148ae8069991": {
+  "age_restriction": null,
+  "date": "2027-06-19",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie Fielding",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11965",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "drop.cobrand.com",
+    "url": "https://drop.cobrand.com/d/SHINE/JamieFieldingCHS"
+   }
+  ],
+  "title": "The Summer Series 2027 - Jamie Fielding",
+  "venue": "custom-house-square"
  },
  "bc32feb0-e98a-4a47-bcc6-2d3e90cf5e0f": {
   "age_restriction": null,
@@ -14042,14 +14319,13 @@
   "venue": "telegraph-building"
  },
  "efd9c207-ba0f-4e98-918f-867d1564d586": {
-  "age_restriction": "18+",
+  "age_restriction": null,
   "date": "2027-08-05",
   "doors_time": null,
   "end_date": null,
   "free": null,
   "genres": [
    "Rock",
-   "Indie/Alternative",
    "Folk/Trad"
   ],
   "headliner": "Hothouse Flowers",

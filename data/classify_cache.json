@@ -482,6 +482,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "09abd2ed5c58ea8b": {
+  "confidence": 0.9,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "The Dubliners",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0a03d444dc2c72ed": {
   "confidence": 0.5,
   "genres": [
@@ -1116,7 +1127,7 @@
   "genres": [],
   "headliner": "The Incredibly Strange Creatures Who Stopped Living And Became Mixed Up Zombies",
   "is_music": false,
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -1949,6 +1960,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "2b8d297254b41bdd": {
+  "confidence": 0.85,
+  "genres": [
+   "Contemporary/New Music",
+   "Rock"
+  ],
+  "headliner": "Lush! Classical",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "2bd9e6570e742344": {
   "confidence": 0.9,
   "genres": [
@@ -2154,7 +2177,7 @@
   ],
   "headliner": "The Boondocks",
   "is_music": true,
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -3231,7 +3254,7 @@
   ],
   "headliner": "Kirsteen Harvey",
   "is_music": true,
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -3424,6 +3447,18 @@
    "Indie/Alternative"
   ],
   "headliner": "The Paul Weller Experience",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "567a14a91117e21e": {
+  "confidence": 0.75,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Acoustic Picnic: A Christmas Special",
   "is_music": true,
   "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
@@ -4188,6 +4223,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "70c8fcec5c909671": {
+  "confidence": 0.7,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Michael Shannon & Jason Narducy & Friends",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "71678acd6773d572": {
   "confidence": 0.97,
   "genres": [
@@ -4646,6 +4693,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "7e9df30efcc4b06b": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Cowboy Hunters",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "7ecfa38faf5f8321": {
   "confidence": 0.95,
   "genres": [
@@ -4663,6 +4722,18 @@
    "Indie/Alternative"
   ],
   "headliner": "SOFY",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "7ef41bb2696bbf36": {
+  "confidence": 0.4,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Sounds of Ni",
   "is_music": true,
   "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
@@ -5173,7 +5244,7 @@
   "genres": [],
   "headliner": "Midweek Magic Club",
   "is_music": false,
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -6398,6 +6469,18 @@
    "Indie/Alternative"
   ],
   "headliner": "The Frank & The Walters",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "aeff1edc9093ca4f": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie Fielding",
   "is_music": true,
   "last_seen": "2026-11-24",
   "model": "claude-haiku-5-5",
@@ -7661,6 +7744,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "d342ec0b29300552": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana",
+   "Rock"
+  ],
+  "headliner": "Brad Paisley",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "d39afeca1797474a": {
   "confidence": 0.85,
   "genres": [
@@ -7830,6 +7925,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "d89cac4efd340a41": {
+  "confidence": 0.4,
+  "genres": [
+   "Pop",
+   "Indie/Alternative"
+  ],
+  "headliner": "Light",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "d8a65735a21c00b5": {
   "confidence": 0.9,
   "genres": [
@@ -7841,6 +7948,20 @@
   "last_seen": "2026-11-05",
   "model": "claude-haiku-5-5",
   "support": []
+ },
+ "d91a0d88666738da": {
+  "confidence": 0.9,
+  "genres": [
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "COWBOY HUNTERS",
+  "is_music": true,
+  "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "GANS"
+  ]
  },
  "d92997937d6076a6": {
   "confidence": 0.45,
