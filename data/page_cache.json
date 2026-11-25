@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7557",
    "5886",
    "7465",
    "7620",
@@ -2629,38 +2628,7 @@
    "lastmod": "2026-11-03"
   },
   "https://www.voodoobelfast.com/events/urne": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-24",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 25.25,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:urne",
-    "source_url": "https://www.voodoobelfast.com/events/urne",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Ticketmaster",
-      "https://www.ticketmaster.ie/urne-24-11-2026/event/380064898A0510AA"
-     ]
-    ],
-    "title": "URNE",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-01"
   },
   "https://www.voodoobelfast.com/events/vampir": {

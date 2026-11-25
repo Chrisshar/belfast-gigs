@@ -18,7 +18,7 @@ sources:
   key: "blackbox:the-tarantinos"
   url: "https://www.blackboxbelfast.com/event/the-tarantinos/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-24T17:41:24Z"
+updated_at: "2026-11-25T07:08:30Z"
 backfill: true
 classification:
   is_music: true

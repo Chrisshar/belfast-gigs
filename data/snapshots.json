@@ -1394,11 +1394,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Jazz/Blues",
+   "Singer-Songwriter",
    "Pop",
-   "Tribute/Covers"
+   "Jazz/Blues"
   ],
-  "headliner": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
+  "headliner": "Ruth McGinley",
   "needs_review": null,
   "price_max": null,
   "price_min": null,
@@ -1423,7 +1423,7 @@
     "url": "https://www.eventbrite.com/e/a-timeless-christmas-from-judy-garland-to-joni-mitchell-7pm-show-tickets-2004386132880"
    }
   ],
-  "title": "A Timeless Christmas: From Judy Garland to Joni Mitchell",
+  "title": "Ruth McGinley - A Timeless Christmas: From Judy Garland to Joni Mitchell",
   "venue": "the-harrison"
  },
  "12d2096f-37c2-47b6-bb9a-5340eff4f85a": {
@@ -6900,39 +6900,6 @@
   "title": "The Summer Series 2027 - The 30+ Club",
   "venue": "custom-house-square"
  },
- "6e4c8815-19cc-4683-982a-2bead6f96609": {
-  "age_restriction": null,
-  "date": "2026-11-24",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal"
-  ],
-  "headliner": "URNE",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": 25.25,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:urne",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/urne"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/urne-24-11-2026/event/380064898A0510AA"
-   }
-  ],
-  "title": "URNE",
-  "venue": "voodoo"
- },
  "6e887ebf-1ffa-4c89-9049-0bb4ab093b61": {
   "age_restriction": null,
   "date": "2027-02-12",
@@ -7804,40 +7771,6 @@
   "title": "Cardinal Black",
   "venue": "limelight"
  },
- "81d08c89-42ec-4c09-a556-52beeb9db54c": {
-  "age_restriction": "18+",
-  "date": "2026-11-24",
-  "doors_time": "18:30",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Electronic",
-   "Pop"
-  ],
-  "headliner": "L1NKN P4RK",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10518",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/l1nkn-p4rk-the-linkin-park-experience-belfast-24-11-2026/event/38006462E55A1C9A"
-   }
-  ],
-  "title": "L1NKN P4RK",
-  "venue": "limelight"
- },
  "82a38fcf-048a-4481-8f40-d4a6e315e470": {
   "age_restriction": null,
   "date": "2027-03-27",
@@ -8409,7 +8342,7 @@
     "url": "https://www.thebelfastempire.com/music-hall/the-jazz-room-4/"
    }
   ],
-  "start_time": null,
+  "start_time": "17:15",
   "status": "on_sale",
   "support": null,
   "tickets": null,
@@ -12242,8 +12175,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "World",
-   "Folk/Trad"
+   "Folk/Trad",
+   "World"
   ],
   "headliner": "Duozouk",
   "needs_review": null,
@@ -12266,7 +12199,7 @@
     "url": "https://www.eventbrite.com/e/duozouk-live-at-mckowski-cafe-tickets-2002303389338"
    }
   ],
-  "title": "Duozouk live at McKowski Cafe",
+  "title": "Duozouk",
   "venue": "the-harrison"
  },
  "c8c64dbf-8d75-48d7-baf4-376dc7577ace": {
@@ -13312,6 +13245,45 @@
   ],
   "title": "Thistle",
   "venue": "oh-yeah"
+ },
+ "df48e5ac-b9de-46d9-bf73-b5015b283b4a": {
+  "age_restriction": null,
+  "date": "2027-08-21",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Punk/Hardcore",
+   "Rock",
+   "Indie/Alternative"
+  ],
+  "headliner": "Stiff Little Fingers",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11968",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": [
+   "The Boomtown Rats",
+   "Gang of Four",
+   "Protex and DJ Terri Hooley"
+  ],
+  "tickets": [
+   {
+    "source": "signup.belsonic.com",
+    "url": "https://signup.belsonic.com/slf-presale"
+   }
+  ],
+  "title": "CHSQ 2027 - Stiff Little Fingers",
+  "venue": "custom-house-square"
  },
  "e0918558-c711-4d4d-a9a1-14203c737c34": {
   "age_restriction": null,
