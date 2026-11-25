@@ -18,7 +18,7 @@ sources:
   key: "deershead:ariel-posen"
   url: "https://www.thedeersheadbelfast.com/whats-on/ariel-posen/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-25T07:08:30Z"
+updated_at: "2026-11-25T17:11:06Z"
 backfill: true
 classification:
   is_music: true

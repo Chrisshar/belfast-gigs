@@ -4,7 +4,7 @@ title: "Jamie Duffy"
 headliner: "Jamie Duffy"
 venue: "ulster-hall"
 date: "2026-12-11"
-status: "on_sale"
+status: "sold_out"
 genres:
 - "Singer-Songwriter"
 - "Pop"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:jamie-duffy-2"
   url: "https://www.ulsterhall.co.uk/what-s-on/jamie-duffy-2/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-10-26T13:13:29Z"
+updated_at: "2026-11-25T17:11:06Z"
 backfill: true
 classification:
   is_music: true

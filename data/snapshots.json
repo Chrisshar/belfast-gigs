@@ -2727,7 +2727,7 @@
    }
   ],
   "start_time": null,
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -3277,6 +3277,40 @@
   ],
   "title": "OTL: Peggy Lee – That Lady is a Tramp",
   "venue": "black-box"
+ },
+ "370b892e-6932-4fe9-b7a7-f2f5bf32f0d6": {
+  "age_restriction": null,
+  "date": "2027-11-13",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Paul Brady",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Main Auditorium",
+  "sources": [
+   {
+    "key": "ulsterhall:paul-brady-2",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/paul-brady-2/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/paul-brady-2/"
+   }
+  ],
+  "title": "Paul Brady in Concert",
+  "venue": "waterfront-hall"
  },
  "37de9bae-4787-4cf5-85e1-42da9383eb9b": {
   "age_restriction": "18+",
@@ -4827,6 +4861,10 @@
    {
     "source": "Ticketmaster",
     "url": "https://www.ticketmaster.co.uk/the-rapparees-tickets/artist/2198814"
+   },
+   {
+    "source": "therapparees.ie",
+    "url": "https://www.therapparees.ie/poguestribute"
    }
   ],
   "title": "The Rapparees",
@@ -5695,6 +5733,40 @@
   "tickets": null,
   "title": "Unpeople",
   "venue": "voodoo"
+ },
+ "597a18d8-43c7-4922-aa7a-ee7031a66148": {
+  "age_restriction": null,
+  "date": "2027-10-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Bootleg Beatles Live!",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Main Auditorium",
+  "sources": [
+   {
+    "key": "ulsterhall:the-bootleg-beatles-live-2",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/the-bootleg-beatles-live-2/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/the-bootleg-beatles-live-2/"
+   }
+  ],
+  "title": "The Bootleg Beatles Live!",
+  "venue": "waterfront-hall"
  },
  "59a5d799-c1fd-45c4-be3e-02c5b1b559de": {
   "age_restriction": null,
@@ -7930,7 +8002,7 @@
    }
   ],
   "start_time": null,
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -13507,6 +13579,40 @@
    }
   ],
   "title": "The Chicago Blues Brothers",
+  "venue": "ulster-hall"
+ },
+ "e396c9d4-a04f-4577-9f6f-d3370351a513": {
+  "age_restriction": null,
+  "date": "2027-01-23",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Amble",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ulsterhall:amble",
+    "name": "ulsterhall",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/amble/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Box office",
+    "url": "https://www.ulsterhall.co.uk/what-s-on/amble/"
+   }
+  ],
+  "title": "Amble",
   "venue": "ulster-hall"
  },
  "e417acd3-1171-4918-9d7e-8b0d31335efc": {

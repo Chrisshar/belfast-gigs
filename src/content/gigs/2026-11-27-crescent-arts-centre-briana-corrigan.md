@@ -18,7 +18,7 @@ sources:
   key: "crescent:briana-corrigan"
   url: "https://www.crescentarts.org/events/music-and-drama/gig/briana-corrigan"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-25T07:08:30Z"
+updated_at: "2026-11-25T17:11:06Z"
 backfill: true
 classification:
   is_music: true

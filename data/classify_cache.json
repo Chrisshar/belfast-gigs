@@ -2165,6 +2165,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "301ac7c4ed2c74f9": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "The Bootleg Beatles Live!",
+  "is_music": true,
+  "last_seen": "2026-11-25",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "30312b4d5f56de30": {
   "confidence": 0.95,
   "genres": [
@@ -4802,6 +4814,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "7f8117f2a7e71ffc": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Amble",
+  "is_music": true,
+  "last_seen": "2026-11-25",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "7fa275d745200a8a": {
   "confidence": 0.6,
   "genres": [
@@ -6463,6 +6487,18 @@
    "Indie/Alternative"
   ],
   "headliner": "The Mission",
+  "is_music": true,
+  "last_seen": "2026-11-25",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ad8f7a062c18875e": {
+  "confidence": 0.95,
+  "genres": [
+   "Folk/Trad",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Paul Brady",
   "is_music": true,
   "last_seen": "2026-11-25",
   "model": "claude-haiku-5-5",
