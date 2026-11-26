@@ -18,7 +18,7 @@ sources:
   key: "blackbox:otl-andy-white-rave-on-andy-white-at-40-full-band-show"
   url: "https://www.blackboxbelfast.com/event/otl-andy-white-rave-on-andy-white-at-40-full-band-show/"
 first_seen: "2026-11-23T18:03:52Z"
-updated_at: "2026-11-26T00:59:32Z"
+updated_at: "2026-11-26T07:08:46Z"
 classification:
   is_music: true
   confidence: 0.85

@@ -18,7 +18,7 @@ sources:
   key: "empire:she-rock"
   url: "https://www.thebelfastempire.com/music-hall/she-rock/"
 first_seen: "2026-11-23T18:03:52Z"
-updated_at: "2026-11-26T00:59:32Z"
+updated_at: "2026-11-26T07:08:46Z"
 classification:
   is_music: true
   confidence: 0.9

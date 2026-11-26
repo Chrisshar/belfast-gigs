@@ -26,7 +26,7 @@ sources:
   key: "mandelaweb:cowboy-hunters"
   url: "https://www.mandelahall.com/events/cowboy-hunters"
 first_seen: "2026-11-24T17:41:24Z"
-updated_at: "2026-11-26T00:59:32Z"
+updated_at: "2026-11-26T07:08:46Z"
 classification:
   is_music: true
   confidence: 0.9
