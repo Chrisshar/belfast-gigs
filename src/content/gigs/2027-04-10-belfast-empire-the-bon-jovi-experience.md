@@ -15,7 +15,7 @@ sources:
   key: "empire:bon-jovi-experience-4-2-2"
   url: "https://www.thebelfastempire.com/music-hall/bon-jovi-experience-4-2-2/"
 first_seen: "2026-10-26T21:39:04Z"
-updated_at: "2026-11-26T07:08:46Z"
+updated_at: "2026-11-26T16:52:24Z"
 classification:
   is_music: true
   confidence: 0.9

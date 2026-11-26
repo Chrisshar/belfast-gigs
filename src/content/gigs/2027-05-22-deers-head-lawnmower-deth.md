@@ -18,7 +18,7 @@ sources:
   key: "deershead:lawnmower-deth"
   url: "https://www.thedeersheadbelfast.com/whats-on/lawnmower-deth/"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-26T07:08:46Z"
+updated_at: "2026-11-26T16:52:24Z"
 backfill: true
 classification:
   is_music: true

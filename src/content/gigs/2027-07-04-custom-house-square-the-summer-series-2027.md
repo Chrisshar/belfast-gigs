@@ -1,6 +1,6 @@
 ---
 id: "22a04532-4914-42de-b8f8-6bd48d68ed26"
-title: "The Summer Series 2027 - Slash"
+title: "Summer Series - Slash"
 headliner: "Slash"
 support:
 - "Myles Kennedy"
@@ -22,7 +22,7 @@ sources:
   key: "limelight:11726"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-11-13T14:32:56Z"
+updated_at: "2026-11-26T16:52:24Z"
 backfill: true
 classification:
   is_music: true

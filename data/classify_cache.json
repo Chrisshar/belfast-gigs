@@ -316,6 +316,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "067e9bbe33b968dc": {
+  "confidence": 0.4,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Hex Appeal",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "06847969e28aa630": {
   "confidence": 0.9,
   "genres": [
@@ -992,6 +1003,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "14cc6dc61b680776": {
+  "confidence": 0.4,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Velvet Moon",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "14d98173b680bcef": {
   "confidence": 0.95,
   "genres": [
@@ -1137,6 +1159,18 @@
    "Rock"
   ],
   "headliner": "Lansdowne",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "183db42dfe824298": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie Fielding",
   "is_music": true,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
@@ -2527,6 +2561,19 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "3999b2fddcb6dc69": {
+  "confidence": 0.85,
+  "genres": [
+   "Folk/Trad",
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Waylander",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "39e5811761ce904e": {
   "confidence": 0.95,
   "genres": [
@@ -2714,6 +2761,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "3d58feda53f2e331": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "The Devils Fayre",
+  "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "3dfca9345f08d803": {
   "confidence": 0.95,
   "genres": [
@@ -2791,6 +2847,17 @@
   "headliner": "Fuego Fatale – Women of Horror",
   "is_music": true,
   "last_seen": "2026-10-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "3f41f78570554b70": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana"
+  ],
+  "headliner": "Brad Paisley",
+  "is_music": true,
+  "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -3070,6 +3137,15 @@
    "Survivalist"
   ]
  },
+ "48f1e4295516d6bc": {
+  "confidence": 0.9,
+  "genres": [],
+  "headliner": "Gta Party",
+  "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "497fe4a3ba5d6cd9": {
   "confidence": 0.6,
   "genres": [
@@ -3115,6 +3191,18 @@
   "headliner": "L1NKN P4RK",
   "is_music": true,
   "last_seen": "2026-11-24",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "49f2795403819318": {
+  "confidence": 0.95,
+  "genres": [
+   "Country/Americana",
+   "Singer-Songwriter"
+  ],
+  "headliner": "Kacey Musgraves",
+  "is_music": true,
+  "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
   "support": []
  },
@@ -4126,6 +4214,18 @@
    "Pigeon Pit"
   ]
  },
+ "6a1dbc1db581c8ce": {
+  "confidence": 0.75,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "Miabella",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "6a5b3491f9c2cb0a": {
   "confidence": 0.8,
   "genres": [
@@ -4758,6 +4858,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "7ed61e474eb3e7fc": {
+  "confidence": 0.7,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ethan Regan",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "7ef32efba7e33da1": {
   "confidence": 0.5,
   "genres": [
@@ -5206,6 +5318,21 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "89520ed5da1cea5c": {
+  "confidence": 0.95,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Slash",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Myles Kennedy",
+   "The Conspirators"
+  ]
+ },
  "89cd3dd2d0efa469": {
   "confidence": 0.8,
   "genres": [
@@ -5226,6 +5353,15 @@
   ],
   "headliner": "Beoga",
   "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "8b1f765b15dfe55e": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Sanctum Noctis",
+  "is_music": false,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
   "support": []
@@ -5669,6 +5805,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "99976a921087512a": {
+  "confidence": 0.9,
+  "genres": [],
+  "headliner": "Bach St Matthew Passion",
+  "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "99ebc5054922e843": {
   "confidence": 0.9,
   "genres": [
@@ -6078,6 +6223,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "a2e131078c125305": {
+  "confidence": 0.85,
+  "genres": [],
+  "headliner": "Blitz Club",
+  "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "a2e348ee5fd178d3": {
   "confidence": 0.97,
   "genres": [
@@ -6242,6 +6396,15 @@
    "Contemporary/New Music"
   ],
   "headliner": "Choir! Choir! Choir!",
+  "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "a5f7cba2f9cf7ff8": {
+  "confidence": 0.6,
+  "genres": [],
+  "headliner": "Not a Phase",
   "is_music": false,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
@@ -7105,6 +7268,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "bcc04e65f1bedcca": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Sam Barber",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "bcc3580eb9ff3cec": {
   "confidence": 0.5,
   "genres": [
@@ -7176,6 +7351,18 @@
    "Pop"
   ],
   "headliner": "Elvis Spectacular",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "bf2347e3596b344e": {
+  "confidence": 0.8,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie Fielding",
   "is_music": true,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
@@ -7358,6 +7545,15 @@
    "Tortured Demon"
   ]
  },
+ "c541eb34d93d128f": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "Ahir Shah",
+  "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "c576ade317300775": {
   "confidence": 0.5,
   "genres": [
@@ -7472,6 +7668,17 @@
    "Rock"
   ],
   "headliner": "Oasis Supernova",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "c89c6be14df80671": {
+  "confidence": 0.4,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Mark Hegan",
   "is_music": true,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
@@ -7607,6 +7814,17 @@
    "Folk/Trad"
   ],
   "headliner": "Briana Corrigan",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "cd2f8a12b8f51ac4": {
+  "confidence": 0.5,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "The 30+ Club",
   "is_music": true,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
@@ -8121,6 +8339,17 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "d9e9ca526e6f5487": {
+  "confidence": 0.95,
+  "genres": [
+   "Pop"
+  ],
+  "headliner": "Olly Murs",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "d9f4d74b37cf7fb3": {
   "confidence": 0.96,
   "genres": [
@@ -8463,6 +8692,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "e4e8a219fc06c57e": {
+  "confidence": 0.6,
+  "genres": [
+   "Tribute/Covers",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Lush! Classical",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "e5537455bc9a560a": {
   "confidence": 0.85,
   "genres": [
@@ -8571,6 +8812,18 @@
   ],
   "headliner": "André Rieu",
   "is_music": false,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "e77f1a433c8d8147": {
+  "confidence": 0.8,
+  "genres": [
+   "Pop",
+   "Soul/R&B/Funk"
+  ],
+  "headliner": "ADÉLA",
+  "is_music": true,
   "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
   "support": []
@@ -8714,6 +8967,21 @@
   "last_seen": "2026-10-29",
   "model": "claude-haiku-5-5",
   "support": []
+ },
+ "ef0f8521e173c62b": {
+  "confidence": 0.9,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "Supervoid",
+  "is_music": true,
+  "last_seen": "2026-11-26",
+  "model": "claude-haiku-5-5",
+  "support": [
+   "Winter",
+   "Quiet Neighbours"
+  ]
  },
  "ef9cd996317f592f": {
   "confidence": 0.8,
@@ -9239,6 +9507,17 @@
   "headliner": "Chloe Slater",
   "is_music": true,
   "last_seen": "2026-11-20",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "ff21aa8360486de3": {
+  "confidence": 0.35,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Nxbodies",
+  "is_music": true,
+  "last_seen": "2026-11-26",
   "model": "claude-haiku-5-5",
   "support": []
  },

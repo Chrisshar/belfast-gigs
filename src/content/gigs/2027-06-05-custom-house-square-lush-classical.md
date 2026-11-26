@@ -1,14 +1,14 @@
 ---
 id: "b9bbe62b-8b9e-4d45-940a-91f596782616"
-title: "The Summer Series 2027 - Lush! Classical"
+title: "Summer Series - Lush! Classical"
 headliner: "Lush! Classical"
 venue: "custom-house-square"
 date: "2027-06-05"
 doors_time: "18:00"
 status: "on_sale"
 genres:
+- "Tribute/Covers"
 - "Contemporary/New Music"
-- "Rock"
 tickets:
 - source: "signup.shine.net"
   url: "https://signup.shine.net/PRESALE-LUSH-CLASSICAL"
@@ -17,9 +17,10 @@ sources:
   key: "limelight:11961"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-24T17:41:24Z"
-updated_at: "2026-11-24T17:41:24Z"
+updated_at: "2026-11-26T16:52:24Z"
 classification:
   is_music: true
-  confidence: 0.85
+  confidence: 0.6
   method: "llm"
+needs_review: true
 ---

@@ -5,7 +5,7 @@ headliner: "Madra Salach"
 venue: "telegraph-building"
 date: "2027-04-11"
 doors_time: "19:00"
-status: "on_sale"
+status: "sold_out"
 age_restriction: "18+"
 genres:
 - "Folk/Trad"
@@ -18,7 +18,7 @@ sources:
   key: "limelight:11801"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-10-25T22:11:16Z"
+updated_at: "2026-11-26T16:52:24Z"
 backfill: true
 classification:
   is_music: true

@@ -17,7 +17,7 @@ sources:
   key: "deershead:guinness-blues-cafe-jim-the-king-brown"
   url: "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-jim-the-king-brown/"
 first_seen: "2026-11-20T15:26:02Z"
-updated_at: "2026-11-26T07:08:46Z"
+updated_at: "2026-11-26T16:52:24Z"
 classification:
   is_music: true
   confidence: 0.9

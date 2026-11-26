@@ -4,7 +4,7 @@ title: "Amble"
 headliner: "Amble"
 venue: "ulster-hall"
 date: "2027-01-23"
-status: "on_sale"
+status: "sold_out"
 genres:
 - "Folk/Trad"
 - "Singer-Songwriter"
@@ -16,7 +16,7 @@ sources:
   key: "ulsterhall:amble"
   url: "https://www.ulsterhall.co.uk/what-s-on/amble/"
 first_seen: "2026-11-25T17:11:06Z"
-updated_at: "2026-11-25T17:11:06Z"
+updated_at: "2026-11-26T16:52:24Z"
 classification:
   is_music: true
   confidence: 0.9

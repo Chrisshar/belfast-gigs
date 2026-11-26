@@ -1,6 +1,6 @@
 ---
 id: "d9c51df5-7904-4f90-ae45-ad82f1ea67ce"
-title: "The Summer Series 2027 - Sam Barber"
+title: "Summer Series - Sam Barber"
 headliner: "Sam Barber"
 venue: "custom-house-square"
 date: "2027-06-15"
@@ -19,7 +19,7 @@ sources:
   key: "limelight:11877"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-09T16:15:01Z"
-updated_at: "2026-11-17T15:58:33Z"
+updated_at: "2026-11-26T16:52:24Z"
 classification:
   is_music: true
   confidence: 0.9

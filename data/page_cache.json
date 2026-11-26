@@ -1556,8 +1556,39 @@
    "lastmod": "2026-03-24"
   },
   "https://www.voodoobelfast.com/events/blitz-club": {
-   "event": null,
-   "lastmod": "2026-08-18"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-11-26",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:blitz-club",
+    "source_url": "https://www.voodoobelfast.com/events/blitz-club",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Blitz-Club--All-Out-80s/43220093/"
+     ]
+    ],
+    "title": "Blitz Club",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/bloodsport": {
    "event": null,
@@ -1725,6 +1756,41 @@
    },
    "lastmod": "2026-09-10"
   },
+  "https://www.voodoobelfast.com/events/ethan-regan": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-04",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 20.25,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:ethan-regan",
+    "source_url": "https://www.voodoobelfast.com/events/ethan-regan",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Ticketmaster",
+      "https://www.ticketmaster.ie/ethan-regan-04-12-2026/event/380064BBDC812912"
+     ]
+    ],
+    "title": "Ethan Regan",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
+  },
   "https://www.voodoobelfast.com/events/ez%2Fdc": {
    "event": null,
    "lastmod": "2026-03-11"
@@ -1795,6 +1861,41 @@
   "https://www.voodoobelfast.com/events/green-week": {
    "event": null,
    "lastmod": "2026-07-28"
+  },
+  "https://www.voodoobelfast.com/events/gta-party": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-05",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:gta-party",
+    "source_url": "https://www.voodoobelfast.com/events/gta-party",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Grand-Theft-Auto-Party/43228178/"
+     ]
+    ],
+    "title": "Gta Party",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/gun-ghaol": {
    "event": {
@@ -1921,8 +2022,39 @@
    "lastmod": "2026-09-30"
   },
   "https://www.voodoobelfast.com/events/hex-appeal": {
-   "event": null,
-   "lastmod": "2026-08-18"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-19",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": null,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:hex-appeal",
+    "source_url": "https://www.voodoobelfast.com/events/hex-appeal",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "TicketSource",
+      "https://www.ticketsource.com/hex-appeal/hex-appeal-cabaret/2026-12-19/19:00/t-kdpeega"
+     ]
+    ],
+    "title": "Hex Appeal",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/hex-club": {
    "event": null,
@@ -2098,6 +2230,41 @@
    "event": null,
    "lastmod": "2026-01-14"
   },
+  "https://www.voodoobelfast.com/events/mark-hegan": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-18",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:mark-hegan",
+    "source_url": "https://www.voodoobelfast.com/events/mark-hegan",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Eventbrite",
+      "https://www.eventbrite.co.uk/e/mark-hegan-ep-launch-voodoo-belfast-tickets-1993932938093?aff=ebdsoporgprofile"
+     ]
+    ],
+    "title": "Mark Hegan",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
+  },
   "https://www.voodoobelfast.com/events/martina-and-the-moons": {
    "event": null,
    "lastmod": "2026-02-19"
@@ -2213,8 +2380,34 @@
    "lastmod": "2026-08-26"
   },
   "https://www.voodoobelfast.com/events/not-a-phase": {
-   "event": null,
-   "lastmod": "2026-08-26"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-26",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:not-a-phase",
+    "source_url": "https://www.voodoobelfast.com/events/not-a-phase",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Not a Phase",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/not-a-phase---emo-club": {
    "event": null,
@@ -2223,6 +2416,36 @@
   "https://www.voodoobelfast.com/events/nu-metal-night": {
    "event": null,
    "lastmod": "2026-07-23"
+  },
+  "https://www.voodoobelfast.com/events/nxbodies": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-10",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 7.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:nxbodies",
+    "source_url": "https://www.voodoobelfast.com/events/nxbodies",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "Nxbodies",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/nye-emo-gala": {
    "event": null,
@@ -2277,8 +2500,39 @@
    "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/sanctum-noctis": {
-   "event": null,
-   "lastmod": "2026-08-18"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-12",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:sanctum-noctis",
+    "source_url": "https://www.voodoobelfast.com/events/sanctum-noctis",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/events/all/?keyword=sanctum+noctis&hidecancelled=1"
+     ]
+    ],
+    "title": "Sanctum Noctis",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/saved-by-the-bell": {
    "event": null,
@@ -2448,8 +2702,34 @@
    "lastmod": "2026-03-24"
   },
   "https://www.voodoobelfast.com/events/the-devils-fayre": {
-   "event": null,
-   "lastmod": "2026-08-26"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-06",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 2.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:the-devils-fayre",
+    "source_url": "https://www.voodoobelfast.com/events/the-devils-fayre",
+    "start_time": "13:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [],
+    "title": "The Devils Fayre",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/the-devils-fayre--": {
    "event": null,
@@ -2609,8 +2889,39 @@
    "lastmod": "2026-09-30"
   },
   "https://www.voodoobelfast.com/events/velvet-moon": {
-   "event": null,
-   "lastmod": "2026-09-09"
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-11",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:velvet-moon",
+    "source_url": "https://www.voodoobelfast.com/events/velvet-moon",
+    "start_time": "22:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Velvet-Moon/43231572/"
+     ]
+    ],
+    "title": "Velvet Moon",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/vnvnation": {
    "event": null,
@@ -2619,6 +2930,41 @@
   "https://www.voodoobelfast.com/events/war-corpse": {
    "event": null,
    "lastmod": "2026-01-21"
+  },
+  "https://www.voodoobelfast.com/events/waylander": {
+   "event": {
+    "address": null,
+    "age_restriction": null,
+    "attraction_key": null,
+    "backfill": false,
+    "categories": [],
+    "date": "2026-12-12",
+    "doors_time": null,
+    "end_date": null,
+    "free": false,
+    "headliner": null,
+    "is_music_hint": null,
+    "lat": null,
+    "lng": null,
+    "price_max": null,
+    "price_min": 10.0,
+    "room": null,
+    "source": "voodoo",
+    "source_key": "voodoo:waylander",
+    "source_url": "https://www.voodoobelfast.com/events/waylander",
+    "start_time": "19:00",
+    "status": "on_sale",
+    "support": [],
+    "tickets": [
+     [
+      "Skiddle",
+      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Waylander-Mac-Tre---Son-Of-The-Land-album-launch-show/43117803/"
+     ]
+    ],
+    "title": "Waylander",
+    "venue_name": "Voodoo"
+   },
+   "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/wealthy-women": {
    "event": null,

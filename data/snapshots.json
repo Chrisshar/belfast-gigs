@@ -606,6 +606,34 @@
   "title": "Jacek Stachursky",
   "venue": "mandela-hall"
  },
+ "072fe128-2b48-4e07-bd00-2cc0c1986ecf": {
+  "age_restriction": null,
+  "date": "2026-12-10",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic"
+  ],
+  "headliner": "Nxbodies",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 7.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:nxbodies",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/nxbodies"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": null,
+  "title": "Nxbodies",
+  "venue": "voodoo"
+ },
  "074d3ac3-fbaf-4dd5-8bef-246cd37ff5de": {
   "age_restriction": null,
   "date": "2026-11-29",
@@ -2390,7 +2418,7 @@
     "url": "https://www.ticketmaster.ie/artist/771959?venueId=460577"
    }
   ],
-  "title": "The Summer Series 2027 - Slash",
+  "title": "Summer Series - Slash",
   "venue": "custom-house-square"
  },
  "22b323df-09aa-44a0-8ee5-a225fff63a1a": {
@@ -2703,6 +2731,40 @@
   ],
   "title": "Linkin Cork!",
   "venue": "voodoo"
+ },
+ "27521b9a-ba78-49f5-b07e-353fe93dad55": {
+  "age_restriction": null,
+  "date": "2027-06-18",
+  "doors_time": "18:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Jamie Fielding",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "limelight:11989",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5722925?venueId=460577&did=prompre"
+   }
+  ],
+  "title": "Summer Series - Jamie Fielding [EXTRA DATE]",
+  "venue": "custom-house-square"
  },
  "2822891c-3677-4ed0-9409-ce79ac8606de": {
   "age_restriction": null,
@@ -3935,6 +3997,40 @@
   ],
   "title": "Takers and Users Last Stand",
   "venue": "oh-yeah"
+ },
+ "40fdbe65-9555-476c-a6f9-40fac3d69461": {
+  "age_restriction": null,
+  "date": "2026-12-04",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter",
+   "Pop"
+  ],
+  "headliner": "Ethan Regan",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 20.25,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:ethan-regan",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/ethan-regan"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/ethan-regan-04-12-2026/event/380064BBDC812912"
+   }
+  ],
+  "title": "Ethan Regan",
+  "venue": "voodoo"
  },
  "416083dd-312d-4920-be07-dad0e6a55771": {
   "age_restriction": null,
@@ -6038,9 +6134,13 @@
    {
     "source": "signup.shine.net",
     "url": "https://signup.shine.net/PRESALE-OLLY-MURS"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/olly-murs-belfast-02-07-2027/event/3800656D7CF60E4E"
    }
   ],
-  "title": "The Summer Series 2027 - Olly Murs",
+  "title": "Summer Series - Olly Murs",
   "venue": "custom-house-square"
  },
  "5f8f2200-0384-44c3-b972-46978c724ac8": {
@@ -6527,7 +6627,8 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop"
+   "Pop",
+   "Soul/R&B/Funk"
   ],
   "headliner": "ADÉLA",
   "needs_review": null,
@@ -6548,9 +6649,13 @@
    {
     "source": "signup.shine.net",
     "url": "https://signup.shine.net/PRESALE-ADELA"
+   },
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/adela-22-06-2027/event/38006572E4E222A2"
    }
   ],
-  "title": "The Summer Series 2027 - ADÉLA",
+  "title": "Summer Series - ADÉLA",
   "venue": "custom-house-square"
  },
  "6a5994a0-af67-49e8-a3c7-db1cdcac6375": {
@@ -6911,10 +7016,10 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Pop"
+   "Indie/Alternative"
   ],
-  "headliner": "The Summer Series 2027 - The 30+ Club",
-  "needs_review": true,
+  "headliner": "The 30+ Club",
+  "needs_review": null,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -6934,7 +7039,7 @@
     "url": "https://www.ticketmaster.ie/artist/5458418?venueId=460577"
    }
   ],
-  "title": "The Summer Series 2027 - The 30+ Club",
+  "title": "Summer Series - The 30+ Club",
   "venue": "custom-house-square"
  },
  "6e887ebf-1ffa-4c89-9049-0bb4ab093b61": {
@@ -7713,8 +7818,7 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Country/Americana",
-   "Rock"
+   "Country/Americana"
   ],
   "headliner": "Brad Paisley",
   "needs_review": null,
@@ -7737,7 +7841,7 @@
     "url": "https://signup.shine.net/PRESALE-BRAD-PAISLEY"
    }
   ],
-  "title": "The Summer Series 2027 - Brad Paisley",
+  "title": "Summer Series - Brad Paisley",
   "venue": "custom-house-square"
  },
  "81016c48-e3e5-4d1f-ab21-0a04014bf4a4": {
@@ -8386,6 +8490,39 @@
   "title": "The Jazz Room",
   "venue": "belfast-empire"
  },
+ "8c10524e-52ed-4807-99b9-7529c6ff33bf": {
+  "age_restriction": null,
+  "date": "2026-12-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Singer-Songwriter"
+  ],
+  "headliner": "Mark Hegan",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:mark-hegan",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/mark-hegan"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/mark-hegan-ep-launch-voodoo-belfast-tickets-1993932938093?aff=ebdsoporgprofile"
+   }
+  ],
+  "title": "Mark Hegan",
+  "venue": "voodoo"
+ },
  "8d216046-e91e-4b49-90ca-24a02b394662": {
   "age_restriction": null,
   "date": "2027-02-25",
@@ -8636,7 +8773,6 @@
   "free": null,
   "genres": [
    "Country/Americana",
-   "Pop",
    "Singer-Songwriter"
   ],
   "headliner": "Kacey Musgraves",
@@ -8664,7 +8800,7 @@
     "url": "https://www.ticketmaster.ie/artist/1668663?venueId=460577"
    }
   ],
-  "title": "The Summer Series 2027 - Kacey Musgraves",
+  "title": "Summer Series - Kacey Musgraves",
   "venue": "custom-house-square"
  },
  "930c2d9a-7433-48e6-a8de-c2f50b4add90": {
@@ -9792,6 +9928,40 @@
   "title": "Apes Of The State & Pigeon Pit",
   "venue": "oh-yeah"
  },
+ "a6df9d18-3c26-4232-8822-def591b97073": {
+  "age_restriction": null,
+  "date": "2027-01-09",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Pop",
+   "Electronic"
+  ],
+  "headliner": "Miabella",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:090127",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/090127"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/090127"
+   }
+  ],
+  "title": "Miabella: The Electric Age",
+  "venue": "oh-yeah"
+ },
  "a768e39d-5e96-47fb-a62e-8ee7b7862e0b": {
   "age_restriction": null,
   "date": "2027-04-18",
@@ -10081,7 +10251,7 @@
    }
   ],
   "start_time": null,
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -10987,11 +11157,11 @@
   "end_date": null,
   "free": null,
   "genres": [
-   "Contemporary/New Music",
-   "Rock"
+   "Tribute/Covers",
+   "Contemporary/New Music"
   ],
   "headliner": "Lush! Classical",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": null,
@@ -11011,7 +11181,7 @@
     "url": "https://signup.shine.net/PRESALE-LUSH-CLASSICAL"
    }
   ],
-  "title": "The Summer Series 2027 - Lush! Classical",
+  "title": "Summer Series - Lush! Classical",
   "venue": "custom-house-square"
  },
  "ba497f29-d8f9-4d20-93de-b330b28cab57": {
@@ -11107,7 +11277,7 @@
    }
   ],
   "start_time": null,
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -11115,7 +11285,7 @@
     "url": "https://drop.cobrand.com/d/SHINE/JamieFieldingCHS"
    }
   ],
-  "title": "The Summer Series 2027 - Jamie Fielding",
+  "title": "Summer Series - Jamie Fielding",
   "venue": "custom-house-square"
  },
  "bc32feb0-e98a-4a47-bcc6-2d3e90cf5e0f": {
@@ -12683,6 +12853,39 @@
   "title": "Marky Ramone's Blitzkrieg",
   "venue": "limelight"
  },
+ "d1a01950-37c8-465e-b61d-d6b68c5adb7f": {
+  "age_restriction": null,
+  "date": "2026-12-19",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock"
+  ],
+  "headliner": "Hex Appeal",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:hex-appeal",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/hex-appeal"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "TicketSource",
+    "url": "https://www.ticketsource.com/hex-appeal/hex-appeal-cabaret/2026-12-19/19:00/t-kdpeega"
+   }
+  ],
+  "title": "Hex Appeal",
+  "venue": "voodoo"
+ },
  "d260fb96-bd95-4894-8ee0-a0fe5ca25c20": {
   "age_restriction": "18+",
   "date": "2026-12-10",
@@ -13099,7 +13302,7 @@
     "url": "https://www.ticketmaster.ie/artist/5418252?venueId=460577"
    }
   ],
-  "title": "The Summer Series 2027 - Sam Barber",
+  "title": "Summer Series - Sam Barber",
   "venue": "custom-house-square"
  },
  "da2357a0-640f-4947-99d3-93582005c0ee": {
@@ -13286,6 +13489,43 @@
   ],
   "title": "CHSQ 2027 - Stiff Little Fingers",
   "venue": "custom-house-square"
+ },
+ "df9be19c-9766-4b19-b20a-b587a41b062c": {
+  "age_restriction": null,
+  "date": "2026-12-18",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Electronic",
+   "Indie/Alternative"
+  ],
+  "headliner": "Supervoid",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "ohyeah:181226",
+    "name": "ohyeah",
+    "url": "https://www.ohyeahbelfast.com/events/181226"
+   }
+  ],
+  "start_time": "19:30",
+  "status": "on_sale",
+  "support": [
+   "Winter",
+   "Quiet Neighbours"
+  ],
+  "tickets": [
+   {
+    "source": "Oh Yeah",
+    "url": "https://www.ohyeahbelfast.com/events/181226"
+   }
+  ],
+  "title": "Supervoid Live with Winter and Special Guests Quiet Neighbours",
+  "venue": "oh-yeah"
  },
  "e0918558-c711-4d4d-a9a1-14203c737c34": {
   "age_restriction": null,
@@ -13534,7 +13774,7 @@
    }
   ],
   "start_time": null,
-  "status": "on_sale",
+  "status": "sold_out",
   "support": null,
   "tickets": [
    {
@@ -13991,6 +14231,41 @@
   ],
   "title": "Raised on Rock",
   "venue": "belfast-empire"
+ },
+ "ec88e408-77fb-47fb-82c2-a72433203b0c": {
+  "age_restriction": null,
+  "date": "2026-12-12",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad",
+   "Metal",
+   "Rock"
+  ],
+  "headliner": "Waylander",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:waylander",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/waylander"
+   }
+  ],
+  "start_time": "19:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Waylander-Mac-Tre---Son-Of-The-Land-album-launch-show/43117803/"
+   }
+  ],
+  "title": "Waylander",
+  "venue": "voodoo"
  },
  "ec9ccd2f-f357-4ef3-add0-c79624da18f8": {
   "age_restriction": null,
@@ -15227,6 +15502,39 @@
   ],
   "title": "GUINNESS BLUES CAFE (Christmas Special) – HUMAN TOUCH (a tribute to Bruce Springsteen)",
   "venue": "deers-head"
+ },
+ "fa85ced5-6e99-4a67-b4b6-37394c3a7bb6": {
+  "age_restriction": null,
+  "date": "2026-12-11",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Indie/Alternative"
+  ],
+  "headliner": "Velvet Moon",
+  "needs_review": true,
+  "price_max": null,
+  "price_min": 10.0,
+  "room": null,
+  "sources": [
+   {
+    "key": "voodoo:velvet-moon",
+    "name": "voodoo",
+    "url": "https://www.voodoobelfast.com/events/velvet-moon"
+   }
+  ],
+  "start_time": "22:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Skiddle",
+    "url": "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Velvet-Moon/43231572/"
+   }
+  ],
+  "title": "Velvet Moon",
+  "venue": "voodoo"
  },
  "faeeb4b8-743a-4fc3-acc1-e8d32786bacb": {
   "age_restriction": "18+",
