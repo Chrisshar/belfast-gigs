@@ -15,7 +15,7 @@ sources:
   key: "empire:light-2"
   url: "https://www.thebelfastempire.com/music-hall/light-2/"
 first_seen: "2026-11-17T15:58:33Z"
-updated_at: "2026-11-25T17:11:06Z"
+updated_at: "2026-11-26T00:59:32Z"
 classification:
   is_music: true
   confidence: 0.9

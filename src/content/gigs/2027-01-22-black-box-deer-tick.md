@@ -20,7 +20,7 @@ sources:
   key: "blackbox:otl-deer-tick"
   url: "https://www.blackboxbelfast.com/event/otl-deer-tick/"
 first_seen: "2026-11-04T14:29:37Z"
-updated_at: "2026-11-25T17:11:06Z"
+updated_at: "2026-11-26T00:59:32Z"
 classification:
   is_music: true
   confidence: 0.9

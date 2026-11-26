@@ -3529,41 +3529,6 @@
   "title": "Bleech 9:3",
   "venue": "limelight"
  },
- "3bc3ebb5-b2a6-4f4d-9cc5-88c03afea4b8": {
-  "age_restriction": "18+",
-  "date": "2026-11-25",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal"
-  ],
-  "headliner": "Harakiri for the Sky",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11191",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Sunken"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/harakiri-for-the-sky-tickets/artist/5281601"
-   }
-  ],
-  "title": "Harakiri for the Sky",
-  "venue": "limelight"
- },
  "3be915a1-cfc6-4f54-bf86-5401f8a489c0": {
   "age_restriction": null,
   "date": "2027-01-21",
@@ -8454,40 +8419,6 @@
   "title": "Lansdowne",
   "venue": "voodoo"
  },
- "8d445589-30e6-423b-8a52-d8b5665b79d7": {
-  "age_restriction": "18+",
-  "date": "2026-11-25",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "Picture This",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "limelight:10911",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/picture-this-25-11-2026/event/380064967F790BD0"
-   }
-  ],
-  "title": "Picture This",
-  "venue": "telegraph-building"
- },
  "8df59fda-9439-4223-8d53-c375c5e2c936": {
   "age_restriction": "18+",
   "date": "2027-05-07",
@@ -8556,6 +8487,39 @@
   ],
   "title": "Curtis Stigers in Concert",
   "venue": "ulster-hall"
+ },
+ "8f43aab7-9f4c-485a-95b1-592a3ebabb58": {
+  "age_restriction": "18+",
+  "date": "2027-03-24",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Hip-Hop/Rap"
+  ],
+  "headliner": "Curtisy",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 2",
+  "sources": [
+   {
+    "key": "limelight:11982",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/5376104?venueId=461484"
+   }
+  ],
+  "title": "Curtisy",
+  "venue": "limelight"
  },
  "8fc153f5-493e-4f42-8576-030fd49438b0": {
   "age_restriction": null,
@@ -9213,40 +9177,6 @@
   "title": "Jeffrey Martin",
   "venue": "the-duncairn"
  },
- "9dd9725d-3126-4d07-b5b6-e0ecb794c83d": {
-  "age_restriction": null,
-  "date": "2026-11-25",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "The First Slip",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Green Room",
-  "sources": [
-   {
-    "key": "blackbox:the-first-slip-58",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/the-first-slip-58/"
-   }
-  ],
-  "start_time": "17:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/the-first-slip-58/"
-   }
-  ],
-  "title": "The First Slip",
-  "venue": "black-box"
- },
  "9e259da5-2c23-478a-83fd-2bfe4173bf77": {
   "age_restriction": null,
   "date": "2027-02-13",
@@ -9766,7 +9696,7 @@
    "Rock"
   ],
   "headliner": "PRONG",
-  "needs_review": null,
+  "needs_review": true,
   "price_max": null,
   "price_min": null,
   "room": "Limelight 2",
@@ -11460,6 +11390,39 @@
   "title": "Belsonic 2027 - Take That",
   "venue": "ormeau-park"
  },
+ "bef6e937-c261-4305-888f-4b7420c9e6ae": {
+  "age_restriction": null,
+  "date": "2027-01-31",
+  "doors_time": null,
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Folk/Trad"
+  ],
+  "headliner": "Lamond Gillespie & Eamonn Burke",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": null,
+  "sources": [
+   {
+    "key": "harrison:trad-at-the-harrison-presents-lamond-gillespie-eamonn-burke",
+    "name": "harrison",
+    "url": "https://www.chambersofdistinction.com/unified-calendar/trad-at-the-harrison-presents-lamond-gillespie-eamonn-burke"
+   }
+  ],
+  "start_time": "20:00",
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.co.uk/e/trad-at-the-harrison-presents-lamond-gillespie-eamonn-burke-tickets-2005447423228?aff=ebdsshwebmobile"
+   }
+  ],
+  "title": "Trad at the Harrison presents: Lamond Gillespie & Eamonn Burke",
+  "venue": "the-harrison"
+ },
  "bf6092df-4811-4d0a-a34b-beb80edcb4f2": {
   "age_restriction": null,
   "date": "2027-01-16",
@@ -12719,39 +12682,6 @@
   ],
   "title": "Marky Ramone's Blitzkrieg",
   "venue": "limelight"
- },
- "d162d276-c771-42d7-9ce7-134c379035c9": {
-  "age_restriction": null,
-  "date": "2026-11-25",
-  "doors_time": null,
-  "end_date": null,
-  "free": true,
-  "genres": [
-   "Electronic"
-  ],
-  "headliner": "Tenx9 – Disaster",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "blackbox:tenx9-disaster",
-    "name": "blackbox",
-    "url": "https://www.blackboxbelfast.com/event/tenx9-disaster/"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Black Box",
-    "url": "https://www.blackboxbelfast.com/event/tenx9-disaster/"
-   }
-  ],
-  "title": "Tenx9 – Disaster",
-  "venue": "black-box"
  },
  "d260fb96-bd95-4894-8ee0-a0fe5ca25c20": {
   "age_restriction": "18+",
@@ -14709,40 +14639,6 @@
   ],
   "title": "Romeopathy: Celebrating 10 Years of Riffs",
   "venue": "oh-yeah"
- },
- "f42305d2-e619-453b-a6f9-65f27193ab60": {
-  "age_restriction": null,
-  "date": "2026-11-25",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Country/Americana",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Drake Milligan",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:drake-milligan",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/drake-milligan/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/drake-milligan/"
-   }
-  ],
-  "title": "Drake Milligan",
-  "venue": "ulster-hall"
  },
  "f433097b-0cde-4399-952e-97fd9e539c32": {
   "age_restriction": null,
