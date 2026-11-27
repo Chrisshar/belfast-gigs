@@ -5,7 +5,7 @@ headliner: "Dirty Dc"
 venue: "belfast-empire"
 date: "2027-04-03"
 start_time: "19:30"
-price_min: 18
+price_min: 20
 status: "sold_out"
 genres:
 - "Tribute/Covers"
@@ -15,7 +15,7 @@ sources:
   key: "empire:dirty-dc-4"
   url: "https://www.thebelfastempire.com/music-hall/dirty-dc-4/"
 first_seen: "2026-11-20T15:26:02Z"
-updated_at: "2026-11-27T07:08:37Z"
+updated_at: "2026-11-27T16:37:57Z"
 classification:
   is_music: true
   confidence: 0.9

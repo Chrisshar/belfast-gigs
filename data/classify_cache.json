@@ -259,6 +259,15 @@
    "Indominus"
   ]
  },
+ "050ee6da28679879": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "OTL: ‘Glorious Monsters’ In Conversation: Martina Devlin & Paul McVeigh",
+  "is_music": false,
+  "last_seen": "2026-11-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "0531058aaf4405f1": {
   "confidence": 0.7,
   "genres": [
@@ -957,6 +966,15 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "13c329e4a865b059": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "New Year’s Eve Afternoon Comedy Double Bill (3.30PM SHOW)",
+  "is_music": false,
+  "last_seen": "2026-11-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "142b290cf3fcf62f": {
   "confidence": 0.8,
   "genres": [
@@ -1172,6 +1190,15 @@
   ],
   "headliner": "Jamie Fielding",
   "is_music": true,
+  "last_seen": "2026-11-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "18a28299e0447266": {
+  "confidence": 0.95,
+  "genres": [],
+  "headliner": "New Year’s Eve Afternoon Comedy Double Bill (12.30PM SHOW)",
+  "is_music": false,
   "last_seen": "2026-11-27",
   "model": "claude-haiku-5-5",
   "support": []
@@ -2471,6 +2498,18 @@
    "Pop"
   ],
   "headliner": "House of Fun",
+  "is_music": true,
+  "last_seen": "2026-11-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
+ "36412f89b9978752": {
+  "confidence": 0.6,
+  "genres": [
+   "Indie/Alternative",
+   "Pop"
+  ],
+  "headliner": "Paul Smith",
   "is_music": true,
   "last_seen": "2026-11-27",
   "model": "claude-haiku-5-5",
@@ -4741,6 +4780,18 @@
    "Overgrown"
   ]
  },
+ "7cc6227ea02ec62e": {
+  "confidence": 0.9,
+  "genres": [
+   "Jazz/Blues",
+   "Contemporary/New Music"
+  ],
+  "headliner": "Neil Cowley Trio",
+  "is_music": true,
+  "last_seen": "2026-11-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "7cc8faa2caecac84": {
   "confidence": 0.97,
   "genres": [
@@ -5158,6 +5209,18 @@
   "model": "claude-haiku-5-5",
   "support": []
  },
+ "84af121ba31043b4": {
+  "confidence": 0.9,
+  "genres": [
+   "Tribute/Covers",
+   "Rock"
+  ],
+  "headliner": "R.E.M. by Stipe",
+  "is_music": true,
+  "last_seen": "2026-11-27",
+  "model": "claude-haiku-5-5",
+  "support": []
+ },
  "84b4d6543b117bfc": {
   "confidence": 0.9,
   "genres": [
@@ -5279,7 +5342,7 @@
   ],
   "headliner": "PRONG",
   "is_music": true,
-  "last_seen": "2026-11-24",
+  "last_seen": "2026-11-27",
   "model": "claude-haiku-5-5",
   "support": []
  },

@@ -12,12 +12,14 @@ genres:
 tickets:
 - source: "signup.belsonic.com"
   url: "https://signup.belsonic.com/PRESALE-THE-CORRS"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/artist/781240?venueId=461698"
 sources:
 - name: "limelight"
   key: "limelight:11944"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-23T18:03:52Z"
-updated_at: "2026-11-23T18:03:52Z"
+updated_at: "2026-11-27T16:37:57Z"
 classification:
   is_music: true
   confidence: 0.97

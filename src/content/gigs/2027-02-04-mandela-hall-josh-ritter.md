@@ -6,7 +6,7 @@ venue: "mandela-hall"
 date: "2027-02-04"
 start_time: "19:00"
 price_min: 40
-status: "on_sale"
+status: "sold_out"
 age_restriction: "18+"
 genres:
 - "Singer-Songwriter"
@@ -25,7 +25,7 @@ sources:
   key: "mandelaweb:josh-ritter"
   url: "https://www.mandelahall.com/events/josh-ritter"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-27T07:08:37Z"
+updated_at: "2026-11-27T16:37:57Z"
 backfill: true
 classification:
   is_music: true

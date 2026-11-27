@@ -4,7 +4,7 @@ title: "Miabella: The Electric Age"
 headliner: "Miabella"
 venue: "oh-yeah"
 date: "2027-01-09"
-start_time: "19:00"
+start_time: "18:30"
 status: "on_sale"
 genres:
 - "Pop"
@@ -17,7 +17,7 @@ sources:
   key: "ohyeah:090127"
   url: "https://www.ohyeahbelfast.com/events/090127"
 first_seen: "2026-11-26T16:52:24Z"
-updated_at: "2026-11-26T16:52:24Z"
+updated_at: "2026-11-27T16:37:57Z"
 classification:
   is_music: true
   confidence: 0.9

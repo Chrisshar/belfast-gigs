@@ -8,7 +8,7 @@ support:
 venue: "limelight"
 room: "Limelight 1"
 date: "2026-12-10"
-doors_time: "19:00"
+doors_time: "18:00"
 status: "on_sale"
 age_restriction: "18+"
 genres:
@@ -22,7 +22,7 @@ sources:
   key: "limelight:11178"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-10-25T17:32:54Z"
-updated_at: "2026-11-11T14:19:19Z"
+updated_at: "2026-11-27T16:37:57Z"
 backfill: true
 classification:
   is_music: true

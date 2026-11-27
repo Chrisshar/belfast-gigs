@@ -11,12 +11,14 @@ genres:
 tickets:
 - source: "signup.shine.net"
   url: "https://signup.shine.net/PRESALE-BRAD-PAISLEY"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/artist/714837?venueId=460577"
 sources:
 - name: "limelight"
   key: "limelight:11967"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-24T17:41:24Z"
-updated_at: "2026-11-26T16:52:24Z"
+updated_at: "2026-11-27T16:37:57Z"
 classification:
   is_music: true
   confidence: 0.95

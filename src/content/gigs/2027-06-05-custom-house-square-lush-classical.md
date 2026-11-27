@@ -12,15 +12,16 @@ genres:
 tickets:
 - source: "signup.shine.net"
   url: "https://signup.shine.net/PRESALE-LUSH-CLASSICAL"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/artist/5215689?venueId=460577"
 sources:
 - name: "limelight"
   key: "limelight:11961"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-24T17:41:24Z"
-updated_at: "2026-11-26T16:52:24Z"
+updated_at: "2026-11-27T16:37:57Z"
 classification:
   is_music: true
-  confidence: 0.6
+  confidence: 0.9
   method: "llm"
-needs_review: true
 ---

@@ -17,12 +17,14 @@ genres:
 tickets:
 - source: "signup.belsonic.com"
   url: "https://signup.belsonic.com/slf-presale"
+- source: "Ticketmaster"
+  url: "https://www.ticketmaster.ie/artist/921761?venueId=460577"
 sources:
 - name: "limelight"
   key: "limelight:11968"
   url: "https://www.limelightbelfast.com/"
 first_seen: "2026-11-25T07:08:30Z"
-updated_at: "2026-11-25T07:08:30Z"
+updated_at: "2026-11-27T16:37:57Z"
 classification:
   is_music: true
   confidence: 0.98
