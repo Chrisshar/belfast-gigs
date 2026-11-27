@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "5886",
    "7465",
    "7620",
    "7692",
@@ -1470,38 +1469,7 @@
    "lastmod": "2026-08-26"
   },
   "https://www.voodoobelfast.com/events/back-to-event-the-voodoo-sessions-026": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-26",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 5.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:back-to-event-the-voodoo-sessions-026",
-    "source_url": "https://www.voodoobelfast.com/events/back-to-event-the-voodoo-sessions-026",
-    "start_time": "20:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Eventbrite",
-      "https://www.eventbrite.co.uk/e/the-voodoo-sessions-026-tickets-1999703540119?aff=oddtdtcreator"
-     ]
-    ],
-    "title": "The Voodoo Sessions 026",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-09-03"
   },
   "https://www.voodoobelfast.com/events/bitter-pill": {
@@ -1556,38 +1524,7 @@
    "lastmod": "2026-03-24"
   },
   "https://www.voodoobelfast.com/events/blitz-club": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-26",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:blitz-club",
-    "source_url": "https://www.voodoobelfast.com/events/blitz-club",
-    "start_time": "22:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Skiddle",
-      "https://www.skiddle.com/whats-on/Belfast/Voodoo-Belfast/Blitz-Club--All-Out-80s/43220093/"
-     ]
-    ],
-    "title": "Blitz Club",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-11-26"
   },
   "https://www.voodoobelfast.com/events/bloodsport": {
@@ -1696,10 +1633,6 @@
   "https://www.voodoobelfast.com/events/dying-wish": {
    "event": null,
    "lastmod": "2026-04-21"
-  },
-  "https://www.voodoobelfast.com/events/earthtone9": {
-   "event": null,
-   "lastmod": "2025-11-26"
   },
   "https://www.voodoobelfast.com/events/el-toro": {
    "event": null,
@@ -2446,10 +2379,6 @@
     "venue_name": "Voodoo"
    },
    "lastmod": "2026-11-26"
-  },
-  "https://www.voodoobelfast.com/events/nye-emo-gala": {
-   "event": null,
-   "lastmod": "2025-11-26"
   },
   "https://www.voodoobelfast.com/events/pain-program": {
    "event": null,

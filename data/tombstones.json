@@ -20,17 +20,6 @@
   "reason": "deleted"
  },
  {
-  "id": "3d57be6f-cba6-484e-808e-6c0969e1d357",
-  "keys": [
-   "voodoo:back-to-event-the-voodoo-sessions-026"
-  ],
-  "fingerprint": "voodoo|2026-11-26|voodoo sessions 026",
-  "date": "2026-11-26",
-  "first_seen": "2026-10-26T13:13:29Z",
-  "backfill": true,
-  "reason": "reclassified"
- },
- {
   "id": "1c5239f6-f629-4560-9d44-818e46021a94",
   "keys": [
    "ohyeah:140527"

@@ -2314,40 +2314,6 @@
   "title": "Sounds of Ni",
   "venue": "belfast-empire"
  },
- "21984ab2-5e79-424b-8c32-64ae7cab5c98": {
-  "age_restriction": null,
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Folk/Trad",
-   "World"
-  ],
-  "headliner": "Malojian",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "harrison:malojian",
-    "name": "harrison",
-    "url": "https://www.chambersofdistinction.com/unified-calendar/malojian"
-   }
-  ],
-  "start_time": "20:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.sg/e/malojian-tickets-2001659818400"
-   }
-  ],
-  "title": "Malojian",
-  "venue": "the-harrison"
- },
  "229dd130-1a48-4882-bc63-810fa11b4712": {
   "age_restriction": null,
   "date": "2026-12-08",
@@ -4103,42 +4069,6 @@
   "title": "Chris de Burgh",
   "venue": "waterfront-hall"
  },
- "417b84d1-7985-43b3-a4ca-f72c05a02e21": {
-  "age_restriction": "18+",
-  "date": "2026-11-26",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Metal"
-  ],
-  "headliner": "Eagles of Death Metal",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:10761",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Yächtley Crëw"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/eagles-of-death-metal-belfast-26-11-2026/event/38006477CFD4186B"
-   }
-  ],
-  "title": "Eagles of Death Metal",
-  "venue": "limelight"
- },
  "420d5838-3d58-40e3-af97-42d91cbf96fc": {
   "age_restriction": "18+",
   "date": "2026-12-17",
@@ -4546,40 +4476,6 @@
   ],
   "title": "Stop Making Sense Live",
   "venue": "limelight"
- },
- "482ca376-f442-4a46-a1ec-080410f17b25": {
-  "age_restriction": "18+",
-  "date": "2026-11-26",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "Picture This",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "limelight:10929",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "sold_out",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/picture-this-26-11-2026/event/380064967F7B0BD2"
-   }
-  ],
-  "title": "Picture This",
-  "venue": "telegraph-building"
  },
  "48d0f388-07ed-4e08-87d2-ffa76f804747": {
   "age_restriction": null,
@@ -6904,40 +6800,6 @@
   ],
   "title": "Bell X1",
   "venue": "mandela-hall"
- },
- "6bcee741-0ea7-43b1-a4ca-e50e50b0e709": {
-  "age_restriction": null,
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "World",
-   "Singer-Songwriter"
-  ],
-  "headliner": "Birsen Tezer",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ohyeah:birsen-tezer",
-    "name": "ohyeah",
-    "url": "https://www.ohyeahbelfast.com/events/birsen-tezer"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Oh Yeah",
-    "url": "https://www.ohyeahbelfast.com/events/birsen-tezer"
-   }
-  ],
-  "title": "Birsen Tezer",
-  "venue": "oh-yeah"
  },
  "6c77faec-c013-4c48-802b-94eb951d57b7": {
   "age_restriction": null,
@@ -9415,40 +9277,6 @@
   ],
   "title": "B.Y.O.B - Tribute to System of a Down",
   "venue": "limelight"
- },
- "9ebf9f6c-7234-43e1-9872-0b9295124ba3": {
-  "age_restriction": "18+",
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "The Belgian Blue",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "duncairn:belgian-blue",
-    "name": "duncairn",
-    "url": "https://www.theduncairn.com/events/belgian-blue"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketsolve",
-    "url": "https://theduncairn.ticketsolve.com/ticketbooth/shows/1173695409"
-   }
-  ],
-  "title": "The Belgian Blue",
-  "venue": "the-duncairn"
  },
  "9ec215ec-4042-4e61-a91a-2839b0c743b6": {
   "age_restriction": null,
@@ -13785,39 +13613,6 @@
   "title": "Amble",
   "venue": "ulster-hall"
  },
- "e417acd3-1171-4918-9d7e-8b0d31335efc": {
-  "age_restriction": null,
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Contemporary/New Music"
-  ],
-  "headliner": "BBC Radio 3 Concert",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "ulsterhall:dialogue-and-drama",
-    "name": "ulsterhall",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/dialogue-and-drama/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Box office",
-    "url": "https://www.ulsterhall.co.uk/what-s-on/dialogue-and-drama/"
-   }
-  ],
-  "title": "BBC Radio 3 Concert",
-  "venue": "ulster-hall"
- },
  "e59d10fc-e481-4d4a-80cc-7ddabd995b84": {
   "age_restriction": "18+",
   "date": "2027-02-19",
@@ -14397,41 +14192,6 @@
   "title": "Foster and Allen",
   "venue": "ulster-hall"
  },
- "eea00633-312a-4e1a-973e-ed602ded146a": {
-  "age_restriction": "18+",
-  "date": "2026-11-26",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock"
-  ],
-  "headliner": "FM",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10495",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": [
-   "Divides Unfold"
-  ],
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/740901?venueId=461484"
-   }
-  ],
-  "title": "FM",
-  "venue": "limelight"
- },
  "eeb7c3a4-320d-47cc-a5c1-3de30c22d6e5": {
   "age_restriction": null,
   "date": "2026-12-17",
@@ -14711,35 +14471,6 @@
   "title": "Two Door Cinema Club",
   "venue": "the-o2-belfast"
  },
- "f145f330-758a-4e85-87e0-11a3fa07c4fa": {
-  "age_restriction": null,
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Indie/Alternative",
-   "Pop"
-  ],
-  "headliner": "Gifted: Foreign Mornings",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:gifted-broncos",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/gifted-broncos/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": null,
-  "title": "Gifted: Foreign Mornings",
-  "venue": "belfast-empire"
- },
  "f196b2d3-0f21-40c5-a48d-8e663c77783e": {
   "age_restriction": null,
   "date": "2027-03-07",
@@ -14948,39 +14679,6 @@
   ],
   "title": "Carsie Blanton",
   "venue": "belfast-empire"
- },
- "f45d426f-e2db-4989-b256-2269b8bae592": {
-  "age_restriction": null,
-  "date": "2026-11-26",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Adult DVD",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "usc:event_xsYt8VASh5qfUJrmejkXK",
-    "name": "usc"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/adult-dvd-tickets-1990871404965"
-   }
-  ],
-  "title": "Adult DVD",
-  "venue": "ulster-sports-club"
  },
  "f47fa50a-74e2-4ff9-9cb2-81cde1ea16d2": {
   "age_restriction": null,

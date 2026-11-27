@@ -18,7 +18,7 @@ sources:
   key: "voodoo:stripknot"
   url: "https://www.voodoobelfast.com/events/stripknot"
 first_seen: "2026-10-26T16:14:13Z"
-updated_at: "2026-11-26T16:52:24Z"
+updated_at: "2026-11-27T01:00:29Z"
 backfill: true
 classification:
   is_music: true

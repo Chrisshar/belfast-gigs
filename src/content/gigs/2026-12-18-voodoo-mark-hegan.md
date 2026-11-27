@@ -17,7 +17,7 @@ sources:
   key: "voodoo:mark-hegan"
   url: "https://www.voodoobelfast.com/events/mark-hegan"
 first_seen: "2026-11-26T16:52:24Z"
-updated_at: "2026-11-26T16:52:24Z"
+updated_at: "2026-11-27T01:00:29Z"
 classification:
   is_music: true
   confidence: 0.4

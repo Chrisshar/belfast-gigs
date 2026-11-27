@@ -25,7 +25,7 @@ sources:
   key: "mandelaweb:josh-ritter"
   url: "https://www.mandelahall.com/events/josh-ritter"
 first_seen: "2026-10-26T13:13:29Z"
-updated_at: "2026-11-26T16:52:24Z"
+updated_at: "2026-11-27T01:00:29Z"
 backfill: true
 classification:
   is_music: true
