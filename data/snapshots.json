@@ -9649,40 +9649,6 @@
   "title": "Holly Humberstone",
   "venue": "limelight"
  },
- "a60389cd-005c-4778-a51f-67fe13ea878b": {
-  "age_restriction": "18+",
-  "date": "2027-08-27",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Metal",
-   "Rock"
-  ],
-  "headliner": "PRONG",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:11941",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/artist/821007?venueId=461484"
-   }
-  ],
-  "title": "PRONG",
-  "venue": "limelight"
- },
  "a69f6146-1d13-4c6a-8d4e-090023ce1dd8": {
   "age_restriction": "18+",
   "date": "2026-12-19",

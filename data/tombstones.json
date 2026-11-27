@@ -148,5 +148,16 @@
   "first_seen": "2026-10-26T16:14:13Z",
   "backfill": true,
   "reason": "vanished"
+ },
+ {
+  "id": "a60389cd-005c-4778-a51f-67fe13ea878b",
+  "keys": [
+   "limelight:11941"
+  ],
+  "fingerprint": "limelight|2027-08-27|prong",
+  "date": "2027-08-27",
+  "first_seen": "2026-11-23T18:03:52Z",
+  "backfill": false,
+  "reason": "vanished"
  }
 ]

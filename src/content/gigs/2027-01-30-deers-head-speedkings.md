@@ -17,7 +17,7 @@ sources:
   key: "deershead:guinness-blues-cafe-speedkings"
   url: "https://www.thedeersheadbelfast.com/whats-on/guinness-blues-cafe-speedkings/"
 first_seen: "2026-11-20T15:26:02Z"
-updated_at: "2026-11-27T01:00:29Z"
+updated_at: "2026-11-27T07:08:37Z"
 classification:
   is_music: true
   confidence: 0.9

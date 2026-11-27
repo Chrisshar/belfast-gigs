@@ -15,7 +15,7 @@ sources:
   key: "empire:sounds-of-ni-4"
   url: "https://www.thebelfastempire.com/music-hall/sounds-of-ni-4/"
 first_seen: "2026-11-24T17:41:24Z"
-updated_at: "2026-11-27T01:00:29Z"
+updated_at: "2026-11-27T07:08:37Z"
 classification:
   is_music: true
   confidence: 0.9
