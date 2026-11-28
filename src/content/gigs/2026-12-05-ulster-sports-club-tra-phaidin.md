@@ -21,7 +21,7 @@ sources:
 - name: "usc"
   key: "usc:event_6CSk5uZMc4r9PJEMbt7yK"
 first_seen: "2026-11-03T14:10:57Z"
-updated_at: "2026-11-28T00:32:55Z"
+updated_at: "2026-11-28T07:08:33Z"
 classification:
   is_music: true
   confidence: 0.9

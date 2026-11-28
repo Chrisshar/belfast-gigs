@@ -18,7 +18,7 @@ sources:
   key: "voodoo:feckin-raging"
   url: "https://www.voodoobelfast.com/events/feckin-raging"
 first_seen: "2026-10-29T18:08:31Z"
-updated_at: "2026-11-28T00:32:55Z"
+updated_at: "2026-11-28T07:08:33Z"
 classification:
   is_music: true
   confidence: 0.85
