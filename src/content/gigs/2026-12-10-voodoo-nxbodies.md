@@ -14,7 +14,7 @@ sources:
   key: "voodoo:nxbodies"
   url: "https://www.voodoobelfast.com/events/nxbodies"
 first_seen: "2026-11-26T16:52:24Z"
-updated_at: "2026-11-27T16:37:57Z"
+updated_at: "2026-11-28T00:32:55Z"
 classification:
   is_music: true
   confidence: 0.35

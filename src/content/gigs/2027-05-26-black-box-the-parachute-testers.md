@@ -17,7 +17,7 @@ sources:
   key: "blackbox:the-parachute-testers"
   url: "https://www.blackboxbelfast.com/event/the-parachute-testers/"
 first_seen: "2026-11-23T18:03:52Z"
-updated_at: "2026-11-27T16:37:57Z"
+updated_at: "2026-11-28T00:32:55Z"
 classification:
   is_music: true
   confidence: 0.9

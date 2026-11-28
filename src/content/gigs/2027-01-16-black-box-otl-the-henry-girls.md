@@ -18,7 +18,7 @@ sources:
   key: "blackbox:otl-the-henry-girls-2"
   url: "https://www.blackboxbelfast.com/event/otl-the-henry-girls-2/"
 first_seen: "2026-11-17T15:58:33Z"
-updated_at: "2026-11-27T16:37:57Z"
+updated_at: "2026-11-28T00:32:55Z"
 classification:
   is_music: true
   confidence: 0.9

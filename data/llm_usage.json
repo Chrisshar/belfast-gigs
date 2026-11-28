@@ -6,9 +6,9 @@
   "output_tokens": 78579
  },
  "2026-11": {
-  "calls": 45,
-  "cost_usd": 0.017159,
-  "input_tokens": 90866,
-  "output_tokens": 16146
+  "calls": 46,
+  "cost_usd": 0.017363,
+  "input_tokens": 92549,
+  "output_tokens": 16218
  }
 }

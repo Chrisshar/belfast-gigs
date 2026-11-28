@@ -1,7 +1,6 @@
 {
  "empire": {
   "hidden_ids": [
-   "7465",
    "7620",
    "7692",
    "6391",
@@ -424,41 +423,6 @@
      ]
     ],
     "title": "Gareth",
-    "venue_name": "Mandela Hall"
-   },
-   "lastmod": "2026-11-11"
-  },
-  "https://www.mandelahall.com/events/gear%C3%B3id-farrelly": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-27",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 22.75,
-    "room": null,
-    "source": "mandelaweb",
-    "source_key": "mandelaweb:gear%C3%B3id-farrelly",
-    "source_url": "https://www.mandelahall.com/events/gear%C3%B3id-farrelly",
-    "start_time": "19:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [
-     [
-      "Mandela Hall",
-      "https://www.mandelahall.com/events/gear%C3%B3id-farrelly"
-     ]
-    ],
-    "title": "Gearóid Farrelly",
     "venue_name": "Mandela Hall"
    },
    "lastmod": "2026-11-11"
@@ -1126,10 +1090,6 @@
     "title": "Ruby Wax",
     "venue_name": "Mandela Hall"
    },
-   "lastmod": "2026-11-11"
-  },
-  "https://www.mandelahall.com/events/star-wars-pub-quiz-2026": {
-   "event": null,
    "lastmod": "2026-11-11"
   },
   "https://www.mandelahall.com/events/stuart-mitchell-%26-friends": {
@@ -2473,33 +2433,7 @@
    "lastmod": "2026-08-26"
   },
   "https://www.voodoobelfast.com/events/shes-the-riot": {
-   "event": {
-    "address": null,
-    "age_restriction": null,
-    "attraction_key": null,
-    "backfill": false,
-    "categories": [],
-    "date": "2026-11-27",
-    "doors_time": null,
-    "end_date": null,
-    "free": false,
-    "headliner": null,
-    "is_music_hint": null,
-    "lat": null,
-    "lng": null,
-    "price_max": null,
-    "price_min": 10.0,
-    "room": null,
-    "source": "voodoo",
-    "source_key": "voodoo:shes-the-riot",
-    "source_url": "https://www.voodoobelfast.com/events/shes-the-riot",
-    "start_time": "22:00",
-    "status": "on_sale",
-    "support": [],
-    "tickets": [],
-    "title": "Shes the Riot",
-    "venue_name": "Voodoo"
-   },
+   "event": null,
    "lastmod": "2026-10-29"
   },
   "https://www.voodoobelfast.com/events/silence-me": {
@@ -2622,10 +2556,6 @@
   "https://www.voodoobelfast.com/events/summerween": {
    "event": null,
    "lastmod": "2026-05-28"
-  },
-  "https://www.voodoobelfast.com/events/the-clause": {
-   "event": null,
-   "lastmod": "2025-11-27"
   },
   "https://www.voodoobelfast.com/events/the-cosmic-dead": {
    "event": null,

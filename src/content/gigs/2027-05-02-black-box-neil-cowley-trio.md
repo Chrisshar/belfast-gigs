@@ -18,7 +18,7 @@ sources:
   key: "blackbox:cqaf-neil-cowley-trio"
   url: "https://www.blackboxbelfast.com/event/cqaf-neil-cowley-trio/"
 first_seen: "2026-11-27T16:37:57Z"
-updated_at: "2026-11-27T16:37:57Z"
+updated_at: "2026-11-28T00:32:55Z"
 classification:
   is_music: true
   confidence: 0.9

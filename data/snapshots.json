@@ -267,35 +267,6 @@
   "title": "OTL: Scottish Fish",
   "venue": "black-box"
  },
- "02b68116-ee62-402d-aa60-9caaf739e5ca": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Punk/Hardcore",
-   "Rock"
-  ],
-  "headliner": "Shes the Riot",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 10.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "voodoo:shes-the-riot",
-    "name": "voodoo",
-    "url": "https://www.voodoobelfast.com/events/shes-the-riot"
-   }
-  ],
-  "start_time": "22:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": null,
-  "title": "Shes the Riot",
-  "venue": "voodoo"
- },
  "02dfe210-6e20-430c-b02e-122a22620e2c": {
   "age_restriction": null,
   "date": "2027-06-18",
@@ -4481,40 +4452,6 @@
   "title": "SEVENDUST",
   "venue": "limelight"
  },
- "46bf80aa-fd89-4ea3-987d-d49652238a4b": {
-  "age_restriction": "18+",
-  "date": "2026-11-27",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Tribute/Covers",
-   "Rock"
-  ],
-  "headliner": "Stop Making Sense Live",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 1",
-  "sources": [
-   {
-    "key": "limelight:11396",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/stop-making-sense-live-belfast-27-11-2026/event/380064EABBF10F24"
-   }
-  ],
-  "title": "Stop Making Sense Live",
-  "venue": "limelight"
- },
  "48d0f388-07ed-4e08-87d2-ffa76f804747": {
   "age_restriction": null,
   "date": "2027-04-03",
@@ -5097,34 +5034,6 @@
   "title": "Guinness Blues Cafe – Dead Handsomes",
   "venue": "deers-head"
  },
- "4e53f2f0-a07d-427f-b9fb-30557a95df5c": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "World"
-  ],
-  "headliner": "Havana Nights Salsa-Ni",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:havana-nights-salsa-ni",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/havana-nights-salsa-ni/"
-   }
-  ],
-  "start_time": "21:00",
-  "status": "sold_out",
-  "support": null,
-  "tickets": null,
-  "title": "Havana Nights Salsa-Ni",
-  "venue": "belfast-empire"
- },
  "4e7934ba-f962-4e20-8801-61bc2aed35cc": {
   "age_restriction": "18+",
   "date": "2027-05-01",
@@ -5224,40 +5133,6 @@
   ],
   "title": "Cancer Fund For Children",
   "venue": "ulster-hall"
- },
- "527ae839-907f-48e7-8832-a5fa59d9f441": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Gearóid Farrelly",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 22.75,
-  "room": null,
-  "sources": [
-   {
-    "key": "mandelaweb:gear%C3%B3id-farrelly",
-    "name": "mandelaweb",
-    "url": "https://www.mandelahall.com/events/gear%C3%B3id-farrelly"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Mandela Hall",
-    "url": "https://www.mandelahall.com/events/gear%C3%B3id-farrelly"
-   }
-  ],
-  "title": "Gearóid Farrelly",
-  "venue": "mandela-hall"
  },
  "52e3f27b-9729-4df4-9ae6-8b5413c7f7e6": {
   "age_restriction": null,
@@ -5534,40 +5409,6 @@
   ],
   "title": "Blue Room Sessions: Ken Haddock & John McCullough",
   "venue": "the-harrison"
- },
- "5742bd85-259d-49cb-b78e-9a5dc3ce6684": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Metal"
-  ],
-  "headliner": "Tyketto",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 28.5,
-  "room": null,
-  "sources": [
-   {
-    "key": "empire:tyketto",
-    "name": "empire",
-    "url": "https://www.thebelfastempire.com/music-hall/tyketto/"
-   }
-  ],
-  "start_time": "19:00",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/tyketto-tickets-1983852504244"
-   }
-  ],
-  "title": "Tyketto",
-  "venue": "belfast-empire"
  },
  "5756ecb2-e179-4cb5-8e22-a4f1a845b12e": {
   "age_restriction": null,
@@ -7555,39 +7396,6 @@
   ],
   "title": "Kings of Lyon & The UK Strokes",
   "venue": "limelight"
- },
- "7c40596e-c09b-415f-a82e-5c3d54897be9": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Indie/Alternative"
-  ],
-  "headliner": "Wilt",
-  "needs_review": true,
-  "price_max": null,
-  "price_min": null,
-  "room": null,
-  "sources": [
-   {
-    "key": "usc:event_J3iARttDnQiECoM6Ccy85",
-    "name": "usc"
-   }
-  ],
-  "start_time": "18:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Eventbrite",
-    "url": "https://www.eventbrite.co.uk/e/wilt-tickets-1990495845657"
-   }
-  ],
-  "title": "Wilt",
-  "venue": "ulster-sports-club"
  },
  "7d409f47-2a75-4b28-9a9e-b5a55ae0ef2b": {
   "age_restriction": null,
@@ -9902,40 +9710,6 @@
   "title": "Miabella: The Electric Age",
   "venue": "oh-yeah"
  },
- "a7da323b-206a-4fc9-b8c1-4c1b3e2c1b7b": {
-  "age_restriction": "18+",
-  "date": "2026-11-27",
-  "doors_time": "19:00",
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Rock",
-   "Pop"
-  ],
-  "headliner": "Electric Six",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": null,
-  "room": "Limelight 2",
-  "sources": [
-   {
-    "key": "limelight:10498",
-    "name": "limelight",
-    "url": "https://www.limelightbelfast.com/"
-   }
-  ],
-  "start_time": null,
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Ticketmaster",
-    "url": "https://www.ticketmaster.ie/electric-six-belfast-27-11-2026/event/38006457861E13AA"
-   }
-  ],
-  "title": "Electric Six",
-  "venue": "limelight"
- },
  "a8fe124f-de30-4a9d-b8de-26e0ff148857": {
   "age_restriction": null,
   "date": "2026-12-01",
@@ -11535,40 +11309,6 @@
   ],
   "title": "OTL: The Henry Girls",
   "venue": "black-box"
- },
- "c05adec7-b74c-4f1f-a79d-d986a695a0a7": {
-  "age_restriction": null,
-  "date": "2026-11-27",
-  "doors_time": null,
-  "end_date": null,
-  "free": null,
-  "genres": [
-   "Singer-Songwriter",
-   "Folk/Trad"
-  ],
-  "headliner": "Briana Corrigan",
-  "needs_review": null,
-  "price_max": null,
-  "price_min": 30.0,
-  "room": null,
-  "sources": [
-   {
-    "key": "crescent:briana-corrigan",
-    "name": "crescent",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/briana-corrigan"
-   }
-  ],
-  "start_time": "19:30",
-  "status": "on_sale",
-  "support": null,
-  "tickets": [
-   {
-    "source": "Crescent Arts Centre",
-    "url": "https://www.crescentarts.org/events/music-and-drama/gig/briana-corrigan"
-   }
-  ],
-  "title": "Briana Corrigan",
-  "venue": "crescent-arts-centre"
  },
  "c11033c9-c42e-485f-b4ea-3562a9e92876": {
   "age_restriction": null,
@@ -13803,6 +13543,40 @@
   ],
   "title": "The Music of Aretha Franklin",
   "venue": "belfast-empire"
+ },
+ "e63e74aa-0a79-430a-a440-26856d292758": {
+  "age_restriction": "18+",
+  "date": "2027-06-16",
+  "doors_time": "19:00",
+  "end_date": null,
+  "free": null,
+  "genres": [
+   "Rock",
+   "Metal"
+  ],
+  "headliner": "Clutch",
+  "needs_review": null,
+  "price_max": null,
+  "price_min": null,
+  "room": "Limelight 1",
+  "sources": [
+   {
+    "key": "limelight:11999",
+    "name": "limelight",
+    "url": "https://www.limelightbelfast.com/"
+   }
+  ],
+  "start_time": null,
+  "status": "on_sale",
+  "support": null,
+  "tickets": [
+   {
+    "source": "Ticketmaster",
+    "url": "https://www.ticketmaster.ie/artist/766902?venueId=459772"
+   }
+  ],
+  "title": "Clutch",
+  "venue": "limelight"
  },
  "e64ce910-1ed3-47a9-862f-c5062b656065": {
   "age_restriction": null,
